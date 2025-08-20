@@ -1,0 +1,42 @@
+# -----------------------------
+# Python artifacts
+# -----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Pytest cache
+.pytest_cache/
+
+# mypy cache
+.mypy_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# -----------------------------
+# Data folders to ignore
+# -----------------------------
+# Non-open-access meta-analysis and study data
+data/meta-studies/ace/
+data/studies/ace/
+
+# Optional: ignore temporary or local data you may create
+*.sqlite
+*.db
+*.log

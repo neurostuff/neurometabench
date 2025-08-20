@@ -1,0 +1,12 @@
+(a) ALE,(a) ALE,(a) ALE,(b) rsFC,(b) rsFC,(b) rsFC,(c) MACM,(c) MACM,(c) MACM
+Rank,Term,Weight,Rank,Term,Weight,Rank,Term,Weight
+1,Visual,1.886,1,Default,11.234,1,Visual,5900.643
+2,Emotional,0.919,2,Default mode network,9.225,2,Motor,3839.578
+3,Memory,0.845,3,Intrinsic,7.494,3,Emotional,3665.765
+4,Novel,0.616,4,Scale,6.236,4,Memory,3476.688
+5,Reward,0.576,5,Self,5.081,5,Attention,2931.357
+6,Motor,0.521,6,Person,4.977,6,Auditory,2267.84
+7,Self,0.509,7,Reward,4.78,7,Reward,2107.441
+8,Faces,0.472,8,Bias,4.568,8,Spatial,2072.742
+9,Learning,0.467,9,Judgements,4.279,9,Schizophrenia,2070.157
+10,Face,0.45,10,Contexts,4.271,10,Language,2057.731

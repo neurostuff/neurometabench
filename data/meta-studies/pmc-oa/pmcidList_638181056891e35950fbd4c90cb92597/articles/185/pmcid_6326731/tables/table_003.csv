@@ -1,0 +1,12 @@
+MAG 1,MAG 1,MAG 2,MAG 2,MAG 3,MAG 3,MAG 4,MAG 4,MAG 5,MAG 5,MAG 6,MAG 6
+NS term,corr.,NS term,corr.,NS term,corr.,NS term,corr.,NS term,corr.,NS term,corr.
+Motion,0.555,comprehension,0.417,neutral,0.446,navigation,0.324,sounds,0.74,visual,0.431
+Body,0.451,sentence,0.408,fearful,0.437,Scenes,0.316,auditory,0.732,spatial,0.414
+Static,0.441,language,0.375,facial,0.435,episodic,0.294,listening,0.711,attention,0.342
+Moving,0.415,semantic,0.351,emotion,0.434,virtual,0.278,acoustic,0.675,eye movements,0.3
+Viewed,0.406,linguistic,0.336,expressions,0.431,memory,0.276,speech,0.669,execution,0.299
+Visual,0.403,theory mind,0.318,happy,0.404,retrieval,0.27,music,0.625,task,0.286
+Visual motion,0.381,mental state,0.309,angry,0.401,episodic memory,0.258,pitch,0.612,visuospatial,0.279
+Videos,0.36,mind,0.306,affective,0.397,place,0.208,spoken,0.59,movements,0.274
+Perception,0.359,mentalizing,0.304,facial expressions,0.395,autobiographical,0.201,tones,0.572,spatial attention,0.256
+Observation,0.35,language comprehension,0.289,neutral faces,0.385,remembering,0.201,voice,0.568,hand,0.25

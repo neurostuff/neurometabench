@@ -1,0 +1,14 @@
+Cluster,Region,Region.1,Volume,X,Y,Z
+Nonsmokers > smokers,Nonsmokers > smokers,Nonsmokers > smokers,Nonsmokers > smokers,Nonsmokers > smokers,Nonsmokers > smokers,Nonsmokers > smokers
+1,Thalamus (lateral posterior nucleus),R,592,16,−22,14
+2,dmPFC (BA 6) (superior frontal gyrus),R,576,16,24,52
+3,vmPFC (BA10) (superior frontal gyrus),L,568,−8,56,−4
+4,vlPFC (BA 10) (middle frontal gyrus),R,480,32,46,4
+5,dmPFC (BA 8) (medial frontal gyrus),R,480,10,40,36
+6,Parahippocampal gyrus,L,432,−20,−34,0
+7,mPFC (BA10) (medial frontal gyrus),R,416,12,58,8
+8,Medial OFC (BA 11),B,384,2,34,−20
+9,mPFC (BA10) (medial frontal gyrus),L,376,−14,58,8
+10,Cerebellum (dentate),R,368,14,−58,−20
+11,Insula (BA 13),L,368,−40,8,10
+12,Thalamus (medial dorsal nucleus),B,360,2,−18,4

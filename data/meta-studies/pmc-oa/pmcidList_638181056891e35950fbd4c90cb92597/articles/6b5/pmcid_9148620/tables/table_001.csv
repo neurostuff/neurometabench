@@ -1,0 +1,7 @@
+Comparison,Modality,Region,Number of voxels,"MNI coordinates (X, Y, Z)"
+bvFTD<HC,VBM,The amygdala and hippocampus,304,"24, −6, −14"
+,,Paracingulate gyrus and frontal medial cortex,203,"0, 36, −10"
+,,AIC and frontal orbital cortex,100,"−32, 22, 4"
+bvFTD<HC,"FDG‐PET, rs‐fMRI, t‐fMRIa",Left caudate and accumbens,276,"−8, 10, 0"
+,,Paracingulate gyrus and ACC,296,"10, 34, 26"
+,,Rostral region of the ACC,156,"4, 14, 34"

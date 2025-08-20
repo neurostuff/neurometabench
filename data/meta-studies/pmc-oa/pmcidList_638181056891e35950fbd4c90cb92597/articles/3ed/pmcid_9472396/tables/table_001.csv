@@ -1,0 +1,22 @@
+rsFC results,rsFC results,rsFC results,rsFC results,MACM results,MACM results,MACM results,MACM results
+Anatomical label,x,y,z,Anatomical label,x,y,z
+"Anterior cingulate, BA 32",4,44,10,"Medial frontal gyrus, BA 10",− 2,50,6
+"L Inferior frontal gyrus, BA 47",− 30,14,− 16,"Superior frontal gyrus, BA 6",0,14,48
+"Cingulate gyrus, BA 24",2,− 18,36,"Medial frontal gyrus, BA 8",2,26,38
+"Anterior cingulate, BA 32",0,36,− 6,"Posterior cingulate, BA 31",− 4,− 54,26
+"Posterior cingulate, BA 31",8,− 52,24,"L extra-nuclear, BA 47",− 34,20,− 2
+"Cingulate gyrus, BA 31",− 8,− 54,26,"R extra-nuclear, BA 47",36,22,− 2
+Midbrain,0,− 20,− 20,"L angular gyrus, BA 39",− 46,− 68,30
+"Anterior cingulate, BA 24",4,28,16,"L superior parietal lobule, BA 7",− 30,− 62,46
+"R Inferior frontal gyrus, BA 47",30,16,− 16,"L inferior frontal gyrus, BA 9",− 46,10,28
+"Precuneus, BA 7",0,− 70,34,"R superior temporal gyrus, BA 39",52,− 60,26
+L caudate,− 4,12,− 2,"R inferior parietal lobule, BA 40",40,− 52,44
+"R angular gyrus, BA 39",52,− 64,36,L amygdala,− 22,− 8,− 16
+"L inferior parietal lobule, BA 39",− 50,− 64,40,R amygdala,24,− 6,− 16
+"Posterior cingulate, BA 30",− 6,− 54,10,"R inferior frontal gyrus, BA 9",46,10,28
+"L parahippocampal gyrus, BA 35",− 22,− 22,− 14,R caudate,12,10,2
+"L superior frontal gyrus, BA 8",− 22,34,46,L lentiform nucleus,− 12,8,− 2
+"Cingulate gyrus, BA 31",− 4,− 32,38,"L thalamus, medial dorsal nucleus",− 6,− 14,6
+R caudate,10,18,− 4,"R thalamus, medial dorsal nucleus",6,− 14,6
+"L superior frontal gyrus, BA 9",− 20,48,34,"L inferior parietal lobule, BA 40",− 42,− 44,44
+Cerebellar tonsil,6,− 50,− 36,"L inferior temporal gyrus, BA 21",− 56,− 10,− 16
