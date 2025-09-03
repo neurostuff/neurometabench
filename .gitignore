@@ -40,3 +40,5 @@ data/studies/ace/
 *.sqlite
 *.db
 *.log
+
+*.lock*
