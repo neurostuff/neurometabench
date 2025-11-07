@@ -10,8 +10,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "analysis_1",
-          "name": "analysis_1",
+          "id": "",
+          "name": "",
           "conditions": [
             {
               "name": "default",
@@ -24,11 +24,11 @@
           "images": [],
           "points": [
             {
-              "space": "TAL",
+              "space": "MNI",
               "coordinates": [
-                7.3379,
-                36.7947,
-                13.2924
+                8.883550366404835,
+                41.26086104810605,
+                7.193690956182062
               ]
             }
           ],
