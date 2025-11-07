@@ -1,0 +1,25 @@
+//Reference=Talairach
+//Corbo et al., 2005; HCs > PTSD		
+// Subjects=14		
+1	35	1
+9	1	34
+-8	-36	18
+10	-22	29
+-33	-29	3
+
+//Chen et al., 2009; TrauE > PTSD		
+// Subjects=12		
+-1	41	21
+-36	2	0
+34	4	6
+		
+//Li et al., 2006; TrauE > PTSD		
+// Subjects=12		
+-30	-15	-14
+-2	40	17
+6	2	0
+34	4	6
+				
+//Yamasue et al., 2003; TrauE > PTSD		
+// Subjects=9		
+-8	12	32

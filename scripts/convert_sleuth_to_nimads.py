@@ -19,6 +19,9 @@ import pandas as pd
 from difflib import SequenceMatcher
 import nimare.io
 
+# Suppress warnings
+import warnings
+warnings.filterwarnings("ignore", category=UserWarning)
 
 def normalize_folder_name(topic_name: str) -> str:
     """

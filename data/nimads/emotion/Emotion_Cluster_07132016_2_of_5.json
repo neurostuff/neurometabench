@@ -10,8 +10,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "analysis_1",
+          "name": "analysis_1",
           "conditions": [
             {
               "name": "default",

@@ -3,15 +3,15 @@
   "name": "Social - Affiliation-Merged",
   "studies": [
     {
-      "id": "Braams et al., 2014; Interaction effect Person x Outcome; affiliation",
-      "name": "Braams et al., 2014; Interaction effect Person x Outcome; affiliation",
+      "id": "Braams et al., 2014",
+      "name": "Braams et al., 2014",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Interaction effect Person x Outcome; affiliation",
+          "name": "Interaction effect Person x Outcome; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -77,19 +77,10 @@
               31
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Braams et al., 2014; Main effect of Person; affiliation",
-      "name": "Braams et al., 2014; Main effect of Person; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Main effect of Person; affiliation",
+          "name": "Main effect of Person; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -131,19 +122,10 @@
               31
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Braams et al., 2014; Main effect of outcome; affiliation",
-      "name": "Braams et al., 2014; Main effect of outcome; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Main effect of outcome; affiliation",
+          "name": "Main effect of outcome; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -205,15 +187,15 @@
       ]
     },
     {
-      "id": "Cacioppo et al., 2014; Negative correlation",
-      "name": "Cacioppo et al., 2014; Negative correlation",
+      "id": "Cacioppo et al., 2014",
+      "name": "Cacioppo et al., 2014",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "perception of syncrhony and feelings of social affiliation; affiliation",
-          "name": "perception of syncrhony and feelings of social affiliation; affiliation",
+          "id": "Negative correlation: perception of syncrhony and feelings of social affiliation; affiliation",
+          "name": "Negative correlation: perception of syncrhony and feelings of social affiliation; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -247,19 +229,10 @@
               16
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Cacioppo et al., 2014; Positive correlation",
-      "name": "Cacioppo et al., 2014; Positive correlation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "perception of syncrhony and feelings of social affiliation; affiliation",
-          "name": "perception of syncrhony and feelings of social affiliation; affiliation",
+          "id": "Positive correlation: perception of syncrhony and feelings of social affiliation; affiliation",
+          "name": "Positive correlation: perception of syncrhony and feelings of social affiliation; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -317,19 +290,10 @@
               16
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Cacioppo et al., 2014; Synchrony > asynchrony; affiliation",
-      "name": "Cacioppo et al., 2014; Synchrony > asynchrony; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Synchrony > asynchrony; affiliation",
+          "name": "Synchrony > asynchrony; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -375,15 +339,15 @@
       ]
     },
     {
-      "id": "Carter et al., 2008; Angry > Happy; affiliation",
-      "name": "Carter et al., 2008; Angry > Happy; affiliation",
+      "id": "Carter et al., 2008",
+      "name": "Carter et al., 2008",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Angry > Happy; affiliation",
+          "name": "Angry > Happy; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -505,19 +469,10 @@
               10
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Carter et al., 2008; Happy > Angry; affiliation",
-      "name": "Carter et al., 2008; Happy > Angry; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Happy > Angry; affiliation",
+          "name": "Happy > Angry; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -555,15 +510,15 @@
       ]
     },
     {
-      "id": "Chen et al., 2010; Gender > Preference; affiliation",
-      "name": "Chen et al., 2010; Gender > Preference; affiliation",
+      "id": "Chen et al., 2010",
+      "name": "Chen et al., 2010",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Gender > Preference; affiliation",
+          "name": "Gender > Preference; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -605,19 +560,10 @@
               21
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Chen et al., 2010; Preference > Gender; affiliation",
-      "name": "Chen et al., 2010; Preference > Gender; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Preference > Gender; affiliation",
+          "name": "Preference > Gender; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -751,15 +697,15 @@
       ]
     },
     {
-      "id": "Cheng et al., 2010;  loved one > self; affiliation",
-      "name": "Cheng et al., 2010;  loved one > self; affiliation",
+      "id": "Cheng et al., 2010",
+      "name": "Cheng et al., 2010",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "loved one > self; affiliation",
+          "name": "loved one > self; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -809,19 +755,10 @@
               36
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Cheng et al., 2010;  loved one > stranger; affiliation",
-      "name": "Cheng et al., 2010;  loved one > stranger; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "loved one > stranger; affiliation",
+          "name": "loved one > stranger; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -867,15 +804,15 @@
       ]
     },
     {
-      "id": "Cooper et al., 2013; Match > Unrequited; affiliation",
-      "name": "Cooper et al., 2013; Match > Unrequited; affiliation",
+      "id": "Cooper et al., 2013",
+      "name": "Cooper et al., 2013",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Match > Unrequited; affiliation",
+          "name": "Match > Unrequited; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -957,19 +894,10 @@
               38
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Cooper et al., 2013; Mismatched (Rejection + Unrequited) > matched (Match + Disinterest); affiliation",
-      "name": "Cooper et al., 2013; Mismatched (Rejection + Unrequited) > matched (Match + Disinterest); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Mismatched (Rejection + Unrequited) > matched (Match + Disinterest); affiliation",
+          "name": "Mismatched (Rejection + Unrequited) > matched (Match + Disinterest); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -1003,19 +931,10 @@
               38
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Cooper et al., 2013; Partners who were given a no > those given a yes; affiliation",
-      "name": "Cooper et al., 2013; Partners who were given a no > those given a yes; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Partners who were given a no > those given a yes; affiliation",
+          "name": "Partners who were given a no > those given a yes; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -1041,19 +960,10 @@
               38
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Cooper et al., 2013; Partners who were given a yes > those given a no; affiliation",
-      "name": "Cooper et al., 2013; Partners who were given a yes > those given a no; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Partners who were given a yes > those given a no; affiliation",
+          "name": "Partners who were given a yes > those given a no; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -1183,19 +1093,10 @@
               38
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Cooper et al., 2013; Rejection > Disinterest; affiliation",
-      "name": "Cooper et al., 2013; Rejection > Disinterest; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Rejection > Disinterest; affiliation",
+          "name": "Rejection > Disinterest; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -1221,19 +1122,10 @@
               38
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Cooper et al., 2013; Unsigned prediction errors from RL model; affiliation",
-      "name": "Cooper et al., 2013; Unsigned prediction errors from RL model; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Unsigned prediction errors from RL model; affiliation",
+          "name": "Unsigned prediction errors from RL model; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -1259,19 +1151,10 @@
               38
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Cooper et al., 2013; Yes (Match + Unrequited) > No (Rejection + Disinterest); affiliation",
-      "name": "Cooper et al., 2013; Yes (Match + Unrequited) > No (Rejection + Disinterest); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Yes (Match + Unrequited) > No (Rejection + Disinterest); affiliation",
+          "name": "Yes (Match + Unrequited) > No (Rejection + Disinterest); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -1397,15 +1280,15 @@
       ]
     },
     {
-      "id": "Decety et al., 2004; Competition versus cooperation; affiliation",
-      "name": "Decety et al., 2004; Competition versus cooperation; affiliation",
+      "id": "Decety et al., 2004",
+      "name": "Decety et al., 2004",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Competition versus cooperation; affiliation",
+          "name": "Competition versus cooperation; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -1463,19 +1346,10 @@
               12
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Decety et al., 2004; Competition versus independent; affiliation",
-      "name": "Decety et al., 2004; Competition versus independent; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Competition versus independent; affiliation",
+          "name": "Competition versus independent; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -1573,19 +1447,10 @@
               12
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Decety et al., 2004; Cooperation versus competition; affiliation",
-      "name": "Decety et al., 2004; Cooperation versus competition; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Cooperation versus competition; affiliation",
+          "name": "Cooperation versus competition; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -1675,19 +1540,10 @@
               12
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Decety et al., 2004; Cooperation versus independent; affiliation",
-      "name": "Decety et al., 2004; Cooperation versus independent; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Cooperation versus independent; affiliation",
+          "name": "Cooperation versus independent; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -1773,15 +1629,15 @@
       ]
     },
     {
-      "id": "Filkowski et al., 2015; Attitude > Age; affiliation",
-      "name": "Filkowski et al., 2015; Attitude > Age; affiliation",
+      "id": "Filkowski et al., 2015",
+      "name": "Filkowski et al., 2015",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Attitude > Age; affiliation",
+          "name": "Attitude > Age; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -1887,19 +1743,10 @@
               59
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Filkowski et al., 2015; Distrust > Age; affiliation",
-      "name": "Filkowski et al., 2015; Distrust > Age; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Distrust > Age; affiliation",
+          "name": "Distrust > Age; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -2005,19 +1852,10 @@
               59
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Filkowski et al., 2015; Trust > Age; affiliation",
-      "name": "Filkowski et al., 2015; Trust > Age; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Trust > Age; affiliation",
+          "name": "Trust > Age; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -2107,19 +1945,10 @@
               59
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Filkowski et al., 2015; Trust > Distrust; affiliation",
-      "name": "Filkowski et al., 2015; Trust > Distrust; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Trust > Distrust; affiliation",
+          "name": "Trust > Distrust; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -2149,15 +1978,15 @@
       ]
     },
     {
-      "id": "G\u00fcro\u011flu et al., 2008; (peer vs. celebrity) x (positive vs. non-positive); affiliation",
-      "name": "G\u00fcro\u011flu et al., 2008; (peer vs. celebrity) x (positive vs. non-positive); affiliation",
+      "id": "G\u00fcro\u011flu et al., 2008",
+      "name": "G\u00fcro\u011flu et al., 2008",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "(peer vs. celebrity) x (positive vs. non-positive); affiliation",
+          "name": "(peer vs. celebrity) x (positive vs. non-positive); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -2323,15 +2152,15 @@
       ]
     },
     {
-      "id": "Hughes et al., 2011; Close Other > Non-Close Other; affiliation",
-      "name": "Hughes et al., 2011; Close Other > Non-Close Other; affiliation",
+      "id": "Hughes et al., 2011",
+      "name": "Hughes et al., 2011",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Close Other > Non-Close Other; affiliation",
+          "name": "Close Other > Non-Close Other; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -2357,19 +2186,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Hughes et al., 2011; Negative > Positive; affiliation",
-      "name": "Hughes et al., 2011; Negative > Positive; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Negative > Positive; affiliation",
+          "name": "Negative > Positive; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -2395,19 +2215,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Hughes et al., 2011; Positive > Negative; affiliation",
-      "name": "Hughes et al., 2011; Positive > Negative; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Positive > Negative; affiliation",
+          "name": "Positive > Negative; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -2441,19 +2252,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Hughes et al., 2011; Target x Breadth; affiliation",
-      "name": "Hughes et al., 2011; Target x Breadth; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Target x Breadth; affiliation",
+          "name": "Target x Breadth; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -2499,15 +2301,15 @@
       ]
     },
     {
-      "id": "Kedia et al., 2013; Conjunction analyses of the beauty and height distance effects; affiliation",
-      "name": "Kedia et al., 2013; Conjunction analyses of the beauty and height distance effects; affiliation",
+      "id": "Kedia et al., 2013",
+      "name": "Kedia et al., 2013",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Conjunction analyses of the beauty and height distance effects; affiliation",
+          "name": "Conjunction analyses of the beauty and height distance effects; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -2557,19 +2359,10 @@
               25
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Kedia et al., 2013; Conjunction analyses of the women and dog distance effects; affiliation",
-      "name": "Kedia et al., 2013; Conjunction analyses of the women and dog distance effects; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Conjunction analyses of the women and dog distance effects; affiliation",
+          "name": "Conjunction analyses of the women and dog distance effects; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -2627,19 +2420,10 @@
               25
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Kedia et al., 2013; Distance effect in the beauty condition > height condition; affiliation",
-      "name": "Kedia et al., 2013; Distance effect in the beauty condition > height condition; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Distance effect in the beauty condition > height condition; affiliation",
+          "name": "Distance effect in the beauty condition > height condition; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -2729,19 +2513,10 @@
               25
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Kedia et al., 2013; Distance effect in the dog condition > women condition; affiliation",
-      "name": "Kedia et al., 2013; Distance effect in the dog condition > women condition; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Distance effect in the dog condition > women condition; affiliation",
+          "name": "Distance effect in the dog condition > women condition; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -2831,19 +2606,10 @@
               25
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Kedia et al., 2013; Distance effect in the height condition > beauty condition; affiliation",
-      "name": "Kedia et al., 2013; Distance effect in the height condition > beauty condition; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Distance effect in the height condition > beauty condition; affiliation",
+          "name": "Distance effect in the height condition > beauty condition; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -2933,19 +2699,10 @@
               25
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Kedia et al., 2013; Distance effect in the women condition > dog condition; affiliation",
-      "name": "Kedia et al., 2013; Distance effect in the women condition > dog condition; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Distance effect in the women condition > dog condition; affiliation",
+          "name": "Distance effect in the women condition > dog condition; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -3027,19 +2784,10 @@
               25
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Kedia et al., 2013; Main effect of judgment",
-      "name": "Kedia et al., 2013; Main effect of judgment",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "Beauty > height comparisons; affiliation",
-          "name": "Beauty > height comparisons; affiliation",
+          "id": "Main effect of judgment: Beauty > height comparisons; affiliation",
+          "name": "Main effect of judgment: Beauty > height comparisons; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -3075,8 +2823,8 @@
           }
         },
         {
-          "id": "Height > beauty comparisons; affiliation",
-          "name": "Height > beauty comparisons; affiliation",
+          "id": "Main effect of judgment: Height > beauty comparisons; affiliation",
+          "name": "Main effect of judgment: Height > beauty comparisons; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -3136,8 +2884,8 @@
           }
         },
         {
-          "id": "Height > control condition; affiliation",
-          "name": "Height > control condition; affiliation",
+          "id": "Main effect of judgment: Height > control condition; affiliation",
+          "name": "Main effect of judgment: Height > control condition; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -3179,19 +2927,10 @@
               25
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Kedia et al., 2013; Main effect of target",
-      "name": "Kedia et al., 2013; Main effect of target",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "Dogs > Women; affiliation",
-          "name": "Dogs > Women; affiliation",
+          "id": "Main effect of target: Dogs > Women; affiliation",
+          "name": "Main effect of target: Dogs > Women; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -3235,8 +2974,8 @@
           }
         },
         {
-          "id": "Women > dogs; affiliation",
-          "name": "Women > dogs; affiliation",
+          "id": "Main effect of target: Women > dogs; affiliation",
+          "name": "Main effect of target: Women > dogs; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -3298,15 +3037,15 @@
       ]
     },
     {
-      "id": "Koban et al., 2013; Conflict > No Conflict; affiliation",
-      "name": "Koban et al., 2013; Conflict > No Conflict; affiliation",
+      "id": "Koban et al., 2013",
+      "name": "Koban et al., 2013",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Conflict > No Conflict; affiliation",
+          "name": "Conflict > No Conflict; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -3484,19 +3223,10 @@
               17
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Koban et al., 2013; [Human (Conflict > No Conflict)] > [Computer (Conflict > No Conflict)]; affiliation",
-      "name": "Koban et al., 2013; [Human (Conflict > No Conflict)] > [Computer (Conflict > No Conflict)]; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "[Human (Conflict > No Conflict)] > [Computer (Conflict > No Conflict)]; affiliation",
+          "name": "[Human (Conflict > No Conflict)] > [Computer (Conflict > No Conflict)]; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -3538,19 +3268,10 @@
               17
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Koban et al., 2013; [Human (Conflict > No Conflict)] \\ [Computer (Conflict > No Conflict)]; affiliation",
-      "name": "Koban et al., 2013; [Human (Conflict > No Conflict)] \\ [Computer (Conflict > No Conflict)]; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "[Human (Conflict > No Conflict)] \\ [Computer (Conflict > No Conflict)]; affiliation",
+          "name": "[Human (Conflict > No Conflict)] \\ [Computer (Conflict > No Conflict)]; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -3612,15 +3333,15 @@
       ]
     },
     {
-      "id": "Kumar et al., 2009; Pavlovian > with social task; affiliation",
-      "name": "Kumar et al., 2009; Pavlovian > with social task; affiliation",
+      "id": "Kumar et al., 2009",
+      "name": "Kumar et al., 2009",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Pavlovian > with social task; affiliation",
+          "name": "Pavlovian > with social task; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -3682,99 +3403,15 @@
       ]
     },
     {
-      "id": "Labek et al., 2016;   interaction of attachment > neutral with dyadic > monadic; affiliation",
-      "name": "Labek et al., 2016;   interaction of attachment > neutral with dyadic > monadic; affiliation",
+      "id": "Labek et al., 2016",
+      "name": "Labek et al., 2016",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
-          "conditions": [
-            {
-              "name": "default",
-              "description": ""
-            }
-          ],
-          "weights": [
-            1.0
-          ],
-          "images": [],
-          "points": [
-            {
-              "space": "MNI",
-              "coordinates": [
-                -40.0,
-                -80.0,
-                -6.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                48.0,
-                -78.0,
-                6.0
-              ]
-            }
-          ],
-          "metadata": {
-            "sample_sizes": [
-              25
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "Labek et al., 2016;  interaction of dyadic scenes with attachment > neutral; affiliation",
-      "name": "Labek et al., 2016;  interaction of dyadic scenes with attachment > neutral; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
-        {
-          "id": "",
-          "name": "",
-          "conditions": [
-            {
-              "name": "default",
-              "description": ""
-            }
-          ],
-          "weights": [
-            1.0
-          ],
-          "images": [],
-          "points": [
-            {
-              "space": "MNI",
-              "coordinates": [
-                56.0,
-                -52.0,
-                34.0
-              ]
-            }
-          ],
-          "metadata": {
-            "sample_sizes": [
-              25
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "Labek et al., 2016; attachment > neutral; affiliation",
-      "name": "Labek et al., 2016; attachment > neutral; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
-        {
-          "id": "",
-          "name": "",
+          "id": "attachment > neutral; affiliation",
+          "name": "attachment > neutral; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -3816,19 +3453,138 @@
               25
             ]
           }
+        },
+        {
+          "id": "interaction of attachment > neutral with dyadic > monadic; affiliation",
+          "name": "interaction of attachment > neutral with dyadic > monadic; affiliation",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -40.0,
+                -80.0,
+                -6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                48.0,
+                -78.0,
+                6.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              25
+            ]
+          }
+        },
+        {
+          "id": "interaction of dyadic scenes with attachment > neutral; affiliation",
+          "name": "interaction of dyadic scenes with attachment > neutral; affiliation",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                56.0,
+                -52.0,
+                34.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              25
+            ]
+          }
         }
       ]
     },
     {
-      "id": "Lotze et al., 2006;  Retaliation interaction with low CU > High CU; affiliation",
-      "name": "Lotze et al., 2006;  Retaliation interaction with low CU > High CU; affiliation",
+      "id": "Lotze et al., 2006",
+      "name": "Lotze et al., 2006",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Retaliation > Watching opponent; affiliation",
+          "name": "Retaliation > Watching opponent; affiliation",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                9.0,
+                69.0,
+                15.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                18.0,
+                -84.0,
+                18.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -24.0,
+                -90.0,
+                6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                15.0,
+                66.0,
+                27.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              16
+            ]
+          }
+        },
+        {
+          "id": "Retaliation interaction with low CU > High CU; affiliation",
+          "name": "Retaliation interaction with low CU > High CU; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -3854,19 +3610,10 @@
               16
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Lotze et al., 2006; Retaliation > Watching opponent; affiliation",
-      "name": "Lotze et al., 2006; Retaliation > Watching opponent; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Watching opponent > Retaliation (conjunction); affiliation",
+          "name": "Watching opponent > Retaliation (conjunction); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -3881,65 +3628,11 @@
             {
               "space": "MNI",
               "coordinates": [
-                15.0,
-                66.0,
-                27.0
+                -18.0,
+                -6.0,
+                -15.0
               ]
             },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -24.0,
-                -90.0,
-                6.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                18.0,
-                -84.0,
-                18.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                9.0,
-                69.0,
-                15.0
-              ]
-            }
-          ],
-          "metadata": {
-            "sample_sizes": [
-              16
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "Lotze et al., 2006; Watching opponent > Retaliation (conjunction); affiliation",
-      "name": "Lotze et al., 2006; Watching opponent > Retaliation (conjunction); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
-        {
-          "id": "",
-          "name": "",
-          "conditions": [
-            {
-              "name": "default",
-              "description": ""
-            }
-          ],
-          "weights": [
-            1.0
-          ],
-          "images": [],
-          "points": [
             {
               "space": "MNI",
               "coordinates": [
@@ -3951,17 +3644,17 @@
             {
               "space": "MNI",
               "coordinates": [
-                -48.0,
-                -69.0,
-                6.0
+                15.0,
+                -96.0,
+                9.0
               ]
             },
             {
               "space": "MNI",
               "coordinates": [
-                -18.0,
-                -6.0,
-                -15.0
+                -48.0,
+                -69.0,
+                6.0
               ]
             },
             {
@@ -4007,14 +3700,6 @@
             {
               "space": "MNI",
               "coordinates": [
-                15.0,
-                -96.0,
-                9.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
                 27.0,
                 -24.0,
                 -18.0
@@ -4026,19 +3711,10 @@
               16
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Lotze et al., 2006; Watching opponent > Retaliation; affiliation",
-      "name": "Lotze et al., 2006; Watching opponent > Retaliation; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Watching opponent > Retaliation; affiliation",
+          "name": "Watching opponent > Retaliation; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -4212,15 +3888,15 @@
       ]
     },
     {
-      "id": "Luo et al., 2015; social exclusion > social inclusion; affiliation",
-      "name": "Luo et al., 2015; social exclusion > social inclusion; affiliation",
+      "id": "Luo et al., 2015",
+      "name": "Luo et al., 2015",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "social exclusion > social inclusion; affiliation",
+          "name": "social exclusion > social inclusion; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -4370,15 +4046,15 @@
       ]
     },
     {
-      "id": "Mattan et al., 2018; EMS (covariate) + IMS x Perceived status (High vs. Low) (negative correlation with status); affiliation",
-      "name": "Mattan et al., 2018; EMS (covariate) + IMS x Perceived status (High vs. Low) (negative correlation with status); affiliation",
+      "id": "Mattan et al., 2018",
+      "name": "Mattan et al., 2018",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "EMS (covariate) + IMS x Perceived status (High vs. Low) (negative correlation with status); affiliation",
+          "name": "EMS (covariate) + IMS x Perceived status (High vs. Low) (negative correlation with status); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -4484,19 +4160,10 @@
               60
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Mattan et al., 2018; IMS x Perceived status (High vs. Low) (negative correlation with status; excluded EMS covariate); affiliation",
-      "name": "Mattan et al., 2018; IMS x Perceived status (High vs. Low) (negative correlation with status; excluded EMS covariate); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "IMS x Perceived status (High vs. Low) (negative correlation with status; excluded EMS covariate); affiliation",
+          "name": "IMS x Perceived status (High vs. Low) (negative correlation with status; excluded EMS covariate); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -4622,15 +4289,15 @@
       ]
     },
     {
-      "id": "Miedl et al., 2016; Negative > neutral; affiliation",
-      "name": "Miedl et al., 2016; Negative > neutral; affiliation",
+      "id": "Miedl et al., 2016",
+      "name": "Miedl et al., 2016",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Negative > neutral; affiliation",
+          "name": "Negative > neutral; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -4824,19 +4491,10 @@
               37
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Miedl et al., 2016; positive > neutral and negative > neutral (conjunction analysis); affiliation",
-      "name": "Miedl et al., 2016; positive > neutral and negative > neutral (conjunction analysis); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "positive > neutral and negative > neutral (conjunction analysis); affiliation",
+          "name": "positive > neutral and negative > neutral (conjunction analysis); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -4894,19 +4552,10 @@
               37
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Miedl et al., 2016; positive > neutral; affiliation",
-      "name": "Miedl et al., 2016; positive > neutral; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "positive > neutral; affiliation",
+          "name": "positive > neutral; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -4968,15 +4617,15 @@
       ]
     },
     {
-      "id": "Moll et al., 2012; affiliative > nonaffiliative; affiliation",
-      "name": "Moll et al., 2012; affiliative > nonaffiliative; affiliation",
+      "id": "Moll et al., 2012",
+      "name": "Moll et al., 2012",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "affiliative > nonaffiliative; affiliation",
+          "name": "affiliative > nonaffiliative; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -5030,15 +4679,15 @@
       ]
     },
     {
-      "id": "Morese et al., 2019; appraisal support group > no support group (run 1 > run 2); affiliation",
-      "name": "Morese et al., 2019; appraisal support group > no support group (run 1 > run 2); affiliation",
+      "id": "Morese et al., 2019",
+      "name": "Morese et al., 2019",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "appraisal support group > no support group (run 1 > run 2); affiliation",
+          "name": "appraisal support group > no support group (run 1 > run 2); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -5072,19 +4721,10 @@
               71
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Morese et al., 2019; appraisal support group > no support group (run 2 > run 1); affiliation",
-      "name": "Morese et al., 2019; appraisal support group > no support group (run 2 > run 1); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "appraisal support group > no support group (run 2 > run 1); affiliation",
+          "name": "appraisal support group > no support group (run 2 > run 1); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -5118,19 +4758,10 @@
               71
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Morese et al., 2019; emotional support group > no support group (run 1 > run 2); affiliation",
-      "name": "Morese et al., 2019; emotional support group > no support group (run 1 > run 2); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "emotional support group > no support group (run 1 > run 2); affiliation",
+          "name": "emotional support group > no support group (run 1 > run 2); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -5160,15 +4791,15 @@
       ]
     },
     {
-      "id": "Quirin et al., 2012; affiliation > power; affiliation",
-      "name": "Quirin et al., 2012; affiliation > power; affiliation",
+      "id": "Quirin et al., 2012",
+      "name": "Quirin et al., 2012",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "affiliation > power; affiliation",
+          "name": "affiliation > power; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -5194,19 +4825,10 @@
               17
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Quirin et al., 2012; power > affiliation; affiliation",
-      "name": "Quirin et al., 2012; power > affiliation; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "power > affiliation; affiliation",
+          "name": "power > affiliation; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -5260,15 +4882,15 @@
       ]
     },
     {
-      "id": "Sugiura et al., 2010; First (P1\u2013F1); affiliation",
-      "name": "Sugiura et al., 2010; First (P1\u2013F1); affiliation",
+      "id": "Sugiura et al., 2010",
+      "name": "Sugiura et al., 2010",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "First (P1\u2013F1); affiliation",
+          "name": "First (P1\u2013F1); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -5558,19 +5180,10 @@
               24
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Sugiura et al., 2010; Second (P2\u2013F2); affiliation",
-      "name": "Sugiura et al., 2010; Second (P2\u2013F2); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Second (P2\u2013F2); affiliation",
+          "name": "Second (P2\u2013F2); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -5800,15 +5413,15 @@
       ]
     },
     {
-      "id": "Suslow et al., 2009; Coorelation -- attachment avoidance with brain responses to masked sad faces; affiliation",
-      "name": "Suslow et al., 2009; Coorelation -- attachment avoidance with brain responses to masked sad faces; affiliation",
+      "id": "Suslow et al., 2009",
+      "name": "Suslow et al., 2009",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Coorelation -- attachment avoidance with brain responses to masked sad faces; affiliation",
+          "name": "Coorelation -- attachment avoidance with brain responses to masked sad faces; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -5858,19 +5471,10 @@
               51
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Suslow et al., 2009; Masked sad faces > neutral faces; affiliation",
-      "name": "Suslow et al., 2009; Masked sad faces > neutral faces; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Masked sad faces > neutral faces; affiliation",
+          "name": "Masked sad faces > neutral faces; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -6080,19 +5684,10 @@
               51
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Suslow et al., 2009; Negative coorelation -- attachment avoidance with brain responsed to masked sad faces; affiliation",
-      "name": "Suslow et al., 2009; Negative coorelation -- attachment avoidance with brain responsed to masked sad faces; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Negative coorelation -- attachment avoidance with brain responsed to masked sad faces; affiliation",
+          "name": "Negative coorelation -- attachment avoidance with brain responsed to masked sad faces; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -6166,19 +5761,10 @@
               51
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Suslow et al., 2009; masked happy faces > neutral faces; affiliation",
-      "name": "Suslow et al., 2009; masked happy faces > neutral faces; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "masked happy faces > neutral faces; affiliation",
+          "name": "masked happy faces > neutral faces; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -6264,15 +5850,15 @@
       ]
     },
     {
-      "id": "Ueda et al., 2017; Incongruent > Congruent; affiliation",
-      "name": "Ueda et al., 2017; Incongruent > Congruent; affiliation",
+      "id": "Ueda et al., 2017",
+      "name": "Ueda et al., 2017",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Incongruent > Congruent; affiliation",
+          "name": "Incongruent > Congruent; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -6326,15 +5912,15 @@
       ]
     },
     {
-      "id": "Wagels et al., 2016; FG EX > FG IN; affiliation",
-      "name": "Wagels et al., 2016; FG EX > FG IN; affiliation",
+      "id": "Wagels et al., 2016",
+      "name": "Wagels et al., 2016",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "FG EX > FG IN; affiliation",
+          "name": "FG EX > FG IN; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -6496,19 +6082,10 @@
               40
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Wagels et al., 2016; FG EX > PG EX; affiliation",
-      "name": "Wagels et al., 2016; FG EX > PG EX; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "FG EX > PG EX; affiliation",
+          "name": "FG EX > PG EX; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -6542,19 +6119,10 @@
               40
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Wagels et al., 2016; PG EX > FG EX; affiliation",
-      "name": "Wagels et al., 2016; PG EX > FG EX; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "PG EX > FG EX; affiliation",
+          "name": "PG EX > FG EX; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -6716,19 +6284,10 @@
               40
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Wagels et al., 2016; PG EX > FG IN \u2229 FG EX > FG IN (Conjunction); affiliation",
-      "name": "Wagels et al., 2016; PG EX > FG IN \u2229 FG EX > FG IN (Conjunction); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "PG EX > FG IN \u2229 FG EX > FG IN (Conjunction); affiliation",
+          "name": "PG EX > FG IN \u2229 FG EX > FG IN (Conjunction); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -6834,19 +6393,10 @@
               40
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Wagels et al., 2016; PG EX > FG IN; affiliation",
-      "name": "Wagels et al., 2016; PG EX > FG IN; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "PG EX > FG IN; affiliation",
+          "name": "PG EX > FG IN; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -7076,15 +6626,15 @@
       ]
     },
     {
-      "id": "Wagner et al., 2015;  Shared_emo > unshared_emo (masked); affiliation with interaction sharing \udbff\udc00 emotion)\"",
-      "name": "Wagner et al., 2015;  Shared_emo > unshared_emo (masked); affiliation with interaction sharing \udbff\udc00 emotion)\"",
+      "id": "Wagner et al., 2015",
+      "name": "Wagner et al., 2015",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Shared_emo > unshared_emo (masked); affiliation with interaction sharing \udbff\udc00 emotion)\"",
+          "name": "Shared_emo > unshared_emo (masked); affiliation with interaction sharing \udbff\udc00 emotion)\"",
           "conditions": [
             {
               "name": "default",
@@ -7158,19 +6708,10 @@
               26
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Wagner et al., 2015; Shared_emo > unshared_emo; affiliation",
-      "name": "Wagner et al., 2015; Shared_emo > unshared_emo; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Shared_emo > unshared_emo; affiliation",
+          "name": "Shared_emo > unshared_emo; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -7288,15 +6829,15 @@
       ]
     },
     {
-      "id": "Will et al., 2014;  Excluders > Includers; affiliation",
-      "name": "Will et al., 2014;  Excluders > Includers; affiliation",
+      "id": "Will et al., 2014",
+      "name": "Will et al., 2014",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Excluders > Includers; affiliation",
+          "name": "Excluders > Includers; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -7402,65 +6943,10 @@
               26
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Will et al., 2014;  Includers > Excluders; affiliation",
-      "name": "Will et al., 2014;  Includers > Excluders; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
-          "conditions": [
-            {
-              "name": "default",
-              "description": ""
-            }
-          ],
-          "weights": [
-            1.0
-          ],
-          "images": [],
-          "points": [
-            {
-              "space": "MNI",
-              "coordinates": [
-                -15.0,
-                -96.0,
-                0.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -12.0,
-                -99.0,
-                12.0
-              ]
-            }
-          ],
-          "metadata": {
-            "sample_sizes": [
-              26
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "Will et al., 2014; Excluders equality > Includers equality; affiliation",
-      "name": "Will et al., 2014; Excluders equality > Includers equality; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
-        {
-          "id": "",
-          "name": "",
+          "id": "Excluders equality > Includers equality; affiliation",
+          "name": "Excluders equality > Includers equality; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -7483,14 +6969,6 @@
             {
               "space": "MNI",
               "coordinates": [
-                48.0,
-                24.0,
-                30.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
                 45.0,
                 12.0,
                 48.0
@@ -7499,9 +6977,9 @@
             {
               "space": "MNI",
               "coordinates": [
-                42.0,
-                24.0,
-                51.0
+                30.0,
+                21.0,
+                -9.0
               ]
             },
             {
@@ -7563,9 +7041,17 @@
             {
               "space": "MNI",
               "coordinates": [
-                30.0,
-                21.0,
-                -9.0
+                42.0,
+                24.0,
+                51.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                48.0,
+                24.0,
+                30.0
               ]
             },
             {
@@ -7630,19 +7116,10 @@
               26
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Will et al., 2014; Positive correlation with punishment frequency (percentage inequality for excluders - percentage inequality for includers); affiliation",
-      "name": "Will et al., 2014; Positive correlation with punishment frequency (percentage inequality for excluders - percentage inequality for includers); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Includers > Excluders; affiliation",
+          "name": "Includers > Excluders; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -7657,9 +7134,54 @@
             {
               "space": "MNI",
               "coordinates": [
-                -30.0,
-                -6.0,
-                48.0
+                -12.0,
+                -99.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -15.0,
+                -96.0,
+                0.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              26
+            ]
+          }
+        },
+        {
+          "id": "Positive correlation with punishment frequency (percentage inequality for excluders - percentage inequality for includers); affiliation",
+          "name": "Positive correlation with punishment frequency (percentage inequality for excluders - percentage inequality for includers); affiliation",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                15.0,
+                60.0,
+                24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                24.0,
+                -60.0,
+                42.0
               ]
             },
             {
@@ -7689,6 +7211,46 @@
             {
               "space": "MNI",
               "coordinates": [
+                3.0,
+                -33.0,
+                27.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                33.0,
+                54.0,
+                9.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                9.0,
+                -27.0,
+                30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                9.0,
+                -30.0,
+                24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                57.0,
+                -54.0,
+                42.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
                 -51.0,
                 -48.0,
                 36.0
@@ -7705,49 +7267,17 @@
             {
               "space": "MNI",
               "coordinates": [
-                9.0,
-                -27.0,
-                30.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                33.0,
-                54.0,
-                9.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                24.0,
-                -60.0,
-                42.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                9.0,
-                -30.0,
-                24.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                3.0,
                 -33.0,
-                27.0
+                18.0,
+                54.0
               ]
             },
             {
               "space": "MNI",
               "coordinates": [
-                39.0,
-                -72.0,
-                24.0
+                9.0,
+                36.0,
+                36.0
               ]
             },
             {
@@ -7761,17 +7291,9 @@
             {
               "space": "MNI",
               "coordinates": [
-                57.0,
-                -54.0,
-                42.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
+                -30.0,
                 -6.0,
-                18.0,
-                51.0
+                48.0
               ]
             },
             {
@@ -7817,8 +7339,8 @@
             {
               "space": "MNI",
               "coordinates": [
-                15.0,
-                60.0,
+                39.0,
+                -72.0,
                 24.0
               ]
             },
@@ -7833,17 +7355,17 @@
             {
               "space": "MNI",
               "coordinates": [
-                -33.0,
-                18.0,
-                54.0
+                -9.0,
+                -9.0,
+                3.0
               ]
             },
             {
               "space": "MNI",
               "coordinates": [
-                -9.0,
-                -9.0,
-                3.0
+                -39.0,
+                18.0,
+                27.0
               ]
             },
             {
@@ -7897,17 +7419,9 @@
             {
               "space": "MNI",
               "coordinates": [
-                9.0,
-                36.0,
-                36.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -39.0,
+                -6.0,
                 18.0,
-                27.0
+                51.0
               ]
             },
             {
@@ -7928,15 +7442,15 @@
       ]
     },
     {
-      "id": "Wlodarski et al., 2016; friend > kin condition; affiliation",
-      "name": "Wlodarski et al., 2016; friend > kin condition; affiliation",
+      "id": "Wlodarski et al., 2016",
+      "name": "Wlodarski et al., 2016",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "friend > kin condition; affiliation",
+          "name": "friend > kin condition; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -8046,15 +7560,15 @@
       ]
     },
     {
-      "id": "\u0160pil\u00e1kov\u00e1 et al., 2019; Builder (COO > COM) > Other (COO > COM); affiliation",
-      "name": "\u0160pil\u00e1kov\u00e1 et al., 2019; Builder (COO > COM) > Other (COO > COM); affiliation",
+      "id": "\u0160pil\u00e1kov\u00e1 et al., 2019",
+      "name": "\u0160pil\u00e1kov\u00e1 et al., 2019",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Builder (COO > COM) > Other (COO > COM); affiliation",
+          "name": "Builder (COO > COM) > Other (COO > COM); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -8168,19 +7682,10 @@
               44
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "\u0160pil\u00e1kov\u00e1 et al., 2019; CN > TB; affiliation",
-      "name": "\u0160pil\u00e1kov\u00e1 et al., 2019; CN > TB; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "CN > TB; affiliation",
+          "name": "CN > TB; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -8334,19 +7839,10 @@
               44
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "\u0160pil\u00e1kov\u00e1 et al., 2019; Competition > Cooperation; affiliation",
-      "name": "\u0160pil\u00e1kov\u00e1 et al., 2019; Competition > Cooperation; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Competition > Cooperation; affiliation",
+          "name": "Competition > Cooperation; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -8492,19 +7988,10 @@
               44
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "\u0160pil\u00e1kov\u00e1 et al., 2019; Cooperation > competition; affiliation",
-      "name": "\u0160pil\u00e1kov\u00e1 et al., 2019; Cooperation > competition; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Cooperation > competition; affiliation",
+          "name": "Cooperation > competition; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -8634,19 +8121,10 @@
               44
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "\u0160pil\u00e1kov\u00e1 et al., 2019; Other (COO > COM) > Builder (COO > COM); affiliation",
-      "name": "\u0160pil\u00e1kov\u00e1 et al., 2019; Other (COO > COM) > Builder (COO > COM); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Other (COO > COM) > Builder (COO > COM); affiliation",
+          "name": "Other (COO > COM) > Builder (COO > COM); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -8784,19 +8262,10 @@
               44
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "\u0160pil\u00e1kov\u00e1 et al., 2019; TB (COO > COM) > CN (COO > COM); affiliation",
-      "name": "\u0160pil\u00e1kov\u00e1 et al., 2019; TB (COO > COM) > CN (COO > COM); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "TB (COO > COM) > CN (COO > COM); affiliation",
+          "name": "TB (COO > COM) > CN (COO > COM); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -8922,15 +8391,15 @@
       ]
     },
     {
-      "id": "Farrow et al., 2011; Social alliance vs. \u2018number equal\u2019; affiliation",
-      "name": "Farrow et al., 2011; Social alliance vs. \u2018number equal\u2019; affiliation",
+      "id": "Farrow et al., 2011",
+      "name": "Farrow et al., 2011",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Social alliance vs. \u2018number equal\u2019; affiliation",
+          "name": "Social alliance vs. \u2018number equal\u2019; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -8943,163 +8412,288 @@
           "images": [],
           "points": [
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -15.524410148226181,
-                -103.64693972617792,
-                18.185180430395125
+                -16.0,
+                -100.0,
+                12.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                62.05888045556172,
-                30.824686267321077,
-                16.053615617269063
+                57.0,
+                26.0,
+                21.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                61.93204947483762,
-                37.19858130821296,
-                2.1381360276921573
+                57.0,
+                33.0,
+                9.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -43.70086388973397,
-                21.73158310190018,
-                18.03100685714438
+                -42.0,
+                18.0,
+                21.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -44.02920454778414,
-                31.507931117464445,
-                -20.701902100135104
+                -42.0,
+                30.0,
+                -13.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -35.50654741532493,
-                22.50025565965236,
-                -27.85078820924279
+                -34.0,
+                22.0,
+                -20.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                9.717403940841493,
-                52.68705697099834,
-                28.203796202955562
+                8.0,
+                46.0,
+                33.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -5.226137885346866,
-                54.96922436287326,
-                31.529657129620833
+                -6.0,
+                48.0,
+                36.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                5.488943570142042,
-                56.433307573655256,
-                35.744595909098535
+                4.0,
+                49.0,
+                40.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -13.95958829792517,
-                60.69225972356701,
-                9.9612198374667
+                -14.0,
+                55.0,
+                17.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                1.421923150456834,
-                37.68757014394636,
-                55.20658962498665
+                0.0,
+                30.0,
+                56.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                3.598715583040219,
-                27.126305439489563,
-                56.067285670174044
+                2.0,
+                20.0,
+                56.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                52.44939723294513,
-                28.65224983560028,
-                16.34618269305623
+                48.0,
+                24.0,
+                21.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -5.040942692969818,
-                26.13279450900409,
-                43.982642536701775
+                -6.0,
+                20.0,
+                45.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                24.930445349943625,
-                -99.487214913147,
-                -0.4715568480381016
+                22.0,
+                -95.0,
+                -4.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                43.86714785384039,
-                -54.131005428260536,
-                -21.220787347707553
+                40.0,
+                -51.0,
+                -19.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -24.448585086209647,
-                -51.56932329960316,
-                -9.498903157669101
+                -24.0,
+                -49.0,
+                -9.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                5.71141032770403,
-                -51.10630851540942,
-                21.341437352496303
+                4.0,
+                -51.0,
+                19.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                11.862454935158421,
-                -29.60385923975921,
-                -3.951681801050785
+                10.0,
+                -29.0,
+                -2.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -0.9686656605014332,
-                -27.565875287550988,
-                -3.9752078979290744
+                -2.0,
+                -27.0,
+                -2.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              22
+            ]
+          }
+        },
+        {
+          "id": "Social hierarchy vs. fame, age, gender and \u2018no. higher / lower\u2019; affiliation",
+          "name": "Social hierarchy vs. fame, age, gender and \u2018no. higher / lower\u2019; affiliation",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -44.0,
+                30.0,
+                -13.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -49.0,
+                25.0,
+                -13.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -42.0,
+                17.0,
+                21.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -42.0,
+                26.0,
+                15.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -32.0,
+                -82.0,
+                -13.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -2.0,
+                -82.0,
+                -3.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -36.0,
+                -86.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                18.0,
+                -51.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -6.0,
+                -22.0,
+                -21.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -2.0,
+                -89.0,
+                3.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -8.0,
+                -99.0,
+                9.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -40.0,
+                -67.0,
+                -17.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -44.0,
+                -57.0,
+                -22.0
               ]
             }
           ],
@@ -9112,15 +8706,15 @@
       ]
     },
     {
-      "id": "Farrow et al., 2011; Social hierarchy vs. fame, age, gender and \u2018no. higher / lower\u2019; affiliation",
-      "name": "Farrow et al., 2011; Social hierarchy vs. fame, age, gender and \u2018no. higher / lower\u2019; affiliation",
+      "id": "Polosan et al., 2011",
+      "name": "Polosan et al., 2011",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "H(I + C) > M(I + C); affiliation",
+          "name": "H(I + C) > M(I + C); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -9133,128 +8727,95 @@
           "images": [],
           "points": [
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -46.16640491142952,
-                31.49512611941563,
-                -20.67627914976283
+                33.0,
+                -15.0,
+                -21.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -51.48960978607394,
-                26.176078773040782,
-                -20.16906227605231
+                -27.0,
+                -42.0,
+                -7.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -43.69690468284016,
-                20.67417613164962,
-                18.119638756700347
+                30.0,
+                -84.0,
+                -7.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -43.78209581111812,
-                29.676861988473643,
-                10.674423514354073
+                -30.0,
+                -69.0,
+                -10.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -32.89977155745155,
-                -86.85762456035428,
-                -10.90324410172812
+                -45.0,
+                9.0,
+                18.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -0.7591689923813363,
-                -85.80892146390366,
-                -0.2083747800746254
+                -6.0,
+                51.0,
+                8.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -37.06747863573856,
-                -90.17057149916396,
-                1.6896643322016676
+                51.0,
+                33.0,
+                4.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                20.481839519325632,
-                -52.986918218219955,
-                -4.320114527756121
+                -6.0,
+                51.0,
+                28.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -5.419796932001387,
-                -23.932043871260724,
-                -25.41762729171582
+                -6.0,
+                51.0,
+                4.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -0.681896277890983,
-                -92.69679338022658,
-                7.059576663159714
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -7.004347033655353,
-                -102.79530120144761,
-                14.670292656178777
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -41.540999959595894,
-                -71.39039124907848,
-                -16.561916224473578
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -45.896291311019446,
-                -61.2702456055297,
-                -22.93659610790751
+                63.0,
+                -27.0,
+                18.0
               ]
             }
           ],
           "metadata": {
             "sample_sizes": [
-              22
+              14
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Polosan et al., 2011; H(I + C) > M(I + C); affiliation",
-      "name": "Polosan et al., 2011; H(I + C) > M(I + C); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "I(H + M) > C(H + M); affiliation",
+          "name": "I(H + M) > C(H + M); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -9267,83 +8828,184 @@
           "images": [],
           "points": [
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                36.227895710826836,
-                -16.28049761755488,
-                -26.537698120866942
+                48.0,
+                18.0,
+                6.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -27.665580657856403,
-                -44.01535637977879,
-                -7.865049313554939
+                12.0,
+                6.0,
+                67.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                33.41091639557644,
-                -88.06150668591108,
-                -4.872763617814123
+                33.0,
+                53.0,
+                20.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -30.78926175030871,
-                -72.84154051133267,
-                -8.757317673156688
+                6.0,
+                8.0,
+                45.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -46.895810706274695,
-                11.938724434856395,
-                15.543364305535214
+                -39.0,
+                0.0,
+                48.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -5.469287415119085,
-                55.74288652161351,
-                0.24196341468762306
+                -12.0,
+                -73.0,
+                49.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                55.4791498287067,
-                36.73185225120732,
-                -3.3246019098098243
+                -3.0,
+                -53.0,
+                51.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -5.304093194339931,
-                57.456142773050246,
-                22.40039056916284
+                36.0,
+                -59.0,
+                45.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -5.502326259274916,
-                55.40023527132615,
-                -4.189722016207421
+                33.0,
+                27.0,
+                12.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                68.65554037875242,
-                -25.436456599527713,
-                17.350473369447233
+                12.0,
+                -96.0,
+                8.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                45.0,
+                -65.0,
+                -11.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                15.0,
+                30.0,
+                18.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -27.0,
+                -49.0,
+                61.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              14
+            ]
+          }
+        },
+        {
+          "id": "[H(I > C)] > [M(I > C)]; affiliation",
+          "name": "[H(I > C)] > [M(I > C)]; affiliation",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                36.0,
+                18.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                12.0,
+                30.0,
+                24.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                27.0,
+                57.0,
+                24.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                54.0,
+                -9.0,
+                52.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                66.0,
+                -48.0,
+                -6.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                30.0,
+                -42.0,
+                -18.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -54.0,
+                -57.0,
+                -14.0
               ]
             }
           ],
@@ -9356,15 +9018,15 @@
       ]
     },
     {
-      "id": "Polosan et al., 2011; I(H + M) > C(H + M); affiliation",
-      "name": "Polosan et al., 2011; I(H + M) > C(H + M); affiliation",
+      "id": "Rilling et al., 2008",
+      "name": "Rilling et al., 2008",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "PD \u2013 Gamble; affiliation",
+          "name": "PD \u2013 Gamble; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -9377,327 +9039,107 @@
           "images": [],
           "points": [
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                52.349256808723574,
-                21.022865825519357,
-                0.25915372453562036
+                4.0,
+                -76.0,
+                -2.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                14.431003119208846,
-                13.328923784516004,
-                69.36715244705758
+                -2.0,
+                -60.0,
+                43.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                36.29731779464563,
-                59.13535167492859,
-                12.86010837600147
+                -46.0,
+                -63.0,
+                37.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                7.829769971628048,
-                13.520740854290256,
-                44.89248762913974
+                46.0,
+                -55.0,
+                34.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -40.20078542212562,
-                5.030361073902915,
-                49.50182328213492
+                -30.0,
+                56.0,
+                8.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -11.051298698626622,
-                -71.90181746815716,
-                56.73396347741861
+                43.0,
+                10.0,
+                45.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -1.4965617780205358,
-                -50.5247299467826,
-                57.061864925071546
+                -30.0,
+                -4.0,
+                59.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                40.15304228819335,
-                -57.133451181765075,
-                50.446480643805444
+                24.0,
+                54.0,
+                25.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                36.33417948557279,
-                30.957467947839305,
-                6.301166902666537
+                0.0,
+                27.0,
+                42.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                14.347519271078042,
-                -99.5806931227796,
-                13.040246096064369
+                -65.0,
+                -25.0,
+                -4.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                49.33165534777871,
-                -68.21738801607165,
-                -11.180627268064605
+                2.0,
+                -20.0,
+                22.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                17.137056858316758,
-                34.528420751582665,
-                12.913405903691668
+                30.0,
+                19.0,
+                -6.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -27.07620585895067,
-                -45.59213391664778,
-                68.09402630855257
-              ]
-            }
-          ],
-          "metadata": {
-            "sample_sizes": [
-              14
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "Polosan et al., 2011; [H(I > C)] > [M(I > C)]; affiliation",
-      "name": "Polosan et al., 2011; [H(I > C)] > [M(I > C)]; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
-        {
-          "id": "",
-          "name": "",
-          "conditions": [
-            {
-              "name": "default",
-              "description": ""
-            }
-          ],
-          "weights": [
-            1.0
-          ],
-          "images": [],
-          "points": [
-            {
-              "space": "MNI",
-              "coordinates": [
-                39.44345751646174,
-                20.089407711508084,
-                -10.666322150468343
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                13.980814579082441,
-                35.02319012994047,
-                19.599368475592648
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                29.90291872029013,
-                63.669215812071734,
-                17.014135059789467
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                59.247703193584385,
-                -3.548217998794824,
-                53.539728616722925
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                71.74625120405534,
-                -49.67870297944036,
-                -7.416803750806128
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                33.153772884608266,
-                -44.59270487367773,
-                -20.782438334126127
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -56.516215440934666,
-                -60.64896809519908,
-                -13.94511049425605
-              ]
-            }
-          ],
-          "metadata": {
-            "sample_sizes": [
-              14
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "Rilling et al., 2008; PD \u2013 Gamble; affiliation",
-      "name": "Rilling et al., 2008; PD \u2013 Gamble; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
-        {
-          "id": "",
-          "name": "",
-          "conditions": [
-            {
-              "name": "default",
-              "description": ""
-            }
-          ],
-          "weights": [
-            1.0
-          ],
-          "images": [],
-          "points": [
-            {
-              "space": "MNI",
-              "coordinates": [
-                5.636936568230942,
-                -79.34040183568203,
-                0.2908863291965078
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -0.46632483625290244,
-                -58.60547874008682,
-                48.80610588498709
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -47.522413482003515,
-                -62.57338648334348,
-                42.98817834550246
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                50.73235045741649,
-                -53.78208924880896,
-                37.77670335875882
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -31.135487813332595,
-                60.87626139628051,
-                0.10627932137507656
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                47.36005828527989,
-                15.87244725869448,
-                44.24119924814073
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -30.47669013671769,
-                1.8006466224105548,
-                61.92818253864493
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                26.71725550654243,
-                60.563450216818666,
-                18.426386541739543
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                1.3181648165928286,
-                33.31606985718896,
-                39.9615863155219
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -68.31491495119627,
-                -26.025744410731257,
-                -5.561191475761891
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                3.4762536834676965,
-                -18.082508997975335,
-                21.94323548980487
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                33.0113777965539,
-                20.937074062468522,
-                -12.89392791435501
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -32.177533798775215,
-                19.403451839157228,
-                -13.131717386168438
+                -31.0,
+                18.0,
+                -7.0
               ]
             }
           ],
@@ -9710,15 +9152,15 @@
       ]
     },
     {
-      "id": "Suzuki et al., 2012;  Reward Prediction Error (control) > Reward probability (other); affiliation",
-      "name": "Suzuki et al., 2012;  Reward Prediction Error (control) > Reward probability (other); affiliation",
+      "id": "Suzuki et al., 2012",
+      "name": "Suzuki et al., 2012",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Reward Prediction Error (control) > Reward probability (other); affiliation",
+          "name": "Reward Prediction Error (control) > Reward probability (other); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -9731,11 +9173,223 @@
           "images": [],
           "points": [
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                7.26339924257599,
-                57.07790232468915,
-                -11.168251663895568
+                6.0,
+                53.0,
+                -2.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              39
+            ]
+          }
+        },
+        {
+          "id": "Reward probability (other) >  Reward Prediction Error (control); affiliation",
+          "name": "Reward probability (other) >  Reward Prediction Error (control); affiliation",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                45.0,
+                -16.0,
+                7.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -6.0,
+                56.0,
+                1.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              39
+            ]
+          }
+        },
+        {
+          "id": "Reward probability (other) > Reward Prediction Error (other); affiliation",
+          "name": "Reward probability (other) > Reward Prediction Error (other); affiliation",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -39.0,
+                -13.0,
+                4.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -12.0,
+                -1.0,
+                34.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                36.0,
+                -19.0,
+                55.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                3.0,
+                56.0,
+                4.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -54.0,
+                -28.0,
+                16.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                54.0,
+                -22.0,
+                19.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              39
+            ]
+          }
+        },
+        {
+          "id": "Simulated-other\u2019s action prediction error > Simulated-other\u2019s reward prediction error; affiliation",
+          "name": "Simulated-other\u2019s action prediction error > Simulated-other\u2019s reward prediction error; affiliation",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                45.0,
+                11.0,
+                43.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                6.0,
+                14.0,
+                52.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                39.0,
+                -55.0,
+                37.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                39.0,
+                20.0,
+                -5.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                6.0,
+                -19.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                12.0,
+                -73.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -45.0,
+                -52.0,
+                37.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              39
+            ]
+          }
+        },
+        {
+          "id": "Simulated-other\u2019s reward prediction error > Simulated-other\u2019s action prediction error; affiliation",
+          "name": "Simulated-other\u2019s reward prediction error > Simulated-other\u2019s action prediction error; affiliation",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                0.0,
+                53.0,
+                4.0
               ]
             }
           ],
@@ -9748,15 +9402,15 @@
       ]
     },
     {
-      "id": "Suzuki et al., 2012; Reward probability (other) >  Reward Prediction Error (control); affiliation",
-      "name": "Suzuki et al., 2012; Reward probability (other) >  Reward Prediction Error (control); affiliation",
+      "id": "Von Der Heide et al., 2013",
+      "name": "Von Der Heide et al., 2013",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Familiar faces > Novel faces; affiliation",
+          "name": "Familiar faces > Novel faces; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -9769,299 +9423,51 @@
           "images": [],
           "points": [
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                49.2863290086837,
-                -14.8625158475011,
-                4.418994092720688
+                -46.0,
+                12.0,
+                -23.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -5.546901426860794,
-                60.430281684863445,
-                -7.956645587158541
-              ]
-            }
-          ],
-          "metadata": {
-            "sample_sizes": [
-              39
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "Suzuki et al., 2012; Reward probability (other) > Reward Prediction Error (other); affiliation",
-      "name": "Suzuki et al., 2012; Reward probability (other) > Reward Prediction Error (other); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
-        {
-          "id": "",
-          "name": "",
-          "conditions": [
-            {
-              "name": "default",
-              "description": ""
-            }
-          ],
-          "weights": [
-            1.0
-          ],
-          "images": [],
-          "points": [
-            {
-              "space": "MNI",
-              "coordinates": [
-                -40.51274301822035,
-                -12.485093292515216,
-                1.9054982365170217
+                -33.0,
+                25.0,
+                -11.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -11.460257260564658,
-                2.946542201305653,
-                33.73364634353254
+                0.0,
+                10.0,
+                47.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                40.077271122830886,
-                -13.980544246024268,
-                57.98041823880435
+                0.0,
+                -61.0,
+                23.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                4.09527934266027,
-                60.744892613798626,
-                -4.748184790662493
+                -38.0,
+                -49.0,
+                -16.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -56.38324110968616,
-                -27.414281580777704,
-                16.72220515033372
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                59.02660241891819,
-                -20.121381426922746,
-                18.13053850606639
-              ]
-            }
-          ],
-          "metadata": {
-            "sample_sizes": [
-              39
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "Suzuki et al., 2012; Simulated-other\u2019s action prediction error > Simulated-other\u2019s reward prediction error; affiliation",
-      "name": "Suzuki et al., 2012; Simulated-other\u2019s action prediction error > Simulated-other\u2019s reward prediction error; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
-        {
-          "id": "",
-          "name": "",
-          "conditions": [
-            {
-              "name": "default",
-              "description": ""
-            }
-          ],
-          "weights": [
-            1.0
-          ],
-          "images": [],
-          "points": [
-            {
-              "space": "MNI",
-              "coordinates": [
-                49.47678001995356,
-                16.771333601850184,
-                41.911101682764965
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                7.863832707537946,
-                20.464822363796483,
-                52.11614573587026
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                43.27692831777454,
-                -53.5699183042643,
-                41.19014775823307
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                42.63307993710325,
-                22.137766336510595,
-                -11.989941732862452
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                7.548462138929661,
-                -19.055399533351235,
-                -4.786754895865911
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                14.124302135897295,
-                -76.6309378081661,
-                -6.725029317303058
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -46.497364576012636,
-                -50.9355073115629,
-                42.00041597520068
-              ]
-            }
-          ],
-          "metadata": {
-            "sample_sizes": [
-              39
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "Suzuki et al., 2012; Simulated-other\u2019s reward prediction error > Simulated-other\u2019s action prediction error; affiliation",
-      "name": "Suzuki et al., 2012; Simulated-other\u2019s reward prediction error > Simulated-other\u2019s action prediction error; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
-        {
-          "id": "",
-          "name": "",
-          "conditions": [
-            {
-              "name": "default",
-              "description": ""
-            }
-          ],
-          "weights": [
-            1.0
-          ],
-          "images": [],
-          "points": [
-            {
-              "space": "MNI",
-              "coordinates": [
-                0.9013564178736089,
-                57.55346420597372,
-                -4.443854666436179
-              ]
-            }
-          ],
-          "metadata": {
-            "sample_sizes": [
-              39
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "Von Der Heide et al., 2013; Familiar faces > Novel faces; affiliation",
-      "name": "Von Der Heide et al., 2013; Familiar faces > Novel faces; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
-        {
-          "id": "",
-          "name": "",
-          "conditions": [
-            {
-              "name": "default",
-              "description": ""
-            }
-          ],
-          "weights": [
-            1.0
-          ],
-          "images": [],
-          "points": [
-            {
-              "space": "MNI",
-              "coordinates": [
-                -48.31493666137605,
-                11.592367531138343,
-                -30.13449558462075
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -34.37548745483303,
-                26.449844382574987,
-                -18.15820316358298
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                1.4267698889822342,
-                15.768465425788605,
-                47.007935396592146
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                1.5096405135071194,
-                -61.36333696372531,
-                26.71068767969557
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -39.46680560899998,
-                -52.25859797394774,
-                -17.074992009129506
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                37.451928853261826,
-                -50.91153669908347,
-                -20.301892837534872
+                34.0,
+                -48.0,
+                -18.0
               ]
             }
           ],
@@ -10070,19 +9476,10 @@
               15
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Von Der Heide et al., 2013; Famous faces > Novel faces; affiliation",
-      "name": "Von Der Heide et al., 2013; Famous faces > Novel faces; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Famous faces > Novel faces; affiliation",
+          "name": "Famous faces > Novel faces; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -10095,43 +9492,43 @@
           "images": [],
           "points": [
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -33.42388841656117,
-                16.45506049330184,
-                -37.40454388134907
+                -32.0,
+                17.0,
+                -29.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                61.194452545959905,
-                -35.16926245009729,
-                16.021998076306378
+                56.0,
+                -36.0,
+                16.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -1.7461281724524667,
-                -11.37121882812334,
-                40.39879644925965
+                -3.0,
+                -15.0,
+                39.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                1.2656034521033006,
-                -39.72797705707788,
-                3.7102800927128268
+                0.0,
+                -39.0,
+                4.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                17.310101709767466,
-                -46.062044205786954,
-                2.941978004532814
+                15.0,
+                -45.0,
+                3.0
               ]
             }
           ],
@@ -10140,19 +9537,10 @@
               15
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Von Der Heide et al., 2013; Famous faces > Novel landmarks; affiliation",
-      "name": "Von Der Heide et al., 2013; Famous faces > Novel landmarks; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Famous faces > Novel landmarks; affiliation",
+          "name": "Famous faces > Novel landmarks; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -10165,123 +9553,123 @@
           "images": [],
           "points": [
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                42.7216162547787,
-                -45.049059257889084,
-                -27.545269757143927
+                39.0,
+                -42.0,
+                -24.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                22.262233605155092,
-                12.528909342180306,
-                -24.332524800563238
+                20.0,
+                12.0,
+                -17.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                46.00496223498206,
-                3.0085323371133734,
-                1.84276486810389
+                42.0,
+                1.0,
+                6.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -8.690719851033464,
-                34.69065565148941,
-                -10.222731003151955
+                -9.0,
+                32.0,
+                -3.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -2.3037615330917434,
-                61.93521021504642,
-                -2.5441051236541155
+                -3.0,
+                57.0,
+                6.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                1.471891290948356,
-                -12.323755488728839,
-                41.556915280980974
+                0.0,
+                -16.0,
+                40.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -31.217675049464404,
-                9.494330762455917,
-                -31.27013674621077
+                -30.0,
+                10.0,
+                -24.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                58.623924361517396,
-                -11.115998724505015,
-                -30.573662670726943
+                54.0,
+                -10.0,
+                -24.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                56.972750337171526,
-                -67.60238405428645,
-                9.86883010193986
+                52.0,
+                -66.0,
+                8.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                1.5296414851050122,
-                -91.91302306903121,
-                17.00524593230129
+                0.0,
+                -89.0,
+                12.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                27.571171778358632,
-                5.616840327796122,
-                -31.620240283224444
+                25.0,
+                6.0,
+                -24.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                1.5304604397301915,
-                -60.048941555759235,
-                29.945819853310883
+                0.0,
+                -60.0,
+                26.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                42.763733764598676,
-                -12.756663681757914,
-                -9.065089047515524
+                39.0,
+                -13.0,
+                -5.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -51.56408354554703,
-                -2.05801454723182,
-                -41.219613299352105
+                -49.0,
+                0.0,
+                -34.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                4.124358979922299,
-                62.14495083433654,
-                -0.405131259323416
+                3.0,
+                57.0,
+                8.0
               ]
             }
           ],
@@ -10290,19 +9678,10 @@
               15
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Von Der Heide et al., 2013; Famous \u2229 Familiar faces; affiliation",
-      "name": "Von Der Heide et al., 2013; Famous \u2229 Familiar faces; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Famous \u2229 Familiar faces; affiliation",
+          "name": "Famous \u2229 Familiar faces; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -10315,19 +9694,19 @@
           "images": [],
           "points": [
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -1.9283194726833601,
-                -42.91940546490279,
-                4.01461021693914
+                -3.0,
+                -42.0,
+                4.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -39.814328284022864,
-                19.931517660194423,
-                -33.16188529800511
+                -38.0,
+                20.0,
+                -25.0
               ]
             }
           ],

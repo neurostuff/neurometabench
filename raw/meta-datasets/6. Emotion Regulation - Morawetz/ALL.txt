@@ -1,0 +1,5371 @@
+// Reference=MNI
+// Phan et al 2005: emotion>baseline iaps visual maintain explicit mixed picture neg react
+// Subjects=14
+10 -84 -2
+8 62 34
+54 38 8
+38 26 6
+-36 20 2
+-28 0 -28
+16 0 -28
+2 6 -6
+-48 20 28
+-8 -2 -2
+-38 54 20
+8 64 8
+
+// Phan et al 2005: task>baseline iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=14
+8 -84 -6
+2 14 54
+-14 62 32
+42 34 2
+-42 28 -6
+38 28 0
+-42 28 -6
+-32 -4 -24
+26 2 -24
+-42 28 -6
+42 28 -16
+-40 54 16
+-8 18 40
+-10 52 18
+12 58 2
+
+// Phan et al 2005: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=14
+12 42 54
+6 28 52
+40 22 44
+52 32 -10
+52 30 -8
+56 24 4
+34 54 12
+-8 20 44
+6 36 36
+
+// Phan et al 2005: emotion>task iaps visual maintain explicit mixed picture neg react
+// Subjects=14
+0 12 -2
+-42 20 28
+-14 -6 -8
+
+// Harenski et Hamann 2006: emotion>baseline iaps visual maintain explicit fem picture neg react
+// Subjects=10
+63 27 9
+-21 -6 -15
+-12 39 54
+-9 30 63
+9 57 18
+9 69 21
+30 -45 -12
+
+// Harenski et Hamann 2006: emotion>baseline iaps visual maintain explicit fem picture neg react
+// Subjects=10
+-15 54 39
+3 -63 15
+-6 51 21
+-9 27 63
+18 -3 -27
+
+// Harenski et Hamann 2006: task>baseline iaps visual reapp decr explicit fem picture neg reg
+// Subjects=10
+42 30 -18
+-54 27 0
+60 36 15
+12 66 30
+-12 66 27
+-18 54 39
+-9 36 60
+12 27 66
+-30 -93 21
+51 -66 15
+-45 -81 18
+15 -99 3
+
+// Harenski et Hamann 2006: task>baseline iaps visual reapp decr explicit fem picture neg reg
+// Subjects=10
+0 39 54
+63 27 9
+15 18 69
+-24 0 -27
+42 33 -18
+33 -81 18
+42 -48 -27
+-45 -84 6
+-12 -102 12
+0 -87 -12
+
+// Harenski et Hamann 2006: task>emotion iaps visual reapp decr explicit fem picture neg reg
+// Subjects=10
+45 14 -3
+36 17 -8
+-39 17 -8
+-30 47 17
+-12 18 60
+-12 23 49
+-3 9 55
+
+// Harenski et Hamann 2006: task>task iaps visual reapp decr explicit fem picture neg reg
+// Subjects=10
+6 -72 33
+-6 60 6
+0 51 -3
+-12 15 66
+-21 48 21
+42 33 30
+-27 39 33
+-36 15 48
+3 36 -3
+-51 -66 9
+57 -66 18
+39 -63 21
+-45 33 -18
+
+// Harenski et Hamann 2006: task>task iaps visual reapp decr explicit fem picture neg reg
+// Subjects=10
+45 -33 45
+
+// Mak et al 2009: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=24
+-8 48 24
+-40 28 -4
+-16 52 32
+4 40 4
+-16 20 -16
+-36 -4 16
+
+// Mak et al 2009: task>emotion iaps visual reapp decr explicit mixed picture pos reg
+// Subjects=24
+-4 44 36
+-40 24 -12
+-36 -12 -20
+
+// Domes et al 2010: emotion>baseline iaps visual maintain explicit mixed picture neg react
+// Subjects=33
+51 -63 0
+48 -39 -21
+45 -51 -12
+-54 -69 6
+-45 -39 -21
+-66 -27 33
+-33 -45 48
+-45 -33 39
+6 60 27
+6 54 39
+54 -27 36
+3 15 27
+-6 18 27
+-9 27 30
+-21 -3 -12
+21 15 3
+12 -9 6
+51 15 21
+36 -45 57
+54 0 48
+-24 -9 48
+-3 -66 36
+54 36 6
+42 36 9
+
+// Domes et al 2010: baseline>emotion iaps visual maintain explicit mixed picture neu react
+// Subjects=33
+30 -42 -6
+-30 -45 -6
+21 -57 15
+
+// Domes et al 2010: emotion>baseline iaps visual maintain explicit female>male picture neg react
+// Subjects=33
+27 3 30
+24 3 48
+15 21 48
+-51 -69 6
+
+// Domes et al 2010: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=33
+-3 12 60
+12 3 66
+-45 0 51
+-54 21 -3
+-60 15 24
+-36 15 3
+54 27 -6
+60 24 6
+60 15 -3
+57 -42 27
+33 42 27
+33 30 33
+-63 -51 21
+-63 -33 0
+-66 -48 6
+-30 48 27
+51 3 48
+
+// Domes et al 2010: task>emotion iaps visual reapp incr explicit mixed picture neg reg
+// Subjects=33
+0 6 63
+-3 18 39
+-6 12 24
+-51 12 0
+-60 15 24
+-12 -33 3
+6 -45 3
+-18 -12 -12
+45 12 6
+48 -54 -36
+36 -51 -33
+-57 -42 24
+-6 -66 63
+-6 -75 57
+57 0 48
+-3 -63 -15
+9 0 -6
+-12 57 36
+-33 48 30
+21 -24 -9
+
+// Domes et al 2010: task>emotion iaps visual reapp decr explicit male>female picture neg reg
+// Subjects=33
+-60 -21 3
+-57 6 0
+36 21 -21
+6 42 12
+18 -15 57
+
+// Domes et al 2010: task>emotion iaps visual reapp incr explicit male>female picture neg reg
+// Subjects=33
+-18 -33 72
+9 -36 75
+-6 -9 72
+-57 -6 24
+-63 12 9
+-39 15 -6
+-18 -6 -15
+-24 -69 51
+-12 -75 51
+-27 36 24
+-33 45 18
+15 -48 0
+6 -60 6
+30 18 21
+30 -36 -36
+63 -51 -3
+27 -21 -9
+27 30 39
+36 36 36
+57 -39 18
+60 27 6
+-45 -54 -9
+-54 -18 -3
+-12 -15 9
+-18 -12 15
+-30 -33 -27
+-57 -60 0
+63 -9 -6
+-45 3 39
+-36 0 45
+12 -81 48
+24 -72 45
+
+// Koenigsberg et al 2009: emotion>task iaps visual maintain explicit male>female picture neg react
+// Subjects=16
+2 -86 0
+-40 -78 14
+44 -72 -6
+-50 -32 56
+-40 -12 62
+
+// Koenigsberg et al 2009: task>emotion iaps visual reapp decr explicit male>female picture neg reg distance
+// Subjects=16
+-40 -56 38
+50 -56 40
+-58 -52 -6
+62 -36 2
+4 -24 36
+36 56 4
+
+// Lang et al 2012: task>emotion anet visual reapp decr explicit fem picture neg reg distance
+// Subjects=15
+-24 41 31
+-18 44 28
+36 -4 46
+-54 -31 -2
+-24 -58 43
+-63 -49 28
+39 -37 46
+21 -22 1
+-24 -7 -2
+-9 -49 37
+
+// Lang et al 2012: task>emotion anet visual reapp decr explicit fem picture neg reg distance
+// Subjects=15
+18 -4 -23
+-54 -16 -14
+-9 62 25
+21 -22 1
+-24 -7 -2
+-9 -49 37
+
+// Lang et al 2012: task>emotion anet visual reapp incr explicit fem picture neg reg distance
+// Subjects=15
+-15 41 31
+-21 41 31
+-27 -7 -17
+
+// Lang et al 2012: task>emotion anet visual reapp incr explicit fem picture neg reg distance
+// Subjects=15
+9 38 -2
+-48 -28 -2
+
+// Schulze et al 2011: emotion>baseline iaps visual maintain explicit fem picture neg react
+// Subjects=15
+-54 -66 8
+-44 -74 -6
+50 -64 -2
+48 -66 -12
+42 -48 -14
+-44 -58 -18
+-42 -46 -20
+36 -42 54
+30 -48 52
+26 -56 56
+52 -20 32
+-2 -48 28
+6 58 28
+-28 18 -20
+-32 22 -2
+-26 16 -22
+-34 24 -16
+-36 30 -2
+40 -10 -10
+38 30 4
+44 22 -8
+34 10 -16
+46 22 -8
+-28 2 -22
+-20 -2 -12
+-22 2 -16
+18 -4 -12
+
+// Schulze et al 2011: baseline>emotion iaps visual maintain explicit fem picture neu react
+// Subjects=15
+30 -42 -8
+20 -54 16
+-18 -58 16
+-26 -44 -8
+
+// Schulze et al 2011: task>emotion iaps visual reapp decr explicit fem picture neg reg
+// Subjects=15
+-48 24 -4
+-56 28 4
+-34 48 -14
+-2 14 56
+-44 8 46
+-34 8 42
+-54 -44 2
+-14 18 50
+-32 50 22
+50 30 -10
+50 18 -6
+
+// Schulze et al 2011: emotion>task iaps visual maintain explicit fem picture neg react
+// Subjects=15
+34 -26 18
+
+// Schulze et al 2011: task>emotion iaps visual reapp incr explicit fem picture neg reg
+// Subjects=15
+-2 14 58
+-52 16 -4
+-44 22 -2
+-40 6 2
+-48 16 -4
+-34 30 -2
+-40 22 -16
+46 16 -4
+-54 -42 26
+40 -62 -28
+0 18 40
+-2 22 30
+-8 -34 8
+48 18 -6
+-4 6 18
+-44 4 48
+-20 18 -16
+
+// Schulze et al 2011: emotion>task iaps visual maintain explicit fem picture neg react
+// Subjects=15
+46 -30 60
+
+// Kim and Hamann 2007: task>emotion iaps visual reapp decr explicit fem picture neg reg
+// Subjects=10
+-42 36 -12
+-48 30 -9
+-42 21 -15
+-45 15 39
+-39 21 42
+-27 21 33
+-27 54 12
+-36 48 15
+-42 39 18
+36 9 39
+39 21 45
+42 12 48
+36 60 9
+57 27 9
+48 30 -12
+60 27 0
+-54 21 30
+-54 18 21
+-51 39 12
+0 30 39
+0 12 63
+-3 30 51
+12 60 30
+18 63 21
+-18 57 27
+-24 51 36
+-15 48 33
+-27 54 3
+18 63 21
+-18 57 27
+-24 51 36
+-15 48 33
+-27 54 3
+9 21 21
+-6 18 27
+-12 27 24
+-57 -45 3
+-57 -30 -3
+60 -39 -3
+-15 0 0
+
+// Kim and Hamann 2007: task>emotion iaps visual reapp decr explicit fem picture pos reg
+// Subjects=10
+-57 21 -3
+-51 21 -12
+-45 39 -12
+39 36 -9
+48 21 -9
+33 27 -12
+54 42 -9
+42 24 -21
+9 15 63
+15 12 69
+21 15 54
+15 66 21
+21 63 30
+51 12 45
+-18 30 30
+-24 33 36
+45 42 -21
+60 24 0
+
+// Kim and Hamann 2007: task>emotion iaps visual reapp incr explicit fem picture neg reg
+// Subjects=10
+3 24 66
+-9 27 57
+-3 18 69
+-39 15 12
+-30 51 18
+-36 27 -18
+-21 48 -15
+-15 24 36
+-3 33 21
+0 18 39
+15 33 -6
+30 -54 0
+21 9 18
+-18 9 21
+-9 0 24
+
+// Kim and Hamann 2007: task>emotion iaps visual reapp incr explicit fem picture pos reg
+// Subjects=10
+-27 24 48
+-9 9 60
+-15 27 39
+-3 48 -6
+0 51 15
+-3 57 39
+-30 15 -21
+-42 24 -9
+-39 21 -24
+60 24 -3
+-51 18 33
+-45 24 33
+-54 21 9
+-39 30 -3
+-42 36 -9
+48 -45 3
+45 -36 6
+54 -6 -18
+6 -87 9
+18 3 -18
+-30 -18 -18
+-6 -6 0
+-6 -48 30
+-6 -48 30
+-9 -57 24
+-6 -60 51
+-21 15 3
+-18 6 -9
+-6 12 15
+-15 -12 -18
+-12 9 24
+-15 0 18
+-15 9 12
+-24 9 12
+18 12 6
+18 12 15
+-6 -6 0
+-9 -27 18
+6 -81 -18
+0 -78 -12
+27 -84 -24
+18 -84 -21
+-6 -36 -6
+-3 -36 -6
+
+// Kim and Hamann 2007: task>emotion iaps visual reapp decr+incr explicit fem picture neg reg
+// Subjects=10
+3 24 66
+-3 6 69
+-9 27 57
+-9 21 66
+-30 51 18
+-9 24 36
+0 21 39
+-36 27 -18
+
+// Kim and Hamann 2007: task>emotion iaps visual reapp decr+incr explicit fem picture pos reg
+// Subjects=10
+-9 12 57
+-9 24 63
+-9 15 66
+-42 24 -9
+-51 24 -3
+
+// Kim and Hamann 2007: task>task iaps visual reapp decrease>increase explicit fem picture neg reg
+// Subjects=10
+39 45 -18
+42 51 -12
+39 60 -6
+-51 36 -9
+-39 39 -9
+3 36 36
+-9 27 42
+6 42 45
+42 18 48
+54 39 21
+45 36 21
+42 33 36
+15 27 57
+6 30 63
+21 63 18
+51 36 -3
+57 33 9
+57 -42 39
+57 -51 36
+42 -51 54
+60 -39 -6
+
+// Kim and Hamann 2007: task>task iaps visual reapp increase>decrease explicit fem picture pos reg
+// Subjects=10
+-3 54 15
+-9 57 0
+-9 60 9
+0 54 39
+-33 9 48
+-3 57 -15
+-21 27 42
+-3 30 12
+-6 -51 33
+-3 -9 0
+21 -27 21
+-3 -45 3
+-6 -54 15
+
+// McRae et al 2008: task>emotion iaps visual reapp decr explicit mixed neg reg
+// Subjects=23
+-56 20 14
+-10 10 70
+50 30 -10
+-42 4 46
+-18 22 56
+46 6 48
+-2 -52 28
+2 18 -10
+-2 -22 34
+-48 -66 36
+-16 16 8
+20 14 20
+-58 -8 -18
+58 -58 28
+-62 -40 -6
+50 -36 4
+
+// McRae et al 2008: task>emotion iaps visual reapp decr explicit female>male picture neg reg
+// Subjects=23
+-4 14 -2
+-2 26 2
+16 28 -6
+-20 36 -8
+36 38 18
+-12 22 52
+18 -36 38
+-30 -72 -6
+-26 44 8
+
+// McRae et al 2010: emotion>task iaps visual maintain explicit fem picture neg react
+// Subjects=18
+42 0 -24
+58 -24 30
+-42 -12 0
+
+// McRae et al 2010: task>emotion iaps visual reapp+distract decr explicit fem picture neg reg
+// Subjects=18
+-6 10 62
+-36 62 12
+-42 22 30
+36 20 -4
+38 64 14
+42 30 34
+-42 -60 46
+-16 10 8
+
+// McRae et al 2010: task>task iaps visual reapp>distract decr explicit fem picture neg reg
+// Subjects=18
+-40 14 46
+48 4 46
+48 50 -10
+-22 -44 -10
+-54 -12 -18
+-56 -74 18
+48 18 -26
+58 -72 22
+-6 -60 32
+
+// McRae et al 2010: task>task iaps visual distract>reapp decr explicit fem picture neg reg
+// Subjects=18
+-56 -4 48
+48 42 32
+-26 -66 42
+
+// Ochsner et al 2004: task>emotion iaps visual reapp incr explicit fem picture neg reg
+// Subjects=23
+-50 2 42
+-50 0 50
+-36 12 52
+60 -2 50
+52 -6 58
+56 6 54
+-10 2 66
+-4 6 62
+-6 18 38
+-6 48 40
+-4 66 26
+-6 52 26
+18 10 44
+-58 16 16
+-58 12 6
+-44 12 30
+-22 -30 54
+24 -30 62
+-50 -64 20
+-54 -72 22
+-40 -72 22
+48 14 -12
+-66 -30 -10
+-58 -4 -20
+60 -72 20
+60 -78 10
+-24 -76 8
+-6 -62 46
+-2 -16 12
+-10 -8 -2
+20 -14 10
+-22 6 0
+-30 4 -6
+14 -4 -2
+-10 -64 -24
+-6 -50 20
+-2 -68 22
+38 -62 -34
+18 -72 -28
+32 -74 -28
+-18 -10 -14
+
+// Ochsner et al 2004: task>emotion iaps visual reapp decr explicit fem picture neg reg
+// Subjects=23
+-10 18 62
+-2 16 62
+10 20 64
+-34 12 56
+-16 46 42
+-8 46 48
+22 46 30
+-46 6 54
+-46 8 44
+-56 8 40
+-36 22 48
+-24 24 46
+52 16 48
+50 6 46
+42 30 38
+36 22 44
+-54 20 8
+-58 14 14
+-44 22 -8
+-30 22 -16
+58 10 12
+60 18 18
+50 18 -6
+34 24 -16
+12 24 30
+60 -56 42
+62 -68 24
+64 -62 30
+-60 -72 28
+-54 -64 32
+-48 -60 22
+-66 -32 -14
+-68 -34 -6
+-66 -26 -8
+52 -32 -8
+-54 -8 -26
+-16 8 14
+-20 -2 0
+-16 0 16
+18 10 12
+16 2 -6
+
+// Ochsner et al 2004: emotion>task iaps visual maintain explicit fem picture neg react
+// Subjects=23
+-48 -4 10
+-38 -26 18
+-40 -16 14
+44 -14 20
+40 0 16
+-58 -24 22
+50 -30 30
+38 -58 44
+24 -60 30
+-30 -2 -20
+-28 -4 -14
+20 0 -24
+
+// Ochsner et al 2004: task>task iaps visual reapp incr>decr explicit fem picture neg reg
+// Subjects=23
+-10 50 34
+-4 64 32
+-4 68 24
+-8 -64 14
+-6 -52 24
+0 -62 24
+-6 -12 10
+18 -8 -2
+-18 -46 -16
+-14 -54 -18
+-8 -62 -18
+-4 -44 2
+
+// Ochsner et al 2004: task>task iaps visual reapp decr>incr explicit fem picture neg reg
+// Subjects=23
+16 26 56
+14 20 64
+14 36 50
+42 22 42
+56 12 16
+34 22 -18
+64 -56 44
+
+// Eippert et al 2007: task>emotion iaps visual reapp decr explicit fem picture neg reg
+// Subjects=24
+0 18 54
+6 24 36
+-6 30 27
+
+// Eippert et al 2007: task>emotion iaps visual reapp incr explicit fem picture neg reg
+// Subjects=24
+12 -48 9
+0 15 57
+-6 -39 -18
+-24 -33 -6
+-6 27 15
+30 -63 -24
+-6 -12 63
+-9 -51 6
+15 9 54
+-21 -51 12
+-27 -57 -24
+9 -6 66
+
+// Eippert et al 2007: task>emotion iaps visual reapp decr+incr explicit fem picture neg reg
+// Subjects=24
+-48 18 0
+-30 3 54
+0 18 30
+-6 30 30
+-9 33 27
+-45 18 -3
+
+// Ochsner et al 2002: task>emotion iaps visual reapp decr explicit fem picture neg reg
+// Subjects=15
+-36 14 58
+-24 6 64
+-24 10 56
+-40 2 60
+-54 42 12
+-48 46 4
+-12 18 54
+-4 20 54
+8 28 40
+-22 4 -26
+-38 -74 40
+54 -70 30
+
+// Ochsner et al 2002: emotion>task iaps visual maintain explicit fem picture neg react
+// Subjects=15
+-6 44 -22
+-44 -16 2
+38 -64 34
+22 -76 40
+16 -12 -20
+
+// Walter et al 2009: task>emotion iaps visual reapp decr explicit fem picture neg+neu reg
+// Subjects=18
+40 26 44
+22 14 62
+-62 -46 40
+58 -54 40
+
+// Walter et al 2009: emotion>task iaps visual maintain explicit fem picture neg+neu react
+// Subjects=18
+-20 -2 -26
+22 2 -26
+-22 -28 -4
+26 -26 -6
+-26 -20 -18
+22 -22 -14
+-10 -60 8
+14 -68 12
+-12 -100 -2
+18 -96 -6
+10 -52 2
+
+// Walter et al 2009: task>emotion iaps visual reapp decr explicit fem picture neg reg
+// Subjects=18
+40 26 44
+22 14 64
+-62 -46 40
+58 -54 40
+
+// Walter et al 2009: task>emotion iaps visual reapp decr explicit fem picture neu reg
+// Subjects=18
+50 -48 40
+
+// Walter et al 2009: emotion>task iaps visual maintain explicit fem picture neg react
+// Subjects=18
+-20 -10 -10
+18 -6 -20
+-22 -28 -4
+-26 -20 -18
+-26 -86 -14
+18 -96 -6
+-6 -30 -8
+10 -28 -8
+-20 -58 -18
+28 -46 -24
+
+// Walter et al 2009: emotion>task iaps visual maintain explicit fem picture neu react
+// Subjects=18
+-20 -2 -26
+24 -8 -20
+-22 -30 -4
+22 -22 -14
+-26 -98 -2
+12 -52 2
+46 -66 -24
+
+// Wager et al 2008: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=30
+28 7 -18
+17 31 -14
+-48 28 -14
+41 48 0
+3 58 9
+21 55 18
+-31 24 45
+10 28 45
+48 31 -9
+28 31 -14
+
+// Goldin et al 2008: emotion>baseline film visual maintain explicit fem film neg react
+// Subjects=17
+-42.99 24.66 -26.83
+-36.41 25.35 -4.66
+1.07 61.47 18.65
+56.96 16.82 41.82
+4.75 29.13 68.15
+-54.25 10.98 31.32
+53.51 32.97 17.09
+-50.24 20.32 0.38
+56.62 20.96 -0.90
+-42.23 2.87 63.09
+-13.82 66.55 30.66
+-54.42 32.33 18.38
+8.90 46.53 58.84
+-49.93 -78.62 0.87
+44.61 24.84 -32.31
+38.39 22.45 -7.51
+38.11 -39.74 69.09
+-46.59 -21.16 41.73
+-6.19 -91.18 -14.19
+19.19 -5.84 -13.84
+-17.15 -2.88 -13.67
+-9.52 6.36 8.89
+11.88 3.57 12.22
+1.24 -30.13 4.02
+-3.25 -5.97 -13.57
+19.41 -23.42 6.59
+
+// Goldin et al 2008: task>emotion film visual reapp decr explicit fem film neg reg
+// Subjects=17
+-10.79 73.49 9.97
+52.21 45.97 -7.41
+-53.57 44.37 -4.94
+-38.15 11.85 41.10
+-29.06 44.89 -14.19
+-39.79 47.65 -18.76
+-36.52 40.61 -13.75
+-39.84 9.73 -41.23
+-60.98 7.68 -10.70
+-54.73 21.41 -26.42
+-65.30 -3.77 -20.84
+-60.72 -34.73 5.12
+-60.77 -38.50 -2.37
+-47.26 -0.63 -36.93
+-30.55 -62.70 26.08
+-42.34 -54.31 25.51
+-49.65 -67.96 42.35
+8.78 -67.86 -2.94
+
+// Goldin et al 2008: task>emotion film visual supp decr explicit fem film neg reg
+// Subjects=17
+1.71 26.21 53.30
+43.57 16.63 28.88
+53.12 26.26 16.56
+55.11 43.62 6.97
+58.37 24.07 4.36
+33.23 52.42 -12.58
+-35.91 60.99 -8.89
+-47.69 49.67 -3.09
+-35.67 21.20 1.77
+57.69 -65.92 17.76
+68.31 -55.22 5.32
+57.53 -74.82 2.96
+-61.23 -70.25 12.37
+-47.55 -61.96 -14.45
+-39.21 -63.77 46.09
+-31.55 -77.26 50.66
+39.55 -71.97 34.36
+
+// Goldin et al 2008: emotion>task film visual maintain explicit fem film neg react
+// Subjects=17
+-1.49 -93.91 31.63
+0.23 -77.46 0.83
+-6.22 -85.99 1.79
+
+// Goldin et al 2008: task>task film visual reapp>supp decr explicit fem film neg reg
+// Subjects=17
+-14.17 79.54 4.59
+-6.17 68.65 36.91
+-50.81 28.69 2.40
+-39.68 -14.79 18.84
+-40.45 28.70 -32.51
+-58.10 -41.53 9.48
+-43.50 -7.05 -24.44
+-58.83 5.58 -37.75
+41.75 18.77 -28.45
+4.78 -73.55 19.42
+-16.83 -98.82 14.44
+20.02 -102.21 22.00
+
+// Goldin et al 2008: task>task film visual supp>reapp decr explicit fem film neg reg
+// Subjects=17
+1.68 -4.71 44.04
+1.58 5.51 38.54
+1.58 20.81 41.51
+-2.37 49.41 -8.31
+52.98 36.17 7.74
+53.16 15.62 17.62
+-6.89 63.25 -20.81
+-35.78 54.27 -0.38
+49.87 26.25 16.62
+57.36 10.35 6.86
+-47.51 -61.65 -11.12
+-65.48 -21.60 27.80
+49.96 -74.84 3.09
+-39.25 -79.39 39.80
+1.13 -19.71 -1.53
+
+// Campbell-Sills et al 2011: emotion>baseline iaps visual maintain explicit mixed picture neg react
+// Subjects=26
+35.81 -72.43 -4.75
+-10.73 -2.11 3.65
+-31.14 -76.82 -2.06
+1.71 19.62 51.71
+-38.20 -10.72 50.91
+49.68 17.14 -0.41
+56.46 7.34 20.62
+
+// Campbell-Sills et al 2011: baseline>emotion iaps visual maintain explicit mixed picture neu react
+// Subjects=26
+24.72 -41.36 64.08
+
+// Campbell-Sills et al 2011: task>baseline iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=26
+36.94 -73.18 -1.34
+-32.25 -77.03 -4.26
+2.27 -7.28 5.06
+-40.86 14.02 17.13
+49.89 17.64 16.35
+-0.56 28.67 45.25
+
+// Campbell-Sills et al 2011: baseline>task iaps visual maintain explicit mixed picture neu react
+// Subjects=26
+-4.29 33.74 7.84
+-8.08 -72.87 27.41
+-22.22 -24.33 30.70
+
+// Campbell-Sills et al 2011: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=26
+49.00 14.62 30.11
+
+// Delgado et al 2008a: task>emotion e-shock cs reapp decr explicit mixed other neg reg
+// Subjects=12
+-43 28 30
+0 35 -8
+-30 -35 -9
+29 -32 -12
+0 14 -11
+
+// Delgado et al 2008a: emotion>task e-shock cs maintain explicit mixed other neg react
+// Subjects=12
+20 1 51
+5 40 51
+35 -47 46
+11 -71 45
+-31 -41 42
+2 -3 35
+-26 -68 -30
+-2 22 27
+23 59 24
+53 -28 21
+-58 -26 21
+11 -8 19
+-1 -9 16
+-9 -5 15
+29 46 15
+10 -5 12
+-26 -5 6
+29 -5 6
+32 13 5
+-25 -59 3
+7 -89 2
+-35 -20 0
+-20 0 -20
+
+// Hayes et al 2010: emotion>baseline iaps visual maintain explicit mixed picture neg react
+// Subjects=25
+-6 4 -14
+2 -26 -2
+-2 -26 -2
+20 60 24
+64 -48 30
+4 -50 28
+-6 -44 20
+20 -6 -14
+-20 -4 -18
+-42 -58 -16
+40 -6 -8
+
+// Hayes et al 2010: emotion>task iaps visual maintain explicit mixed picture neg react
+// Subjects=25
+-56 -16 32
+22 -48 72
+44 -8 4
+-44 -6 -2
+-22 -8 -18
+18 -6 -16
+
+// Hayes et al 2010: emotion>task iaps visual maintain explicit mixed picture neg react
+// Subjects=25
+22 -6 -12
+-20 -6 -18
+
+// Hayes et al 2010: task>baseline iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=25
+-50 28 -14
+48 30 -8
+-6 22 44
+-42 20 46
+-58 -38 -2
+-26 20 56
+-54 -58 44
+
+// Hayes et al 2010: task>baseline iaps visual supp decr explicit mixed picture neg reg
+// Subjects=25
+62 -48 26
+-48 -60 54
+8 26 38
+16 12 62
+34 18 2
+-36 4 0
+-46 46 -8
+42 46 18
+
+// Hayes et al 2010: task>task iaps visual supp>reapp decr explicit mixed picture neg reg
+// Subjects=25
+-66 -30 28
+64 -22 26
+44 2 6
+-42 -8 -6
+62 -18 28
+-56 -20 28
+
+// Hayes et al 2010: task>task iaps visual reapp>supp decr explicit mixed picture neg reg
+// Subjects=25
+-60 -4 -26
+-8 62 30
+-26 20 56
+10 66 12
+-34 22 -22
+
+// Modinos et al 2010: task>baseline iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=18
+-36 6 52
+8 34 42
+-50 40 -6
+44 22 8
+-8 26 32
+-62 -34 -6
+50 -24 -8
+-42 -66 36
+54 -54 26
+32 -64 -30
+
+// Winecoff et al 2011: task>emotion iaps visual reapp decr explicit picture pos reg
+// Subjects=42
+40 44 30
+-46 26 22
+0 24 50
+-38 22 -4
+40 20 -4
+42 22 36
+-56 20 2
+44 18 4
+-42 14 46
+48 10 50
+-62 -46 -2
+60 -52 34
+-64 -56 -10
+-42 -58 44
+-52 -60 26
+-40 -62 54
+-38 -68 54
+-6 -72 32
+
+// Winecoff et al 2011: task>emotion iaps visual reapp decr explicit picture neg reg
+// Subjects=42
+38 20 44
+-12 40 46
+-6 16 58
+46 16 6
+48 14 0
+-54 20 2
+-39 20 -3
+41 20 -4
+-42 12 50
+-2 -8 24
+0 -32 36
+-6 -34 24
+-38 -62 30
+58 -64 26
+50 -60 42
+-52 -60 34
+62 -52 40
+-40 -66 42
+
+// Winecoff et al 2011: emotion>task iaps visual maintain explicit picture pos react
+// Subjects=42
+-8 56 2
+4 56 -6
+-4 44 -6
+-20 10 -28
+-4 -2 36
+4 -4 42
+-6 -6 46
+-22 -8 -20
+-10 -20 36
+20 -22 28
+-46 -22 28
+50 -24 14
+-44 -26 34
+-48 -28 24
+26 -36 26
+16 -88 12
+32 -90 2
+24 -96 -6
+24 -96 8
+
+// Winecoff et al 2011: emotion>task iaps visual maintain explicit picture neg react
+// Subjects=42
+14 8 -26
+26 0 -16
+-24 -6 -8
+-19 -2 -18
+34 -18 62
+-64 -20 20
+-4 6 -6
+48 -22 26
+38 -20 24
+-56 -24 26
+-40 -22 22
+28 -100 8
+34 -94 22
+-36 -80 4
+22 -92 10
+
+// Kober et al 2010: task>emotion iaps_smoke visual reapp decr explicit mixed picture neg reg consequences
+// Subjects=21
+-5 18 47
+-48 25 -15
+-47 -13 66
+-60 -61 27
+-44 -55 30
+-70 -36 28
+36 4 -41
+
+// Kober et al 2010: emotion>task iaps_smoke visual maintain explicit mixed picture neg react
+// Subjects=21
+1 61 -13
+-2 10 29
+-15 49 -1
+8 37 6
+27 -55 18
+15 -40 44
+-41 -5 8
+40 -75 13
+34 29 20
+-41 -13 -12
+30 -44 -3
+-60 -28 -41
+63 -52 21
+-2 13 -8
+-2 -19 -5
+
+// Kanske et al 2011: emotion>baseline iaps visual maintain explicit mixed picture neg+pos react
+// Subjects=30
+0 -60 36
+48 -63 -6
+0 24 -6
+-48 9 0
+42 9 -6
+-18 -3 -12
+18 -3 -15
+6 -18 12
+
+// Kanske et al 2011: task>emotion iaps visual reapp decr explicit mixed picture neg+pos reg
+// Subjects=30
+-12 12 63
+12 15 66
+-45 12 45
+39 36 42
+-30 45 12
+36 45 27
+-36 45 -3
+39 45 -9
+-60 -51 33
+60 -54 39
+-6 -69 36
+9 -66 36
+-54 -39 -3
+-48 -3 -36
+-6 -21 27
+6 -21 30
+
+// Kanske et al 2011: task>emotion iaps visual distract decr implicit mixed picture neg+pos reg
+// Subjects=30
+-12 12 48
+12 21 45
+-39 3 33
+45 33 27
+-21 6 57
+27 6 54
+-27 -63 45
+33 -66 57
+-45 -39 45
+45 -45 48
+-12 -63 48
+9 -63 48
+-54 -57 -12
+-6 -24 27
+6 -24 27
+-33 18 18
+33 21 0
+12 -78 -21
+
+// Kanske et al 2011: emotion>task iaps visual maintain explicit mixed picture neg+pos react
+// Subjects=30
+-39 -27 57
+51 -24 36
+-45 -78 -3
+48 -63 -6
+-3 -30 -12
+12 -51 12
+-42 -9 18
+-21 -6 -18
+24 -3 -21
+-6 15 15
+3 18 12
+-3 -15 6
+-21 -27 -3
+
+// Kanske et al 2011: emotion>task iaps visual maintain explicit mixed picture neg+pos react
+// Subjects=30
+-6 54 39
+-51 -72 12
+45 -69 0
+-3 48 -9
+-33 -15 6
+-21 -6 -21
+27 -3 -18
+
+// Kanske et al 2011: task>task iaps visual reapp>distract decr explicit mixed picture neg+pos reg
+// Subjects=30
+-9 54 39
+-39 15 45
+-48 30 -6
+36 39 -6
+-45 -57 30
+57 -63 36
+-45 0 -33
+63 -12 -15
+-6 45 -9
+-27 -6 -18
+30 -6 -27
+
+// Kanske et al 2011: task>task iaps visual distract>reapp decr implicit mixed picture neg+pos reg
+// Subjects=30
+-12 12 48
+12 27 30
+-30 -3 54
+27 6 54
+-27 -60 45
+30 -63 60
+-48 -36 48
+45 -36 45
+-48 -60 -9
+-30 21 -3
+33 21 0
+18 -54 -24
+
+// Beauregard2001: emotion>baseline film visual maintain explicit male film pos react
+// Subjects=10
+-48 -72 0
+51 -66 -9
+30 -70 33
+27 -57 60
+-30 -54 60
+-24 -84 21
+
+// Beauregard2001: task>baseline film visual reapp decr explicit male film pos reg
+// Subjects=10
+-48 -72 -3
+45 -72 3
+30 -78 36
+-27 -54 54
+-21 -84 21
+30 -54 60
+-57 9 30
+
+// Erk2010: task>emotion iaps visual reapp decr explicit mixed picture neg+neu reg
+// Subjects=17
+40 26 46
+42 44 24
+60 -56 38
+
+// Erk2010: emotion>baseline iaps visual maintain explicit mixed picture neg react
+// Subjects=17
+24 -4 -16
+-22 -4 -22
+4 38 56
+54 22 30
+48 -72 -18
+-38 -60 -14
+
+// Erk2010: emotion>task iaps visual maintain explicit mixed picture neg react
+// Subjects=17
+24 -4 -16
+-24 -8 -16
+8 0 -4
+24 -22 -14
+20 -36 -12
+2 -90 -6
+-6 -94 -6
+
+// Erk2010: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=17
+42 44 24
+42 32 40
+26 6 52
+60 -46 30
+
+// Erk2010: task>baseline iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=17
+48 -62 16
+-54 -60 16
+
+// Grecucci2013a: task>emotion money/reward visual reapp decr+incr explicit mixed other neg reg
+// Subjects=21
+-3 -55 64
+-51 5 13
+-3 29 7
+-30 35 34
+15 5 70
+45 2 46
+
+// Grecucci2013a: task>emotion>task money/reward visual reapp decr+incr explicit mixed other neg reg
+// Subjects=21
+33 -37 40
+-27 -88 7
+33 -88 -14
+-45 -22 25
+39 -1 34
+-24 -4 43
+-3 -7 58
+27 20 7
+-51 2 7
+-21 -70 40
+-36 11 4
+
+// Grecucci2013a: task>emotion money/reward visual reapp decr explicit mixed other neg reg
+// Subjects=21
+-36 -19 70
+-36 41 7
+-18 32 22
+-6 -55 64
+6 8 67
+
+// Grecucci2013a: task>emotion money/reward visual reapp incr explicit mixed other neg reg
+// Subjects=21
+-48 2 19
+-45 5 10
+45 -1 40
+36 17 4
+-30 35 34
+-27 -61 55
+24 44 28
+15 -70 -5
+-54 -37 49
+
+// Grecucci2013a: task>emotion money/reward visual reapp decr+incr explicit mixed other neg reg
+// Subjects=21
+39 11 22
+-9 32 13
+-27 32 58
+
+// Herwig2007: task>baseline iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=34
+-7.91 23.61 60.45
+-41.72 20.04 35.60
+-16.40 -7.40 -18.14
+-25.87 -25.23 -1.65
+-39.91 -51.53 -6.65
+
+// Herwig2007: task>baseline iaps visual reapp decr explicit mixed picture neu reg
+// Subjects=34
+27.93 -1.51 -15.00
+-46.60 2.69 -11.90
+40.01 -15.32 -2.63
+12.01 -20.22 3.93
+-16.14 -26.26 -1.71
+
+// Herwig2007: task>baseline iaps visual reapp decr explicit mixed picture pos reg
+// Subjects=34
+-15.27 -4.85 -13.93
+-36.70 -50.66 -9.03
+
+// Hollmann2012: task>emotion food images visual reapp decr explicit fem picture pos reg
+// Subjects=17
+-45 33 -9
+48 42 -12
+-54 21 3
+51 15 -3
+-42 9 39
+45 9 42
+-9 12 66
+12 12 66
+-57 -51 21
+60 -45 30
+-9 12 6
+
+// Kanske2012: emotion>task iaps visual maintain explicit mixed picture pos react
+// Subjects=25
+-21 -7 -17
+30 -4 -20
+
+// Kanske2012: emotion>task iaps visual maintain explicit mixed picture neg react
+// Subjects=25
+-24 -7 -17
+27 -4 -20
+24 -61 46
+
+// Kanske2012: emotion>task iaps visual maintain explicit mixed picture pos react
+// Subjects=25
+-24 -4 -17
+30 -4 -20
+-60 -4 -23
+54 -67 7
+39 -43 -20
+-51 -76 13
+-12 -97 28
+15 -95 25
+0 35 -8
+
+// Kanske2012: emotion>task iaps visual maintain explicit mixed picture neg react
+// Subjects=25
+-21 -4 -23
+33 -1 -26
+-54 -73 16
+51 -67 -2
+-6 -94 28
+15 -97 19
+42 -43 -23
+0 38 -20
+
+// Kanske2012: task>emotion iaps visual reapp decr explicit mixed picture pos reg
+// Subjects=25
+-57 -52 37
+60 -55 40
+-45 20 49
+-42 47 -5
+
+// Kanske2012: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=25
+-48 -67 40
+51 -64 43
+
+// Kanske2012: task>emotion iaps visual distract decr implicit mixed picture pos reg
+// Subjects=25
+-24 -70 46
+33 -67 46
+-27 -1 64
+24 8 61
+-48 29 31
+36 38 19
+3 26 49
+9 29 28
+-30 20 1
+36 20 -5
+
+// Kanske2012: task>emotion iaps visual distract decr implicit mixed picture neg reg
+// Subjects=25
+-27 -58 46
+36 -46 40
+-24 -1 46
+24 53 -2
+-24 2 46
+-45 32 28
+39 35 25
+-9 17 40
+9 23 43
+-36 14 13
+36 17 7
+
+// Kanske2012: emotion>baseline iaps visual maintain explicit mixed picture pos react
+// Subjects=25
+-21 -1 -11
+24 2 -11
+-24 -4 -14
+
+// Kanske2012: emotion>baseline iaps visual maintain explicit mixed picture neg react
+// Subjects=25
+21 -1 -11
+-30 -79 -14
+12 -85 4
+3 -7 1
+
+// Krendl2012: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=16
+-39 -27 72
+30 51 0
+-18 57 -18
+63 -36 -21
+-57 18 6
+15 57 18
+-30 45 9
+-24 12 45
+-18 -63 -51
+33 -63 18
+30 12 54
+-9 -66 54
+21 42 36
+24 48 -24
+60 21 -15
+9 66 -9
+
+// Krendl2012: emotion>task iaps visual maintain explicit mixed picture neg react
+// Subjects=16
+-39 -27 72
+9 -54 -12
+-18 -24 -6
+24 -33 30
+51 48 12
+3 -3 -12
+-18 -78 -36
+-24 42 -6
+27 -9 -24
+9 -12 -21
+15 -9 -27
+20 -3 -27
+33 -18 -24
+-63 -3 39
+18 -39 69
+-6 -18 -18
+-36 -72 -3
+-27 -30 27
+-15 0 24
+-51 15 -21
+-39 21 9
+-15 42 15
+21 -63 42
+-48 -42 -30
+12 3 30
+-42 -48 3
+15 54 0
+-27 -87 12
+27 -90 -15
+36 54 24
+
+// Kross2009: emotion>baseline scripts verbal reapp decr explicit mixed other neg reg
+// Subjects=16
+-27.28 -26.22 56.74
+27.59 21.53 47.72
+18.12 -9.48 61.04
+15.06 -47.47 68.21
+0.92 12.64 -11.46
+8.47 -84.46 51.81
+-11.87 -9.12 -2.36
+-1.23 -80.99 54.99
+-11.06 -52.31 52.32
+-1.33 -88.30 45.64
+-11.36 -8.57 37.92
+-7.91 -29.96 50.06
+-11.06 -75.26 47.87
+-11.46 -25.77 26.17
+-14.25 -22.36 62.86
+-21.30 -6.97 21.12
+-27.65 -9.25 31.54
+-33.95 -11.22 45.29
+-40.44 1.83 47.47
+-53.53 -9.03 35.32
+-50.40 -3.26 27.97
+-50.22 -28.16 37.16
+-15.26 -36.53 -19.76
+26.98 -32.25 -10.82
+23.92 -34.21 2.87
+23.76 -58.41 -14.90
+17.47 -53.69 1.55
+14.21 -37.43 3.36
+10.59 -27.17 -24.49
+10.75 -35.81 -13.55
+4.77 -100.97 13.17
+-1.93 -53.44 5.22
+-5.32 -70.97 -9.80
+-8.35 -69.42 6.91
+-5.51 -65.83 -23.75
+-11.78 -44.53 -2.22
+-11.46 -71.69 17.27
+-24.67 -73.60 -2.49
+-28.30 -17.43 -21.43
+-27.60 -77.81 21.51
+-34.33 -46.87 8.48
+50.34 -73.10 33.17
+50.07 -58.71 14.94
+37.33 -60.39 32.13
+24.27 -80.82 20.93
+21.24 -79.28 37.63
+-28.23 9.34 -10.63
+-43.62 -69.93 37.81
+-63.71 -2.61 1.24
+-14.84 42.16 29.59
+20.75 2.44 16.11
+-31.12 28.40 21.15
+8.18 -20.95 42.17
+-24.66 -20.99 9.12
+27.09 -15.05 0.92
+-44.40 -79.04 -25.14
+37.60 -74.78 50.36
+-44.65 40.57 -20.17
+-11.74 57.50 21.30
+26.77 -20.74 -25.40
+-50.92 42.11 -3.40
+-50.13 -50.50 39.36
+29.99 18.50 -19.25
+
+// Kross2009: emotion>task scripts verbal maintain explicit mixed other neg react
+// Subjects=16
+7.39 61.77 -2.98
+-35.03 36.48 -30.01
+33.08 23.96 -29.93
+-47.56 -22.63 -7.14
+-2.35 9.12 -14.41
+
+// Kross2009: task>baseline scripts verbal reapp decr explicit mixed other neg reg
+// Subjects=16
+-2.15 23.76 4.31
+-37.57 -23.92 12.99
+14.43 -94.87 9.04
+-53.60 -48.88 22.45
+-47.56 -22.63 -7.14
+
+// Leiberg2012: task>emotion iaps visual reapp decr explicit fem picture neg reg distance
+// Subjects=24
+9 3 54
+33 -93 3
+
+// Leiberg2012: emotion>task iaps visual maintain explicit fem picture neg react
+// Subjects=24
+36 -75 45
+-60 -42 45
+
+// Leiberg2012: task>emotion iaps visual reapp incr explicit fem picture neg reg
+// Subjects=24
+-30 -90 36
+-36 -87 12
+-18 -39 75
+-39 -15 42
+9 -6 60
+-21 -57 57
+-15 -93 -9
+-27 -21 -15
+27 -60 69
+
+// Leiberg2012: emotion>task iaps visual maintain explicit fem picture neg react
+// Subjects=24
+21 30 57
+48 39 18
+
+// Leiberg2012: task>emotion iaps visual reapp decr+incr explicit fem picture neg reg
+// Subjects=24
+3 3 57
+
+// Leiberg2012: emotion>baseline iaps visual maintain explicit fem picture neg react
+// Subjects=24
+51 -63 9
+-30 24 3
+57 3 12
+-48 -69 9
+-42 -39 -15
+30 -87 27
+21 -30 3
+-9 15 45
+12 -9 48
+39 24 0
+3 -51 48
+-36 -93 -6
+-33 -6 -12
+
+// Levesque2003: emotion>baseline film visual maintain explicit fem film neg react
+// Subjects=20
+-57.64 0.89 -30.59
+-15.25 -22.18 -15.58
+59.15 5.42 -22.94
+49.40 28.14 -20.54
+-25.08 -4.45 -20.53
+4.25 -31.58 -13.86
+39.52 12.72 -35.65
+-41.17 17.16 -6.70
+-57.40 9.24 -10.13
+
+// Levesque2003: task>emotion film visual reapp decr explicit fem film neg reg
+// Subjects=20
+26.54 48.71 -28.91
+40.19 30.88 20.81
+
+// MacRae2012: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=38
+60.24 29.55 -17.50
+61.30 11.92 -22.50
+39.70 18.43 -20.53
+-57.45 28.59 -9.80
+-57.45 28.59 -9.80
+-55.59 -70.60 31.36
+-61.47 19.92 12.42
+-52.48 -60.68 22.48
+-66.82 -41.01 3.97
+-58.23 -38.10 0.18
+-20.43 17.73 9.70
+-46.83 -4.50 -31.36
+-54.33 -60.53 47.15
+-59.41 -20.23 -3.81
+-34.79 20.81 -13.90
+-66.72 -58.89 7.98
+-11.35 54.54 -33.32
+-58.62 10.43 -20.31
+-33.89 56.67 -20.82
+-30.18 62.34 16.65
+-33.60 59.91 2.38
+-44.53 57.87 -7.31
+-50.13 18.03 -31.29
+-38.37 28.53 45.91
+-42.60 12.77 49.78
+1.91 13.42 65.77
+17.89 33.71 52.28
+11.94 31.77 8.88
+-2.84 29.96 36.20
+26.06 56.46 19.64
+-3.26 47.57 6.45
+1.23 45.53 18.90
+32.69 51.04 30.15
+58.47 -44.07 -1.22
+68.61 -62.82 27.35
+61.53 -19.16 -10.46
+35.40 -71.08 -36.26
+35.40 -71.08 -36.26
+32.40 -87.93 -21.09
+51.63 -77.41 -35.91
+51.60 -63.48 -36.16
+22.80 13.62 9.37
+59.04 -7.42 -33.99
+
+// MacRae2012: emotion>task iaps visual maintain explicit mixed picture neg react
+// Subjects=38
+-44.48 -34.37 62.32
+-57.99 -28.69 20.53
+-48.43 -3.54 13.40
+-45.83 -37.51 40.25
+-47.18 -24.19 22.14
+-13.53 2.26 39.12
+-9.07 -15.28 46.39
+-33.75 -25.07 57.86
+-5.85 -0.07 48.19
+-38.63 -43.48 10.46
+-41.97 -19.03 8.10
+-18.81 -18.71 44.65
+-28.49 -40.33 43.59
+-18.34 -21.77 80.80
+12.63 -5.76 55.16
+23.25 1.64 41.92
+-28.83 -31.88 19.23
+-18.32 -31.45 80.64
+-62.21 2.74 35.42
+-60.21 1.50 22.06
+-18.20 -37.55 3.92
+-14.97 -24.46 5.93
+-67.71 -7.89 25.36
+62.86 -4.21 11.57
+62.68 -9.92 -3.55
+64.20 -27.42 27.29
+61.92 -19.55 19.83
+44.54 -5.03 15.32
+44.36 -15.10 -0.49
+53.43 -35.97 28.32
+14.43 -39.07 20.32
+58.04 -26.12 53.04
+47.21 -13.19 54.18
+18.80 -11.32 29.83
+40.74 -41.59 49.26
+49.40 -34.87 51.81
+15.76 -22.95 43.36
+25.54 -59.70 40.11
+40.85 -56.07 55.17
+23.70 -55.53 -18.54
+
+// MacRae2012: emotion>baseline iaps visual maintain explicit mixed picture neg react
+// Subjects=38
+40.40 -78.04 -9.28
+51.52 -74.95 -9.10
+-41.41 -38.20 -23.66
+39.39 -48.44 -25.45
+-46.46 -84.37 -6.07
+-26.26 -92.10 -18.43
+-14.14 -93.59 -7.79
+12.12 -80.62 -21.35
+18.18 -33.05 0.43
+27.27 -91.63 -5.30
+-4.04 15.34 46.52
+49.49 -1.55 32.57
+-18.18 -32.12 2.66
+31.31 -78.30 18.72
+44.44 -0.93 41.30
+-16.16 -79.33 -27.23
+0.00 51.89 37.56
+39.39 20.64 0.00
+13.13 -13.18 16.72
+-29.29 -7.57 72.51
+7.07 8.23 65.73
+32.32 -8.34 45.27
+27.27 -73.62 50.53
+-31.31 -83.40 17.36
+-2.02 -56.47 -30.68
+-12.12 52.61 22.37
+-48.48 16.58 20.46
+16.16 -3.50 8.52
+-43.43 -2.83 37.94
+-9.09 -15.14 14.44
+-34.34 25.69 2.44
+-16.16 9.83 10.31
+-8.08 14.41 66.06
+-12.12 -1.44 8.63
+17.17 -45.30 -26.46
+-33.33 -46.44 43.26
+22.22 -2.68 -9.69
+-18.18 -75.37 43.91
+-32.32 -1.14 45.65
+0.00 -53.18 11.34
+-27.27 -64.15 46.67
+40.40 23.78 -24.85
+-13.13 7.88 8.03
+-42.42 11.94 9.34
+-30.30 -71.66 -37.52
+26.26 16.06 -13.37
+0.00 -63.06 23.88
+8.08 -52.87 -42.39
+45.45 -43.40 44.50
+-36.36 48.54 21.06
+-7.07 26.72 24.26
+-26.26 45.81 35.07
+-50.51 18.89 -7.25
+-3.03 -40.26 21.82
+-20.20 28.93 -24.55
+42.42 47.62 18.84
+48.48 -51.22 13.62
+6.06 -53.23 -10.23
+-25.25 -3.65 -10.94
+-14.14 -54.00 -40.07
+-22.22 -40.00 -29.73
+31.31 -4.27 3.04
+26.26 50.86 37.51
+-7.07 -15.96 31.81
+-26.26 17.09 -13.31
+0.00 -60.49 56.66
+4.04 48.60 -25.80
+-57.58 24.45 28.50
+8.08 34.39 -31.39
+-31.31 -5.30 2.98
+21.21 33.87 -19.50
+-36.36 -30.63 58.24
+39.39 -10.09 -29.19
+51.52 -11.79 -13.79
+6.06 -36.96 -28.36
+-7.07 -87.00 6.29
+-58.59 35.16 -1.54
+8.08 63.94 -22.53
+8.08 64.56 -12.95
+28.28 -34.28 -42.51
+0.00 -21.05 -14.33
+23.23 -1.34 -40.60
+22.22 58.43 -14.50
+-53.54 49.52 0.44
+-25.25 -33.41 -38.88
+-3.03 -2.83 -6.12
+-23.23 14.62 -27.76
+-33.33 -63.27 6.45
+-57.58 -1.49 -13.20
+-57.58 5.20 -24.73
+
+// New2009: task>emotion iaps visual reapp decr explicit fem picture neg reg
+// Subjects=14
+-46 28 -8
+50 10 22
+-44 46 -8
+46 46 -10
+-36 48 0
+42 54 0
+-38 12 54
+40 22 38
+-6 28 60
+34 -58 36
+-32 -64 48
+-54 -32 -2
+-4 -24 28
+4 20 46
+
+// New2009: task>emotion iaps visual reapp incr explicit fem picture neg reg
+// Subjects=14
+10 22 50
+
+// New2009: emotion>baseline iaps visual maintain explicit fem picture neg react
+// Subjects=14
+-4 -82 -3
+-54 20 26
+-4 14 50
+16 -94 18
+
+// Ochsner2009: emotion>task iaps visual maintain explicit fem picture neg react
+// Subjects=20
+45 27 19
+37 -55 49
+37 -83 -3
+-45 -87 -3
+-23 -3 -17
+23 -5 -15
+
+// Ochsner2009: task>emotion iaps visual reapp incr explicit fem picture neg reg
+// Subjects=20
+-7 3 67
+-45 5 53
+-25 27 49
+-47 33 -3
+-59 17 15
+-57 -59 23
+-63 -15 -15
+-53 -71 27
+-49 -39 -3
+59 -35 -5
+29 -67 -41
+31 -87 -43
+-19 5 1
+21 9 15
+
+// Ohira2006: emotion>task iaps visual maintain explicit fem picture neg+pos+neu react
+// Subjects=10
+44 22 -24
+-38 -68 16
+22 -86 10
+-22 0 -22
+56 -44 14
+
+// Ohira2006: task>emotion iaps visual supp decr explicit fem picture neg+pos+neu reg
+// Subjects=10
+10 24 -24
+0 -38 78
+-6 60 -28
+54 -26 10
+-30 52 -2
+
+// Opitz2012: task>emotion iaps visual reapp decr+incr explicit mixed picture neg reg
+// Subjects=31
+-6 26 24
+-50 10 -4
+
+// Opitz2012: task>emotion iaps visual reapp incr explicit mixed picture neg reg
+// Subjects=31
+-2 26 24
+0 32 12
+4 16 34
+-6 14 28
+-50 12 -6
+-42 14 -4
+-60 4 2
+-44 24 -8
+-38 24 -2
+
+// Opitz2012: task>emotion iaps visual reapp incr explicit mixed picture neg reg
+// Subjects=31
+2 6 58
+-6 26 24
+8 -8 68
+2 2 62
+-2 6 44
+0 4 52
+-30 30 0
+-60 4 0
+-50 22 -12
+-56 14 -10
+-54 8 -2
+-46 16 -10
+
+// Opitz2012: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=31
+-50 22 -12
+-42 18 -6
+-54 20 -10
+-46 26 -6
+-32 30 -2
+-36 24 -16
+
+// Perlman2012: task>emotion iaps visual reapp decr explicit picture neg reg
+// Subjects=14
+45.81 -67.02 18.07
+33.88 22.33 32.97
+-47.40 -59.75 -2.35
+14.83 6.57 60.63
+
+// Perlman2012: emotion>task iaps visual maintain explicit picture neg react
+// Subjects=14
+-41.28 50.23 -8.85
+-46.44 22.54 5.18
+-24.97 40.17 -2.53
+31.08 33.91 -15.19
+
+// Pitskel2011: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=15
+20.91 -104.73 6.54
+-14.49 18.50 52.10
+
+// Pitskel2011: emotion>task iaps visual maintain explicit mixed picture neg react
+// Subjects=15
+10.75 -25.93 -11.17
+43.06 -20.06 -19.02
+49.96 -29.99 12.10
+-47.32 -27.45 10.14
+43.79 1.82 42.67
+30.97 -59.47 42.23
+-40.50 -5.17 41.44
+-1.68 14.11 38.87
+
+// Pitskel2011: task>emotion iaps visual reapp incr explicit mixed picture neg reg
+// Subjects=15
+74.01 -24.54 34.68
+-43.85 -65.11 20.53
+47.10 -73.11 33.22
+20.41 3.13 -10.85
+-21.52 -5.34 4.15
+-1.13 -60.60 66.42
+
+// Pitskel2011: emotion>task iaps visual maintain explicit mixed picture neg react
+// Subjects=15
+56.44 -29.97 11.99
+-40.88 -17.86 9.08
+
+// Pitskel2011: task>emotion iaps visual reapp decr+incr explicit mixed picture neg reg
+// Subjects=15
+-56.74 -51.46 29.49
+
+// Pitskel2011: emotion>task iaps visual maintain explicit mixed picture neg react
+// Subjects=15
+56.44 -29.97 11.99
+-44.13 -14.68 8.82
+43.40 -53.60 1.10
+-18.13 -66.58 3.43
+20.82 -69.32 6.40
+13.87 -26.85 -21.22
+33.29 -30.28 -24.57
+-37.96 -33.42 -19.68
+-51.05 -57.35 -33.90
+
+// Pitskel2011: emotion>baseline iaps visual maintain explicit mixed picture neg react
+// Subjects=15
+27.27 -70.89 36.52
+-24.24 -55.45 37.34
+-12.12 -22.24 -10.82
+-18.18 -3.55 -13.32
+21.21 -29.03 2.82
+36.36 -43.24 -26.34
+-42.42 -56.21 -12.78
+36.36 -7.57 7.22
+-36.36 -7.72 10.48
+45.45 3.70 30.67
+12.12 15.91 34.58
+-33.33 22.70 21.88
+-51.52 3.70 30.67
+
+// Pitskel2011: baseline>emotion iaps visual maintain explicit mixed picture neu react
+// Subjects=15
+6.06 -44.17 -4.94
+15.15 -48.80 27.90
+-9.09 -71.81 -10.11
+
+// Schardt2010: emotion>task iaps visual maintain explicit fem picture neg+neu react
+// Subjects=37
+-28 0 -18
+16 -8 -14
+-2 -6 6
+-2 54 -12
+-32 -14 22
+26 -92 -2
+-24 -92 -4
+-6 -44 0
+12 -48 6
+8 -40 0
+-24 -28 -6
+
+// Schardt2010: task>emotion iaps visual reapp decr explicit fem picture neg+neu reg
+// Subjects=37
+34 40 32
+38 48 4
+-32 46 8
+4 28 40
+24 6 68
+44 14 44
+40 16 4
+56 -52 40
+-56 -52 44
+-16 -60 62
+-36 -50 -46
+
+// SokolHessner2013: task>emotion money/reward visual reapp decr explicit other pos+neg reg
+// Subjects=16
+34.79 44.04 24.08
+8.39 -5.15 61.89
+-1.24 -29.65 64.48
+7.71 -21.19 5.22
+
+// Staudinger2009: task>emotion money/reward visual reapp decr explicit mixed other pos reg
+// Subjects=16
+4 26 38
+40 38 -12
+40 16 46
+54 -60 22
+
+// Staudinger2011: task>emotion money/reward visual reapp decr explicit mixed other pos reg
+// Subjects=24
+62 -56 24
+28 34 52
+-54 -56 8
+
+// Urry2006: task>emotion+task iaps visual reapp incr explicit mixed picture neg reg
+// Subjects=17
+-3.78 -45.64 31.37
+-42.84 -53.61 17.14
+45.42 -64.51 -12.42
+-14.83 46.62 31.39
+-2.03 -7.09 7.36
+-36.73 -54.16 -12.05
+-18.79 -84.19 33.20
+-8.69 -56.61 -16.77
+9.16 -83.00 21.40
+12.81 -66.08 -27.40
+12.97 2.98 -0.62
+32.93 -76.33 22.58
+49.97 -58.37 7.06
+-38.99 -13.34 -11.57
+-47.32 15.27 19.36
+-14.83 46.62 31.39
+40.95 -48.13 -20.69
+
+// Urry2006: task>emotion>task iaps visual reapp incr>maintain>decr explicit mixed picture neg reg
+// Subjects=17
+-2.21 70.32 8.66
+
+// Urry2006: task>emotion iaps visual reapp decr+incr explicit mixed picture neg reg
+// Subjects=17
+-1.37 0.03 60.43
+
+// Urry2009: task>emotion iaps visual reapp decr+incr explicit mixed picture neg reg
+// Subjects=26
+6.54 -38.29 -5.39
+7.11 5.40 48.55
+-2.51 13.40 -26.04
+0.76 -0.17 58.17
+
+// Urry2009: task>emotion+task iaps visual reapp incr explicit mixed picture neg reg
+// Subjects=26
+-6.30 -57.07 1.17
+26.02 -55.45 -6.27
+-44.84 0.13 40.99
+13.26 -78.06 5.15
+
+// Urry2009: emotion+task>task iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=26
+43.00 38.62 -11.38
+
+// vanReekum2007: task>emotion>task iaps visual reapp incr explicit mixed picture neg reg
+// Subjects=21
+32.60 -21.86 8.23
+
+// vanReekum2007: task>task>emotion iaps visual reapp incr+decr explicit mixed picture neg reg
+// Subjects=21
+-58.33 -41.06 -8.49
+-60.56 -24.05 -10.14
+-4.38 -15.14 -9.74
+-53.84 -41.93 4.96
+-45.41 22.12 0.72
+53.99 29.06 0.58
+-47.06 -65.98 22.91
+9.09 -72.57 18.13
+-6.09 -51.15 18.51
+-53.66 -42.81 18.49
+-17.12 6.25 13.02
+-51.69 14.84 15.00
+-45.05 18.24 27.99
+45.84 -4.43 33.17
+-36.11 7.37 49.09
+26.68 -11.13 54.33
+-1.42 6.20 57.58
+
+// vanReekum2007: task>task=emotion iaps visual reapp incr explicit mixed picture neg reg
+// Subjects=21
+-32.46 -32.67 -12.01
+38.86 -30.08 -11.24
+-2.24 4.43 -7.23
+15.15 -16.57 -3.20
+43.56 -53.52 13.41
+11.04 -19.39 12.83
+-40.62 -11.53 30.86
+24.62 -45.38 55.51
+-16.49 -21.92 56.13
+
+// Vrticka2011: task>task iaps visual reapp>supp decr explicit fem picture neg+pos reg
+// Subjects=19
+18 51 45
+39 24 54
+18 -57 69
+
+// Vrticka2011: task>task iaps visual supp>reapp decr explicit fem picture neg+pos reg
+// Subjects=19
+27 42 24
+9 -6 63
+
+// Vrticka2011: task>emotion iaps visual reapp decr explicit fem picture neg+pos reg
+// Subjects=19
+-66 -42 -9
+-21 -36 72
+-21 -30 78
+51 -30 57
+24 45 9
+
+// Vrticka2011: emotion>task iaps visual maintain explicit fem picture neg+pos react
+// Subjects=19
+30 -36 -9
+-15 -3 -6
+-30 -3 0
+-24 -3 6
+30 6 -15
+30 -6 -3
+24 12 -15
+-24 15 -12
+-30 3 -15
+-24 36 -9
+12 -9 9
+9 -27 0
+-54 -24 3
+6 -66 21
+12 -60 24
+-36 -24 -15
+-27 -21 -15
+-45 -87 9
+-42 -75 15
+-39 -87 21
+-21 -72 18
+-21 -84 33
+-21 -84 42
+-51 -9 45
+-42 3 48
+
+// Vrticka2011: task>emotion iaps visual supp decr explicit fem picture neg+pos reg
+// Subjects=19
+24 45 9
+
+// Otto2014: task>emotion faces/sentences visual+verbal reapp decr explicit fem picture+other neg reg
+// Subjects=26
+39.16 -84.77 0.89
+36.68 -69.63 -20.73
+36.61 -43.89 -21.04
+-62.51 25.65 16.35
+-3.48 17.87 67.66
+-1.51 -44.80 40.21
+-36.70 -53.96 -9.83
+-19.27 -85.59 -4.75
+-40.65 -55.53 19.53
+-8.33 48.98 33.29
+-49.01 5.62 53.96
+-3.76 -14.82 39.53
+-56.00 -48.52 3.41
+-40.51 26.50 47.27
+-12.73 33.03 23.74
+49.76 25.42 7.74
+0.14 -22.38 4.35
+53.71 2.97 -25.96
+-53.52 -65.79 25.25
+43.34 -33.28 0.21
+
+// Otto2014: emotion>task faces/sentences visual+verbal maintain explicit fem picture+other neg react
+// Subjects=26
+15.57 -65.96 19.60
+-16.94 -69.04 11.50
+15.26 -52.94 -1.85
+34.83 -45.45 8.28
+49.87 -10.95 9.09
+-44.62 -42.00 49.63
+59.16 -36.75 54.07
+62.84 -41.52 2.93
+
+// Levesque2004: task>emotion film visual reapp decr explicit fem film neg reg
+// Subjects=14
+-28.05 61.07 14.50
+4.30 59.60 8.49
+-2.18 59.58 8.61
+3.83 59.37 -28.45
+-2.31 58.65 -1.39
+28.77 20.75 -29.54
+29.87 11.08 -29.72
+7.74 55.65 23.39
+
+// Levesque2004: emotion>baseline film visual maintain explicit fem film neg react
+// Subjects=14
+3.03 56.78 21.50
+3.03 -39.69 -13.02
+-3.03 33.36 -7.61
+50.51 8.55 -30.50
+-50.51 5.56 -33.05
+3.03 56.78 21.50
+-1.01 59.46 -14.44
+
+// Kalisch2006: task>emotion pain physiological distract decr implicit mixed other neg reg
+// Subjects=15
+-56 30 22
+26 -26 -30
+-6 26 -14
+
+// Hariri2003: emotion>task iaps visual maintain implicit mixed picture neg react
+// Subjects=11
+28.99 -8.20 -17.72
+-27.18 -8.40 -16.74
+42.11 -43.15 -13.36
+
+// Hariri2003: task>emotion iaps visual distract decr implicit mixed picture neg reg label
+// Subjects=11
+-40.17 24.19 -11.90
+41.95 20.23 -12.90
+-51.68 26.95 18.28
+1.50 31.14 37.13
+
+// Holland2013: task iaps visual reapp decr+incr explicit mixed picture neg reg
+// Subjects=18
+-10.10 47.07 -21.40
+-2.41 13.41 65.85
+-1.04 66.59 14.62
+-22.34 44.78 35.07
+-40.33 26.34 -23.31
+43.98 35.67 -20.07
+-58.41 -25.21 -11.18
+-48.03 -60.79 32.50
+
+// Holland2013: task>task iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=18
+-46.24 19.63 20.03
+-36.02 29.55 -23.71
+42.47 12.06 25.99
+56.23 32.99 8.00
+33.05 35.76 -29.98
+-35.01 19.60 53.46
+-17.71 17.53 53.37
+12.71 13.46 65.58
+-4.82 21.41 48.29
+-11.29 30.21 50.89
+14.71 15.52 53.02
+-60.95 -14.51 46.07
+-41.32 -6.50 61.75
+-60.12 -63.45 16.16
+-43.64 -72.27 35.80
+-33.56 -48.08 -16.07
+42.22 -64.21 -9.04
+48.62 -47.27 -11.94
+27.22 -53.44 3.60
+16.66 -72.44 19.11
+-13.69 -67.86 12.45
+36.29 -67.73 33.99
+40.79 -53.29 50.42
+47.16 -39.86 44.50
+-24.11 -49.68 46.68
+-23.90 -58.01 60.95
+-34.90 -75.87 42.74
+-8.92 -68.88 47.20
+-2.54 -35.67 46.05
+5.90 -30.61 30.84
+-2.94 31.36 28.22
+18.67 -57.21 9.72
+-7.63 -85.19 -24.04
+-5.30 -13.90 3.60
+9.85 -11.51 5.35
+
+// Holland2013: task>task iaps visual reapp incr explicit mixed picture neg reg
+// Subjects=18
+69.30 -24.16 4.47
+
+// Holland2013: task>task iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=18
+-44.44 44.48 19.76
+-28.28 55.75 -0.35
+-36.36 47.93 -10.34
+-32.32 -82.11 -34.54
+-32.32 -80.51 -23.72
+30.30 -77.83 -37.87
+10.10 -3.96 18.29
+
+// Holland2013: task>task iaps visual reapp incr explicit mixed picture neg reg
+// Subjects=18
+-38.38 29.60 -16.17
+-46.46 17.91 14.00
+28.28 35.68 -13.43
+38.38 -65.38 -15.70
+-44.44 -56.32 -10.41
+-55.56 -51.89 5.97
+
+// Golkar2012: task>emotion iaps visual reapp decr explicit mixed picture neg+neu reg
+// Subjects=58
+57 -41 39
+51 -47 53
+-58 -51 45
+-64 -51 33
+39 34 36
+33 27 32
+27 51 20
+20 13 60
+
+// Golkar2012: task>emotion iaps visual reapp decr explicit mixed picture neg+neu reg
+// Subjects=58
+42 50 -10
+-38 60 -4
+-12 21 54
+50 -54 44
+46 -62 45
+
+// Golkar2012: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=58
+56 -47 33
+54 -44 41
+-57 -50 45
+-54 -63 41
+-64 -53 32
+42 24 39
+28 55 23
+34 30 33
+-34 54 -3
+16 21 59
+42 45 -9
+
+// Golkar2012: task>emotion iaps visual reapp decr explicit mixed picture neu reg
+// Subjects=58
+62 -38 39
+24 46 20
+36 16 8
+
+// Golkar2012: task>emotion iaps visual reapp decr explicit mixed picture neg+neu reg
+// Subjects=58
+60 -39 39
+26 49 18
+
+// Ziv2013: task>emotion faces visual reapp decr explicit mixed picture neg reg
+// Subjects=27
+-1.90 -59.72 6.96
+-1.34 12.24 64.82
+-57.67 3.25 52.10
+-68.72 -47.87 22.61
+-58.34 -17.04 -4.15
+-55.33 27.23 -13.06
+-65.64 -33.69 13.31
+45.45 -23.81 -1.88
+-55.32 15.21 -15.23
+68.27 7.92 14.76
+-58.44 -5.76 -9.74
+
+// Ziv2013: task>emotion faces visual reapp decr explicit mixed picture neg reg
+// Subjects=27
+-1.90 -59.72 6.96
+32.23 -9.97 66.45
+-1.32 20.10 68.53
+-54.46 10.71 51.31
+-65.50 -58.91 19.17
+-47.26 26.63 26.08
+28.03 -50.72 67.19
+-23.85 -72.90 62.42
+-58.51 27.63 -8.56
+-1.63 13.36 42.30
+31.89 -72.73 26.72
+-68.50 -184.06 12.55
+-32.49 54.70 4.00
+-31.82 -91.34 26.29
+-50.79 13.49 0.55
+-24.01 -18.34 60.39
+-2.02 -0.50 8.94
+-50.07 -59.86 42.53
+-39.39 -54.17 33.94
+-32.44 -9.50 -5.33
+-54.93 -34.38 5.35
+
+// Ziv2013: task>emotion faces visual reapp decr explicit mixed picture neg reg
+// Subjects=27
+-1.37 19.69 64.09
+
+// Seo2014: task>emotion iaps visual reapp decr explicit fem picture neg+pos reg
+// Subjects=24
+-31 48 16
+31 50 16
+23 -7 8
+-58 -21 -1
+9 -23 53
+-2 -72 -2
+
+// Seo2014: task>emotion iaps visual reapp decr explicit fem picture pos+neg reg
+// Subjects=24
+-41 16 27
+43 17 37
+-4 24 49
+-51 -50 20
+26 -72 -35
+
+// Vanderhasselt2013: task>emotion iaps visual supp decr explicit fem picture neg reg
+// Subjects=42
+42 49 -4
+56 -49 39
+7 -42 42
+-39 49 -7
+
+// Vanderhasselt2013: task>emotion iaps visual reapp decr explicit fem picture neg reg
+// Subjects=42
+-53 -39 0
+25 25 60
+-53 32 -7
+53 28 28
+-7 14 60
+49 45 -14
+39 -70 49
+
+// Vanderhasselt2013: task>task iaps visual supp>reapp decr explicit fem picture neg reg
+// Subjects=42
+63 7 11
+32 39 35
+7 -25 49
+-39 -32 18
+-32 35 35
+-32 -49 42
+
+// Vanderhasselt2013: task>task iaps visual reapp>supp decr explicit fem picture neg reg
+// Subjects=42
+-7 14 60
+32 -95 7
+-53 -35 -4
+-25 -95 4
+4 -88 0
+-49 -67 25
+
+// Morris2014: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=34
+12 26 42
+6 12 56
+32 56 -10
+38 48 -12
+
+// Morris2014: task>emotion iaps visual reapp decr explicit mixed picture neg+pos reg
+// Subjects=34
+-8 20 50
+-8 30 38
+48 38 -6
+38 54 24
+-38 50 6
+
+// Morris2014: task>task iaps visual reapp decr explicit mixed picture neg>pos reg
+// Subjects=34
+-36 28 12
+50 42 10
+42 20 24
+6 52 8
+52 10 46
+54 -10 50
+-54 -4 16
+-52 -6 36
+36 50 34
+-22 38 46
+-44 -10 -14
+36 -2 -10
+30 -46 -10
+-42 -54 -8
+-26 -96 20
+38 -68 2
+12 4 38
+-36 10 12
+-26 -22 14
+18 0 14
+30 -20 4
+16 -20 8
+
+// Silvers2015a: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=30
+-42 10 10
+-60 28 28
+-57 37 37
+-54 37 37
+-51 28 28
+-48 25 25
+-45 22 22
+-33 34 34
+48 22 22
+48 19 19
+57 28 28
+60 31 31
+-33 52 52
+24 52 52
+24 58 58
+30 16 16
+45 25 25
+-24 61 61
+-21 28 28
+-15 58 58
+-12 49 49
+-6 28 28
+12 37 37
+21 7 7
+24 46 46
+-9 28 28
+-6 52 52
+0 55 55
+-33 19 19
+36 22 22
+-66 -41 -41
+-63 -14 -14
+-63 -41 -4
+-63 1 1
+-54 -2 -2
+-54 1 1
+-51 10 10
+-69 -29 -29
+-66 -56 -56
+-57 19 19
+-48 -26 -26
+-51 -68 -68
+-48 -56 -56
+-27 -77 -77
+
+// Silvers2015a: emotion>baseline iaps visual maintain explicit mixed picture neg react
+// Subjects=30
+0 -26 -7
+39 25 -7
+24 -5 -10
+15 19 5
+9 -2 -10
+24 -11 2
+15 -2 8
+30 -17 -7
+27 7 -1
+30 -29 -1
+39 22 -40
+48 19 -25
+54 -65 8
+51 -77 8
+42 -47 -22
+-42 -80 2
+-45 -65 -8
+-39 -65 -7
+-36 -71 -22
+-24 -98 -16
+-39 -41 23
+-45 -29 5
+-36 -14 -17
+-63 -27 -2
+-51 -20 5
+-66 -26 -7
+57 -26 8
+60 -2 2
+69 -17 2
+72 -26 -19
+42 -26 20
+42 -14 5
+42 -14 5
+
+// Silvers2015b: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=56
+33 24 51
+-33 -75 36
+42 -69 42
+36 3 -12
+-60 -33 45
+
+// Silvers2015b: emotion>baseline iaps visual maintain explicit mixed picture neg react
+// Subjects=56
+-30 -3 45
+0 51 27
+51 12 33
+18 -30 -3
+-30 -48 45
+30 -48 45
+-48 -75 3
+-30 -3 45
+
+// Silvers2015b: baseline>emotion iaps visual maintain explicit mixed picture neu react
+// Subjects=56
+9 51 -12
+-21 27 36
+24 30 42
+33 -15 39
+39 -27 18
+9 3 42
+45 -69 33
+15 -57 15
+
+// Morawetz2016a: task>emotion film visual reapp decr+incr explicit mixed film neg reg
+// Subjects=23
+3 8 67
+-60 -46 28
+-48 23 -8
+-42 2 52
+-18 59 31
+
+// Morawetz2016a: task>task film visual reapp incr>decr explicit mixed film neg reg
+// Subjects=23
+6 8 70
+-30 62 16
+-3 26 28
+39 29 1
+3 -19 -14
+
+// Morawetz2016a: task>emotion film visual reapp incr explicit mixed film neg reg
+// Subjects=23
+6 8 70
+39 -61 -32
+-60 -43 28
+-48 20 -8
+0 -34 1
+51 20 -5
+-27 50 28
+-9 -70 58
+-30 -67 -23
+
+// Morawetz2016a: task>emotion film visual reapp decr explicit mixed film neg reg
+// Subjects=23
+-6 14 67
+-48 26 -8
+
+// Morawetz2016a: task>emotion film visual reapp decr+incr explicit mixed film neg reg
+// Subjects=23
+-6 14 67
+-63 -46 28
+-48 26 -8
+-18 59 31
+-42 2 52
+33 -61 -29
+-54 -49 1
+
+// Morawetz2016b: task>emotion iaps visual reapp incr explicit mixed picture neg reg
+// Subjects=59
+3 5 64
+-15 -37 16
+33 -43 4
+27 -55 -26
+
+// Morawetz2016b: emotion>task iaps visual maintain explicit mixed picture neg react
+// Subjects=59
+39 -61 52
+
+// Morawetz2016b: task>emotion film visual reapp incr explicit mixed film neg reg
+// Subjects=59
+-6 5 61
+-48 23 -8
+-42 -61 -29
+-54 -52 31
+-3 -58 61
+48 23 -8
+54 20 1
+-30 56 16
+
+// Morawetz2016b: task>emotion film visual reapp decr explicit mixed film neg reg
+// Subjects=59
+-1 -13 16
+-48 35 -5
+-6 8 61
+
+// Morawetz2016b: task>task film visual reapp incr>decr explicit mixed film neg reg
+// Subjects=59
+-51 -52 31
+3 32 52
+-9 -1 64
+-30 26 -8
+-42 23 -8
+-54 17 10
+66 -43 25
+42 -46 19
+-15 11 13
+12 -22 19
+-9 -19 19
+-3 -49 58
+36 -73 -17
+-15 -85 -17
+
+// Morawetz2016b: task>task film+iaps visual reapp incr>decr explicit mixed film>picture neg reg
+// Subjects=59
+6 35 52
+57 -52 34
+39 20 46
+-48 29 -5
+
+// Morawetz2016b: task>emotion film+iaps visual reapp incr+decr explicit mixed film+picture neg reg
+// Subjects=59
+-3 11 64
+-45 14 -2
+42 -64 -29
+-51 -34 -2
+-45 -52 25
+51 14 1
+
+// Morawetz2016b: task>emotion iaps visual reapp incr+decr explicit mixed picture neg reg
+// Subjects=59
+-6 11 64
+
+// Morawetz2016b: task>emotion film visual reapp incr+decr explicit mixed film neg reg
+// Subjects=59
+6 -82 -26
+-48 35 -5
+-9 -64 64
+-6 8 61
+27 -43 1
+
+// Morawetz2016b: task>emotion film+iaps visual reapp incr explicit mixed film+picture neg reg
+// Subjects=59
+-3 5 61
+-48 17 -2
+48 23 -5
+-48 -49 28
+-9 -64 64
+-27 50 25
+-51 -34 -2
+18 -28 64
+-18 -28 61
+36 -55 -29
+-27 -64 -23
+-21 2 16
+
+// Morawetz2016b: task>emotion film+iaps visual reapp decr explicit mixed film+picture neg reg
+// Subjects=59
+-3 11 64
+-48 26 -8
+
+// Morawetz2016b: task>task film+iaps visual reapp incr>decr explicit mixed film+picture neg reg
+// Subjects=59
+9 -1 67
+-24 -28 61
+18 -25 61
+-48 -49 28
+-21 -34 16
+12 -22 19
+-3 -46 58
+-1 -19 40
+-15 -25 34
+-33 11 10
+42 -7 55
+
+// Morawetz2017a: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=23
+-45 23 10
+-45 23 10
+-45 38 1
+-12 11 67
+-12 11 67
+-9 -1 73
+-51 -55 19
+
+// Morawetz2017a: emotion>task iaps visual maintain explicit mixed picture neg react
+// Subjects=23
+-6 65 16
+-6 65 16
+-33 -97 -11
+33 -25 19
+48 -10 25
+-63 -22 19
+57 -28 22
+-9 20 13
+-57 -22 31
+-30 -31 16
+36 -25 31
+-45 -25 16
+-24 -37 67
+15 -70 10
+-12 -61 13
+-21 -40 37
+-3 11 7
+18 20 31
+36 -34 -5
+18 8 28
+-21 -52 10
+-12 -7 49
+30 -61 10
+15 26 7
+9 -37 4
+24 -61 34
+24 20 43
+-45 -7 10
+-6 -37 49
+-15 -25 37
+36 -34 46
+39 35 25
+12 -13 49
+51 -25 40
+-36 -28 -17
+27 -40 64
+15 -22 37
+-24 -25 -23
+-39 -1 -8
+0 -43 34
+-9 -34 64
+9 -37 58
+-3 47 1
+9 -34 43
+6 -52 67
+18 -28 64
+21 -49 10
+15 47 13
+15 -100 -2
+-45 -34 37
+-30 -67 31
+24 8 43
+27 -49 25
+-27 -79 1
+33 -43 10
+3 -52 13
+21 -1 -2
+-57 -1 10
+33 -94 1
+-36 -10 -20
+12 -97 -14
+0 -4 31
+-15 5 31
+-24 -10 25
+3 -85 19
+27 -100 -11
+6 47 28
+27 -61 -8
+27 14 61
+-6 -64 64
+48 50 13
+27 -58 49
+15 -10 -11
+24 -52 -5
+-24 -64 -8
+12 -67 46
+-21 -79 22
+
+// Morawetz2017a: task>emotion iaps visual reapp incr explicit mixed picture neg reg
+// Subjects=23
+-42 -46 25
+-36 -1 61
+-36 -1 61
+-6 11 73
+-6 -4 64
+-42 41 1
+-42 41 1
+-45 26 7
+-45 8 10
+
+// Morawetz2017a: emotion>task iaps visual maintain explicit mixed picture neg react
+// Subjects=23
+66 -16 28
+66 -16 28
+15 29 43
+24 8 40
+30 -61 40
+33 -34 46
+24 11 61
+33 -13 4
+12 -61 10
+51 -25 40
+42 35 22
+45 17 34
+30 -22 19
+-15 -58 -2
+39 -28 13
+21 -13 52
+3 -37 31
+51 -49 -11
+9 -37 46
+3 -1 31
+15 -46 -2
+54 -19 10
+33 -28 -23
+0 -43 61
+33 -31 61
+57 -46 49
+-6 -19 49
+39 -61 4
+-48 -13 7
+-48 -13 7
+-60 -22 34
+-63 -19 19
+-42 -34 13
+-33 -19 19
+-48 -28 46
+-66 -19 1
+-27 -55 46
+-63 8 31
+-30 -40 58
+-24 -34 67
+27 62 22
+27 62 22
+9 68 13
+-9 65 16
+3 65 28
+6 50 28
+-33 -28 -17
+-33 -28 -17
+-42 -58 -8
+-48 -46 -14
+-57 -67 -5
+-66 -55 4
+-63 -61 16
+-51 -82 10
+-51 -82 10
+-27 -97 -17
+48 17 -20
+48 17 -20
+36 20 -14
+
+// Morawetz2017a: task>task iaps visual reapp incr>decr explicit mixed picture neg reg
+// Subjects=23
+-30 -43 25
+-15 -10 28
+18 23 13
+15 -10 28
+9 2 1
+-33 35 -14
+-15 -7 -26
+-24 -1 -23
+24 -37 16
+15 8 25
+-42 -40 22
+18 -22 40
+-24 17 -32
+-30 -4 -2
+-36 -16 -11
+-18 -22 -26
+-33 -22 -2
+-15 -13 4
+-21 8 7
+54 -46 -35
+-3 11 34
+0 -31 13
+-45 41 -8
+-33 -70 25
+0 20 31
+66 -40 22
+66 -40 22
+63 -55 13
+69 -46 1
+60 2 16
+-21 -19 70
+24 -19 73
+
+// Morawetz2017a: task>task iaps visual reapp decr>incr explicit mixed picture neg reg
+// Subjects=23
+42 11 43
+42 11 43
+21 17 55
+48 20 28
+15 23 46
+18 -73 58
+18 -73 58
+57 -40 46
+36 -55 40
+54 -25 52
+27 -82 40
+42 8 -23
+-51 -22 49
+-51 -22 49
+-66 -10 28
+-63 -19 37
+-54 26 13
+-54 26 13
+-60 14 25
+
+// Morawetz2017a: task>emotion iaps visual reapp decr+incr explicit mixed picture neg reg
+// Subjects=23
+-15 11 70
+-15 11 70
+-9 2 61
+-45 -52 28
+-39 -1 64
+-45 26 7
+-45 26 7
+-39 41 -2
+
+// Morawetz2017a: emotion>task iaps visual maintain explicit mixed picture neg react
+// Subjects=23
+-6 65 16
+-6 65 16
+-45 -13 7
+-57 -22 31
+-42 -31 13
+42 35 25
+12 -61 10
+24 11 40
+-63 -19 19
+-27 -28 16
+33 -22 19
+24 -61 34
+51 -28 40
+18 29 43
+48 -10 22
+36 -34 46
+54 -28 22
+27 14 61
+-15 -61 4
+33 -13 4
+15 -13 49
+12 -37 46
+27 53 16
+3 -37 31
+9 -37 58
+9 68 13
+-24 -34 67
+0 -4 31
+54 -46 -11
+-6 8 -2
+-27 -52 43
+-24 -67 22
+24 -1 -2
+30 -31 61
+-42 -37 40
+66 -13 16
+15 41 19
+27 -22 -5
+-21 -34 55
+-51 -43 -17
+9 -13 40
+45 17 34
+-39 -1 -8
+-39 -58 -8
+33 -61 10
+15 23 7
+66 -7 -2
+9 11 -2
+-66 -19 1
+-15 -25 34
+-9 -16 46
+6 50 25
+-12 -7 46
+-18 -79 22
+-9 47 13
+6 -58 37
+30 -79 13
+15 -22 4
+-33 -97 -11
+-33 -28 -17
+
+// Morawetz2017b: task>emotion iaps visual reapp incr explicit mixed picture neg reg
+// Subjects=82
+-46.35 7.85 8.87
+57.36 8.22 7.07
+1.83 3.02 57.84
+-44.94 -50.97 22.51
+
+// Morawetz2017b: emotion>task iaps visual maintain explicit mixed picture neg react
+// Subjects=82
+56.51 19.76 27.23
+37.56 -69.57 48.72
+-8.67 -16.01 -7.34
+
+// Morawetz2017b: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=82
+-57.32 28.46 0.30
+53.91 30.67 -5.18
+-14.35 15.18 62.51
+-14.35 15.18 62.51
+39.87 18.61 -7.11
+-41.53 5.02 47.17
+-58.93 -58.26 25.71
+58.88 -67.31 25.72
+-52.91 -24.47 -3.51
+58.20 7.52 -11.92
+58.44 -32.27 -1.27
+
+// Morawetz2017b: emotion>task iaps visual maintain explicit mixed picture neg react
+// Subjects=82
+14.52 -74.48 20.46
+-64.51 -26.79 18.21
+65.00 -17.49 7.24
+
+// Morawetz2017b: task>task iaps visual reapp incr>decr explicit mixed picture neg reg
+// Subjects=82
+-49.26 -41.11 24.97
+-43.10 1.38 8.34
+9.53 -5.80 66.42
+-29.40 -2.23 -19.55
+60.60 1.64 5.42
+9.39 -3.54 56.12
+-43.10 1.38 8.34
+
+// Morawetz2017b: task>task iaps visual reapp decr>incr explicit mixed picture neg reg
+// Subjects=82
+53.90 33.86 -5.49
+56.50 22.95 26.92
+52.34 11.01 37.14
+17.92 29.56 53.82
+47.17 -68.24 39.46
+51.78 44.05 0.26
+
+// Morawetz2017b: task>emotion iaps visual reapp decr+incr explicit mixed picture neg reg
+// Subjects=82
+-6.82 6.18 57.67
+-6.82 6.18 57.67
+-6.79 15.21 62.38
+-47.46 16.36 8.05
+
+// Morawetz2016c: emotion>task faces visual maintain explicit mixed picture neg react
+// Subjects=48
+62 -22 30
+58 5 26
+-49 -29 36
+-29 -12 56
+-41 -19 55
+-57 -2 33
+-19 1 -7
+19 -3 -8
+11 -26 -4
+-4 -6 53
+-27 -50 56
+-12 -62 54
+6 -3 2
+30 -25 -5
+-14 -20 -8
+-8 -28 0
+-3 -12 14
+-33 13 13
+-36 18 -1
+33 24 4
+-55 11 4
+13 -7 14
+-11 6 44
+48 16 -2
+-40 -9 15
+-46 23 28
+-4 20 39
+36 20 -9
+-19 -69 40
+-20 -70 16
+32 -14 56
+53 -31 2
+-53 -65 7
+
+// Morawetz2016c: task>emotion faces visual reapp decr+incr explicit mixed picture neg reg
+// Subjects=48
+-45 -68 30
+-3 -60 25
+
+// Morawetz2016c: emotion>baseline faces visual maintain explicit mixed picture neg react
+// Subjects=48
+-45 -68 30
+62 -58 29
+31 -74 8
+34 -61 18
+-3 -29 38
+-4 -86 21
+64 -31 -2
+64 -31 -2
+67 -32 7
+60 -10 11
+-58 -51 0
+-58 -51 0
+0 2 18
+7 40 -6
+23 -2 29
+23 -2 29
+28 22 19
+-25 -41 63
+-25 28 42
+-61 -29 12
+-61 -29 12
+-23 -7 29
+-42 -18 17
+-42 -18 17
+43 22 45
+-55 -19 -16
+-6 -53 61
+
+// Morawetz2016c: baseline>emotion faces visual maintain explicit mixed picture neg react
+// Subjects=48
+34 -83 -5
+26 -95 16
+12 -86 -2
+14 -97 2
+-38 -79 -4
+-13 -96 -1
+-22 -96 17
+-25 -90 -1
+40 -58 -12
+36 -42 -16
+24 -28 2
+-21 -26 0
+-8 6 50
+47 0 30
+11 14 44
+9 -26 1
+36 20 5
+-27 -57 43
+-44 2 28
+-34 22 4
+-29 -4 48
+9 -15 8
+47 -31 41
+33 -6 50
+31 -59 45
+-6 -15 6
+-39 -37 39
+50 -46 13
+-3 -25 24
+6 -21 -13
+-16 10 5
+19 9 5
+-48 -49 11
+3 3 28
+22 -9 -10
+-17 -23 -13
+-21 -7 -11
+51 -22 -4
+
+// Morawetz2016c: emotion>task faces visual maintain explicit mixed picture neg react
+// Subjects=48
+62 -22 30
+45 -34 41
+32 -14 56
+61 4 28
+7 0 50
+53 -29 2
+25 -55 55
+56 -44 13
+-4 20 39
+-52 -29 34
+-56 -5 35
+-58 -22 29
+-19 1 -4
+22 -3 -8
+11 -26 -4
+-11 -28 -2
+6 -5 2
+-33 13 13
+30 -25 -7
+-12 -62 54
+-3 -20 7
+-33 -44 56
+0 -12 8
+-50 12 3
+-40 -9 17
+-26 1 15
+-42 14 28
+16 -8 14
+-29 -12 56
+-53 -63 7
+51 16 -2
+51 16 -2
+
+// Morawetz2016c: task>emotion faces visual reapp decr explicit mixed picture neg reg
+// Subjects=48
+-45 -68 30
+0 37 -12
+6 -57 25
+
+// Morawetz2016c: emotion>task faces visual maintain explicit mixed picture neg react
+// Subjects=48
+-41 -19 55
+-24 -50 56
+-7 -9 50
+-50 -24 19
+-11 6 44
+-40 -9 15
+-20 -70 16
+16 -6 -10
+11 -26 -4
+-22 7 -5
+-11 -20 -8
+6 -3 2
+-3 -12 14
+30 -25 -5
+-36 21 -4
+3 -4 10
+-57 -2 33
+62 -22 30
+39 -43 38
+58 5 23
+-49 26 25
+33 24 4
+33 24 4
+20 28 -3
+29 -11 53
+-45 -63 4
+
+// Morawetz2016c: task>emotion faces visual reapp incr explicit mixed picture neg reg
+// Subjects=48
+-45 -68 30
+42 -27 52
+-3 -60 25
+
+// Kalisch2005: task>baseline pain electrophysiological reapp decr explicit mixed other neg reg
+// Subjects=16
+42 14 18
+62 -26 52
+42 -10 20
+-34 -52 -6
+-12 -48 -6
+-6 -28 28
+
+// Kalisch2005: task>baseline pain electrophysiological reapp decr explicit mixed other neg reg
+// Subjects=16
+36 56 16
+-30 42 -4
+
+// Kalisch2005: task>baseline pain electrophysiological reapp decr explicit mixed other neg reg
+// Subjects=16
+-44 24 4
+-8 -12 60
+-54 24 32
+40 -62 40
+
+// Bratec2015: task>emotion iaps visual reapp decr explicit fem picture neg reg distance
+// Subjects=20
+42 17 52
+-45 23 34
+-3 38 37
+-51 17 22
+-12 23 64
+6 44 46
+21 26 55
+-42 -52 40
+-60 -49 28
+57 -52 31
+-27 59 4
+
+// Bratec2015: emotion>task iaps visual maintain explicit fem picture neg react
+// Subjects=20
+-57 -28 34
+-51 -70 1
+-24 -55 -14
+-51 -67 10
+51 -61 4
+30 -52 -17
+-39 -22 1
+0 -58 -29
+-42 -19 49
+24 -61 25
+21 -82 43
+-6 -67 -11
+39 -85 25
+-36 5 13
+-12 -7 16
+-3 -31 -17
+-33 -13 49
+-24 8 -8
+24 -37 -23
+-15 -79 -2
+-12 -55 13
+30 -31 -8
+15 -67 -8
+-48 -10 4
+-9 -76 19
+3 -4 -14
+15 -52 7
+-18 -73 22
+27 -73 43
+33 -28 -17
+66 -19 31
+39 -16 -2
+51 -25 22
+45 -1 10
+18 -58 58
+15 -31 40
+33 -46 55
+0 2 40
+
+// Bratec2015: task>emotion iaps visual reapp decr explicit fem picture neg reg
+// Subjects=20
+24 -22 -11
+9 -22 4
+42 -4 -17
+9 -10 -14
+45 8 -20
+36 -37 -20
+-1 2 -14
+30 -4 -8
+30 -43 -26
+-9 -28 7
+21 -40 -8
+9 -25 -17
+
+// Denny2015: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=22
+-51 33 3
+-6 12 54
+-51 -48 27
+-48 -42 -6
+30 -51 -42
+-45 48 12
+
+// Denny2015: emotion>task iaps visual maintain explicit mixed picture neg react
+// Subjects=22
+3 -48 36
+3 63 6
+21 27 48
+-18 21 27
+-12 -24 48
+-60 -18 45
+54 -9 9
+45 -24 27
+33 -12 -9
+-6 -54 -45
+24 -3 -15
+
+// Murakami2015: task>emotion iaps visual supp decr explicit mixed picture neg reg
+// Subjects=21
+-48 32 2
+64 -44 42
+-62 -52 34
+
+// Murakami2015: task>emotion iaps visual meditation decr explicit mixed picture neg reg mindfulness
+// Subjects=21
+-50 0 50
+-52 16 -6
+-52 16 16
+-4 6 64
+-10 52 46
+-6 46 52
+-52 -36 2
+-50 -48 22
+50 -32 0
+-18 8 10
+-12 -2 2
+-32 16 12
+30 -68 -24
+38 -62 -28
+24 -66 -50
+12 16 42
+54 24 6
+58 24 14
+20 8 10
+8 2 2
+18 54 34
+-32 -60 -22
+
+// Murakami2015: emotion>baseline iaps visual maintain explicit mixed picture neg react
+// Subjects=21
+-46 -80 0
+-30 -96 0
+-22 -98 -2
+44 -78 -4
+22 -92 -2
+18 -102 8
+42 4 30
+48 8 56
+42 16 58
+-30 0 50
+-42 2 60
+-52 4 48
+-12 -68 56
+-22 -64 48
+8 58 42
+-8 60 38
+46 28 -6
+38 26 -6
+28 26 -16
+34 -58 46
+-8 22 44
+4 18 48
+-8 14 52
+-22 -28 0
+12 14 72
+-26 -92 34
+32 -54 -42
+54 34 24
+56 36 8
+52 26 26
+-12 40 58
+-34 -8 -22
+32 0 50
+-26 -72 28
+-30 -68 -50
+-24 28 -10
+20 -36 -50
+-34 60 16
+-4 -16 -14
+-18 -60 -36
+-20 -86 46
+
+// Uchida2015: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=62
+-38 22 44
+-44 -58 30
+58 -40 -4
+34 -60 -30
+12 -48 36
+-14 8 12
+
+// Uchida2015: emotion>baseline iaps visual maintain explicit mixed picture neg react
+// Subjects=62
+-48 -22 20
+54 -64 2
+44 8 32
+-30 24 -2
+6 18 52
+-2 -52 -38
+
+// Uchida2015: baseline>emotion iaps visual maintain explicit mixed picture neu react
+// Subjects=62
+44 -12 14
+12 36 -6
+
+// Engen2015: task>emotion film visual meditation decr explicit mixed film neg reg compassion
+// Subjects=15
+-4 54 -2
+-4 54 -2
+-12 55 9
+-6 26 -3
+-25 45 -11
+4 31 -10
+-24 33 -9
+-25 57 -1
+11 33 9
+-16 13 2
+-13 13 -6
+15 54 1
+-29 41 20
+-8 42 16
+12 44 19
+-16 23 3
+8 55 15
+-23 5 19
+-35 42 10
+6 -3 -3
+13 20 8
+-7 33 9
+36 -47 -29
+36 -47 -29
+45 -64 -28
+6 -73 -26
+0 -64 -26
+6 -53 -23
+26 -81 -30
+28 -65 -23
+-6 -68 -9
+19 -71 -30
+14 -54 -43
+20 -34 -19
+25 -77 -15
+-13 -42 -34
+-22 -31 -17
+33 -77 -39
+-5 -48 -34
+-18 -64 -17
+-17 -48 -19
+-32 18 -17
+-48 23 -8
+-19 -23 71
+-19 -23 71
+7 5 61
+-24 2 60
+-20 -18 62
+-8 -3 55
+-15 -70 51
+-15 -70 51
+-12 -53 58
+-49 2 40
+-49 2 40
+-3 -42 19
+-3 -42 19
+0 -56 30
+-59 -8 -6
+-37 -57 -23
+-37 -57 -23
+-42 -67 -23
+-53 -52 23
+-44 6 11
+-44 6 11
+
+// Engen2015: emotion>task film visual maintain explicit mixed film neg react
+// Subjects=15
+12 -44 6
+12 -44 6
+11 -37 -7
+-9 -46 1
+-14 -26 -11
+-8 -33 -9
+23 -41 -15
+17 -22 -14
+15 -54 -1
+28 -63 6
+53 33 17
+53 33 17
+53 33 -9
+49 28 27
+37 29 -5
+59 15 14
+44 11 -16
+44 11 -16
+43 -10 3
+43 -1 -4
+
+// Engen2015: task>task film visual meditation>reapp decr explicit mixed film neg reg compassion
+// Subjects=15
+11 32 -21
+11 32 -21
+-13 30 -20
+4 32 -8
+4 41 -1
+60 0 4
+43 -14 32
+-11 55 4
+-23 22 3
+-14 44 -18
+54 -12 13
+7 27 5
+41 11 -2
+24 -31 11
+-19 5 12
+18 41 0
+-22 43 3
+50 10 -4
+-3 27 7
+23 6 15
+22 54 -1
+27 25 3
+-3 -8 2
+-3 -8 2
+-22 -23 68
+29 -33 -17
+29 -33 -17
+-49 4 -4
+-49 4 -4
+-54 0 4
+-47 6 6
+-22 1 -15
+-35 1 3
+-6 -56 52
+-6 -56 52
+-22 -43 26
+-22 -43 26
+
+// Engen2015: task>task film visual reapp>meditation decr explicit mixed film neg reg
+// Subjects=15
+-51 25 25
+49 25 20
+-20 -78 -37
+-20 -78 -37
+-20 -81 -26
+-26 -70 -33
+-53 -34 -2
+-53 -34 -2
+-58 -57 7
+-60 -43 3
+53 5 -16
+-3 -57 4
+-45 49 -3
+-4 26 39
+56 -58 24
+
+// Engen2015: task>emotion film visual reapp decr explicit mixed film neg reg
+// Subjects=15
+-43 -76 -22
+-43 -76 -22
+41 -64 -20
+13 -82 -26
+36 -50 -25
+36 -81 -25
+19 -70 -20
+-40 -57 -22
+-25 -64 -23
+-20 -83 -29
+-27 -82 -19
+46 -67 -31
+19 -77 -35
+3 -60 -14
+-42 -61 -36
+9 -52 -11
+-48 46 3
+-48 46 3
+-55 31 -6
+-32 57 13
+-46 29 -9
+-53 17 1
+-29 46 1
+-29 41 20
+-47 5 43
+-47 5 43
+-35 1 55
+-45 11 28
+-49 29 27
+-50 13 35
+-61 -34 0
+-61 -34 0
+-50 -37 0
+42 50 -1
+-52 -57 35
+-52 -57 35
+-49 -49 41
+-35 -73 42
+-58 -49 25
+49 25 25
+49 25 25
+43 16 33
+53 -52 39
+53 -52 39
+48 -49 29
+-1 28 54
+-1 28 54
+-4 26 39
+-4 17 49
+61 -23 -2
+36 42 13
+
+// Engen2015: emotion>task film visual maintain explicit mixed film neg react
+// Subjects=15
+-10 28 -15
+-10 28 -15
+11 33 -16
+0 44 5
+15 52 4
+30 30 -6
+-4 55 1
+-36 13 -19
+9 -60 54
+9 -60 54
+12 -71 50
+-12 -53 56
+19 -52 53
+24 -76 43
+39 -80 17
+34 -44 51
+9 -80 40
+6 -43 38
+33 -82 25
+-24 -47 59
+0 -8 4
+-30 -32 -11
+-30 -32 -11
+-24 -46 -9
+-33 -82 31
+30 -33 -10
+30 -33 -10
+11 -28 0
+23 -24 -13
+25 -9 -11
+25 -9 -11
+44 1 1
+51 -8 -1
+16 -57 17
+-58 -32 21
+-58 -32 21
+-52 -27 31
+-46 1 -5
+-46 1 -5
+-52 0 3
+
+// Engen2015: emotion>baseline film visual maintain explicit mixed film neg react
+// Subjects=15
+-3 -5 4
+-3 -5 4
+12 -9 -3
+-8 -25 -8
+9 -16 -4
+12 -23 -1
+14 -37 -12
+0 -19 11
+21 -22 -4
+-2 -45 -12
+50 13 -2
+-55 9 4
+-55 9 4
+22 -52 53
+22 -52 53
+34 -47 53
+31 -38 46
+7 -47 64
+-49 -74 -6
+-49 -74 -6
+21 -84 32
+-48 -76 2
+-40 -77 11
+12 -81 35
+0 -49 20
+-50 -60 12
+-3 -68 32
+24 -80 23
+-22 -88 15
+-3 -28 22
+-19 -80 29
+9 -74 4
+24 -87 10
+45 -62 -1
+45 -62 -1
+53 -68 -4
+51 -76 8
+58 -60 7
+43 -84 -7
+15 2 67
+7 45 -16
+53 -33 20
+-27 -53 56
+-27 -53 56
+-41 -59 45
+-34 -52 36
+-30 -42 52
+42 -35 -10
+0 -64 -29
+0 -64 -29
+-58 -27 23
+
+// Engen2015: baseline>task film visual maintain explicit mixed film neu react
+// Subjects=15
+35 53 -5
+35 53 -5
+-46 -68 -30
+45 -16 54
+45 52 2
+-48 46 0
+29 -22 67
+-28 -24 67
+-3 7 -4
+-43 -73 -23
+17 -24 67
+-23 -84 -14
+-17 31 -12
+23 52 13
+22 -57 15
+-4 -43 -43
+-32 48 -5
+-44 -22 55
+12 44 19
+-25 -64 -23
+-13 16 -9
+50 12 19
+-28 40 1
+3 -43 -46
+46 -67 -28
+51 42 -8
+36 -47 -29
+50 -45 47
+46 16 30
+7 34 49
+41 -64 -20
+11 25 54
+-10 -20 56
+46 25 15
+41 33 22
+0 42 25
+31 18 35
+34 9 47
+52 -34 48
+-26 2 37
+-15 41 20
+-28 17 35
+14 17 21
+-27 -44 -9
+30 -43 -6
+-34 22 17
+-32 -47 -27
+-28 -24 40
+7 35 41
+53 -41 37
+21 -43 6
+-30 13 25
+-22 29 19
+40 -46 30
+29 39 39
+-15 32 37
+24 7 42
+-23 -76 -38
+20 -4 44
+29 32 24
+-10 -32 52
+18 -66 -25
+-42 -18 17
+-16 -23 65
+-34 -25 19
+-23 -40 -18
+42 -49 15
+10 -33 55
+59 -13 36
+20 -4 31
+-4 -11 47
+-19 -58 11
+7 52 -2
+-21 -55 -12
+45 -46 37
+-27 -59 -42
+-14 21 16
+7 31 -7
+-34 -34 24
+17 32 7
+-35 34 27
+31 -23 42
+50 3 33
+-33 -30 47
+62 -17 -4
+-59 -5 -4
+42 -77 33
+
+// Belden2014: task>emotion iaps visual reapp decr explicit male picture neg reg
+// Subjects=11
+-35.35 26.62 -18.72
+-45.45 26.26 -10.40
+-51.52 -33.77 -6.72
+-16.16 -94.46 -11.42
+20.20 -95.70 -6.72
+
+// Smoski2015: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=19
+14 56 42
+2 44 -22
+
+// Smoski2015: emotion>emotion iaps visual maintain explicit mixed picture neg react
+// Subjects=19
+-14 58 36
+-44 44 -16
+-26 44 30
+36 44 38
+32 24 -14
+4 28 30
+-34 26 -6
+
+// Smoski2015: emotion>task iaps visual maintain explicit mixed picture neg react
+// Subjects=19
+60 18 30
+-42 -6 8
+-40 -14 52
+
+// Sarkheil2015: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=14
+-1.01 55.54 25.79
+-43.43 32.38 -8.86
+-13.13 -51.79 3.80
+-55.56 4.89 -17.60
+44.44 17.40 -20.45
+-31.31 -20.85 -19.08
+-43.43 -61.67 16.33
+-34.34 -89.32 11.61
+29.29 -95.65 14.54
+44.44 -60.13 -17.78
+50.51 32.23 -5.29
+29.29 -4.37 -18.13
+-4.04 -14.57 2.50
+-13.13 3.04 23.01
+
+// Sarkheil2015: emotion>task iaps visual maintain explicit mixed picture neg react
+// Subjects=14
+41.41 -50.40 39.78
+-34.34 -50.09 33.27
+
+// Denny2014: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=21
+-6 6 66
+51 30 -6
+-45 -57 54
+63 -45 30
+39 -84 21
+21 -57 48
+-15 -69 -3
+-39 0 15
+-39 -30 42
+54 -18 18
+
+// Denny2014: emotion>baseline iaps visual maintain explicit mixed picture neg react
+// Subjects=21
+-6 -84 3
+45 3 60
+6 63 30
+9 -51 39
+51 -9 -12
+-12 -9 -6
+21 -57 54
+-45 -30 63
+45 -3 18
+3 -18 66
+
+// Nelson2015: task>emotion faces visual reapp decr explicit mixed picture neg reg
+// Subjects=22
+-42 2 46
+-62 6 26
+-4 26 52
+-16 -8 -18
+26 4 -18
+-40 10 -30
+66 12 12
+44 28 34
+56 30 6
+-50 32 -6
+38 -82 22
+-46 -48 -20
+-8 -78 12
+
+// Nelson2015: emotion>baseline faces visual maintain explicit mixed picture neg react
+// Subjects=22
+20 -72 -34
+-42 -88 -8
+54 28 -8
+
+// Yoshimura2014: emotion>baseline pain electrophysiological maintain explicit mixed other neg react
+// Subjects=15
+4 -16 8
+52 -34 10
+42 10 2
+-12 24 72
+24 4 28
+-30 0 -12
+
+// Yoshimura2014: task>baseline pain electrophysiological reapp decr explicit mixed other neg reg
+// Subjects=15
+12 -28 30
+-56 14 10
+4 -16 -10
+6 -18 18
+8 -54 -18
+14 -26 2
+-14 8 12
+0 22 60
+-16 -70 -36
+8 24 60
+
+// Yoshimura2014: emotion>task pain electrophysiological maintain explicit mixed other neg react
+// Subjects=15
+0 -28 12
+18 -12 28
+-18 -74 -16
+
+// Yoshimura2014: task>emotion pain electrophysiological reapp decr explicit mixed other neg reg
+// Subjects=15
+20 38 -18
+10 20 -10
+-26 50 16
+34 18 58
+12 -64 32
+-28 34 18
+-28 -34 0
+
+// Dörfel2014: task>emotion iaps visual reapp decr explicit fem picture neg reg detachment
+// Subjects=17
+51 -63 42
+39 24 42
+36 48 21
+33 39 33
+21 15 60
+21 24 57
+-54 -60 42
+12 -69 45
+12 -66 36
+0 -21 30
+
+// Dörfel2014: emotion>task iaps visual maintain explicit fem picture neg react
+// Subjects=17
+54 -54 -3
+-30 0 -18
+
+// Dörfel2014: task>emotion iaps visual reapp decr explicit fem picture neg reg
+// Subjects=19
+-21 12 66
+-48 3 54
+-6 9 66
+-57 -42 3
+39 -57 -30
+18 -72 -24
+-39 21 -6
+-48 30 -9
+-57 27 6
+48 27 -3
+36 18 -9
+57 33 -9
+51 0 -24
+51 12 -24
+57 -3 -18
+-36 -60 -30
+-15 9 9
+
+// Dörfel2014: emotion>task iaps visual maintain explicit fem picture neg react
+// Subjects=19
+-54 -24 33
+-63 -27 27
+-45 -27 21
+-42 -15 18
+60 -21 33
+48 -27 33
+33 -36 66
+48 -30 57
+15 -39 60
+-24 -42 57
+54 -6 9
+
+// Dörfel2014: task>emotion iaps visual supp decr explicit fem picture neg reg
+// Subjects=22
+54 -54 48
+60 -39 48
+48 -45 36
+36 30 42
+-57 -54 39
+
+// Dörfel2014: emotion>task iaps visual maintain explicit fem picture neg react
+// Subjects=22
+54 -63 -6
+45 -66 -15
+-18 -3 -15
+-30 0 -18
+-36 0 -9
+-48 -72 -9
+-42 -66 -3
+24 -75 18
+21 -87 12
+-24 -81 12
+24 -81 39
+
+// Dörfel2014: task>emotion iaps visual distract decr explicit fem picture neg reg
+// Subjects=16
+-6 0 57
+-6 -3 66
+-36 48 18
+36 15 6
+33 51 24
+36 30 45
+51 -42 45
+45 -54 54
+12 -66 36
+-33 12 6
+-9 -69 39
+3 -21 30
+
+// Dörfel2014: emotion>task iaps visual maintain explicit fem picture neg react
+// Subjects=16
+27 -6 -15
+-21 -9 -15
+-33 -9 -15
+-27 -3 -18
+-27 6 -18
+36 -87 9
+45 -57 -9
+45 -75 -3
+-33 -87 12
+-42 -75 -9
+-45 -81 15
+-9 63 27
+27 -51 60
+24 -27 0
+-54 30 15
+-54 42 6
+
+// Dörfel2014: task>emotion iaps visual reapp+supp+distract decr explicit fem picture neg reg
+// Subjects=74
+36 30 42
+33 51 24
+33 42 33
+54 -54 48
+36 15 3
+-6 6 54
+-3 0 63
+-21 12 66
+-33 48 18
+12 -63 36
+-51 -60 48
+-57 -51 48
+-36 -72 54
+-42 -48 -45
+-48 -54 -36
+0 -21 30
+-60 -36 0
+-9 -66 36
+-33 12 6
+-39 15 -3
+-54 18 -3
+27 -57 -27
+39 -54 -33
+-39 30 36
+54 -30 0
+
+// Dörfel2014: task>emotion iaps visual reapp+supp+distract decr explicit fem picture neg reg
+// Subjects=74
+51 -54 48
+48 -45 36
+36 30 42
+-45 -37 37
+
+// Dörfel2014: emotion>task iaps visual maintain explicit fem picture neg react
+// Subjects=74
+51 -60 -3
+39 -75 -3
+33 -87 9
+-51 -66 0
+-33 -84 9
+-39 -54 -15
+27 -48 60
+24 -36 72
+-57 -27 33
+-60 -24 42
+-39 -18 21
+63 -21 36
+48 -27 27
+39 -18 21
+-30 0 -18
+-36 0 -9
+-21 -6 -15
+-27 -45 57
+-27 -36 66
+24 -3 -18
+39 -18 -15
+33 -9 -15
+45 -9 15
+
+// Burklund2014a: task>emotion faces visual distract decr implicit mixed picture neg reg label
+// Subjects=15
+-45 42 -3
+-45 33 9
+48 24 12
+48 30 3
+-33 24 3
+27 -93 3
+-18 -75 -33
+
+// Burklund2014a: emotion>task faces visual maintain implicit mixed picture neg react
+// Subjects=15
+3 54 -12
+9 27 -9
+9 51 9
+-9 45 -12
+-6 21 -12
+6 -21 51
+54 -9 51
+57 -9 12
+57 6 36
+-51 -12 36
+0 -51 36
+0 -60 21
+-3 -87 33
+60 -3 -24
+60 -6 3
+18 -90 27
+-3 -87 33
+21 -6 -21
+
+// Burklund2014a: emotion>baseline faces visual maintain implicit mixed picture neg react match
+// Subjects=15
+57 27 30
+-51 18 33
+-6 21 51
+9 33 42
+-33 0 57
+54 -51 15
+-27 -66 57
+-18 -99 0
+36 -93 0
+-33 -63 -12
+39 -60 -18
+-27 -6 -21
+24 -3 -21
+18 -9 0
+-18 -21 3
+0 -72 -24
+
+// Allard2014: task>emotion film visual reapp decr explicit mixed film neg+pos reg
+// Subjects=64
+-20 -3 50
+24 -1 48
+34 2 31
+
+// Allard2014: task>emotion film visual reapp decr explicit mixed film neg+pos reg
+// Subjects=64
+32 15 31
+
+// Allard2014: task>emotion film visual reapp decr explicit mixed film neg+pos reg
+// Subjects=64
+-10 21 38
+-34 25 -6
+-44 29 34
+42 33 37
+-48 48 -9
+8 67 10
+
+// Allard2014: task>task film visual reapp>distract decr explicit mixed film neg+pos reg
+// Subjects=64
+-16 -33 40
+-50 9 35
+-38 34 11
+-20 40 -12
+32 42 -12
+6 43 -2
+
+// Allard2014: emotion>task film visual maintain explicit mixed film neg+pos react
+// Subjects=64
+-42 -20 19
+-40 2 12
+-16 31 37
+-16 45 36
+
+// Allard2014: emotion>task film visual maintain explicit mixed film neg+pos react
+// Subjects=64
+-51 20 10
+-10 50 36
+-8 51 18
+0 56 3
+
+// Allard2014: emotion>task film visual maintain explicit mixed film neg+pos react
+// Subjects=64
+42 -6 18
+
+// Allard2014: task>task film visual reapp>distract decr explicit mixed film neg+pos reg
+// Subjects=64
+-16 -33 40
+-50 9 35
+-38 34 11
+-20 40 -12
+32 42 -12
+6 43 -2
+
+// Allard2014: task>task film visual distract>reapp decr+incr explicit mixed film neg+pos reg
+// Subjects=64
+-22 10 47
+-24 40 27
+-10 21 30
+-36 25 -5
+48 29 30
+-12 31 43
+
+// vanderVelde2015: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=51
+-46 26 -8
+-48 22 2
+-40 -56 24
+-2 14 56
+14 18 60
+6 16 60
+-2 -10 34
+0 -18 28
+14 16 8
+14 18 0
+6 2 2
+50 -54 28
+58 -54 32
+56 -50 44
+44 -34 -4
+58 -32 -2
+48 42 -6
+40 22 -12
+54 34 -4
+-2 -62 34
+-12 -52 34
+
+// vanderVelde2015: task>emotion iaps visual supp decr explicit mixed picture neg reg
+// Subjects=51
+54 10 0
+46 20 -4
+38 16 8
+-44 12 0
+-50 10 6
+-42 12 -10
+60 -40 34
+58 -42 46
+60 -32 32
+30 54 26
+32 48 32
+26 48 22
+-4 -16 32
+4 -24 38
+-6 -24 24
+16 20 58
+-4 20 36
+-6 6 60
+-62 40 38
+
+// vanderVelde2015: emotion>baseline iaps visual maintain explicit mixed picture neg react
+// Subjects=51
+-2 20 52
+-2 24 44
+-8 12 52
+-48 16 42
+-42 26 40
+-52 16 34
+52 -60 36
+40 -62 46
+52 -54 44
+-48 -60 44
+-46 -52 42
+-36 -32 42
+
+// vanderVelde2015: emotion>task iaps visual maintain explicit mixed picture neg react
+// Subjects=51
+32 -64 36
+32 -70 30
+46 -64 30
+-30 -60 24
+-30 -76 32
+-40 -74 30
+-44 -28 54
+-40 -28 46
+-38 -38 54
+
+// Burklund2014b: task>emotion iaps visual reapp+distract decr explicit+implicit mixed picture neg reg
+// Subjects=39
+51 27 0
+-54 30 6
+-57 21 33
+-33 3 63
+51 24 45
+48 33 33
+21 57 30
+36 3 60
+0 -6 75
+-3 3 69
+12 15 48
+-57 -48 6
+15 81 12
+-21 -87 -12
+36 -66 -21
+-33 -72 -18
+0 -30 -12
+
+// Burklund2014b: emotion>task iaps visual maintain explicit+implicit mixed picture neg react
+// Subjects=39
+-30 0 -21
+-24 -6 -15
+-3 48 -3
+3 54 -9
+3 27 -3
+42 -3 -15
+36 -42 -18
+-15 -42 48
+
+// Burklund2014b: task>task iaps visual distract>reapp decr implicit mixed picture neg reg label
+// Subjects=39
+-45 39 3
+42 18 12
+54 21 6
+-36 36 27
+33 33 30
+-42 0 33
+27 0 57
+0 0 57
+-3 -33 30
+12 -75 60
+-39 -15 66
+-36 -45 48
+36 -48 42
+-27 -66 51
+-51 -24 21
+9 -60 -15
+-48 -57 -30
+
+// Burklund2014b: task>task iaps visual reapp>distract decr explicit mixed picture neg reg
+// Subjects=39
+0 33 -21
+-3 51 -9
+0 18 -12
+15 -36 72
+-15 -102 15
+15 -99 15
+
+// Gianaros2014: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=157
+-42 8 48
+-60 -58 32
+58 -50 50
+62 -18 -22
+48 28 -16
+-12 -102 12
+-4 -44 -18
+-2 -18 38
+24 16 -26
+-54 -2 -28
+-20 22 -20
+14 14 8
+52 4 -24
+-2 -64 -4
+12 22 -22
+-10 -52 30
+6 42 -4
+8 -100 18
+-12 54 -22
+-4 -62 42
+6 -16 -20
+
+// Gianaros2014: emotion>task iaps visual maintain explicit mixed picture neg react
+// Subjects=157
+30 -46 -8
+-34 -82 22
+52 -22 18
+34 -10 68
+2 24 -20
+18 30 -8
+44 32 12
+66 -2 -16
+-28 -4 -8
+2 62 -20
+2 14 -6
+6 72 2
+36 20 -30
+26 -6 -10
+2 64 -8
+12 -30 50
+30 -14 -14
+
+// Gianaros2014: emotion>baseline iaps visual maintain explicit mixed picture neg react
+// Subjects=157
+42 -48 -16
+-66 -22 34
+0 -52 -20
+
+// Sripada2014: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=49
+-48 -70 8
+52 -66 12
+54 24 28
+-12 -16 0
+20 -10 2
+26 -66 56
+-52 -2 -24
+
+// Sripada2014: emotion>task iaps visual maintain explicit mixed picture neg react
+// Subjects=49
+54 -2 0
+-56 -4 2
+-38 4 12
+-6 -76 28
+
+// Hölzel2013: task>emotion faces visual distract decr implicit mixed picture neg+pos reg label
+// Subjects=26
+-40 -75 33
+-17 -99 -9
+-38 -68 -17
+14 -93 -9
+
+// Grecucci2013b: task>emotion monetary visual reapp decr+incr explicit mixed other neg+pos reg
+// Subjects=21
+-54 -31 4
+54 -61 31
+-39 44 7
+-57 8 -11
+-45 11 10
+57 11 -11
+-57 11 19
+45 11 -11
+-36 14 49
+
+// Grecucci2013b: task>emotion monetary visual reapp decr explicit mixed other neg+pos reg
+// Subjects=21
+63 -61 16
+-66 -46 4
+-57 5 -14
+54 5 -11
+-48 5 13
+
+// Grecucci2013b: task>emotion monetary visual reapp incr explicit mixed other neg+pos reg
+// Subjects=21
+45 -40 -5
+-48 -43 22
+-39 8 -2
+54 8 -11
+-21 8 4
+-60 11 22
+-45 -43 52
+33 56 4
+
+// Price2013: task>baseline sentences/memories verbal reapp decr explicit mixed other neg reg
+// Subjects=11
+-44.44 26.61 4.67
+-21.21 -85.76 2.00
+-44.44 -37.84 14.33
+
+// Price2013: task>baseline sentences/memories verbal distract decr implicit mixed other neg reg other task
+// Subjects=11
+-47.47 2.47 34.95
+-32.32 -27.65 60.57
+13.13 -55.39 -7.97
+0.00 8.80 53.79
+-12.12 -19.36 16.39
+
+// Price2013: task>baseline sentences/memories verbal distract decr implicit mixed other neg reg other task
+// Subjects=11
+33.33 -67.49 30.17
+-30.30 -44.43 44.45
+
+// Price2013: baseline>task sentences/memories verbal maintain explicit mixed other neg react
+// Subjects=11
+-23.23 -4.37 -18.13
+
+// Price2013: baseline>task sentences/memories verbal maintain explicit mixed other neg react
+// Subjects=11
+2.02 33.82 5.05
+-23.23 -4.37 -18.13
+24.24 -4.37 -18.13
+
+// Price2013: baseline>task sentences/memories verbal maintain explicit mixed other neg react
+// Subjects=11
+-3.03 -53.39 37.45
+-41.41 -65.02 43.36
+-23.23 -4.37 -18.13
+24.24 -4.37 -18.13
+
+// Winecoff2013: task>emotion iaps visual reapp decr explicit mixed picture pos reg
+// Subjects=73
+58 -8 425
+50 -10 451
+28 -4 359
+-48 38 48
+-48 34 457
+-54 32 445
+-60 52 439
+-60 30 427
+-52 44 493
+-64 46 532
+42 54 409
+24 36 549
+18 34 45
+20 40 419
+12 52 404
+
+// Winecoff2013: task>emotion iaps visual reapp decr explicit mixed picture pos reg
+// Subjects=73
+0 -74 42
+60 -52 34
+64 -48 24
+48 -52 32
+50 -62 42
+-38 24 20
+-38 -62 38
+-62 -44 -4
+42 22 36
+-46 14 44
+-44 16 30
+0 24 50
+
+// Winecoff2013: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=73
+-2 26 50
+-48 -68 48
+-2 -26 24
+44 -56 30
+-62 -38 -10
+
+// Winecoff2013: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=73
+-54 20 2
+-40 -66 42
+40 20 -4
+36 22 38
+
+// Torrisi2013: task>baseline faces visual distract decr implicit picture neg reg label
+// Subjects=52
+-24 -97 -7
+27 -97 2
+21 -91 -7
+-33 23 -1
+-54 17 32
+-45 2 47
+0 17 56
+-6 29 47
+-3 38 47
+45 29 23
+51 20 32
+42 20 -7
+24 -31 2
+6 -28 -1
+9 -28 -13
+-18 -34 -1
+21 -7 -13
+27 -4 -19
+-54 -31 -4
+-60 -43 -1
+-48 -49 5
+-24 -7 -13
+-27 2 -16
+57 -40 -1
+48 -46 8
+63 -43 -13
+-33 -64 47
+-30 -67 38
+6 -13 5
+33 -64 47
+
+// Torrisi2013: task>emotion faces visual distract decr implicit picture neg reg label
+// Subjects=52
+-54 17 26
+-51 26 17
+-66 -31 5
+-69 -40 2
+-3 26 38
+-6 29 47
+42 20 -7
+-45 11 50
+-54 20 -1
+-42 35 -4
+-48 44 -4
+-3 8 65
+-12 14 65
+-6 41 44
+-51 -31 -4
+-48 -49 5
+54 -58 44
+-21 26 59
+-12 32 59
+6 29 62
+15 32 56
+3 44 35
+-6 56 35
+
+// AlbeinUrios2013: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=21
+-10 -76 -4
+10 -76 -4
+-34 -90 16
+36 8 44
+32 -82 26
+-40 2 34
+-62 -48 12
+56 -52 24
+10 40 40
+40 46 -2
+6 -44 46
+
+// AlbeinUrios2013: emotion>baseline iaps visual maintain explicit mixed picture neg react
+// Subjects=21
+-42 -86 -2
+42 -82 -2
+-20 -78 -26
+6 58 26
+-14 -30 -2
+-20 -14 -12
+2 -6 6
+-46 22 -16
+-2 -50 28
+20 -2 -20
+50 18 20
+34 32 -20
+-8 22 60
+-2 34 26
+-12 2 4
+
+// Vrticka2013: task>emotion film visual imitation incr explicit mixed film neg+pos reg
+// Subjects=20
+6 -2 58
+-52 -2 50
+-18 10 2
+
+// Vrticka2013: task>emotion film visual supp decr explicit mixed film neg+pos reg
+// Subjects=20
+32 -12 54
+
+// Vrticka2013: task>task film visual imitation>supp incr>decr explicit mixed film neg+pos reg
+// Subjects=20
+-50 -18 18
+54 -26 24
+8 16 36
+22 -66 18
+50 2 52
+40 32 4
+42 -10 36
+
+// Vrticka2013: task>task film visual supp>imitation decr>incr explicit mixed film neg+pos reg
+// Subjects=20
+38 24 52
+30 66 12
+
+// Minkel2012: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=97
+0 10 60
+-42 8 52
+-50 -58 46
+
+// Paret2011: task>emotion pain electrophysiological reapp decr explicit male other neg reg
+// Subjects=21
+-46 -4 44
+-8 12 48
+-46 24 30
+-28 -56 46
+-32 -74 28
+-12 -68 44
+30 -62 -30
+8 -72 -28
+-62 -36 -2
+54 2 46
+34 -2 48
+28 -66 40
+-20 -2 8
+4 -34 -28
+-16 -26 -28
+-10 -44 -26
+-50 -40 22
+22 0 16
+
+// Andreescu2011: task>baseline scripts verbal reapp decr explicit mixed other neg reg
+// Subjects=10
+-54.30 31.80 18.00
+-40.40 57.50 18.00
+22.10 17.30 48.20
+
+// Andreescu2011: task>baseline scripts verbal reapp incr explicit mixed other neg reg
+// Subjects=10
+-62.30 -22.70 10.80
+-39.80 59.50 10.80
+46.80 -5.60 0.00
+23.40 -5.08 -18.00
+
+// Delgado2008b: task>emotion monetary/reward verbal reapp decr explicit mixed other neg+pos reg
+// Subjects=15
+-47.47 1.18 40.33
+-46.46 -33.82 38.48
+-37.37 -46.23 38.91
+-32.32 -84.07 31.48
+-45.45 -1.65 34.74
+-3.03 12.61 -5.23
+
+// Delgado2008b: emotion>task monetary/reward verbal maintain explicit mixed other neg+pos react
+// Subjects=15
+-4.04 -7.57 72.51
+3.03 49.52 43.97
+-5.05 -89.88 23.55
+0.00 -14.05 13.41
+-14.14 22.08 13.14
+-44.44 -3.50 8.52
+20.20 -89.83 0.70
+26.26 -63.68 -31.09
+12.12 -75.31 -24.62
+
+// Hutcherson2012: task>emotion food pictures visual reapp decr+incr explicit mixed picture pos reg
+// Subjects=26
+-3 15 63
+-27 18 -24
+57 15 9
+-18 45 36
+-66 -48 36
+
+// Hutcherson2012: task>emotion food pictures visual reapp decr explicit mixed picture pos reg distance
+// Subjects=26
+3 39 48
+42 36 -18
+-57 24 9
+48 12 -42
+63 -51 33
+-57 -54 33
+
+// Hutcherson2012: task>emotion food pictures visual reapp incr explicit mixed picture pos reg
+// Subjects=26
+9 51 36
+30 24 -24
+-33 12 -15
+-48 -54 27
+-6 15 63
+
+// Silvers2015b: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=56
+33 24 51
+-33 -75 36
+42 -69 42
+36 3 -12
+-60 -33 45
+
+// Silvers2015b: emotion>baseline iaps visual maintain explicit mixed picture neg react
+// Subjects=56
+-30 -3 45
+0 51 27
+51 12 33
+18 -30 -3
+-30 -48 45
+30 -48 45
+-48 -75 3
+-30 -3 45
+
+// Silvers2015b: baseline>emotion iaps visual maintain explicit mixed picture neg react
+// Subjects=56
+9 51 -12
+-21 27 36
+24 30 42
+33 -15 39
+39 -27 18
+9 3 42
+45 -69 33
+15 -57 15
+
+// Chen2017: emotion>baseline caps visual maintain explicit fem picture neg react
+// Subjects=47
+42 -51 -18
+51 -72 0
+-48 -75 6
+-48 -78 6
+-39 -51 18
+27 -48 45
+30 -57 51
+-30 -15 -9
+-9 0 12
+-15 -12 15
+-21 0 -12
+27 -3 -18
+
+// Chen2017: baseline>emotion caps visual maintain explicit fem picture neg react
+// Subjects=47
+39 -18 54
+36 -21 63
+-33 -42 -3
+
+// Dore2017: task>emotion iaps visual reapp decr explicit mixed picture neg reg positive reapp
+// Subjects=20
+-48 27 -18
+51 24 -15
+-33 9 51
+18 60 30
+-3 27 33
+6 21 33
+-45 -57 30
+-15 9 12
+-15 12 0
+
+// Dore2017: task>emotion iaps visual reapp decr explicit mixed picture neg reg minimizing
+// Subjects=20
+-48 30 -9
+-48 18 33
+-3 27 36
+12 18 57
+-54 -66 24
+
+// Dore2017: task>emotion iaps visual reapp decr explicit mixed picture neg reg minimizing+positive reapp
+// Subjects=20
+-51 15 3
+-39 21 42
+-3 27 36
+12 18 57
+-57 -57 36
+-42 -3 -42
+-60 -33 -6
+
+// Paschke2016: task>emotion emotionalpictureset visual reapp decr explicit mixed picture neg reg
+// Subjects=108
+57 -49 34
+-57 -52 43
+-51 -64 43
+42 23 40
+45 44 -8
+27 53 28
+18 11 61
+15 20 55
+33 53 7
+-3 35 37
+3 38 34
+12 41 46
+-6 26 43
+0 -22 31
+9 -67 37
+-6 -70 40
+63 -28 -11
+66 -19 -11
+-42 44 -5
+-39 53 1
+-42 17 40
+-36 29 34
+-36 47 19
+-33 5 58
+-39 5 52
+-66 -34 4
+-63 -40 1
+-57 -34 -11
+57 17 10
+48 17 7
+51 20 -2
+-12 14 61
+-9 11 64
+3 -22 64
+3 20 46
+
+// Qu2017: task>emotion scence visual reapp decr explicit mixed picture neg reg
+// Subjects=29
+-45 41 22
+18 53 25
+-45 -1 4
+51 -1 1
+3 38 13
+-9 -76 22
+18 -76 4
+-36 -16 58
+36 -19 55
+-51 -22 43
+33 -28 64
+
+// Qu2017: emotion>task scence visual maintain explicit mixed picture neg react
+// Subjects=29
+-36 -52 -14
+36 -43 -20
+
+// Qu2017: task>emotion scence visual reapp incr explicit mixed picture neg reg
+// Subjects=29
+24 50 22
+-39 5 -2
+48 -1 1
+0 38 13
+-9 -76 22
+-12 -82 7
+-33 -13 64
+36 -22 58
+-33 -13 64
+24 -40 67
+
+// Qu2017: emotion>task scence visual maintain explicit mixed picture neg react
+// Subjects=29
+-36 -49 -17
+36 -49 -17
+
+// Radke2017: task>task faces visual reapp incr>decr explicit mixed picture neg reg
+// Subjects=22
+-39 -47 24
+2 -54 48
+
+// Radke2017: task>baseline faces visual maintain explicit mixed picture neg react
+// Subjects=22
+41 -26 56
+41 -21 17
+-20 -53 -23
+-41 -29 -18
+
+// Radke2017: baseline>task faces visual maintain explicit mixed picture neu react
+// Subjects=22
+-39 -29 63
+23 -53 -24
+50 -59 48
+-50 -18 17
+-17 -15 -2
+32 24 51
+41 14 33
+
+// Radke2017: emotion>task faces visual maintain explicit mixed picture neg react
+// Subjects=22
+-30 -51 53
+-41 -62 0
+47 -24 -5
+44 -2 39
+-41 -3 9
+35 9 12
+-33 -77 23
+
+// Radke2017: emotion>task faces visual maintain explicit mixed picture neg react
+// Subjects=22
+33 -35 45
+-3 2 53
+33 2 -6
+-30 24 2
+-38 -6 -14
+-57 -23 33
+-48 8 23
+-18 0 9
+
+// Reinecke2015: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=18
+-48 -56 -32
+38 8 38
+-54 34 2
+45 -48 40
+-46 -50 38
+0 -68 68
+
+// Shermohammend2017: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=25
+-44 4 50
+-52 -62 34
+-4 10 62
+14 8 16
+-46 24 -6
+44 10 -34
+-16 4 18
+-58 -40 -6
+36 22 -6
+48 30 -8
+50 -38 2
+-40 -52 24
+-32 24 -2
+-50 14 -24
+10 20 58
+50 -54 32
+
+// Shermohammend2017: emotion>baseline iaps visual maintain explicit mixed picture neg react
+// Subjects=25
+-42 -76 -8
+50 -72 2
+-38 -44 -18
+42 -44 -20
+-44 2 28
+-28 -6 48
+-8 14 48
+-4 -28 -2
+18 -30 4
+42 6 26
+-14 -30 4
+6 -28 -4
+-28 20 2
+-40 30 18
+-28 -48 44
+30 -52 50
+30 26 -2
+-26 -4 -20
+28 -2 -18
+
+// Silvers2016: task>emotion iaps visual reapp decr explicit mixed picture neg reg
+// Subjects=112
+33 21 39
+-3 -36 38
+-36 -60 51
+48 -54 45
+12 -63 39
+
+// Silvers2016: emotion>task iaps visual maintain explicit mixed picture neg react
+// Subjects=112
+39 -60 -15
+33 -72 21
+0 -87 -6
+
+// Simsek2017: emotion>baseline iaps visual maintain explicit fem picture neg react
+// Subjects=15
+-20 -8 -14
+18 -6 -14
+44 16 -28
+-32 12 -26
+58 -4 -14
+52 -68 18
+46 22 26
+48 20 26
+-44 16 26
+4 58 30
+6 -26 -2
+
+// Simsek2017: task>emotion iaps visual reapp decr explicit fem picture neg reg
+// Subjects=15
+-2 56 36
+-40 26 42
+-58 18 -6
+-42 18 48
+60 -54 36
+46 18 -22
+-44 -68 24
+-8 44 12
+-4 -50 30
+-32 -78 -32
+
+// Wang2017: task>task iaps visual reapp decr>incr explicit mixed picture neg reg
+// Subjects=25
+-36 21 48
+-24 24 51
+-43 43 -22
+40 29 37
+-36 -23 58
+-40 -26 58
+66 -50 -9
+-59 -35 -24
+-43 -63 30
+40 -68 40
+18 -83 -37
+
+// Xie2016: task>emotion iaps visual reapp decr explicit fem picture neg reg social
+// Subjects=22
+51 -58 37
+-48 -61 46
+18 56 25
+45 29 40
+-18 47 34
+9 32 61
+-36 53 -2
+-3 53 43
+0 41 25
+27 53 -2
+-36 44 13
+-3 -70 43
+9 -67 37
+-6 -52 28
+-42 11 52
+-39 23 31
+
+// Xie2016: task>emotion iaps visual reapp decr explicit fem picture neg reg social+self
+// Subjects=22
+51 -58 37
+18 56 22
+21 50 28
+9 32 61
+-9 41 34
+-48 -61 46
+-42 11 52
+-39 23 31
+
+// Xie2016: task>emotion iaps visual reapp decr explicit fem picture neg reg self
+// Subjects=22
+54 -55 49
+45 20 43
+-42 -58 55
+-60 -49 31
+-42 26 28
+-39 8 55
+-3 38 34
+-12 20 43
+
