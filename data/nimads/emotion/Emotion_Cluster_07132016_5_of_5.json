@@ -1,0 +1,876 @@
+{
+  "id": "nimads_29484767_Emotion_Cluster_07132016_5_of_5",
+  "name": "Emotion - Emotion_Cluster_07132016_5_of_5",
+  "studies": [
+    {
+      "id": "Author here",
+      "name": "Author here",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "analysis_1",
+          "name": "analysis_1",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                32.0,
+                38.0,
+                -16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                32.0,
+                38.0,
+                -16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -52.0,
+                16.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.0,
+                56.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                56.0,
+                46.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                20.0,
+                12.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -30.0,
+                -10.0,
+                -30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                4.0,
+                -42.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -58.0,
+                -48.0,
+                24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -38.0,
+                -58.0,
+                -42.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                54.0,
+                8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -16.0,
+                52.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                16.0,
+                28.0,
+                38.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                -62.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                28.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -16.0,
+                52.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                32.0,
+                38.0,
+                -16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -52.0,
+                16.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.0,
+                56.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                56.0,
+                46.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                20.0,
+                12.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -30.0,
+                -10.0,
+                -30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                4.0,
+                -42.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                -6.0,
+                -38.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                28.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                -62.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                -6.0,
+                -38.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                56.0,
+                46.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                20.0,
+                12.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -30.0,
+                -10.0,
+                -30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                4.0,
+                -42.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -58.0,
+                -48.0,
+                24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -38.0,
+                -58.0,
+                -42.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                54.0,
+                8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                16.0,
+                28.0,
+                38.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                -6.0,
+                -38.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                -62.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                28.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -16.0,
+                52.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                32.0,
+                38.0,
+                -16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -52.0,
+                16.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.0,
+                56.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                56.0,
+                46.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                20.0,
+                12.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -30.0,
+                -10.0,
+                -30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                4.0,
+                -42.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -58.0,
+                -48.0,
+                24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -38.0,
+                -58.0,
+                -42.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                54.0,
+                8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                16.0,
+                28.0,
+                38.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -58.0,
+                -48.0,
+                24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.0,
+                56.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -38.0,
+                -58.0,
+                -42.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                16.0,
+                28.0,
+                38.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -38.0,
+                -58.0,
+                -42.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                54.0,
+                8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                16.0,
+                28.0,
+                38.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                -6.0,
+                -38.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                -62.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                28.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -16.0,
+                52.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                32.0,
+                38.0,
+                -16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -52.0,
+                16.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.0,
+                56.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -58.0,
+                -48.0,
+                24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                56.0,
+                46.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -30.0,
+                -10.0,
+                -30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                4.0,
+                -42.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -58.0,
+                -48.0,
+                24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -38.0,
+                -58.0,
+                -42.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                54.0,
+                8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                16.0,
+                28.0,
+                38.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                -6.0,
+                -38.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                -62.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                28.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -16.0,
+                52.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                20.0,
+                12.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                4.0,
+                -42.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -30.0,
+                -10.0,
+                -30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                20.0,
+                12.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                -6.0,
+                -38.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                -62.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                28.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -16.0,
+                52.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                32.0,
+                38.0,
+                -16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -52.0,
+                16.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.0,
+                56.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                56.0,
+                46.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                20.0,
+                12.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -30.0,
+                -10.0,
+                -30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                4.0,
+                -42.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -58.0,
+                -48.0,
+                24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -38.0,
+                -58.0,
+                -42.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                54.0,
+                8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                16.0,
+                28.0,
+                38.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                -6.0,
+                -38.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                -62.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                28.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -16.0,
+                52.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                32.0,
+                38.0,
+                -16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -52.0,
+                16.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.0,
+                56.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                56.0,
+                46.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                54.0,
+                8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -52.0,
+                16.0,
+                12.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              10
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

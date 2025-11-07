@@ -1,0 +1,1646 @@
+{
+  "id": "nimads_32078973_RDM_July2019",
+  "name": "Decision Making - RDM_July2019",
+  "studies": [
+    {
+      "id": "(1)Bjork,2007",
+      "name": "(1)Bjork,2007",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "high penalty>low penalty (adolescents)",
+          "name": "high penalty>low penalty (adolescents)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -19.19,
+                -66.15,
+                1.95
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                11.11,
+                -65.89,
+                -3.81
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -8.08,
+                -89.06,
+                6.18
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                15.15,
+                -87.21,
+                32.4
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -15.15,
+                -90.55,
+                37.66
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              40
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(16)koester, 2013",
+      "name": "(16)koester, 2013",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "exp>control gamble (LEU)",
+          "name": "exp>control gamble (LEU)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -36.0,
+                -58.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -10.0,
+                -14.0,
+                8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                22.0,
+                44.0,
+                36.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              15
+            ]
+          }
+        },
+        {
+          "id": "low>high probability (LEU)",
+          "name": "low>high probability (LEU)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                34.0,
+                18.0,
+                18.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                34.0,
+                -56.0,
+                38.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -30.0,
+                -60.0,
+                40.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -34.0,
+                18.0,
+                -6.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              15
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(18)Lawrence, 2009",
+      "name": "(18)Lawrence, 2009",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "IGT>control task",
+          "name": "IGT>control task",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -59.7,
+                -12.46,
+                29.11
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -3.68,
+                32.05,
+                4.55
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                4.58,
+                17.77,
+                6.04
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                7.43,
+                31.99,
+                4.73
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -59.58,
+                -8.88,
+                21.35
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              15
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(2)Bjork, 2008",
+      "name": "(2)Bjork, 2008",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "high penalty>no penalty",
+          "name": "high penalty>no penalty",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -34.93,
+                -18.15,
+                51.59
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -5.03,
+                20.92,
+                31.53
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                17.24,
+                1.52,
+                -5.03
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -18.67,
+                -66.89,
+                46.05
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -2.63,
+                -80.09,
+                30.28
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                26.59,
+                -1.98,
+                48.94
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -2.7,
+                14.52,
+                43.33
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                22.42,
+                -57.71,
+                50.05
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -39.64,
+                -77.94,
+                9.4
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              17
+            ]
+          }
+        },
+        {
+          "id": "highriskpenaly>lowriskpenalty",
+          "name": "highriskpenaly>lowriskpenalty",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                11.11,
+                -62.29,
+                7.59
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -4.04,
+                -82.37,
+                17.42
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              17
+            ]
+          }
+        },
+        {
+          "id": "lowrisk>norisk",
+          "name": "lowrisk>norisk",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -19.19,
+                -72.02,
+                38.64
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                15.15,
+                0.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -4.04,
+                5.97,
+                48.2
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.08,
+                -7.11,
+                62.74
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              17
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(3)Bolla, 2003",
+      "name": "(3)Bolla, 2003",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "IGT performance",
+          "name": "IGT performance",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                18.0,
+                36.0,
+                22.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              13
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(35)Claus,2012",
+      "name": "(35)Claus,2012",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "linear color pumps> linear white pumps",
+          "name": "linear color pumps> linear white pumps",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.0,
+                -24.0,
+                -14.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -30.0,
+                22.0,
+                2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -44.0,
+                -28.0,
+                4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -18.0,
+                -104.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.0,
+                28.0,
+                30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                14.0,
+                -98.0,
+                2.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              79
+            ]
+          }
+        },
+        {
+          "id": "mean color pumps> mean white pumps",
+          "name": "mean color pumps> mean white pumps",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -52.0,
+                -24.0,
+                4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -12.0,
+                -100.0,
+                10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                28.0,
+                -90.0,
+                14.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -4.0,
+                -8.0,
+                62.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                10.0,
+                4.0,
+                -2.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              79
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(37)Bednarski,2012",
+      "name": "(37)Bednarski,2012",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "speeding up > slowing down (heavy drinkers)",
+          "name": "speeding up > slowing down (heavy drinkers)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                32.0,
+                4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -3.0,
+                23.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                3.0,
+                44.0,
+                25.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                0.0,
+                47.0,
+                13.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -9.0,
+                38.0,
+                28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -9.0,
+                53.0,
+                -5.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                0.0,
+                56.0,
+                1.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              41
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(39)bytristsky,2008",
+      "name": "(39)bytristsky,2008",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "gambling task > rest",
+          "name": "gambling task > rest",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                42.0,
+                36.0,
+                32.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              10
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(42)shao,2014",
+      "name": "(42)shao,2014",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "high risk",
+          "name": "high risk",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -18.0,
+                3.0,
+                27.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                39.0,
+                -18.0,
+                18.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                42.0,
+                36.0,
+                -9.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -30.0,
+                -24.0,
+                41.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -36.0,
+                33.0,
+                -9.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -27.0,
+                -15.0,
+                51.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                33.0,
+                33.0,
+                -12.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              29
+            ]
+          }
+        },
+        {
+          "id": "low risk",
+          "name": "low risk",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                24.0,
+                -84.0,
+                21.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -27.0,
+                9.0,
+                6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.0,
+                -27.0,
+                51.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -27.0,
+                48.0,
+                18.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                45.0,
+                -6.0,
+                6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -30.0,
+                6.0,
+                6.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              29
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(46)Leijenhorst,2010",
+      "name": "(46)Leijenhorst,2010",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "high risk > low risk",
+          "name": "high risk > low risk",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -3.0,
+                21.0,
+                -6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.0,
+                60.0,
+                -6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -12.0,
+                51.0,
+                18.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              58
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(47)Rogalsky,2011",
+      "name": "(47)Rogalsky,2011",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "IGT>control",
+          "name": "IGT>control",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -26.0,
+                38.0,
+                -12.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              15
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(58)Crowley,2015",
+      "name": "(58)Crowley,2015",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "activity difference before risky DM (all females>all males)",
+          "name": "activity difference before risky DM (all females>all males)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -4.0,
+                -50.0,
+                22.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -10.0,
+                -54.0,
+                32.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -12.0,
+                -46.0,
+                -6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -16.0,
+                -46.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -14.0,
+                -48.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -28.0,
+                18.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -28.0,
+                16.0,
+                -16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -38.0,
+                12.0,
+                -10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                24.0,
+                14.0,
+                58.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                16.0,
+                22.0,
+                36.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.0,
+                -50.0,
+                28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                12.0,
+                16.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -16.0,
+                46.0,
+                52.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                10.0,
+                12.0,
+                50.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              81
+            ]
+          }
+        },
+        {
+          "id": "activity difference before risky DM (all males>all females)",
+          "name": "activity difference before risky DM (all males>all females)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                22.0,
+                46.0,
+                24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -34.0,
+                32.0,
+                -1.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                34.0,
+                32.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -34.0,
+                38.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -14.0,
+                30.0,
+                38.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -12.0,
+                22.0,
+                36.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -14.0,
+                20.0,
+                50.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -14.0,
+                32.0,
+                28.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              81
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(60)lei,2016",
+      "name": "(60)lei,2016",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "active pumps vs control pumps",
+          "name": "active pumps vs control pumps",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                48.0,
+                -42.0,
+                -3.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              31
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(63)Yaxley,2011",
+      "name": "(63)Yaxley,2011",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "behavioral risk> no risk plus reward risk",
+          "name": "behavioral risk> no risk plus reward risk",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -8.0,
+                -64.0,
+                46.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -28.0,
+                56.0,
+                4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                14.0,
+                -64.0,
+                58.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -38.0,
+                68.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -32.0,
+                64.0,
+                6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -38.0,
+                60.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.0,
+                62.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -30.0,
+                56.0,
+                8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                60.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -30.0,
+                22.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                34.0,
+                20.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                62.0,
+                -6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                34.0,
+                64.0,
+                10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                32.0,
+                64.0,
+                2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                28.0,
+                58.0,
+                4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                38.0,
+                58.0,
+                -10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -2.0,
+                -62.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -32.0,
+                18.0,
+                2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                2.0,
+                -64.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.0,
+                -42.0,
+                50.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                42.0,
+                -38.0,
+                44.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                6.0,
+                60.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.0,
+                28.0,
+                32.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -44.0,
+                26.0,
+                26.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                10.0,
+                58.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -44.0,
+                -64.0,
+                44.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -10.0,
+                -68.0,
+                38.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -38.0,
+                -58.0,
+                46.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.0,
+                -44.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -38.0,
+                -60.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -36.0,
+                -50.0,
+                46.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                50.0,
+                -56.0,
+                46.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                46.0,
+                -50.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                44.0,
+                -54.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                44.0,
+                -60.0,
+                44.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                42.0,
+                -48.0,
+                46.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -4.0,
+                18.0,
+                44.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                4.0,
+                30.0,
+                36.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              31
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(70)Miedl,2010",
+      "name": "(70)Miedl,2010",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "high risk>low risk (PG>control)",
+          "name": "high risk>low risk (PG>control)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                73.54,
+                -24.77,
+                -2.27
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                50.49,
+                45.78,
+                -15.58
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                12.02,
+                -33.29,
+                1.86
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              24
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

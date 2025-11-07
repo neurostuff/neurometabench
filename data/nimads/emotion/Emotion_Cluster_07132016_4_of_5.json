@@ -1,0 +1,316 @@
+{
+  "id": "nimads_29484767_Emotion_Cluster_07132016_4_of_5",
+  "name": "Emotion - Emotion_Cluster_07132016_4_of_5",
+  "studies": [
+    {
+      "id": "Author here",
+      "name": "Author here",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "analysis_1",
+          "name": "analysis_1",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.0,
+                2.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -20.0,
+                24.0,
+                60.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.0,
+                2.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -16.0,
+                46.0,
+                20.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                -22.0,
+                -28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                -82.0,
+                16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -20.0,
+                24.0,
+                60.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                -82.0,
+                16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.0,
+                2.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                -22.0,
+                -28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                -82.0,
+                16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -20.0,
+                24.0,
+                60.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.0,
+                2.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -16.0,
+                46.0,
+                20.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                -22.0,
+                -28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -16.0,
+                46.0,
+                20.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                -82.0,
+                16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                -22.0,
+                -28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.0,
+                2.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -16.0,
+                46.0,
+                20.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                -22.0,
+                -28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                -82.0,
+                16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -20.0,
+                24.0,
+                60.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.0,
+                2.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -16.0,
+                46.0,
+                20.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -16.0,
+                46.0,
+                20.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                -22.0,
+                -28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -20.0,
+                24.0,
+                60.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.0,
+                2.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -16.0,
+                46.0,
+                20.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                -22.0,
+                -28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                -82.0,
+                16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -20.0,
+                24.0,
+                60.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                -82.0,
+                16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -20.0,
+                24.0,
+                60.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              10
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

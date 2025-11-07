@@ -1,0 +1,2347 @@
+{
+  "id": "nimads_29338547_data_1_increase_TLRCH",
+  "name": "Cannabis Use - data_1_increase_TLRCH",
+  "studies": [
+    {
+      "id": "(10) Nestor, et al. (2010)",
+      "name": "(10) Nestor, et al. (2010)",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Lose Outcome, Cannabis > Controls",
+          "name": "Lose Outcome, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -38.0,
+                -55.0,
+                54.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              14
+            ]
+          }
+        },
+        {
+          "id": "Neutral Cue, Cannabis > Controls",
+          "name": "Neutral Cue, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                2.0,
+                -88.0,
+                14.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              14
+            ]
+          }
+        },
+        {
+          "id": "Neutral Lose Outcome, Cannabis > Controlss",
+          "name": "Neutral Lose Outcome, Cannabis > Controlss",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -20.0,
+                -84.0,
+                35.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -28.0,
+                -75.0,
+                14.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -49.0,
+                -18.0,
+                47.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                9.0,
+                8.0,
+                10.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                42.0,
+                27.0,
+                47.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -37.0,
+                -48.0,
+                -20.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                52.0,
+                24.0,
+                7.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                17.0,
+                47.0,
+                44.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -21.0,
+                -18.0,
+                63.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                48.0,
+                -45.0,
+                13.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -1.0,
+                24.0,
+                27.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                0.0,
+                -19.0,
+                -30.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              14
+            ]
+          }
+        },
+        {
+          "id": "Neutral Win Outcome, Cannabis > Controls",
+          "name": "Neutral Win Outcome, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                17.0,
+                -82.0,
+                -17.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -15.0,
+                -39.0,
+                2.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                14.0,
+                -6.0,
+                -21.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                29.0,
+                -46.0,
+                -8.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              14
+            ]
+          }
+        },
+        {
+          "id": "Win Cue + Loss Cue, Cannabis > Controls",
+          "name": "Win Cue + Loss Cue, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                1.0,
+                -77.0,
+                -19.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              14
+            ]
+          }
+        },
+        {
+          "id": "Win Cue, Cannabis > Controls",
+          "name": "Win Cue, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                20.0,
+                8.0,
+                -4.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              14
+            ]
+          }
+        },
+        {
+          "id": "Win Outcome, Controls > Cannabis",
+          "name": "Win Outcome, Controls > Cannabis",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                0.0,
+                -24.0,
+                45.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              14
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(11) Chang, et al. (2006)",
+      "name": "(11) Chang, et al. (2006)",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Tracking, THC+ > Controls",
+          "name": "Tracking, THC+ > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -21.0,
+                0.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -15.0,
+                -75.0,
+                -6.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -21.0,
+                -75.0,
+                36.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              24
+            ]
+          }
+        },
+        {
+          "id": "Tracking, THC- > Controls",
+          "name": "Tracking, THC- > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -27.0,
+                -6.0,
+                30.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -18.0,
+                -78.0,
+                -6.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                39.0,
+                15.0,
+                -27.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                30.0,
+                -48.0,
+                33.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              24
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(12) Van Hell, et al. (2012)",
+      "name": "(12) Van Hell, et al. (2012)",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Anticipation, Cannabis > Controls",
+          "name": "Anticipation, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                24.0,
+                -16.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                40.0,
+                -64.0,
+                20.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -48.0,
+                -68.0,
+                20.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                12.0,
+                -76.0,
+                24.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              14
+            ]
+          }
+        },
+        {
+          "id": "Evaluation, Cannabis > Controls",
+          "name": "Evaluation, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -51.0,
+                -65.0,
+                22.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                43.0,
+                78.0,
+                15.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                48.0,
+                10.0,
+                32.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                22.0,
+                -10.0,
+                35.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                24.0,
+                -72.0,
+                30.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                19.0,
+                8.0,
+                -11.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                12.0,
+                4.0,
+                7.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                8.0,
+                32.0,
+                24.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                6.0,
+                58.0,
+                1.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -8.0,
+                -65.0,
+                26.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -20.0,
+                4.0,
+                8.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -38.0,
+                27.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -27.0,
+                -39.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -55.0,
+                -26.0,
+                20.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                4.0,
+                -18.0,
+                29.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -14.0,
+                -25.0,
+                38.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                48.0,
+                -6.0,
+                34.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              14
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(13) Fibey, et al. (2013)",
+      "name": "(13) Fibey, et al. (2013)",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Gain vs. Loss, Cannabis > Controls",
+          "name": "Gain vs. Loss, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -36.06,
+                46.86,
+                8.11
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -40.63,
+                -28.98,
+                53.09
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -42.2,
+                9.69,
+                42.32
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -3.84,
+                -63.75,
+                61.23
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                5.45,
+                -69.04,
+                57.28
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              59
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(16) Tapert, et al. (2007)",
+      "name": "(16) Tapert, et al. (2007)",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Go, Cannabis > Controls",
+          "name": "Go, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                30.0,
+                -57.0,
+                56.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                47.0,
+                -43.0,
+                49.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                5.0,
+                -64.0,
+                59.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                23.0,
+                52.0,
+                31.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                54.0,
+                13.0,
+                14.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              16
+            ]
+          }
+        },
+        {
+          "id": "No-Go, Cannabis > Controls",
+          "name": "No-Go, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -40.0,
+                -54.0,
+                52.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                37.0,
+                48.0,
+                14.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                44.0,
+                3.0,
+                42.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -33.0,
+                55.0,
+                3.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -2.0,
+                3.0,
+                52.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                40.0,
+                -57.0,
+                45.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                23.0,
+                -89.0,
+                3.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              16
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(17) Bolla, et al. (2005)",
+      "name": "(17) Bolla, et al. (2005)",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Iowa Gambling, Cannabis > Controls",
+          "name": "Iowa Gambling, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -53.0,
+                -17.0,
+                45.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              11
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(18) Yip, et al. (2014)",
+      "name": "(18) Yip, et al. (2014)",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Evaluation, Cannabis > Controls",
+          "name": "Evaluation, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -6.53,
+                -21.54,
+                -5.08
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -34.74,
+                -60.34,
+                17.79
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -39.86,
+                -26.95,
+                -6.16
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              20
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(19) Kanayama, et al. (2004)",
+      "name": "(19) Kanayama, et al. (2004)",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Memory, Cannabis > Controls",
+          "name": "Memory, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                15.89,
+                42.05,
+                -2.28
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                22.85,
+                3.99,
+                21.26
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                48.75,
+                2.0,
+                21.51
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                11.85,
+                19.48,
+                17.13
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                37.88,
+                27.49,
+                11.13
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -6.6,
+                14.51,
+                10.95
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -18.04,
+                10.26,
+                35.57
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                13.97,
+                34.25,
+                0.55
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                13.47,
+                1.31,
+                29.85
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                30.78,
+                11.51,
+                -17.53
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                32.26,
+                21.59,
+                14.07
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -21.45,
+                32.52,
+                19.61
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              12
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(20) Abdullaeva, et al. (2010)",
+      "name": "(20) Abdullaeva, et al. (2010)",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Attention, Cannabis > Controls",
+          "name": "Attention, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                48.99,
+                14.74,
+                6.5
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                3.83,
+                -21.58,
+                52.75
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                44.63,
+                -35.82,
+                43.08
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -49.67,
+                -52.92,
+                29.05
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              14
+            ]
+          }
+        },
+        {
+          "id": "Hard Word Generation, Cannabis > Control",
+          "name": "Hard Word Generation, Cannabis > Control",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -0.86,
+                15.87,
+                -3.24
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -13.63,
+                44.76,
+                -9.73
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                21.46,
+                14.77,
+                -11.98
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -12.85,
+                -50.96,
+                46.08
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              14
+            ]
+          }
+        },
+        {
+          "id": "Word Generation, Cannabis > Controls",
+          "name": "Word Generation, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                8.44,
+                52.74,
+                4.01
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                28.62,
+                25.68,
+                10.8
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              14
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(21) Smith, et al. (2010)",
+      "name": "(21) Smith, et al. (2010)",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Memory, Cannabis > Controls",
+          "name": "Memory, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                24.25,
+                41.33,
+                -4.91
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                29.72,
+                32.48,
+                -1.15
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                32.81,
+                18.31,
+                -29.47
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                9.71,
+                -34.74,
+                23.67
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              10
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(22) Block, et al. (2002)",
+      "name": "(22) Block, et al. (2002)",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Memory, Cannabis > Controls",
+          "name": "Memory, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                9.0,
+                -83.0,
+                -13.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                5.0,
+                -75.0,
+                -32.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -17.0,
+                -54.0,
+                -27.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                31.0,
+                -48.0,
+                -38.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              18
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(23) Eldrith, et al. (2004)",
+      "name": "(23) Eldrith, et al. (2004)",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Stroop, Cannabis > Controls",
+          "name": "Stroop, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                12.0,
+                -28.0,
+                55.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -38.0,
+                -80.0,
+                -13.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              11
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(24) Vaidya, et al. (2012)",
+      "name": "(24) Vaidya, et al. (2012)",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Reward, Cannabis > Controls",
+          "name": "Reward, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -34.0,
+                -20.0,
+                16.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              46
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(26) Hester, et al. (2009)",
+      "name": "(26) Hester, et al. (2009)",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "No-Go, Cannabis > Controls",
+          "name": "No-Go, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                1.14,
+                -19.09,
+                46.63
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                43.73,
+                -43.86,
+                38.7
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                16.62,
+                4.08,
+                1.34
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              16
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(27) Rosner, et al. (2012)",
+      "name": "(27) Rosner, et al. (2012)",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "ToM, Cannabis > Controls",
+          "name": "ToM, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -18.11,
+                -77.95,
+                14.6
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                17.17,
+                10.43,
+                32.58
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              15
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(29) Acheson, et al. (2015)",
+      "name": "(29) Acheson, et al. (2015)",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Losses, Cannabis > Controls",
+          "name": "Losses, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                48.0,
+                6.0,
+                36.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                4.0,
+                -32.0,
+                24.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                6.0,
+                30.0,
+                14.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                30.0,
+                12.0,
+                4.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -44.0,
+                12.0,
+                2.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -24.0,
+                18.0,
+                -6.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -40.0,
+                -62.0,
+                -18.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                32.0,
+                -66.0,
+                -18.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              14
+            ]
+          }
+        },
+        {
+          "id": "Wins, Cannabis > Controls",
+          "name": "Wins, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                40.0,
+                32.0,
+                18.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                12.0,
+                6.0,
+                10.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -36.0,
+                42.0,
+                8.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -10.0,
+                4.0,
+                6.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -24.0,
+                24.0,
+                0.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                26.0,
+                16.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -32.0,
+                42.0,
+                -6.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              14
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(3) , Gruber, et al. (2009)",
+      "name": "(3) , Gruber, et al. (2009)",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Angry Faces, Cannabis > Controls",
+          "name": "Angry Faces, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                26.0,
+                -32.0,
+                -34.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                46.0,
+                -66.0,
+                20.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                58.0,
+                12.0,
+                32.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -44.0,
+                -20.0,
+                -18.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                20.0,
+                62.0,
+                16.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                8.0,
+                -44.0,
+                58.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                2.0,
+                -36.0,
+                46.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              15
+            ]
+          }
+        },
+        {
+          "id": "Happy Faces, Cannabis > Controls",
+          "name": "Happy Faces, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                30.0,
+                -38.0,
+                -40.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              15
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(31) Enzi, et al. (2015)",
+      "name": "(31) Enzi, et al. (2015)",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Reward Feedback, Cannabis > Controls",
+          "name": "Reward Feedback, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -12.35,
+                -4.3,
+                20.78
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                40.57,
+                24.16,
+                16.26
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              15
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(34) Heitzeg et al. (2015)",
+      "name": "(34) Heitzeg et al. (2015)",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Emotion Elicitation, Cannabis > Controls",
+          "name": "Emotion Elicitation, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                17.25,
+                49.38,
+                38.07
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              20
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(4) Schweinsburg, et al. (2008)",
+      "name": "(4) Schweinsburg, et al. (2008)",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Memory, Cannabis > Controls",
+          "name": "Memory, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -14.0,
+                -89.0,
+                -13.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                2.0,
+                -77.0,
+                36.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              15
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(5) Padula, et al. (2007)",
+      "name": "(5) Padula, et al. (2007)",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "n-back, Cannabis > Controls",
+          "name": "n-back, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -11.0,
+                -65.0,
+                63.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                8.0,
+                -53.0,
+                69.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                32.0,
+                -17.0,
+                12.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              15
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(6) King, et al. (2011)",
+      "name": "(6) King, et al. (2011)",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "2 Hz Condition (Male) Cannabis > Controls",
+          "name": "2 Hz Condition (Male) Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                0.28,
+                10.64,
+                50.33
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -45.26,
+                12.55,
+                -6.11
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              30
+            ]
+          }
+        },
+        {
+          "id": "2 Hz Condition, Cannabis > Controls",
+          "name": "2 Hz Condition, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                0.28,
+                10.64,
+                50.33
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              30
+            ]
+          }
+        },
+        {
+          "id": "4 Hz Condition (Female) Cannabis > Controls",
+          "name": "4 Hz Condition (Female) Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -54.7,
+                13.07,
+                8.19
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                43.55,
+                46.62,
+                7.63
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -34.37,
+                38.35,
+                18.14
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                47.43,
+                18.71,
+                -14.77
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              30
+            ]
+          }
+        },
+        {
+          "id": "4 Hz Condition (Male) Cannabis > Controls",
+          "name": "4 Hz Condition (Male) Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -51.82,
+                -36.89,
+                57.56
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                0.25,
+                14.02,
+                54.26
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              30
+            ]
+          }
+        },
+        {
+          "id": "4 Hz Condition, Cannabis > Controls",
+          "name": "4 Hz Condition, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -36.68,
+                3.9,
+                43.66
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                41.73,
+                43.25,
+                3.68
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                27.73,
+                -50.35,
+                57.63
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                23.5,
+                58.13,
+                -13.24
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -58.39,
+                -25.17,
+                -4.5
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              30
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(7) Lopez-Larson, et al. (2012)",
+      "name": "(7) Lopez-Larson, et al. (2012)",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Tapping, Controls > Cannabis",
+          "name": "Tapping, Controls > Cannabis",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -23.0,
+                -27.0,
+                29.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                35.0,
+                -87.0,
+                16.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              24
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(9) Cousijn, et al. (2012)",
+      "name": "(9) Cousijn, et al. (2012)",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Wins > Losses, Cannabis > Controls",
+          "name": "Wins > Losses, Cannabis > Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                34.32,
+                21.28,
+                -2.13
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                34.2,
+                11.27,
+                4.12
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -45.64,
+                -35.94,
+                9.11
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              32
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "nimads_31872334_Reward_Cluster_03162016_2_of_4",
+  "name": "Reward - Reward_Cluster_03162016_2_of_4",
+  "studies": [
+    {
+      "id": "",
+      "name": "",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "analysis_1",
+          "name": "analysis_1",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -45.8005,
+                6.7686,
+                33.8718
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                21.1079,
+                -73.7628,
+                -10.4616
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                48.6257,
+                6.5403,
+                32.745
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              14
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
