@@ -1,0 +1,7973 @@
+{
+  "id": "nimads_36115222_vbm_subst",
+  "name": "VBM of Substance Use - vbm_subst",
+  "studies": [
+    {
+      "id": "(1) Alia-Klein, 2011",
+      "name": "(1) Alia-Klein, 2011",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "cocaine use disorders vs. controls",
+          "name": "cocaine use disorders vs. controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -22.0,
+                24.0,
+                -16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                36.0,
+                20.0,
+                27.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                50.0,
+                -53.0,
+                2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                35.0,
+                -12.0,
+                -16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                31.0,
+                2.0,
+                -18.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              40
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(1) Almeida, 2008",
+      "name": "(1) Almeida, 2008",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (all smokers)",
+          "name": "NS > S (all smokers)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -4.0,
+                -51.0,
+                27.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                20.0,
+                -69.0,
+                22.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                40.0,
+                -13.0,
+                45.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -34.0,
+                -21.0,
+                51.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                20.0,
+                -19.0,
+                14.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              39
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(1) Asensio, 2015",
+      "name": "(1) Asensio, 2015",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "controls > alcohol patients, GM",
+          "name": "controls > alcohol patients, GM",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -2.0,
+                55.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                5.0,
+                19.0,
+                48.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              24
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(1) Battisella, 2014",
+      "name": "(1) Battisella, 2014",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "cannabis users < controls",
+          "name": "cannabis users < controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                64.0,
+                -10.0,
+                -20.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                10.0,
+                -32.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -26.0,
+                10.0,
+                -42.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -36.0,
+                8.0,
+                -10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                24.0,
+                6.0,
+                -36.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -56.0,
+                2.0,
+                -28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                10.0,
+                -14.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -22.0,
+                14.0,
+                -14.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                50.0,
+                14.0,
+                -20.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                12.0,
+                -54.0,
+                16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                46.0,
+                14.0,
+                -34.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              25
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(1) Gardini, 2012",
+      "name": "(1) Gardini, 2012",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Heroin abusers < controls",
+          "name": "Heroin abusers < controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                54.13,
+                -33.19,
+                18.39
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              24
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(10) Keihani, 2017",
+      "name": "(10) Keihani, 2017",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "heroin < control",
+          "name": "heroin < control",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                26.0,
+                -6.0,
+                2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                19.5,
+                36.0,
+                5.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -26.0,
+                -6.0,
+                2.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              18
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(10) Kim, 2006",
+      "name": "(10) Kim, 2006",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "methamphetamine users < controls",
+          "name": "methamphetamine users < controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                31.6,
+                56.97,
+                12.35
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              11
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(10) Liao, 2010",
+      "name": "(10) Liao, 2010",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (all smokers)",
+          "name": "NS > S (all smokers)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -22.58,
+                -34.68,
+                0.35
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -10.04,
+                43.13,
+                -17.65
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -3.21,
+                31.51,
+                6.92
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              44
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(10) Momenan, 2012",
+      "name": "(10) Momenan, 2012",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Healthy Controls > Alcoholics",
+          "name": "Healthy Controls > Alcoholics",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                44.51,
+                -7.28,
+                12.24
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                19.22,
+                5.66,
+                54.78
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -21.01,
+                15.93,
+                38.78
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                16.29,
+                -66.55,
+                47.54
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                50.88,
+                1.42,
+                32.69
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              130
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(11) Cheng, 2015",
+      "name": "(11) Cheng, 2015",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "controls > heroin",
+          "name": "controls > heroin",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                14.0,
+                54.0,
+                16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                20.0,
+                -28.0,
+                9.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                3.0,
+                -4.0,
+                43.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -41.0,
+                -1.0,
+                45.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                11.0,
+                50.0,
+                9.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -36.0,
+                -76.0,
+                -15.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                62.0,
+                -3.0,
+                34.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                65.0,
+                -15.0,
+                37.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -33.0,
+                3.0,
+                4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -57.0,
+                -6.0,
+                4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -44.0,
+                0.0,
+                -3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                50.0,
+                -67.0,
+                28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                11.0,
+                51.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -29.0,
+                0.0,
+                63.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -24.0,
+                21.0,
+                52.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              33
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(11) Mackey, 2014",
+      "name": "(11) Mackey, 2014",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Amphetamine use over lifetime",
+          "name": "Amphetamine use over lifetime",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -38.8,
+                -22.41,
+                52.61
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              101
+            ]
+          }
+        },
+        {
+          "id": "Amphetamine-type/cocaine < controls",
+          "name": "Amphetamine-type/cocaine < controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -23.25,
+                16.36,
+                -5.63
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                25.6,
+                -71.27,
+                -30.99
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                53.18,
+                -33.98,
+                57.3
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              101
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(11) Morales, 2012",
+      "name": "(11) Morales, 2012",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (all smokers)",
+          "name": "NS > S (all smokers)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                18.0,
+                38.0,
+                -15.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              25
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(11) Rando, 2011",
+      "name": "(11) Rando, 2011",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Healthy Comparison Subjects > Alcohol-Dependent Patients",
+          "name": "Healthy Comparison Subjects > Alcohol-Dependent Patients",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.0,
+                -58.0,
+                18.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -5.0,
+                1.0,
+                50.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                51.0,
+                40.0,
+                19.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              45
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(12) Morales, 2012",
+      "name": "(12) Morales, 2012",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Control non-smoker > Methamphetamine-dependent smoker",
+          "name": "Control non-smoker > Methamphetamine-dependent smoker",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                4.0,
+                -34.0,
+                42.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -3.0,
+                10.0,
+                1.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                26.0,
+                54.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -24.0,
+                41.0,
+                -23.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -14.0,
+                0.0,
+                58.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -40.0,
+                3.0,
+                -3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.0,
+                -10.0,
+                40.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                10.0,
+                -48.0,
+                66.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                50.0,
+                -3.0,
+                34.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                69.0,
+                -24.0,
+                -6.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              20
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(12) Segobin, 2014",
+      "name": "(12) Segobin, 2014",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Controls > Alcohol-Dependent Patients",
+          "name": "Controls > Alcohol-Dependent Patients",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -5.0,
+                -12.0,
+                -19.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                45.0,
+                8.0,
+                -7.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                2.0,
+                3.0,
+                52.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -45.0,
+                -44.0,
+                -26.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              19
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(12) Stoeckel, 2015",
+      "name": "(12) Stoeckel, 2015",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (all smokers)",
+          "name": "NS > S (all smokers)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -34.0,
+                22.0,
+                14.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              16
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(12) Wang, 2016",
+      "name": "(12) Wang, 2016",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "FHD < control",
+          "name": "FHD < control",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                2.0,
+                -63.0,
+                20.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              30
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(13) Moreno-Lopez, 2012",
+      "name": "(13) Moreno-Lopez, 2012",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "prefrontal gray matter reductions in cocaine dependent",
+          "name": "prefrontal gray matter reductions in cocaine dependent",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                52.0,
+                -19.0,
+                23.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -33.0,
+                -7.0,
+                -19.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                -1.0,
+                3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                9.0,
+                19.0,
+                -15.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -56.0,
+                -14.0,
+                -18.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                46.0,
+                -26.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                12.0,
+                12.0,
+                -3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                7.0,
+                33.0,
+                -15.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                -25.0,
+                -3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -20.0,
+                57.0,
+                -3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -26.0,
+                18.0,
+                -17.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -9.0,
+                27.0,
+                -13.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                28.0,
+                21.0,
+                -15.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              38
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(13) Trick, 2014",
+      "name": "(13) Trick, 2014",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "C>P, alcohol",
+          "name": "C>P, alcohol",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                63.4,
+                -49.37,
+                45.16
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                70.45,
+                12.5,
+                17.63
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                5.97,
+                14.76,
+                45.4
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                44.39,
+                -11.59,
+                2.53
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                46.3,
+                17.16,
+                -11.55
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              17
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(13) Wang, 2014",
+      "name": "(13) Wang, 2014",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (all smokers)",
+          "name": "NS > S (all smokers)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                10.0,
+                48.0,
+                30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                34.0,
+                13.0,
+                -3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                -10.0,
+                9.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              22
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(14) Schwartz, 2010",
+      "name": "(14) Schwartz, 2010",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "meth users < controls",
+          "name": "meth users < controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                44.8,
+                1.5,
+                2.7
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                2.8,
+                64.0,
+                -42.1
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                36.6,
+                -39.0,
+                32.2
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -44.0,
+                -7.8,
+                -0.4
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              61
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(14) Yu, 2011",
+      "name": "(14) Yu, 2011",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (GM, univariate results)",
+          "name": "NS > S (GM, univariate results)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                26.0,
+                -40.0,
+                -46.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -34.0,
+                -46.0,
+                -44.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              16
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(14) van Eijk, 2013",
+      "name": "(14) van Eijk, 2013",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Healthy Controls > Alcohol-Dependent Patients",
+          "name": "Healthy Controls > Alcohol-Dependent Patients",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -45.0,
+                -13.0,
+                49.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                32.0,
+                -76.0,
+                -54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                60.0,
+                -31.0,
+                1.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                34.0,
+                -10.0,
+                67.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                39.0,
+                6.0,
+                6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -9.0,
+                -25.0,
+                45.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.0,
+                -73.0,
+                -36.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -27.0,
+                54.0,
+                19.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -54.0,
+                18.0,
+                3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -15.0,
+                42.0,
+                45.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -22.0,
+                -70.0,
+                43.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -32.0,
+                -84.0,
+                -36.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                24.0,
+                35.0,
+                39.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                39.0,
+                -18.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -39.0,
+                -12.0,
+                13.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                32.0,
+                -82.0,
+                -35.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                51.0,
+                15.0,
+                30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                64.0,
+                -4.0,
+                -11.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                33.0,
+                -72.0,
+                30.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              49
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(15) Sim, 2007",
+      "name": "(15) Sim, 2007",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Cocaine-dependent subjects < healthy controls",
+          "name": "Cocaine-dependent subjects < healthy controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                57.01,
+                14.96,
+                -22.66
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                18.93,
+                60.63,
+                22.17
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                50.68,
+                -5.69,
+                -48.95
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -60.2,
+                -18.68,
+                -38.53
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -16.72,
+                -31.71,
+                0.95
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                14.05,
+                -90.35,
+                -30.73
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -15.54,
+                -90.6,
+                -30.54
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                20.2,
+                30.23,
+                59.76
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -5.27,
+                51.34,
+                46.25
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              27
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(15) Zhang, 2011",
+      "name": "(15) Zhang, 2011",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (high pack year smokers)",
+          "name": "NS > S (high pack year smokers)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -24.0,
+                -46.0,
+                32.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              48
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(15) van Holst, 2012",
+      "name": "(15) van Holst, 2012",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "AUDs < HCs",
+          "name": "AUDs < HCs",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                -60.0,
+                56.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -29.0,
+                -3.0,
+                6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -23.0,
+                -12.0,
+                72.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -29.0,
+                -19.0,
+                30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -9.0,
+                -18.0,
+                3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                33.0,
+                5.0,
+                2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -29.0,
+                -61.0,
+                51.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                45.0,
+                -46.0,
+                36.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              36
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(16) Shen, 2017",
+      "name": "(16) Shen, 2017",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "nicotine smoker < nonsmoker",
+          "name": "nicotine smoker < nonsmoker",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -9.0,
+                52.5,
+                -21.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.0,
+                -6.0,
+                33.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -49.5,
+                -55.5,
+                -36.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                31.5,
+                -70.5,
+                -30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                46.5,
+                42.0,
+                6.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              85
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(16) Van Wingen, 2013",
+      "name": "(16) Van Wingen, 2013",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "healthy controls vs.  ADHD plus cocaine dependence",
+          "name": "healthy controls vs.  ADHD plus cocaine dependence",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                27.0,
+                2.0,
+                6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                23.0,
+                -60.0,
+                -45.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              10
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(16) Yoon, 2017",
+      "name": "(16) Yoon, 2017",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "AUD < control",
+          "name": "AUD < control",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                26.0,
+                -60.0,
+                -51.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -24.0,
+                -62.0,
+                -52.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              20
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(17) Peng, 2018",
+      "name": "(17) Peng, 2018",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "mild/moderate smoker < nonsmoker",
+          "name": "mild/moderate smoker < nonsmoker",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.0,
+                -67.5,
+                15.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -8.0,
+                -52.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -32.0,
+                -69.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                -65.0,
+                19.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -17.0,
+                -57.0,
+                15.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                11.0,
+                15.0,
+                13.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -8.0,
+                8.0,
+                10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                42.0,
+                0.0,
+                1.5
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              53
+            ]
+          }
+        },
+        {
+          "id": "severe smoker < nonsmoker",
+          "name": "severe smoker < nonsmoker",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                9.0,
+                -52.5,
+                -15.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -29.0,
+                -70.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                37.5,
+                -4.5,
+                13.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                25.5,
+                -66.0,
+                9.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -9.0,
+                -61.5,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.5,
+                -7.5,
+                -9.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -41.0,
+                11.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                55.5,
+                18.0,
+                4.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                35.0,
+                30.0,
+                3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                59.0,
+                0.0,
+                3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                56.0,
+                -33.0,
+                4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -10.5,
+                -51.0,
+                34.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                28.5,
+                6.0,
+                -30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -7.5,
+                -64.5,
+                40.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -21.0,
+                -99.0,
+                -1.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                -88.5,
+                4.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -3.0,
+                -49.5,
+                7.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                41.0,
+                -75.0,
+                39.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -64.5,
+                -9.0,
+                -7.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                44.0,
+                -75.0,
+                25.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                15.0,
+                -22.5,
+                -1.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -57.0,
+                -24.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                7.5,
+                -61.5,
+                -16.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -16.5,
+                -28.5,
+                -3.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              53
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(17) Tanabe, 2009",
+      "name": "(17) Tanabe, 2009",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Controls > SDI",
+          "name": "Controls > SDI",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -5.0,
+                53.0,
+                -3.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              19
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(17) Wiers, 2015",
+      "name": "(17) Wiers, 2015",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "ADP < control",
+          "name": "ADP < control",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                11.0,
+                10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -51.0,
+                12.0,
+                24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -12.0,
+                -78.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -26.0,
+                -7.0,
+                63.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -45.0,
+                -67.0,
+                -51.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                18.0,
+                -64.0,
+                59.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              22
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(18) Bouso, 2015",
+      "name": "(18) Bouso, 2015",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "DMT users < Controls",
+          "name": "DMT users < Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                37.2,
+                -8.66,
+                42.34
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -2.9,
+                -37.53,
+                24.58
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -23.25,
+                40.45,
+                26.01
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                10.92,
+                -40.06,
+                50.19
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                45.46,
+                23.4,
+                13.46
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -32.34,
+                -72.31,
+                29.35
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              22
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(18) Chanraud, 2007",
+      "name": "(18) Chanraud, 2007",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "AD < control",
+          "name": "AD < control",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -44.0,
+                -7.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                -60.0,
+                -47.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.0,
+                -9.0,
+                2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -64.0,
+                -22.0,
+                4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -39.0,
+                -28.0,
+                10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -9.0,
+                -3.0,
+                10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.0,
+                -3.0,
+                10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.0,
+                -35.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                0.0,
+                25.0,
+                34.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                40.0,
+                -1.0,
+                54.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              26
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(19) Liao, 2011",
+      "name": "(19) Liao, 2011",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Ketamine < Controls",
+          "name": "Ketamine < Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -2.0,
+                5.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                28.0,
+                5.0,
+                62.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              41
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(19) Nurmedov, 2016",
+      "name": "(19) Nurmedov, 2016",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "AUD < control",
+          "name": "AUD < control",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                67.5,
+                -39.0,
+                4.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                18.0,
+                -63.0,
+                -60.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -51.0,
+                -1.5,
+                -42.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -58.5,
+                -16.5,
+                -10.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -57.0,
+                -3.0,
+                -16.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                18.0,
+                -3.0,
+                -10.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                27.0,
+                -7.5,
+                -19.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                31.5,
+                0.0,
+                -25.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -33.0,
+                -10.5,
+                -22.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -28.5,
+                1.5,
+                -27.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -58.5,
+                -9.0,
+                -34.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -25.5,
+                -10.5,
+                -18.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -31.5,
+                31.5,
+                -9.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -31.5,
+                55.5,
+                1.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -12.0,
+                60.0,
+                21.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -7.5,
+                61.5,
+                -19.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -25.5,
+                46.5,
+                24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                7.5,
+                42.0,
+                -22.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                18.0,
+                67.5,
+                9.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -3.0,
+                49.5,
+                3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                12.0,
+                18.0,
+                -10.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                3.0,
+                -21.0,
+                43.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -54.0,
+                10.5,
+                -27.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                54.0,
+                12.0,
+                -27.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                25.5,
+                -60.0,
+                -58.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                10.5,
+                -63.0,
+                -9.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                18.0,
+                -48.0,
+                -13.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                12.0,
+                -52.5,
+                -9.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -40.5,
+                -64.5,
+                -52.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                21.0,
+                -94.5,
+                21.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -12.0,
+                -57.0,
+                57.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -39.0,
+                -18.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -64.5,
+                -22.5,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                52.5,
+                -6.0,
+                -34.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -34.5,
+                45.0,
+                -12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                55.5,
+                -46.5,
+                10.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                1.5,
+                28.5,
+                -13.5
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              24
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(2) Almeida, 2011",
+      "name": "(2) Almeida, 2011",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (unsuccessful quiters)",
+          "name": "NS > S (unsuccessful quiters)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                16.0,
+                -20.0,
+                10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                -10.0,
+                8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                10.0,
+                -72.0,
+                -48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                18.0,
+                -86.0,
+                -34.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -4.0,
+                -68.0,
+                -48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -28.0,
+                -56.0,
+                58.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -36.0,
+                -58.0,
+                44.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              228
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(2) Barros-Loscertales, 2011",
+      "name": "(2) Barros-Loscertales, 2011",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Cocaine-dependent patients and healthy controls",
+          "name": "Cocaine-dependent patients and healthy controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                32.0,
+                -38.0,
+                -33.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                38.0,
+                27.0,
+                41.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -43.0,
+                -18.0,
+                1.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -47.0,
+                -72.0,
+                25.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                49.0,
+                19.0,
+                25.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                23.0,
+                -5.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -11.0,
+                -49.0,
+                40.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -18.0,
+                2.0,
+                -17.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                31.0,
+                7.0,
+                -26.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                25.0,
+                41.0,
+                40.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -41.0,
+                32.0,
+                31.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                58.0,
+                24.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              20
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(2) Brooks, 2014",
+      "name": "(2) Brooks, 2014",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Healthy > Alcohol (without CTQ)",
+          "name": "Healthy > Alcohol (without CTQ)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -65.0,
+                -18.0,
+                8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                64.0,
+                -21.0,
+                10.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              58
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(2) Fibley, 2014",
+      "name": "(2) Fibley, 2014",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "marijuana users < controls",
+          "name": "marijuana users < controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                26.0,
+                54.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -16.0,
+                58.0,
+                -10.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              75
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(2) Li, 2014",
+      "name": "(2) Li, 2014",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Heroin dependent individuals vs healthy controls",
+          "name": "Heroin dependent individuals vs healthy controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -10.59,
+                16.08,
+                63.9
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                67.22,
+                -15.39,
+                -2.99
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                15.69,
+                26.59,
+                28.4
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                40.37,
+                -12.34,
+                -0.93
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -31.31,
+                13.99,
+                55.18
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              17
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(20) Qiu, 2014",
+      "name": "(20) Qiu, 2014",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "codeine users < Controls",
+          "name": "codeine users < Controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -7.54,
+                34.83,
+                -33.63
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              28
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(20) Zois, 2017",
+      "name": "(20) Zois, 2017",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "ADP < control",
+          "name": "ADP < control",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                47.0,
+                -12.0,
+                7.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                42.0,
+                -15.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -39.0,
+                -19.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                35.0,
+                3.0,
+                -18.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                42.0,
+                0.0,
+                -18.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                45.0,
+                9.0,
+                31.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -23.0,
+                42.0,
+                25.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                3.0,
+                39.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -32.0,
+                18.0,
+                3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                2.0,
+                45.0,
+                13.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                41.0,
+                -4.0,
+                57.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                2.0,
+                -33.0,
+                49.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -41.0,
+                -21.0,
+                57.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -45.0,
+                -15.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -56.0,
+                -7.0,
+                34.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                2.0,
+                32.0,
+                28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                0.0,
+                20.0,
+                36.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -2.0,
+                -6.0,
+                45.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                11.0,
+                -28.0,
+                43.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                35.0,
+                23.0,
+                1.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              95
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(21) Parvaz, 2017",
+      "name": "(21) Parvaz, 2017",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "control > CUD",
+          "name": "control > CUD",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -17.0,
+                -77.0,
+                20.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                23.0,
+                -54.0,
+                33.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              19
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(21) Wang, 2016",
+      "name": "(21) Wang, 2016",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "ADP < control",
+          "name": "ADP < control",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -3.0,
+                20.0,
+                33.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                3.0,
+                33.0,
+                25.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                0.0,
+                15.0,
+                51.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                3.0,
+                -1.0,
+                55.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -51.0,
+                -13.0,
+                45.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                5.0,
+                36.0,
+                -14.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -5.0,
+                -67.0,
+                10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -30.0,
+                12.0,
+                3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                11.0,
+                25.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                -66.0,
+                -41.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                2.0,
+                -19.0,
+                49.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              20
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(22) Yip, 2017",
+      "name": "(22) Yip, 2017",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "CUD < control",
+          "name": "CUD < control",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                18.0,
+                28.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              37
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(23) Yuan, 2017",
+      "name": "(23) Yuan, 2017",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "control > betel quid",
+          "name": "control > betel quid",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.0,
+                16.0,
+                -42.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -20.0,
+                28.0,
+                -16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                18.0,
+                58.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                56.0,
+                28.0,
+                0.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              25
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(24) Garza-Villarreal, 2018",
+      "name": "(24) Garza-Villarreal, 2018",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "CA < HC",
+          "name": "CA < HC",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -62.0,
+                -30.0,
+                23.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -28.0,
+                44.0,
+                35.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -49.0,
+                43.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -5.0,
+                63.0,
+                -7.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -4.0,
+                47.0,
+                -3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -43.0,
+                18.0,
+                47.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.0,
+                2.0,
+                55.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                45.0,
+                49.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -43.0,
+                -56.0,
+                53.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -35.0,
+                -39.0,
+                67.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                42.0,
+                11.0,
+                -16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                4.0,
+                -21.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                45.0,
+                56.0,
+                -13.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -60.0,
+                5.0,
+                9.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -43.0,
+                47.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -45.0,
+                -16.0,
+                55.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -61.0,
+                -51.0,
+                11.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -44.0,
+                8.0,
+                -6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -44.0,
+                31.0,
+                33.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -7.0,
+                24.0,
+                32.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                37.0,
+                -3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -54.0,
+                -57.0,
+                35.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -8.0,
+                62.0,
+                21.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -27.0,
+                11.0,
+                59.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -54.0,
+                4.0,
+                38.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -39.0,
+                24.0,
+                47.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -23.0,
+                44.0,
+                40.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -27.0,
+                59.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -45.0,
+                15.0,
+                -11.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.0,
+                40.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -9.0,
+                43.0,
+                47.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -41.0,
+                42.0,
+                24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                53.0,
+                -1.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -36.0,
+                -90.0,
+                3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                41.0,
+                21.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                20.0,
+                -72.0,
+                -11.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                69.0,
+                -10.0,
+                -19.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                60.0,
+                -56.0,
+                -1.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                43.0,
+                -21.0,
+                51.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                51.0,
+                32.0,
+                23.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                26.0,
+                50.0,
+                29.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                10.0,
+                50.0,
+                41.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                56.0,
+                21.0,
+                10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                45.0,
+                38.0,
+                23.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                48.0,
+                31.0,
+                29.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                46.0,
+                45.0,
+                3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -24.0,
+                64.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                25.0,
+                38.0,
+                44.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                28.0,
+                40.0,
+                37.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                56.0,
+                15.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                19.0,
+                30.0,
+                53.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                9.0,
+                54.0,
+                36.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                31.0,
+                46.0,
+                31.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                18.0,
+                32.0,
+                52.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                23.0,
+                65.0,
+                13.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                53.0,
+                34.0,
+                14.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                58.0,
+                -8.0,
+                8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                60.0,
+                7.0,
+                25.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                27.0,
+                -100.0,
+                8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                44.0,
+                14.0,
+                2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                46.0,
+                24.0,
+                37.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                11.0,
+                41.0,
+                -16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                21.0,
+                47.0,
+                39.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                59.0,
+                6.0,
+                8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                58.0,
+                18.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                4.0,
+                61.0,
+                -10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                51.0,
+                -45.0,
+                39.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                40.0,
+                30.0,
+                40.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                63.0,
+                -21.0,
+                30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                42.0,
+                -9.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                64.0,
+                -36.0,
+                8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                7.0,
+                -48.0,
+                43.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                0.0,
+                60.0,
+                -9.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                54.0,
+                32.0,
+                11.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                20.0,
+                50.0,
+                37.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                5.0,
+                62.0,
+                8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                57.0,
+                13.0,
+                16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -47.0,
+                -29.0,
+                62.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -38.0,
+                23.0,
+                -15.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -4.0,
+                40.0,
+                13.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -26.0,
+                -95.0,
+                -13.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.0,
+                -51.0,
+                -22.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -5.0,
+                35.0,
+                21.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -51.0,
+                -33.0,
+                34.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                27.0,
+                61.0,
+                5.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -31.0,
+                -12.0,
+                72.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -61.0,
+                -4.0,
+                20.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -59.0,
+                -38.0,
+                42.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -7.0,
+                59.0,
+                13.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -24.0,
+                -47.0,
+                -15.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -9.0,
+                -78.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                60.0,
+                -5.0,
+                -12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -5.0,
+                34.0,
+                23.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                37.0,
+                54.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                56.0,
+                11.0,
+                9.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.0,
+                50.0,
+                28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -35.0,
+                -67.0,
+                56.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -24.0,
+                -102.0,
+                1.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -47.0,
+                24.0,
+                35.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -10.0,
+                38.0,
+                51.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -39.0,
+                -63.0,
+                58.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                39.0,
+                -90.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                43.0,
+                -22.0,
+                65.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                59.0,
+                -31.0,
+                -20.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                59.0,
+                6.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -47.0,
+                7.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                56.0,
+                -1.0,
+                40.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -29.0,
+                20.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -9.0,
+                68.0,
+                10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -23.0,
+                59.0,
+                21.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.0,
+                56.0,
+                34.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -15.0,
+                -103.0,
+                6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -5.0,
+                59.0,
+                4.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              47
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(25) Ruan, 2018",
+      "name": "(25) Ruan, 2018",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "6 month abs meth < control",
+          "name": "6 month abs meth < control",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -26.0,
+                -31.0,
+                -20.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                5.0,
+                -61.0,
+                59.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                3.0,
+                6.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                -69.0,
+                -50.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              30
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(3) Brody, 2004",
+      "name": "(3) Brody, 2004",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (all smokers)",
+          "name": "NS > S (all smokers)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                24.0,
+                42.0,
+                32.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                16.0,
+                50.0,
+                32.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.0,
+                62.0,
+                28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                34.0,
+                6.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                32.0,
+                18.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -32.0,
+                40.0,
+                36.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -52.0,
+                30.0,
+                16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                16.0,
+                -56.0,
+                -26.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                20.0,
+                34.0,
+                52.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              19
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(3) Chanraud, 2009",
+      "name": "(3) Chanraud, 2009",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Controls > Alcohol-Dependent Subjects",
+          "name": "Controls > Alcohol-Dependent Subjects",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                48.0,
+                -40.0,
+                52.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                58.0,
+                -32.0,
+                50.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -8.0,
+                57.0,
+                33.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -66.0,
+                -24.0,
+                4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                52.0,
+                -40.0,
+                52.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                51.0,
+                30.0,
+                32.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                3.0,
+                -36.0,
+                30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -15.0,
+                -33.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                52.0,
+                -3.0,
+                51.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -45.0,
+                -6.0,
+                57.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                15.0,
+                -32.0,
+                2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                57.0,
+                22.0,
+                24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -40.0,
+                39.0,
+                33.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -52.0,
+                8.0,
+                39.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              24
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(3) Crunelle, 2014",
+      "name": "(3) Crunelle, 2014",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "cocaine users < controls",
+          "name": "cocaine users < controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -33.0,
+                23.0,
+                37.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              30
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(3) Gilman, 2014",
+      "name": "(3) Gilman, 2014",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "controls > marijuana users",
+          "name": "controls > marijuana users",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                36.0,
+                -16.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                32.0,
+                54.0,
+                6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                20.0,
+                58.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -20.0,
+                68.0,
+                -6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                -6.0,
+                -12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.0,
+                -66.0,
+                66.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -32.0,
+                8.0,
+                -48.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              20
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(3) Lin, 2012",
+      "name": "(3) Lin, 2012",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "heroin users on methadone vs control",
+          "name": "heroin users on methadone vs control",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -17.0,
+                20.0,
+                -28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -17.0,
+                -78.0,
+                -27.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              27
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(4) Dalwani, 2011",
+      "name": "(4) Dalwani, 2011",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Controls > Alcohol Patients",
+          "name": "Controls > Alcohol Patients",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                39.0,
+                -68.0,
+                -39.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -39.0,
+                -68.0,
+                -40.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                12.0,
+                -58.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -53.0,
+                5.0,
+                32.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              25
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(4) Daumann, 2011",
+      "name": "(4) Daumann, 2011",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Amphetamine < Drug-na\u00efve",
+          "name": "Amphetamine < Drug-na\u00efve",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -2.0,
+                48.0,
+                -22.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -2.0,
+                50.0,
+                28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                2.0,
+                52.0,
+                -16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                48.0,
+                0.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              13
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(4) Franklin, 2014",
+      "name": "(4) Franklin, 2014",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (all smokers)",
+          "name": "NS > S (all smokers)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                -50.0,
+                -50.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -40.0,
+                -70.0,
+                -42.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                4.0,
+                -18.0,
+                2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                2.0,
+                36.0,
+                -30.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              80
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(4) Liu, 2009",
+      "name": "(4) Liu, 2009",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Heroin-dependent subjects vs healthy subjects",
+          "name": "Heroin-dependent subjects vs healthy subjects",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -4.0,
+                15.0,
+                61.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -1.0,
+                14.0,
+                28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                3.0,
+                7.0,
+                31.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                21.0,
+                56.0,
+                41.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              10
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(4) Lopez-Larson, 2011",
+      "name": "(4) Lopez-Larson, 2011",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "controls > marijuana users",
+          "name": "controls > marijuana users",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -34.76,
+                -13.09,
+                -2.44
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -8.43,
+                38.81,
+                31.59
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                31.82,
+                17.62,
+                41.68
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                23.36,
+                23.01,
+                44.69
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                34.0,
+                -22.07,
+                13.31
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              18
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(5) Demirakca, 2011",
+      "name": "(5) Demirakca, 2011",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Controls > Alcohol-Dependent Patients",
+          "name": "Controls > Alcohol-Dependent Patients",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                4.0,
+                30.0,
+                34.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -4.0,
+                -32.0,
+                44.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                50.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                44.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                56.0,
+                -22.0,
+                -6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                20.0,
+                4.0,
+                -16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                20.0,
+                -16.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                46.0,
+                10.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.0,
+                -10.0,
+                -6.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              50
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(5) Franklin, 2002",
+      "name": "(5) Franklin, 2002",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Cocaine-dependent group < control group",
+          "name": "Cocaine-dependent group < control group",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -8.0,
+                48.0,
+                18.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                60.0,
+                -26.0,
+                10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                36.0,
+                6.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                36.0,
+                12.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                2.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -34.0,
+                20.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                40.0,
+                -12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.0,
+                50.0,
+                0.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              13
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(5) Fritz, 2014",
+      "name": "(5) Fritz, 2014",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (all smokers)",
+          "name": "NS > S (all smokers)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.0,
+                11.0,
+                6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -14.0,
+                68.0,
+                1.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.0,
+                46.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                14.0,
+                62.0,
+                3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -14.0,
+                64.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                36.0,
+                51.0,
+                -5.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                14.0,
+                64.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -8.0,
+                62.0,
+                -15.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.0,
+                46.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                12.0,
+                63.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.0,
+                46.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -39.0,
+                12.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -36.0,
+                -12.0,
+                4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                23.0,
+                -14.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -14.0,
+                64.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                15.0,
+                62.0,
+                0.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              315
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(5) Lyoo, 2006",
+      "name": "(5) Lyoo, 2006",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Opiate-dependent subjects vs healthy controls",
+          "name": "Opiate-dependent subjects vs healthy controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                32.73,
+                6.08,
+                -26.35
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -54.7,
+                -59.44,
+                -15.79
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                31.67,
+                53.99,
+                32.53
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.38,
+                57.0,
+                6.13
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                7.21,
+                56.91,
+                -19.69
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                57.02,
+                9.37,
+                -27.82
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -4.36,
+                53.55,
+                -3.85
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -26.42,
+                50.69,
+                38.65
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.07,
+                -19.15,
+                20.22
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                42.38,
+                -3.02,
+                13.07
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                56.98,
+                34.75,
+                -9.58
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -20.3,
+                69.49,
+                -17.06
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -35.99,
+                10.15,
+                -36.21
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              32
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(5) Matochick, 2005",
+      "name": "(5) Matochick, 2005",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "marijuana users < controls",
+          "name": "marijuana users < controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                22.0,
+                -18.0,
+                -10.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              11
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(6) Galliant, 2006",
+      "name": "(6) Galliant, 2006",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (all smokers)",
+          "name": "NS > S (all smokers)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                48.19,
+                -67.59,
+                34.9
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                16.52,
+                -73.48,
+                8.01
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                14.62,
+                -73.75,
+                28.24
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -32.77,
+                16.49,
+                -25.83
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -8.49,
+                46.67,
+                20.08
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -11.83,
+                -34.0,
+                -4.38
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -7.32,
+                -53.36,
+                6.42
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -13.74,
+                -87.94,
+                4.35
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -8.07,
+                -83.71,
+                26.25
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -1.44,
+                19.89,
+                -25.58
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -47.81,
+                -26.29,
+                57.1
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                1.73,
+                -3.23,
+                48.37
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -55.35,
+                -23.26,
+                -24.87
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                7.95,
+                9.06,
+                30.24
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                18.37,
+                -24.42,
+                -6.96
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -57.16,
+                -23.96,
+                2.12
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                35.27,
+                15.46,
+                -29.13
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              22
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(6) Gardini, 2012",
+      "name": "(6) Gardini, 2012",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "controls vs. cocaine users",
+          "name": "controls vs. cocaine users",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                26.51,
+                -16.34,
+                -12.56
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                43.48,
+                -20.5,
+                3.16
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -25.99,
+                -83.44,
+                18.98
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              14
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(6) Grodin, 2013",
+      "name": "(6) Grodin, 2013",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "HC > Polysubstance Abusing Alcoholics",
+          "name": "HC > Polysubstance Abusing Alcoholics",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                0.0,
+                24.0,
+                46.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                34.0,
+                20.0,
+                52.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -28.0,
+                22.0,
+                50.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                38.0,
+                10.0,
+                -36.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                62.0,
+                -8.0,
+                -32.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -44.0,
+                4.0,
+                24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                0.0,
+                -10.0,
+                24.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              37
+            ]
+          }
+        },
+        {
+          "id": "HC > Pure Alcoholics",
+          "name": "HC > Pure Alcoholics",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -28.0,
+                -2.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -52.0,
+                10.0,
+                24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -24.0,
+                50.0,
+                10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                42.0,
+                -60.0,
+                32.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -16.0,
+                -56.0,
+                58.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -22.0,
+                -70.0,
+                6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                0.0,
+                36.0,
+                32.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                26.0,
+                -32.0,
+                50.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                14.0,
+                -6.0,
+                46.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -26.0,
+                -14.0,
+                -6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                18.0,
+                -56.0,
+                14.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                62.0,
+                -26.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                18.0,
+                40.0,
+                44.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                20.0,
+                -26.0,
+                4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -8.0,
+                -16.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                26.0,
+                -16.0,
+                -6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                24.0,
+                -6.0,
+                60.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                56.0,
+                38.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              37
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(6) Qiu, 2013",
+      "name": "(6) Qiu, 2013",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Heroin-dependent individuals vs matching controls",
+          "name": "Heroin-dependent individuals vs matching controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -23.32,
+                52.58,
+                17.42
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                36.21,
+                -62.07,
+                -2.83
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.73,
+                25.82,
+                37.8
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                49.72,
+                20.89,
+                23.59
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -40.11,
+                27.5,
+                23.67
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                11.67,
+                36.3,
+                39.41
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -4.19,
+                35.76,
+                32.88
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              20
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(6) Welch, 2013",
+      "name": "(6) Welch, 2013",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "cannabis consumers < cannabis non-consumers",
+          "name": "cannabis consumers < cannabis non-consumers",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -35.0,
+                -8.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -18.0,
+                55.0,
+                42.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              23
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(7) Hanlon, 2011",
+      "name": "(7) Hanlon, 2011",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "cocaine users < current users",
+          "name": "cocaine users < current users",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.0,
+                26.0,
+                -6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -28.0,
+                10.0,
+                -22.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                16.0,
+                20.0,
+                6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                16.0,
+                8.0,
+                -16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -28.0,
+                34.0,
+                44.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                10.0,
+                66.0,
+                2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                0.0,
+                -62.0,
+                -44.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              17
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(7) Hanlon, 2014",
+      "name": "(7) Hanlon, 2014",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (all smokers)",
+          "name": "NS > S (all smokers)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -22.0,
+                2.0,
+                -20.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -10.0,
+                56.0,
+                -15.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                51.0,
+                -11.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -7.0,
+                -25.0,
+                1.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                33.0,
+                5.0,
+                -20.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                33.0,
+                -15.0,
+                -5.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              58
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(7) Howell, 2013",
+      "name": "(7) Howell, 2013",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Healthy Volunteers > Binge Drinkers",
+          "name": "Healthy Volunteers > Binge Drinkers",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                16.5,
+                -66.0,
+                21.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                36.0,
+                -64.5,
+                10.5
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              19
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(7) Reid, 2008",
+      "name": "(7) Reid, 2008",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Opiate-dependent subjects vs controls",
+          "name": "Opiate-dependent subjects vs controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.0,
+                -14.0,
+                10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -14.0,
+                -24.0,
+                14.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.0,
+                -18.0,
+                10.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              9
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(7) Wetherill, 2015",
+      "name": "(7) Wetherill, 2015",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "healthy controls > cannabis users",
+          "name": "healthy controls > cannabis users",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                26.0,
+                -16.0,
+                64.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -26.0,
+                -4.0,
+                2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                2.0,
+                -16.0,
+                6.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              19
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(8) Hill, 2016",
+      "name": "(8) Hill, 2016",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "controls > cannabis",
+          "name": "controls > cannabis",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                5.0,
+                32.0,
+                24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                2.0,
+                -78.0,
+                -12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                53.0,
+                -28.0,
+                22.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -3.0,
+                42.0,
+                19.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              34
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(8) Ide, 2014",
+      "name": "(8) Ide, 2014",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "healthy controls vs. cocaine dependent",
+          "name": "healthy controls vs. cocaine dependent",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                7.0,
+                -63.0,
+                7.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -2.0,
+                -24.0,
+                44.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -35.0,
+                -23.0,
+                61.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -36.0,
+                7.0,
+                -43.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                28.0,
+                3.0,
+                62.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                9.0,
+                -65.0,
+                29.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -5.0,
+                -68.0,
+                26.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                37.0,
+                0.0,
+                -37.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                49.0,
+                -2.0,
+                10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -33.0,
+                25.0,
+                -26.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -29.0,
+                -50.0,
+                53.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -54.0,
+                -11.0,
+                41.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -14.0,
+                21.0,
+                64.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                21.0,
+                -60.0,
+                -34.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                46.0,
+                -77.0,
+                10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -39.0,
+                -39.0,
+                -35.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                25.0,
+                -44.0,
+                58.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                12.0,
+                -6.0,
+                71.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -27.0,
+                9.0,
+                62.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              55
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(8) Jang, 2007",
+      "name": "(8) Jang, 2007",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Controls > Alcohol-Dependent Patients",
+          "name": "Controls > Alcohol-Dependent Patients",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -54.87,
+                -13.14,
+                14.46
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -53.87,
+                -56.38,
+                -0.33
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -0.84,
+                40.73,
+                25.02
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                64.73,
+                4.56,
+                -9.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                0.29,
+                25.84,
+                26.47
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                63.05,
+                8.19,
+                29.39
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                67.26,
+                -21.11,
+                14.29
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                63.48,
+                4.38,
+                -22.91
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                9.82,
+                44.08,
+                14.42
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -51.66,
+                -63.71,
+                1.48
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -43.0,
+                -17.56,
+                12.45
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                43.1,
+                56.89,
+                0.26
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              20
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(8) Kuhn, 2010",
+      "name": "(8) Kuhn, 2010",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (all smokers)",
+          "name": "NS > S (all smokers)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -2.05,
+                27.02,
+                -29.64
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              22
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(8) Wang, 2012",
+      "name": "(8) Wang, 2012",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Heroin-dependent patients and normal subjects",
+          "name": "Heroin-dependent patients and normal subjects",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                0.0,
+                -45.0,
+                10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                33.0,
+                53.0,
+                -5.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                15.0,
+                -15.0,
+                70.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -44.0,
+                -82.0,
+                -17.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                21.0,
+                23.0,
+                40.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              20
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(9) Jan, 2012",
+      "name": "(9) Jan, 2012",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "controls > methamphetamine users",
+          "name": "controls > methamphetamine users",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                0.0,
+                12.0,
+                60.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -2.0,
+                -38.0,
+                52.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -12.0,
+                14.0,
+                66.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              12
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(9) Kuhn, 2012",
+      "name": "(9) Kuhn, 2012",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (all smokers)",
+          "name": "NS > S (all smokers)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                32.0,
+                -71.0,
+                -32.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              33
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(9) Mechtcheriakov, 2006",
+      "name": "(9) Mechtcheriakov, 2006",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Controls > Alcohol Addiction Patients",
+          "name": "Controls > Alcohol Addiction Patients",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -7.0,
+                -13.0,
+                15.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                32.0,
+                -34.0,
+                -5.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -28.0,
+                -45.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                57.0,
+                -7.0,
+                34.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -57.0,
+                -11.0,
+                31.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                45.0,
+                12.0,
+                32.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -41.0,
+                16.0,
+                28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -44.0,
+                27.0,
+                25.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                42.0,
+                -19.0,
+                10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -37.0,
+                20.0,
+                7.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                40.0,
+                -47.0,
+                -51.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.0,
+                -48.0,
+                -51.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                -13.0,
+                15.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              22
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(9) Yip, 2014",
+      "name": "(9) Yip, 2014",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "cannabis < healthy",
+          "name": "cannabis < healthy",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                51.0,
+                -1.0,
+                28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                18.0,
+                -49.0,
+                67.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              20
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(9) Yuan, 2009",
+      "name": "(9) Yuan, 2009",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "opiate addiction vs Healthy Group",
+          "name": "opiate addiction vs Healthy Group",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                50.99,
+                -38.33,
+                20.98
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                38.01,
+                36.93,
+                11.47
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                4.1,
+                29.67,
+                -33.34
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.26,
+                26.6,
+                9.32
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                45.5,
+                -28.37,
+                -39.6
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -4.26,
+                20.38,
+                -11.57
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                25.32,
+                20.56,
+                -12.86
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -7.5,
+                43.8,
+                -7.6
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.89,
+                -92.81,
+                -56.19
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -38.23,
+                56.26,
+                -23.81
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -57.14,
+                42.74,
+                -0.58
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              15
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

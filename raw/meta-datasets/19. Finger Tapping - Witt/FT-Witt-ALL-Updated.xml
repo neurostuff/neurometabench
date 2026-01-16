@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE workspace SYSTEM "http://www.brainmap.org/DTDs/Workspace-1.1.dtd">
+<workspace>
+
+   <color>
+      <colorName>Black</colorName>
+      <r>0</r>
+      <g>0</g>
+      <b>0</b>
+   </color>
+   <color>
+      <colorName>Red</colorName>
+      <r>255</r>
+      <g>0</g>
+      <b>0</b>
+   </color>
+   <color>
+      <colorName>Green</colorName>
+      <r>0</r>
+      <g>220</g>
+      <b>50</b>
+   </color>
+   <color>
+      <colorName>Blue</colorName>
+      <r>0</r>
+      <g>0</g>
+      <b>255</b>
+   </color>
+   <color>
+      <colorName>Purple</colorName>
+      <r>180</r>
+      <g>100</g>
+      <b>255</b>
+   </color>
+   <color>
+      <colorName>Magenta</colorName>
+      <r>255</r>
+      <g>0</g>
+      <b>255</b>
+   </color>
+   <color>
+      <colorName>Yellow</colorName>
+      <r>240</r>
+      <g>240</g>
+      <b>0</b>
+   </color>
+   <color>
+      <colorName>Pink</colorName>
+      <r>255</r>
+      <g>175</g>
+      <b>225</b>
+   </color>
+   <color>
+      <colorName>Hot Pink</colorName>
+      <r>255</r>
+      <g>19</g>
+      <b>167</b>
+   </color>
+   <color>
+      <colorName>Light Green</colorName>
+      <r>94</r>
+      <g>174</g>
+      <b>35</b>
+   </color>
+   <color>
+      <colorName>Mustard</colorName>
+      <r>222</r>
+      <g>201</g>
+      <b>48</b>
+   </color>
+   <color>
+      <colorName>Lime</colorName>
+      <r>178</r>
+      <g>222</g>
+      <b>30</b>
+   </color>
+   <color>
+      <colorName>Brown</colorName>
+      <r>150</r>
+      <g>100</g>
+      <b>0</b>
+   </color>
+   <color>
+      <colorName>Cyan</colorName>
+      <r>0</r>
+      <g>230</g>
+      <b>255</b>
+   </color>
+   <color>
+      <colorName>Orange</colorName>
+      <r>255</r>
+      <g>200</g>
+      <b>0</b>
+   </color>
+   <color>
+      <colorName>Gray</colorName>
+      <r>128</r>
+      <g>128</g>
+      <b>128</b>
+   </color>
+
+   <database>
+      <functional/>
+   </database>
+
+   <simplePaper>
+      <id>30022</id>
+      <colorName>Black</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Smile vs. Rest</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Finger-tapping vs. Rest</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30082</id>
+      <colorName>Red</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Motor Execution vs. Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Motor Imagination vs. Rest</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Motor Execution vs. Motor Imagination</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Motor Imagination vs. Motor Execution</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30107</id>
+      <colorName>Green</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Motor vs. Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Vibrotactile vs. Rest</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Thermal Painful vs. Rest</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30123</id>
+      <colorName>Blue</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Index - Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Shoulder - Rest</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Opposition - Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Fist - Rest</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30143</id>
+      <colorName>Purple</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>PET</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>fMRI-Average</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>fMRI-Correlation</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30173</id>
+      <colorName>Magenta</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Learning of Sequential Finger Movements</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30297</id>
+      <colorName>Purple</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Bimanual Finger Movements Anti-Phase vs. In-Phase</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Right Finger Imagery</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Irregularly Paced Right Finger Movements</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>5070065</id>
+      <colorName>Magenta</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Fingertapping vs. Rest</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>5070072</id>
+      <colorName>Magenta</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Sequence-12 vs. Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Sequence-12 vs. Simple</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>5070085</id>
+      <colorName>Yellow</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Finger Tapping - Rest</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>5070091</id>
+      <colorName>Pink</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Tapping - Rest,  Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Tapping - Rest,  Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Writing - Rest, Normals</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Writing - Rest, Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Tapping:  Patients - Normals, Increases</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Tapping:  Patients - Normals, Decreases</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Writing:  Patients - Normals, Increases</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Writing:  Patients - Normals, Decreases</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>5070101</id>
+      <colorName>Yellow</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>fMRI:  Finger Tapping vs. Rest, Mean</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>fMRI:  Finger Tapping vs. Rest, Subject 1</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>fMRI:  Finger Tapping vs. Rest, Subject 2</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>fMRI:  Finger Tapping vs. Rest, Subject 3</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>fMRI:  Finger Tapping vs. Rest, Subject 4</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>fMRI:  Finger Tapping vs. Rest, Subject 5</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>fMRI:  Finger Tapping vs. Rest, Subject 6</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>fMRI:  Finger Tapping vs. Rest, Subject 7</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>fMRI:  Finger Tapping vs. Rest, Subject 8</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>fMRI:  Finger Tapping vs. Rest, Subject 9</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>PET:  Finger Tapping vs. Rest, Mean</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>PET:  Finger Tapping vs. Rest, Subject 1</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>PET:  Finger Tapping vs. Rest, Subject 2</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>PET:  Finger Tapping vs. Rest, Subject 3</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>PET:  Finger Tapping vs. Rest, Subject 4</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>PET:  Finger Tapping vs. Rest, Subject 5</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>PET:  Finger Tapping vs. Rest, Subject 6</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>PET:  Finger Tapping vs. Rest, Subject 7</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>PET:  Finger Tapping vs. Rest, Subject 8</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>PET:  Finger Tapping vs. Rest, Subject 9</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>5070103</id>
+      <colorName>Hot Pink</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Various Lengths</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Increased Complexity:  rCBF Increases</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Increased Complexity:  rCBF Decreases</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>6050048</id>
+      <colorName>Light Green</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>TMS Induced Movement vs. Sham TMS</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Finger Movement vs. Sham TMS</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>6050070</id>
+      <colorName>Mustard</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>TMS</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Volitional Movement</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>6050072</id>
+      <colorName>Lime</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Main Effects of Movement</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Main Effects of 5 Hz rTMS Masked by the Main Effects of Movement, Increased rCBF</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Main Effects of 5 Hz rTMS Masked by the Main Effects of Movement, Decreased rCBF</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Conjunction of Main Effect of 1 Hz and 5 Hz rTMS, Increased rCBF</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Conjunction of Main Effect of 1 Hz and 5 Hz rTMS, Decreased rCBF</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1 Hz rTMS &gt; 5 Hz rTMS, Masked by the Main Effects of Movement</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>5 Hz rTMS &gt; 1 Hz rTMS, Masked by the Main Effects of Movement</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>6060081</id>
+      <colorName>Brown</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Active Finger Tapping, Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Active Finger Tapping, MS Patients</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>6070107</id>
+      <colorName>Cyan</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Listening to Speech</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Producing Speech</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Moving Fingers</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>60100143</id>
+      <colorName>Orange</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Index Finger - Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Ring Finger - Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Ring Finger - Index Finger</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Double Finger Tapping - Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Right and Little Fingers - Index and Middle Fingers</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Double Finger Tapping - Single Finger Tapping</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>60100144</id>
+      <colorName>Black</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Parallel</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Mirror</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Parallel - Mirror</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Phase Transition</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Asymmetric Activation, Phase Transition</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Asymmetric Activation, Parallel</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Asymmetric Activation, Mirror</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>60100145</id>
+      <colorName>Magenta</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Weighted Mean Performance of All Motor Sequences vs. Rest, Activations</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>rCBF Correlated with Increasing Levels of Complexity of Motor Sequences</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Weighted Mean Performance of All Motor Sequences vs. Rest, Deactivations</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>rCBF Correlated Inversely with Increasing Levels of Complexity of Motor Sequences</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>60100147</id>
+      <colorName>Light Green</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Sequence 16 vs. Rest, Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Sequence 16 vs. Rest, Parkinson's Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Sequence 16 vs. Rest, Overactivity in Parkinson's Patients Compared to Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Sequence 16 vs. Rest, Underactivity in Parkinson's Patients Compared to Controls</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>60100149</id>
+      <colorName>Mustard</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Movement &gt; Imagery</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Movement AND Imagery</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Imagery &gt; Movement</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Activations In Relation To Response Movement</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Activations Associated With Task Performance</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>60100151</id>
+      <colorName>Green</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Increased Blood Flow, All Movements Compared to Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Increased Blood Flow Correlated With Increased Movement Frequency</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>60100152</id>
+      <colorName>Gray</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Motor Execution, Simple, Right Hand vs. Baseline</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Motor Execution, Complex, Right Hand vs. Baseline</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Motor Imagery, Simple, Right Hand vs. Baseline</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Motor Imagery, Complex, Right Hand vs. Baseline</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Motor Execution, Simple, Left Hand vs. Baseline</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Motor Execution, Complex, Left Hand vs. Baseline</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Motor Imagery, Simple, Left Hand vs. Baseline</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Motor Imagery, Complex, Left Hand vs. Baseline</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Execution &gt; Imagery, Right Hand</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Imagery &gt; Execution, Right Hand</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Execution &gt; Imagery, Left Hand</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Imagery &gt; Execution, Left Hand</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>60100154</id>
+      <colorName>Brown</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Simple - Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Scale - Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Complex - Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Complex - Simple</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Complex - Scale</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Scale - Simple</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>60100155</id>
+      <colorName>Purple</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Finger Tapping vs. Rest, Healthy Subjects</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Finger Tapping vs. Rest, Untreated Schizophrenics</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Finger Tapping vs. Rest, Schizophrenics Treated with Haloperidol</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Finger Tapping vs. Rest, Schizophrenics Treated with Olanzapine</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>60100161</id>
+      <colorName>Hot Pink</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Mirror vs. Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Parallel vs. Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Parallel vs. Mirror</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Right Unimanual vs. Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Left Unimanual vs. Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Bimanual Mirror vs. Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Bimanual Parallel vs. Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Bimanual Parallel vs. Bimanual Mirror</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>60100165</id>
+      <colorName>Magenta</colorName>
+      <shape>Triangle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Group-Level Finger Tapping Activation</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>60100166</id>
+      <colorName>Blue</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Right Hand Tapping vs. Rest, Young Subjects</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Left Hand Tapping vs. Rest, Young Subjects</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Right Hand Tapping vs. Rest, Older Subjects</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Left Hand Tapping vs. Rest, Older Subjects</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>60100170</id>
+      <colorName>Cyan</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Right Hand, 1 Hz vs. Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Right Hand, 3 Hz vs. Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Left Hand, 1 Hz vs. Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Left Hand, 3 Hz vs. Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Both Hands, 1 Hz vs. Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Both Hands, 3 Hz vs. Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Right Hand, 3 Hz &gt; Right Hand, 1 Hz</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Left Hand, 3 Hz &gt; Left Hand, 1 Hz</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Both Hands, 3 Hz &gt; Both Hands, 1 Hz</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Rate Effects, Left Hand &gt; Right Hand</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Rate Effects, Both Hands &gt; Right Hand</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Rate Effects, Left Hand &gt; Right Hand, Flipped Data Set For Contrast</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Rate Effects, Both Hands &gt; Right Hand, Flipped Data Set For Contrast</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Both Hands &gt; Right Hand, Across Frequencies</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Both Hands &gt; Left Hand, Across Frequencies</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Right Hand &gt; Left Hand, Across Frequencies</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Left Hand &gt; Right Hand, Across Frequencies</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>60100171</id>
+      <colorName>Yellow</colorName>
+      <shape>Triangle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Right Fast, Left Slow</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Right Slow, Left Fast</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Right Fast</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Right Slow</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Left Fast</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Left Slow</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>60100175</id>
+      <colorName>Black</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Non-Dominant Hand Simple Motor</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Dominant Hand Simple Motor</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Dominant Hand Random Motor</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>60100178</id>
+      <colorName>Magenta</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Main Effects During Index Finger Movements, Younger Subjects</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Positive Linear Effects During Index Finger Movements, Younger Subjects</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Negative Linear Effects During Index Finger Movements, Younger Subjects</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Main Effects During Index Finger Movements, Older Subjects</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Positive Linear Effects During Index Finger Movements, Older Subjects</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Negative Linear Effects During Index Finger Movements, Older Subjects</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>60100169</id>
+      <colorName>Light Green</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Auditory Synchronization &gt; Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Auditory Continuation &gt; Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Rest &gt; Auditory Continuation</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Auditory Synchronization &gt; Auditory Continuation</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Visual Synchronization &gt; Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Visual Continuation &gt; Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Rest &gt; Visual Continuation</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Visual Synchronization &gt; Visual Continuation</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Visual Continuation &gt; Visual Synchronization</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Auditory &gt; Visual</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Visual &gt; Auditory</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30033</id>
+      <colorName>Purple</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Move vs. No-Move</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Move-Attend vs. No-Move</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Move-Attend vs. Move</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Attend vs. No-Move</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>60100150</id>
+      <colorName>Orange</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Memory Timed Finger Movement - Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Visually Cued Finger Movement - Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Silent Articulation - Rest</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Memory Timed - Visually Cued with Memory Timed - Rest</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Visually Cued - Memory Timed with Visually Cued - Rest</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>60100173</id>
+      <colorName>Mustard</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Self Paced Movement - Reference</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Visually Triggered Movement - Reference</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Self Paced Movement - Visually Triggered Movement</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>60100174</id>
+      <colorName>Lime</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Random &gt; Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Random &gt; Regular</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Regular &gt; Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Regular &gt; Random</name>
+      </simpleExperiment>
+   </simplePaper>
+</workspace>

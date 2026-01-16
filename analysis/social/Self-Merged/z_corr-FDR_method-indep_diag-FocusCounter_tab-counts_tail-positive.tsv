@@ -1,0 +1,207 @@
+id	PositiveTail 1	PositiveTail 2	PositiveTail 3	PositiveTail 4	PositiveTail 5	PositiveTail 6	PositiveTail 7	PositiveTail 8	PositiveTail 9	PositiveTail 10	PositiveTail 11	PositiveTail 12	PositiveTail 13	PositiveTail 14	PositiveTail 15	PositiveTail 16	PositiveTail 17	PositiveTail 18	PositiveTail 19	PositiveTail 20	PositiveTail 21	PositiveTail 22	PositiveTail 23	PositiveTail 24	PositiveTail 25	PositiveTail 26	PositiveTail 27	PositiveTail 28	PositiveTail 29	PositiveTail 30
+Anderson et al., 2013-Sex × Condition; self	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacha-Trams et al., 2017-clusters genetic>non-genetic; self	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacha-Trams et al., 2017-clusters non-genetic>genetic; self	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacha-Trams et al., 2017-moral dilemma decision task; self	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Baek et al., 2017-Select > content; self	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Baek et al., 2017-Share > content; self	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Baek et al., 2017-Share > select; self	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Balslev et al., 2006-Active conditions > passive conditions; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Barman et al., 2015-monetary reward > social reward; self	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Barman et al., 2015-reward > neutral; self	0	0	0	1	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Barman et al., 2015-social reward > monetary reward; self	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Beckes et al., 2013-threat-to-self (across all handholding) > threat-to-friend; self	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Beckes et al., 2013-threat-to-self (across all handholding) > threat-to-stranger; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Beckes et al., 2013-threat-to-self (friend handholding) > threat-to-friend; self	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Beckes et al., 2013-threat-to-self (stranger handholding) > threat-to-stranger; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Benoit et al., 2010-Self > other; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Benoit et al., 2010-Self > syllables; self	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bergström et al., 2014-New > old; self	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bergström et al., 2014-Old > new; self	0	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Blackwood et al., 2003-External > internal; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Blackwood et al., 2003-Internal > external; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Blackwood et al., 2003-Non-self-serving bias > Self-serving bias; self	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Blackwood et al., 2003-Self-serving bias > Non-self-serving bias; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cazzato et al., 2015-[incongruent > congruent trials]; self	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chauvigne et al., 2018-Activations: Leading > Following (Followers only); self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chauvigne et al., 2018-Deactivations: Following > Leading (Followers only); self	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chauvigne et al., 2018-Deactivations: Following > Leading (Whole-group); self	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chauvigne et al., 2018a-Following > Conjunction; self	1	2	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chauvigne et al., 2018a-Leading + Following + Mutual > Solo + Alone); self	1	0	0	0	3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chauvigne et al., 2018a-Leading + Solo > Mutual + Alone; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chauvigne et al., 2018a-Leading > Conjunction; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chauvigne et al., 2018a-Leading > Solo; self	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chauvigne et al., 2018a-Mutual > Conjunction; self	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chauvigne et al., 2018a-[Leading + Solo + Mutual + Alone] > Following; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chauvigne et al., 2018b-Activations: Leading > Following (Leaders only); self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chauvigne et al., 2018b-Activations: Leading > Following (Whole-group); self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chauvigne et al., 2018b-[Leading > Rest] and [Following > Rest] (followers only); self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Chauvigne et al., 2018b-[Leading > Rest] and [Following > Rest] (leaders only); self	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cheng et al., 2010-pain > no pain; self	0	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cheng et al., 2010-self > loved one; self	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cheng et al., 2010-self > stranger; self	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chiao et al., 2009-Collectivism > Individualism; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chiao et al., 2009-Contextual > General; self	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chiao et al., 2009-General > Contextual; self	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chiao et al., 2009-Individualism > Collectivism; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chiao et al., 2009-Self Judgement ( Contextual > General) > Self-Construal Style Index ( Collectivism > Individualism); self	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cikara et al., 2014-Communication > moral (collapsing across self/other); self	0	0	0	1	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Cikara et al., 2014-Moral > communication (collapsing across self/other); self	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cikara et al., 2014-Self > other (collapsing across moral/communication); self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cikara et al., 2014-Self > other; self	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dimenichi et al., 2016-Competition > No Competition; self	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dimenichi et al., 2016-No Competition > Competition; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ebisch et al., 2014-[(hand/human hand > hand/fake hand) − (object/human hand > object/fake hand)]; self	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ebisch et al., 2014-[(object/human hand > object/fake hand) − (hand/human hand > hand/fake hand)] − Target effect [human hand > fake hand] − Modality effect: [hand > object]; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ebisch et al., 2014-[(object/human hand > object/fake hand) − (hand/human hand > hand/fake hand)] − Target effect [human hand > fake hand] − Modality effect: [object > hand]; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ebisch et al., 2014-[(object/human hand > object/fake hand) − (hand/human hand > hand/fake hand)]; self	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ebisch et al., 2014-[human hand > fake hand] − Modality effect: [object > hand]; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Emonds et al., 2014-Interaction effect between dispositional trust and social value orientation; self	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Emonds et al., 2014-Main effect of social value orientation on decision-making; self	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fehr et al., 2014-A&B; self	0	2	0	0	3	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Fehr et al., 2014-D&E; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fehr et al., 2014-a1> n1; self	0	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fehr et al., 2014-a1>p1; self	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fehr et al., 2014-a2> n2; self	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fehr et al., 2014-a2>p2; self	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fehr et al., 2014-p1> n1; self	0	3	0	0	2	0	0	2	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Fehr et al., 2014-p1>a1; self	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fehr et al., 2014-p2>a2; self	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fehr et al., 2014-p2>n2; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gordon et al., 2011-arm > baseline; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gordon et al., 2011-arm > palm; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gordon et al., 2011-palm > baseline; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hamilton et al., 2017-monogamous men compared to nonmonogamous, romantic > neutral contrast; self	0	0	0	3	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hamilton et al., 2017-monogamous men compared to nonmonogamous, romantic > sexual contrast; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Han et al., 2016-Activation > Deactivation; self	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Han et al., 2016-Agency vs. Communion; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Han et al., 2016-Communion vs. Agency; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Han et al., 2016-Deactivation > Activation; self	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hartung et al., 2019: before treatment > after treatment (decreased activation)-self	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hartung et al., 2019: before treatment > after treatment (increased activation)-self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Herold et al., 2016-Self-referential > social; self	2	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Herold et al., 2016-Social > self-referential; self	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Jankowski et al., 2014-DA > CA; self	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Jankowski et al., 2014-DP > CP; self	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Jankowski et al., 2014-DS > CS; self	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Jankowski et al., 2014-RA > CA; self	1	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Jankowski et al., 2014-RP > CP; self	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Jankowski et al., 2014-RS > CS; self	3	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Janowski et al., 2012-Self-oriented > Empathic; self	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Janowski et al., 2012-bid-for-self during self-oriented choice; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Jiang et al., 2018-SA vs. Fixation; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Jiang et al., 2018-SC > SA; self	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kawamichi et al., 2016-Significant activation for the (toss – button press) high-frequency effect; self	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kawasaki et al., 2016-(Positive > Neutral) inclusively masked with (Negative > Neutral); self	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kawasaki et al., 2016-(Positive vs. Neutral) > (Negative vs. Neutral); self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kawasaki et al., 2016-Negative > Neutral; self	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kawasaki et al., 2016-Positive > Neutral; self	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kestemont et al., 2014-Conjunction analysis (self + other + situation > truth); self	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kestemont et al., 2014-Self > Truth; self	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kestemont et al., 2014-Situation > Truth; self	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kirk et al., 2016-interaction of accepting unfair offers and  (Post-MT > Pre-MT) > (Post-CT > Pre-CT); self	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kirk et al., 2016-interaction of accepting unfair offers and  Pre-MT > Pre-CT (conjunction analysis); self	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Korn et al., 2014-(SELF > OTHER) × (GERMAN > CHINESE); self	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Korn et al., 2014-SELF > OTHER (CORRELATION); self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Korn et al., 2014-SELF > OTHER; self	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Krämer et al., 2010-Emotional > neutral stimuli; self	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Krämer et al., 2010-Neutral > emotional stimuli; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Krämer et al., 2010-Social relation > single person; self	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Liu et al., 2018-Self vs Celebrity; self	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mclatchie et al., 2016-Guilt memory reflect > guilt hypothetical reflect; self	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mclatchie et al., 2016-Guilt memory reflect > neutral memory reflect; self	2	1	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Miedl et al., 2016-Negative > neutral; self	3	2	0	0	3	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Miedl et al., 2016-positive > neutral and negative > neutral (conjunction analysis); self	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Miedl et al., 2016-positive > neutral; self	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Murch et al., 2014-frame inconsistent minus frame consistent; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Murch et al., 2014-negative minus positive frame; self	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Murch et al., 2014-positive minus negative frame; self	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Murch et al., 2014-task trials vs control trials; self	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Platek et al., 2005-self face > distracter; self	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Platek et al., 2005-self face > famililar face; self	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Powers et al., 2016-social scenes vs non-social scenes; self	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ramsey et al., 2013-Consistent Self (CS) > Consistent Other (CO); self	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Ramsey et al., 2013-Inconsistent Self (IS) > Consistent Other (CO); self	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ramsey et al., 2013-Inconsistent Self (IS) > Consistent Self (CS); self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ramsey et al., 2013-Inconsistent Self (IS) > Inconsistent Other (IO); self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Reniers et al., 2014-Main effect (ES + TS + SRS) – (EN + TN + SRN); self	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Reniers et al., 2014-Self-reference >  Empathy; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Reniers et al., 2014-Self-reference SRS–SRN; self	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rudorf et al., 2018-controlled > free condition; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Safron et al., 2018-(Bisexual Women) Female > Male Pictures; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Safron et al., 2018-(Bisexual Women) Female > Male Videos; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Safron et al., 2018-(Bisexual Women) Male > Female Pictures; self	0	1	0	0	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Safron et al., 2018-(Bisexual Women) Male > Female Videos; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Safron et al., 2018-(Heterosexual Women) Female > Male Pictures; self	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Safron et al., 2018-(Heterosexual Women) Female > Male Videos; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Safron et al., 2018-(Heterosexual Women) Male > Female Videos; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Safron et al., 2018-(Homosexual Women) Female > Male Pictures; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Safron et al., 2018-(Homosexual Women) Female > Male Videos; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Safron et al., 2018-(Homosexual Women) Male > Female Videos; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Scholz et al., 2017-abstract triasl > reading screen; self	2	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Scholz et al., 2017-reading screen > rating screen; self	3	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Schulte-Rüther et al., 2008-Self > high-level baseline; self	0	1	1	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Seehausen et al., 2016-Cognitive empathic (CE) > high level baseline; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Seehausen et al., 2016-Cognitive unempathic (CN) > cognitive empathic (CE); self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Seehausen et al., 2016-Cognitive unempathic (CN) > emotional unempathic (EN); self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Seehausen et al., 2016-Emotional (EE + EN) > cognitive (CE + CN); self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Seehausen et al., 2016-Emotional Empathic (EE) > emotional unempathic (EN); self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Seehausen et al., 2016-Emotional empathic (EE) > cognitive empathic (CE); self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Seehausen et al., 2016-Emotional empathic (EE) > high level baseline; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Seehausen et al., 2016-Emotional unempathic (EN) > cognitive unempathic (CN); self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Seehausen et al., 2016-Empathic (EE + CE) > high level baseline; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Seehausen et al., 2016-Unempathic (EN + CN) > empathic (EE + CE); self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Seehausen et al., 2016-negative vs positive performance; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Silani et al., 2013-Incongruent > Congruent; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sugiura et al., 2008-Face (simple effect) [Sf–Ff]; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sugiura et al., 2008-Face specific (interaction) [(Sf–Ff)–(Sn–Fn) masked by Sf–Ff]; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sun et al., 2016-(CC-A)Gain > (CC-A)Loss; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sun et al., 2016-A > CC; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sun et al., 2016-CC > A; self	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sun et al., 2016-Gain > Loss; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Takahashi et al., 2004-Embarrassment > Neutral; self	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Takahashi et al., 2004-Embarrassment > guilt; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Takahashi et al., 2004-G > N masked E > N; self	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Takahashi et al., 2004-Guilt > Embarrassment; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Takahashi et al., 2004-Guilt > Neutral; self	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tamir et al., 2010-self–other discrepancy during Other judgments; self	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tamir et al., 2010-self–other discrepancy during self trials; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Telzer et al., 2011-Costly-Donation relative to Noncostly-Reward (accept); self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Telzer et al., 2011-Costly-Donation versus Noncostly-Reward (Family obligtations); self	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Trapp et al., 2014-Self > (other & triad); self	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Trapp et al., 2014-Triad > (self & other); self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Trapp et al., 2014-triad ∩ self ∩ other; self	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tylén et al., 2016-Meaning > Physical; self	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tylén et al., 2016-Own > Other (meaning related task); self	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tylén et al., 2016-Own > Other × Collective > Individual (meaning related task); self	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tylén et al., 2016-Physical > Meaning; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Uddin et al., 2005-Self - Other; self	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Van Der Heiden et al., 2013-Conjunction of Other and Self; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Van Der Heiden et al., 2013-Self > Other; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Volz et al., 2015-difference between sender and reciever payoff > baseline; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Volz et al., 2015-simple & sophisticated deception > truth; self	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Volz et al., 2015-simple deception > truth; self	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Volz et al., 2015-sophisticated deception > simple deception; self	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Volz et al., 2015-sophisticated deception > truth; self	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Volz et al., 2015-truth > simple deception & sophisticated deception; self	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wade-Bohleber et al., 2019-self-relevant > control; self	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Weng et al., 2015-SUFFERING vs. NEUTRAL; self	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Weng et al., 2015-[SUFFERING-NEUTRAL] – PRE[SUFFERING-NEUTRAL]; self	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Whitman et al., 2016-O-performance > S - performance; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Whitman et al., 2016-S-performance > O - performance; self	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Will et al., 2014-Excluders > Includers; self	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Will et al., 2014-Excluders equality > Includers equality; self	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Will et al., 2014-Includers > Excluders; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Will et al., 2014-Positive correlation with punishment frequency (percentage inequality for excluders - percentage inequality for includers); self	1	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Xie et al., 2016-Social-Look > Social-Reg; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Xie et al., 2016-Social-Reg > Social-Look; self	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Zhou et al., 2014-FAIR < UNFAIR; self	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Zhou et al., 2014-FAIR > UNFAIR; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Zhou et al., 2014-HIGH(UNFAIR–FAIR) > LOW(UNFAIR–FAIR) WITHIN HUMAN; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Zhou et al., 2014-HIGH(UNFAIR–FAIR) > LOW(UNFAIR–FAIR); self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Zhou et al., 2014-HUMAN > COMPUTER; self	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Zimmermann et al., 2018-Touch > Close; self	0	1	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+van den Bos et al., 2009-defect > reciprocate; self	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+van den Bos et al., 2009-reciprocate > defect; self	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+van den Bos et al., 2009-regression defect > reciprocity (Negative corr. avg. reciprocity); self	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+van den Bos et al., 2009-regression defect > reciprocity (Positive corr. avg. reciprocity); self	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

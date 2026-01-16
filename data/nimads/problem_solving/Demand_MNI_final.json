@@ -1,0 +1,5025 @@
+{
+  "id": "nimads_29944961_Demand_MNI_final",
+  "name": "Problem Solving - Demand_MNI_final",
+  "studies": [
+    {
+      "id": "Brown T, 2014",
+      "name": "Brown T, 2014",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Novel Mazes: Overlapping > Non-overlapping",
+          "name": "Novel Mazes: Overlapping > Non-overlapping",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                10.0,
+                -48.0,
+                -52.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -30.0,
+                -68.0,
+                30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -12.0,
+                2.0,
+                14.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                14.0,
+                2.0,
+                18.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                10.0,
+                8.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -12.0,
+                -54.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                10.0,
+                -42.0,
+                6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -40.0,
+                52.0,
+                8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                38.0,
+                62.0,
+                8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -44.0,
+                24.0,
+                32.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                48.0,
+                30.0,
+                32.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                28.0,
+                40.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -28.0,
+                12.0,
+                62.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -10.0,
+                4.0,
+                50.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -32.0,
+                22.0,
+                10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                10.0,
+                -16.0,
+                14.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.0,
+                -8.0,
+                6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                16.0,
+                -88.0,
+                2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                38.0,
+                12.0,
+                52.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                12.0,
+                -64.0,
+                34.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.0,
+                -60.0,
+                40.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -14.0,
+                -92.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                42.0,
+                -44.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -40.0,
+                -50.0,
+                46.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -26.0,
+                -14.0,
+                50.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                32.0,
+                20.0,
+                8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                38.0,
+                -68.0,
+                40.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              16
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Cho, 2010",
+      "name": "Cho, 2010",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Main Effect of Relational Complexity in Analogical Picture Problem Solving",
+          "name": "Main Effect of Relational Complexity in Analogical Picture Problem Solving",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                4.0,
+                -66.0,
+                46.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                42.0,
+                -10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                58.0,
+                28.0,
+                34.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                22.0,
+                26.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                4.0,
+                22.0,
+                52.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -26.0,
+                -58.0,
+                42.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                0.0,
+                -6.0,
+                6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -28.0,
+                -70.0,
+                -38.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                0.0,
+                -90.0,
+                -28.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              12
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Christoff, 2001",
+      "name": "Christoff, 2001",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "2-relational vs 1-relational",
+          "name": "2-relational vs 1-relational",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.12,
+                -0.7,
+                33.23
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -36.62,
+                -4.81,
+                36.53
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -32.47,
+                44.19,
+                16.02
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -14.02,
+                -0.18,
+                7.63
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                34.05,
+                21.14,
+                18.57
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                24.48,
+                2.42,
+                37.35
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.2,
+                3.43,
+                8.34
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              10
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Duncan, 2000",
+      "name": "Duncan, 2000",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Circles, High vs. Low g",
+          "name": "Circles, High vs. Low g",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                56.0,
+                28.0,
+                26.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                44.0,
+                34.0,
+                36.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                38.0,
+                4.0,
+                50.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -24.0,
+                -104.0,
+                -10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.0,
+                -82.0,
+                2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                24.0,
+                -102.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                44.0,
+                12.0,
+                62.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              13
+            ]
+          }
+        },
+        {
+          "id": "Spatial, High vs. Low g",
+          "name": "Spatial, High vs. Low g",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                48.0,
+                44.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                32.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -34.0,
+                10.0,
+                40.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                56.0,
+                30.0,
+                24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                64.0,
+                20.0,
+                16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                40.0,
+                12.0,
+                64.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                40.0,
+                -94.0,
+                -6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -26.0,
+                -66.0,
+                40.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                48.0,
+                -56.0,
+                50.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -24.0,
+                -104.0,
+                -10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -38.0,
+                -94.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                46.0,
+                -74.0,
+                -12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -52.0,
+                32.0,
+                26.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                2.0,
+                26.0,
+                46.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -52.0,
+                44.0,
+                4.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              13
+            ]
+          }
+        },
+        {
+          "id": "Verbal, High vs. Low g",
+          "name": "Verbal, High vs. Low g",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                32.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                46.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -54.0,
+                32.0,
+                22.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              13
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Fehr T, 2007",
+      "name": "Fehr T, 2007",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Addition, Complex > Simple",
+          "name": "Addition, Complex > Simple",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -4.04,
+                13.59,
+                61.66
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                18.18,
+                -92.46,
+                -10.11
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.42,
+                41.75,
+                33.76
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                36.36,
+                5.61,
+                34.03
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                42.42,
+                26.46,
+                29.69
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                42.42,
+                46.07,
+                29.64
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.42,
+                -51.74,
+                46.24
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -18.18,
+                -71.51,
+                49.55
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -28.28,
+                -53.9,
+                26.54
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -32.32,
+                -84.27,
+                -8.45
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                24.24,
+                -75.73,
+                7.97
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                18.18,
+                -81.65,
+                2.22
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -32.32,
+                -48.34,
+                18.13
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.48,
+                -47.98,
+                -12.31
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                50.51,
+                -46.02,
+                -9.81
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.06,
+                18.07,
+                54.28
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.08,
+                11.58,
+                60.47
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              11
+            ]
+          }
+        },
+        {
+          "id": "Division, Complex > Simple",
+          "name": "Division, Complex > Simple",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -40.4,
+                27.95,
+                41.74
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.46,
+                49.73,
+                -4.28
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.42,
+                28.52,
+                29.8
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                46.46,
+                11.89,
+                32.19
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                34.34,
+                2.11,
+                64.32
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                55.56,
+                18.07,
+                32.51
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -34.34,
+                23.73,
+                0.16
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -32.32,
+                -78.35,
+                41.57
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -12.12,
+                -77.84,
+                52.48
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                32.32,
+                -80.16,
+                36.04
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                16.16,
+                -75.73,
+                51.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                2.02,
+                -7.62,
+                8.3
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.08,
+                -1.8,
+                16.23
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                2.02,
+                16.11,
+                52.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                44.44,
+                28.52,
+                29.8
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              11
+            ]
+          }
+        },
+        {
+          "id": "Multiplication, Complex > Simple",
+          "name": "Multiplication, Complex > Simple",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                28.28,
+                -66.15,
+                -21.7
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                44.44,
+                9.83,
+                32.08
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                44.44,
+                26.46,
+                29.69
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -40.4,
+                30.22,
+                37.51
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -38.38,
+                40.31,
+                42.39
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                2.02,
+                16.11,
+                52.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -4.04,
+                -22.14,
+                9.71
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -8.08,
+                -36.04,
+                -2.08
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -4.04,
+                -7.62,
+                8.3
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              11
+            ]
+          }
+        },
+        {
+          "id": "Subraction, Complex > Simple",
+          "name": "Subraction, Complex > Simple",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.42,
+                37.53,
+                35.72
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                44.44,
+                46.07,
+                29.64
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                42.42,
+                5.61,
+                34.03
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -12.12,
+                -73.62,
+                50.53
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                44.44,
+                26.46,
+                29.69
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                32.32,
+                -59.87,
+                43.64
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -30.3,
+                -68.06,
+                42.11
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -28.28,
+                4.27,
+                62.26
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -44.44,
+                -51.84,
+                48.41
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -40.4,
+                30.22,
+                37.51
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                2.02,
+                16.11,
+                52.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -2.02,
+                13.69,
+                59.49
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                38.38,
+                20.28,
+                7.6
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                32.32,
+                -76.04,
+                36.25
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                28.28,
+                -65.69,
+                35.71
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -10.1,
+                -6.43,
+                -18.25
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.06,
+                -14.47,
+                22.09
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -36.36,
+                48.03,
+                31.92
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              11
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Gaeke, 2005",
+      "name": "Gaeke, 2005",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Principle activations for positive linear trend of analogical depth",
+          "name": "Principle activations for positive linear trend of analogical depth",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                52.0,
+                22.0,
+                20.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -26.0,
+                22.0,
+                44.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -30.0,
+                24.0,
+                44.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -44.0,
+                50.0,
+                2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                48.0,
+                46.0,
+                8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.0,
+                18.0,
+                14.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                22.0,
+                42.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                0.0,
+                -60.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -34.0,
+                -62.0,
+                44.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -4.0,
+                24.0,
+                40.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -16.0,
+                -92.0,
+                -18.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -20.0,
+                -86.0,
+                -10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                48.0,
+                48.0,
+                -12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                44.0,
+                -10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                -60.0,
+                44.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              12
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Grabner R H, 2007",
+      "name": "Grabner R H, 2007",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Multi-Digit > Single-Digit",
+          "name": "Multi-Digit > Single-Digit",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                10.0,
+                26.0,
+                36.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                36.0,
+                -68.0,
+                -26.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -28.0,
+                26.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                30.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -36.0,
+                -42.0,
+                44.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.0,
+                8.0,
+                30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.0,
+                -66.0,
+                -30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                0.0,
+                -74.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -26.0,
+                -2.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                0.0,
+                -70.0,
+                10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -10.0,
+                16.0,
+                44.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                38.0,
+                -46.0,
+                42.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                24.0,
+                -28.0,
+                6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                36.0,
+                28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -10.0,
+                -22.0,
+                12.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              12
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Grabner R H, 2009",
+      "name": "Grabner R H, 2009",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Procedural > Retrieval",
+          "name": "Procedural > Retrieval",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -15.0,
+                -42.0,
+                -3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -51.0,
+                -63.0,
+                -12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                -66.0,
+                45.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                45.0,
+                9.0,
+                27.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                36.0,
+                -3.0,
+                63.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                9.0,
+                15.0,
+                51.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -9.0,
+                -72.0,
+                51.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                12.0,
+                3.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -3.0,
+                -75.0,
+                12.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              28
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Hampshire, 2011",
+      "name": "Hampshire, 2011",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Main Effect of Analogical Distance for Separate Panels",
+          "name": "Main Effect of Analogical Distance for Separate Panels",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -10.0,
+                50.0,
+                22.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                36.0,
+                8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -40.0,
+                36.0,
+                -12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -28.0,
+                -46.0,
+                -18.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                46.0,
+                4.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              16
+            ]
+          }
+        },
+        {
+          "id": "Main Effect of Analogical Distance for Simultaneous Panels",
+          "name": "Main Effect of Analogical Distance for Simultaneous Panels",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.0,
+                30.0,
+                16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -40.0,
+                40.0,
+                -16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -22.0,
+                18.0,
+                60.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.0,
+                40.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -44.0,
+                -50.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -28.0,
+                -66.0,
+                32.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              16
+            ]
+          }
+        },
+        {
+          "id": "Main Effect of Rule Complexity for Separate Panels",
+          "name": "Main Effect of Rule Complexity for Separate Panels",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -28.0,
+                -54.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -16.0,
+                48.0,
+                4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                30.0,
+                42.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                26.0,
+                60.0,
+                2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                26.0,
+                -54.0,
+                50.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              16
+            ]
+          }
+        },
+        {
+          "id": "Main Effect of Rule Complexity for Simultaneous Panels",
+          "name": "Main Effect of Rule Complexity for Simultaneous Panels",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                22.0,
+                -60.0,
+                46.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                44.0,
+                46.0,
+                20.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.0,
+                -56.0,
+                58.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                50.0,
+                24.0,
+                32.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -44.0,
+                28.0,
+                38.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -32.0,
+                54.0,
+                20.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                36.0,
+                60.0,
+                16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -30.0,
+                52.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -26.0,
+                -56.0,
+                56.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              16
+            ]
+          }
+        },
+        {
+          "id": "Rule Complexity - Analogical Distance",
+          "name": "Rule Complexity - Analogical Distance",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -26.0,
+                44.0,
+                36.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -32.0,
+                60.0,
+                16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                16.0,
+                64.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -16.0,
+                -54.0,
+                44.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                14.0,
+                -68.0,
+                44.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                44.0,
+                -48.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                36.0,
+                58.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                42.0,
+                22.0,
+                38.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                44.0,
+                46.0,
+                20.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              16
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Kalbfleisch, 2007",
+      "name": "Kalbfleisch, 2007",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Hard > Easy",
+          "name": "Hard > Easy",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                24.23,
+                -2.21,
+                55.83
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -37.95,
+                10.97,
+                0.17
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -43.84,
+                -0.67,
+                23.29
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                37.73,
+                35.59,
+                24.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -23.88,
+                -5.51,
+                52.9
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                5.78,
+                -1.68,
+                51.06
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -36.83,
+                -16.36,
+                48.95
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                9.35,
+                -72.15,
+                40.84
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -18.37,
+                -56.17,
+                41.89
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                46.18,
+                10.86,
+                7.89
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -36.14,
+                -31.37,
+                -9.22
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                39.12,
+                -47.38,
+                36.48
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -23.4,
+                -91.58,
+                -9.3
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                24.4,
+                -67.69,
+                23.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -8.11,
+                -53.3,
+                -36.04
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                34.33,
+                16.8,
+                -4.36
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -34.21,
+                -72.84,
+                -27.53
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.57,
+                -76.65,
+                -18.41
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              14
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Kong J, 2005",
+      "name": "Kong J, 2005",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Main Effect of Procedure Complexity (with carrying/borrowing vs. without carrying/borrowing)",
+          "name": "Main Effect of Procedure Complexity (with carrying/borrowing vs. without carrying/borrowing)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                21.0,
+                42.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -24.0,
+                -78.0,
+                36.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -3.0,
+                15.0,
+                51.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -45.0,
+                9.0,
+                27.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              16
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Lazeron R H C, 2003",
+      "name": "Lazeron R H C, 2003",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "High vs. Low",
+          "name": "High vs. Low",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                29.76,
+                -71.68,
+                -55.41
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -11.51,
+                -46.0,
+                -43.61
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -24.16,
+                -14.49,
+                7.58
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                13.66,
+                35.44,
+                -9.38
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                26.76,
+                -60.73,
+                20.44
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                36.13,
+                8.17,
+                58.95
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                23.38,
+                -4.03,
+                16.58
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                48.68,
+                11.94,
+                15.34
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -14.37,
+                -48.98,
+                63.16
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -11.49,
+                19.77,
+                48.45
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              9
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Luo, 2006",
+      "name": "Luo, 2006",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Tight chunk decomposition > loose chunk decomposition, positively activated in tight but not it loose",
+          "name": "Tight chunk decomposition > loose chunk decomposition, positively activated in tight but not it loose",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -26.0,
+                -80.0,
+                14.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                46.0,
+                32.0,
+                20.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                38.0,
+                -86.0,
+                6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                34.0,
+                -86.0,
+                -6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                28.0,
+                20.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.0,
+                28.0,
+                26.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.0,
+                -26.0,
+                -34.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -8.0,
+                -14.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                4.0,
+                -24.0,
+                -32.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                36.0,
+                28.0,
+                -12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                38.0,
+                34.0,
+                -20.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.0,
+                8.0,
+                40.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                16.0,
+                34.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -58.0,
+                16.0,
+                26.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -26.0,
+                -2.0,
+                50.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -2.0,
+                18.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.0,
+                28.0,
+                40.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.0,
+                40.0,
+                6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -28.0,
+                -88.0,
+                14.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              13
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Monti, 2007",
+      "name": "Monti, 2007",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Experiment 1: Complex - Simple Deductions",
+          "name": "Experiment 1: Complex - Simple Deductions",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -34.0,
+                20.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                38.0,
+                -60.0,
+                -34.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -36.0,
+                56.0,
+                8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -28.0,
+                58.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -2.0,
+                28.0,
+                38.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                32.0,
+                24.0,
+                -12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -40.0,
+                54.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -32.0,
+                4.0,
+                62.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -40.0,
+                50.0,
+                -6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.0,
+                10.0,
+                50.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                2.0,
+                30.0,
+                36.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -32.0,
+                20.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.0,
+                42.0,
+                -10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -36.0,
+                6.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                44.0,
+                12.0,
+                50.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                48.0,
+                10.0,
+                50.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                28.0,
+                38.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -2.0,
+                22.0,
+                46.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                32.0,
+                28.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -32.0,
+                64.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -52.0,
+                40.0,
+                -12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -28.0,
+                60.0,
+                16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -36.0,
+                -56.0,
+                42.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -38.0,
+                -72.0,
+                46.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                10.0,
+                -84.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                14.0,
+                -84.0,
+                -26.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                32.0,
+                -66.0,
+                -36.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                12.0,
+                -80.0,
+                -32.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                26.0,
+                -74.0,
+                -40.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                20.0,
+                -78.0,
+                -38.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -32.0,
+                62.0,
+                0.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              10
+            ]
+          }
+        },
+        {
+          "id": "Experiment 2: Complex - Simple Deductions",
+          "name": "Experiment 2: Complex - Simple Deductions",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -56.0,
+                22.0,
+                32.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -2.0,
+                34.0,
+                34.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -38.0,
+                58.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.0,
+                50.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -52.0,
+                44.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.0,
+                48.0,
+                -10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                48.0,
+                28.0,
+                34.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                52.0,
+                20.0,
+                34.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                42.0,
+                28.0,
+                46.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                48.0,
+                24.0,
+                28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.0,
+                28.0,
+                46.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -4.0,
+                38.0,
+                36.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.0,
+                22.0,
+                56.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -34.0,
+                -66.0,
+                46.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.0,
+                -50.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.0,
+                -46.0,
+                42.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -40.0,
+                -66.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                36.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -44.0,
+                -54.0,
+                44.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -32.0,
+                60.0,
+                4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                16.0,
+                40.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -38.0,
+                16.0,
+                52.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                24.0,
+                40.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.0,
+                -62.0,
+                52.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -38.0,
+                12.0,
+                40.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -40.0,
+                12.0,
+                46.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              12
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Montojo C A, 2008",
+      "name": "Montojo C A, 2008",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Main effect of Condition (NMBR, RULE, BOTH)",
+          "name": "Main effect of Condition (NMBR, RULE, BOTH)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -8.1,
+                -5.38,
+                51.01
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                2.23,
+                -0.67,
+                61.43
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                14.21,
+                75.53,
+                38.28
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -50.23,
+                39.64,
+                38.24
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -12.91,
+                78.11,
+                42.39
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -34.39,
+                54.22,
+                32.71
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                37.37,
+                62.03,
+                41.94
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              16
+            ]
+          }
+        },
+        {
+          "id": "NMBR, RULE, BOTH > HOLD",
+          "name": "NMBR, RULE, BOTH > HOLD",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                4.02,
+                28.6,
+                14.45
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -11.6,
+                69.81,
+                1.03
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -10.46,
+                67.03,
+                36.6
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                34.04,
+                -8.73,
+                39.65
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -47.57,
+                -13.19,
+                29.26
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                44.24,
+                3.14,
+                36.76
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              16
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Prado, 2007",
+      "name": "Prado, 2007",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Falsification task: 2-mismatch > 1-mismatch > 0-mismatch",
+          "name": "Falsification task: 2-mismatch > 1-mismatch > 0-mismatch",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -9.63,
+                -88.8,
+                0.21
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                18.28,
+                -80.53,
+                -8.45
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                40.35,
+                13.37,
+                30.55
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.79,
+                4.43,
+                46.25
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -29.46,
+                -3.88,
+                55.66
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                26.15,
+                -57.48,
+                34.41
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              20
+            ]
+          }
+        },
+        {
+          "id": "Verification task: 2-mismatch > 1-mismatch > 0-mismatch",
+          "name": "Verification task: 2-mismatch > 1-mismatch > 0-mismatch",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                26.14,
+                -60.27,
+                34.14
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -9.66,
+                -88.97,
+                1.99
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                12.73,
+                -80.5,
+                -8.54
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -47.64,
+                21.51,
+                37.04
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -32.16,
+                -51.76,
+                35.76
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                40.34,
+                10.57,
+                30.28
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.76,
+                4.17,
+                48.93
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                40.34,
+                10.57,
+                30.28
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                26.14,
+                -60.27,
+                34.14
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.76,
+                4.17,
+                48.93
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              20
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Preusse, 2010",
+      "name": "Preusse, 2010",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Time point 1: main effect of task difficulty",
+          "name": "Time point 1: main effect of task difficulty",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -26.73,
+                -7.88,
+                58.03
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -38.63,
+                -44.36,
+                37.26
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                10.1,
+                -67.96,
+                55.66
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -17.57,
+                -71.69,
+                46.74
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              22
+            ]
+          }
+        },
+        {
+          "id": "Time point 2: main effect of task difficulty",
+          "name": "Time point 2: main effect of task difficulty",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                11.92,
+                -67.3,
+                58.46
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -26.67,
+                -3.81,
+                54.81
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -11.12,
+                -71.9,
+                48.63
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -35.03,
+                -51.51,
+                42.95
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              17
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Reverberi, 2007",
+      "name": "Reverberi, 2007",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Conjunction of propositional deductive inference criteria",
+          "name": "Conjunction of propositional deductive inference criteria",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -44.0,
+                -46.0,
+                50.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -40.0,
+                4.0,
+                26.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -58.0,
+                20.0,
+                14.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                6.0,
+                30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -52.0,
+                8.0,
+                30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -40.0,
+                -54.0,
+                56.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                4.0,
+                44.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -38.0,
+                -48.0,
+                42.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              14
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Wagner, 2001",
+      "name": "Wagner, 2001",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "4-target > 2-target",
+          "name": "4-target > 2-target",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -36.0,
+                21.0,
+                27.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -39.0,
+                6.0,
+                24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -45.0,
+                27.0,
+                9.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                3.0,
+                30.0,
+                36.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                3.0,
+                15.0,
+                42.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -51.0,
+                21.0,
+                -12.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              14
+            ]
+          }
+        },
+        {
+          "id": "Weak > Strong",
+          "name": "Weak > Strong",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                0.0,
+                9.0,
+                57.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -45.0,
+                27.0,
+                -12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -51.0,
+                18.0,
+                27.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -51.0,
+                21.0,
+                -3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                45.0,
+                21.0,
+                6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                24.0,
+                -6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                51.0,
+                9.0,
+                33.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                45.0,
+                9.0,
+                27.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                54.0,
+                24.0,
+                27.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                39.0,
+                27.0,
+                -9.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                18.0,
+                39.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                9.0,
+                27.0,
+                36.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              14
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Wood G, 2008",
+      "name": "Wood G, 2008",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NBT: Decade Crossing > No Decade Crossing",
+          "name": "NBT: Decade Crossing > No Decade Crossing",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -1.98,
+                22.02,
+                49.35
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -35.7,
+                -5.71,
+                49.23
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.49,
+                33.41,
+                17.75
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.36,
+                6.7,
+                29.57
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                63.44,
+                26.33,
+                24.25
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                42.24,
+                18.67,
+                -11.72
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                32.89,
+                15.67,
+                44.03
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                7.51,
+                21.69,
+                42.66
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                36.34,
+                -57.84,
+                49.04
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                45.73,
+                -71.01,
+                -12.26
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -27.02,
+                -74.61,
+                42.79
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                36.39,
+                -73.87,
+                45.7
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -30.18,
+                -64.3,
+                56.54
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -39.85,
+                -31.44,
+                43.24
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -30.69,
+                21.01,
+                -14.79
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                36.33,
+                -51.13,
+                55.24
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.22,
+                -65.47,
+                -12.1
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              17
+            ]
+          }
+        },
+        {
+          "id": "NBT: Large Bissection Range > Small Bissection Range",
+          "name": "NBT: Large Bissection Range > Small Bissection Range",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                54.21,
+                -30.04,
+                52.58
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                38.45,
+                -50.98,
+                57.44
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -7.97,
+                -72.65,
+                54.76
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -51.44,
+                -34.28,
+                50.17
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                33.2,
+                -70.81,
+                44.4
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                42.69,
+                -93.2,
+                4.81
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -27.02,
+                -71.32,
+                44.79
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -39.85,
+                -71.72,
+                -11.71
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                32.88,
+                18.82,
+                43.81
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                7.5,
+                24.84,
+                42.44
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -1.98,
+                22.02,
+                49.35
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -24.15,
+                16.65,
+                50.96
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                53.92,
+                36.18,
+                31.4
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.37,
+                6.5,
+                26.26
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                45.42,
+                22.39,
+                -3.12
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                42.24,
+                18.67,
+                -11.72
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -30.67,
+                21.34,
+                -9.26
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -36.63,
+                -86.34,
+                -9.62
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              17
+            ]
+          }
+        },
+        {
+          "id": "NBT: Large Distance to Mean > Small Distance to Mean",
+          "name": "NBT: Large Distance to Mean > Small Distance to Mean",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.12,
+                -54.02,
+                37.06
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                49.0,
+                -58.28,
+                40.12
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -14.85,
+                56.41,
+                27.09
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                20.14,
+                41.25,
+                50.12
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                69.96,
+                -41.63,
+                -1.1
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              17
+            ]
+          }
+        },
+        {
+          "id": "NBT: Large Problem Size > Small Problem Size",
+          "name": "NBT: Large Problem Size > Small Problem Size",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -4.98,
+                -78.21,
+                -19.24
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -43.11,
+                -56.53,
+                -21.61
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                4.66,
+                -86.33,
+                18.99
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -14.36,
+                -96.96,
+                3.19
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -8.06,
+                -83.9,
+                8.91
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                36.33,
+                -93.59,
+                -0.67
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              17
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Wu, 2003",
+      "name": "Wu, 2003",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "familiar-tight > familiar-loose",
+          "name": "familiar-tight > familiar-loose",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                12.0,
+                -15.0,
+                9.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -15.0,
+                -9.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                15.0,
+                51.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                33.0,
+                24.0,
+                -3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -36.0,
+                33.0,
+                6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -33.0,
+                18.0,
+                -3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                27.0,
+                -3.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.0,
+                -81.0,
+                -33.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                24.0,
+                -72.0,
+                -48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -21.0,
+                -72.0,
+                -45.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                18.0,
+                -3.0,
+                -3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -27.0,
+                0.0,
+                57.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                36.0,
+                0.0,
+                39.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -51.0,
+                6.0,
+                27.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                51.0,
+                -57.0,
+                -9.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                48.0,
+                9.0,
+                30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -33.0,
+                -81.0,
+                18.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -45.0,
+                -45.0,
+                -18.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                -66.0,
+                -6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -24.0,
+                -69.0,
+                45.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.0,
+                -42.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                51.0,
+                -33.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                27.0,
+                -69.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                33.0,
+                -54.0,
+                51.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              16
+            ]
+          }
+        },
+        {
+          "id": "familiar-tight > unfamiliar-tight",
+          "name": "familiar-tight > unfamiliar-tight",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                9.0,
+                27.0,
+                30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                33.0,
+                21.0,
+                6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                36.0,
+                15.0,
+                -12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                42.0,
+                12.0,
+                21.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -36.0,
+                18.0,
+                -3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -33.0,
+                18.0,
+                6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -39.0,
+                12.0,
+                9.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                3.0,
+                18.0,
+                45.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                9.0,
+                12.0,
+                48.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              16
+            ]
+          }
+        },
+        {
+          "id": "unfamiliar-tight > unfamiliar-loose",
+          "name": "unfamiliar-tight > unfamiliar-loose",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                24.0,
+                -72.0,
+                -48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                48.0,
+                9.0,
+                30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                36.0,
+                0.0,
+                39.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                -66.0,
+                -6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                54.0,
+                -57.0,
+                -12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -21.0,
+                -69.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.0,
+                -42.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                27.0,
+                -69.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                51.0,
+                -33.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                42.0,
+                33.0,
+                21.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                33.0,
+                -54.0,
+                51.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                51.0,
+                45.0,
+                18.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                9.0,
+                27.0,
+                45.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                15.0,
+                51.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.0,
+                12.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -30.0,
+                18.0,
+                -3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -39.0,
+                3.0,
+                30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -51.0,
+                6.0,
+                27.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -27.0,
+                0.0,
+                57.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                27.0,
+                -3.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.0,
+                -81.0,
+                -33.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -21.0,
+                -72.0,
+                -45.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                36.0,
+                -63.0,
+                -30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -12.0,
+                -75.0,
+                57.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              16
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "van den Huevel O A, 2005",
+      "name": "van den Huevel O A, 2005",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Increases Correlating With Increased Task Load, Normals",
+          "name": "Increases Correlating With Increased Task Load, Normals",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                44.51,
+                -45.84,
+                49.33
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -17.86,
+                0.65,
+                18.45
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -23.13,
+                46.62,
+                10.1
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                34.31,
+                44.98,
+                5.52
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.54,
+                55.48,
+                13.65
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                28.65,
+                46.0,
+                14.52
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -28.73,
+                37.16,
+                10.91
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                39.4,
+                25.05,
+                36.14
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -38.49,
+                20.68,
+                45.22
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                24.36,
+                16.1,
+                51.26
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -10.62,
+                15.82,
+                36.22
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                4.11,
+                15.22,
+                41.82
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                14.93,
+                -16.22,
+                55.24
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -22.05,
+                -1.12,
+                56.05
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                22.47,
+                1.21,
+                49.81
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -10.97,
+                -56.21,
+                42.01
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                5.62,
+                -62.23,
+                45.32
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -30.54,
+                17.37,
+                1.8
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.54,
+                18.91,
+                2.98
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -40.48,
+                -69.91,
+                29.4
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -41.93,
+                31.75,
+                28.2
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              22
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

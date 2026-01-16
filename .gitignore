@@ -42,3 +42,6 @@ data/studies/ace/
 *.log
 
 *.lock*
+# pixi environments
+.pixi/*
+!.pixi/config.toml

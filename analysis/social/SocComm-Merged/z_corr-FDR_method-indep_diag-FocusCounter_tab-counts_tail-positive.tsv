@@ -1,0 +1,382 @@
+id	PositiveTail 1	PositiveTail 2	PositiveTail 3	PositiveTail 4	PositiveTail 5	PositiveTail 6	PositiveTail 7	PositiveTail 8	PositiveTail 9	PositiveTail 10	PositiveTail 11	PositiveTail 12	PositiveTail 13	PositiveTail 14	PositiveTail 15	PositiveTail 16	PositiveTail 17	PositiveTail 18	PositiveTail 19	PositiveTail 20	PositiveTail 21	PositiveTail 22	PositiveTail 23	PositiveTail 24	PositiveTail 25	PositiveTail 26	PositiveTail 27
+Barman et al., 2015-monetary reward > social reward; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Barman et al., 2015-reward > neutral; socialcommunication	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Barman et al., 2015-social reward > monetary reward; socialcommunication	1	1	1	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Beyer et al., 2014-Decision phase: Angry > neutral; socialcommunication	0	1	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Beyer et al., 2014-Decision phase: Parametric modulation angry > neutral; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Beyer et al., 2014-Outcome phase: Angry > neutral; socialcommunication	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bockler et al., 2016-averted gaze > eye contact; socialcommunication	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bockler et al., 2016-averted gaze x incongruent > averted  gaze x congruent; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bockler et al., 2016-congruent gaze cues > incongruent gaze cues; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bockler et al., 2016-eye contact > averted gaze; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bockler et al., 2016-eye contact x congruent > averted gaze x congruent; socialcommunication	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bockler et al., 2016-incongruent gaze cues > congruent gaze cues; socialcommunication	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bristow et al., 2007-Incorrect > correct masked by Gaze Shift > No Movement; socialcommunication	1	2	1	1	0	0	1	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Bristow et al., 2007-Incorrect > correct; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bristow et al., 2007-Social > unsocial masked by correct > incorrect; socialcommunication	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+Bristow et al., 2007-Social > unsocial masked by gaze shift > no movement; socialcommunication	0	4	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bristow et al., 2007-Unsocial > social masked by Gaze Shift > No Movement; socialcommunication	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Bristow et al., 2007-Unsocial > social masked by incorrect > correct; socialcommunication	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Caruana et al., 2015-(IJA - IJAc) with (RJA - RJAc); socialcommunication	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Caruana et al., 2015-(IJA − IJAc) − (RJA − RJAc); socialcommunication	0	1	2	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Caruana et al., 2015-IJA > IJAc; socialcommunication	0	3	2	2	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Caruana et al., 2015-RJA > RJAc; socialcommunication	1	0	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cassidy et al., 2016-Black > White faces: A. Increased activation with less differentiation disparity; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cassidy et al., 2016-Black > White faces: A. Increased activation with less racial trust disparities; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cassidy et al., 2016-Black > White faces: A. Increased activation with more differentiation disparity; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cassidy et al., 2016-Black > White faces: A. Increased activation with more racial trust disparities; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cassidy et al., 2016-Black > White faces: B. Increased connectivity with orbitofrontal cortex (18, 66, 0) with less racial trust disparity; socialcommunication	0	3	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cassidy et al., 2016-Black > White faces: B. Increassed connectivity with dorsolateral prefrontal seed (24, 42, 21) with less differentiation disparity; socialcommunication	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Catmur et al., 2008-interaction between observed (hand and foot) and group (Compatible and Incompatible) > baseline during Action Observation task; socialcommunication	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Catmur et al., 2008-observation of both hands and feet > baseline and action execution (hands and feet) > baseline (conjunction analysis); socialcommunication	0	0	0	1	1	0	0	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Chen et al., 2010-Gender > Preference; socialcommunication	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chen et al., 2010-Preference > Gender; socialcommunication	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cloutier et al., 2014-Status Level > baseline; socialcommunication	0	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cloutier et al., 2014-Status Type > baseline; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cloutier et al., 2014-Status Type x Status Level > baseline; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Contreras et al., 2011-Categorical knowledge (non-social > social); socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Contreras et al., 2011-Categorical knowledge (social > non-social); socialcommunication	0	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0
+Cooper et al., 2013-Match > Unrequited; socialcommunication	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cooper et al., 2013-Mismatched (Rejection + Unrequited) > matched (Match + Disinterest); socialcommunication	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cooper et al., 2013-Partners who were given a no > those given a yes; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cooper et al., 2013-Partners who were given a yes > those given a no; socialcommunication	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cooper et al., 2013-Rejection > Disinterest; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+Cooper et al., 2013-Unsigned prediction errors from RL model; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cooper et al., 2013-Yes (Match + Unrequited) > No (Rejection + Disinterest); socialcommunication	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cuevas et al., 2019-gestures + speech > speech; socialcommunication	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cuevas et al., 2019-interaction (gestures x complexity); socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Cuevas et al., 2019-low complexity > high complexity; socialcommunication	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cuevas et al., 2019-speech > gestures + speech; socialcommunication	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Davies-Thompson et al., 2018-(Bimodal > Unimodal faces) ∩ (Bimodal > Unimodal Voices); socialcommunication	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Davies-Thompson et al., 2018-Incongruent > Congruent; socialcommunication	2	2	0	1	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Derntl et al., 2009-emotion-by-gender of poser interaction (fearful male expressions > fearful female expressions; female expressions of disgust > male expressions of disgust); socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Derntl et al., 2009-interaction of testosterone and angry male expressions > baseline; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Derntl et al., 2009-interaction of testosterone and fearful male expressions > baseline; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dichter et al., 2008-(Face Targets > Novels) > (Shape Targets > Novels); socialcommunication	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dichter et al., 2008-Face Targets > Novels; socialcommunication	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dichter et al., 2008-Shape Targets > Novels; socialcommunication	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ebisch et al., 2014-[(hand/human hand > hand/fake hand) − (object/human hand > object/fake hand)]; socialcommunication	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ebisch et al., 2014-[(object/human hand > object/fake hand) − (hand/human hand > hand/fake hand)] − Target effect [human hand > fake hand] − Modality effect: [hand > object]; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ebisch et al., 2014-[(object/human hand > object/fake hand) − (hand/human hand > hand/fake hand)] − Target effect [human hand > fake hand] − Modality effect: [object > hand]; socialcommunication	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Ebisch et al., 2014-[(object/human hand > object/fake hand) − (hand/human hand > hand/fake hand)]; socialcommunication	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ebisch et al., 2014-[human hand > fake hand] − Modality effect: [object > hand]; socialcommunication	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Egorova et al., 2016-Request > Naming; socialcommunication	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Egorova et al., 2016-Words > Faces; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Falk et al., 2013-Buzz effect; socialcommunication	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Falk et al., 2013-Intention effect; socialcommunication	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Falk et al., 2013-Salesperson effect; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fehr et al., 2014-A&B; socialcommunication	0	3	2	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0
+Fehr et al., 2014-D&E; socialcommunication	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fehr et al., 2014-a1> n1; socialcommunication	0	4	1	2	0	0	0	0	0	0	0	0	2	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+Fehr et al., 2014-a1>p1; socialcommunication	0	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fehr et al., 2014-a2> n2; socialcommunication	0	4	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fehr et al., 2014-a2>p2; socialcommunication	0	2	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fehr et al., 2014-p1> n1; socialcommunication	0	2	3	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fehr et al., 2014-p1>a1; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fehr et al., 2014-p2>a2; socialcommunication	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fehr et al., 2014-p2>n2; socialcommunication	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Fruhholz et al., 2020-vocal > nonvocal; socialcommunication	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+George et al., 2001-direct > averted gaze ( across head angles); socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+George et al., 2001-face stimuli > baseline; socialcommunication	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+George et al., 2001-frontal > deviated head (across gaze direction); socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gilead et al., 2013-Abstract conjunction > Concrete conjunction; socialcommunication	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gilead et al., 2013-Concrete conjunction > abstract conjunction; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gilead et al., 2013-Exemplars > Categories; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gilead et al., 2013-How > Why; socialcommunication	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gilead et al., 2013-Task x Concreteness; socialcommunication	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Güroğlu et al., 2008-(peer vs. celebrity) x (positive vs. non-positive); socialcommunication	0	0	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Habel et al., 2007-explicit (emotion) > baseline; socialcommunication	0	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Habel et al., 2007-explicit (emotion) > implicit (age); socialcommunication	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Habel et al., 2007-implicit (age) > baseline; socialcommunication	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Haist et al., 2010-faces > watches; socialcommunication	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Haist et al., 2010-objects > faces; socialcommunication	0	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Haist et al., 2010-objects > watches; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Haist et al., 2010-watches > faces; socialcommunication	0	3	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Hanawa et al., 2016-imitation x difficulty > baseline; socialcommunication	0	0	0	0	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hanawa et al., 2016-imitation x familiarity > baseline; socialcommunication	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hanawa et al., 2016-imitation x rhythm > baseline; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hanawa et al., 2016-imitation x urge > baseline; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hanawa et al., 2016-observation x difficulty > baseline; socialcommunication	0	1	1	2	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hanawa et al., 2016-observation x familiarity > baseline; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hanawa et al., 2016-observation x rhythm > baseline; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Harrison et al., 2009-Interaction between feedback condition and variance in pupil size (positive > negative); socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Harrison et al., 2009-Main effect of change in observed and observer’s pupil size; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Harrison et al., 2009-Main effect of viewing eyes; socialcommunication	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hellbernd et al., 2018-Ambiguous > Clear; socialcommunication	1	0	0	2	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hellbernd et al., 2018-Clear > Ambiguous; socialcommunication	0	2	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Hensel et al., 2013-[(TR−AG)∩(AT−AG)∩(HA−AG)]; socialcommunication	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hensel et al., 2013-[(TR−HA)∩(AT−HA)∩(AG−HA)]; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hensel et al., 2013-[(TR−HA)∩(AT−HA)∩(TR−AG)∩(AT−AG)]; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Heyda et al., 2010-Bodies > Places; socialcommunication	0	0	1	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Heyda et al., 2010-Places > Bodies; socialcommunication	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hoffman et al., 2000-Facial Stimuli > Control (Scrambled); socialcommunication	0	1	2	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Huis in ‘t Veld et al., 2015-Fear +  happy > neutral; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Huis in ‘t Veld et al., 2015-Fear + neutral > happy; socialcommunication	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Huis in ‘t Veld et al., 2015-Fear > happy +  neutral; socialcommunication	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Huis in ‘t Veld et al., 2015-Happy > fear + neutral; socialcommunication	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Huis in ‘t Veld et al., 2015-Interactive fear > individual fear +  individual neutral > interactive neutral; socialcommunication	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Huis in ‘t Veld et al., 2015-Interactive fear > individual fear + interactive happy > individual happy; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Huis in ‘t Veld et al., 2015-Interactive fear > individual fear + interactive neutral > individual neutral; socialcommunication	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Huis in ‘t Veld et al., 2015-Interactive fear > individual fear; socialcommunication	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Huis in ‘t Veld et al., 2015-Interactive neutral > individual neutral; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Huis in ‘t Veld et al., 2015-Neutral > fear +  happy; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Huis in ‘t Veld et al., 2015-interactive > individual; socialcommunication	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ihme et al., 2014-AN > NE; socialcommunication	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ihme et al., 2014-FE > NE; socialcommunication	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ihme et al., 2014-HA > NE; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Javor et al., 2019-decision-making > results; socialcommunication	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Javor et al., 2019-results > decision-making; socialcommunication	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kanazawa et al., 2017-Fingerspelling > Letter; socialcommunication	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kanazawa et al., 2017-Letter > Fingerspelling; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kedia et al., 2013-Conjunction analyses of the beauty and height distance effects; socialcommunication	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kedia et al., 2013-Conjunction analyses of the women and dog distance effects; socialcommunication	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kedia et al., 2013-Distance effect in the beauty condition > height condition; socialcommunication	1	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Kedia et al., 2013-Distance effect in the dog condition > women condition; socialcommunication	1	0	0	2	1	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Kedia et al., 2013-Distance effect in the height condition > beauty condition; socialcommunication	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kedia et al., 2013-Distance effect in the women condition > dog condition; socialcommunication	1	1	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kedia et al., 2013-Main effect of judgment: Beauty > height comparisons; socialcommunication	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kedia et al., 2013-Main effect of judgment: Height > beauty comparisons; socialcommunication	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kedia et al., 2013-Main effect of judgment: Height > control condition; socialcommunication	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kedia et al., 2013-Main effect of target: Dogs > Women; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kedia et al., 2013-Main effect of target: Women > dogs; socialcommunication	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Klasen et al., 2011-(C Neutral > Incongruent)  ∩ (C Angry > Incongruent)  ∩ (C Happy > Incongruent) corrected; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Klasen et al., 2011-(C Neutral > Incongruent)  ∩ (C Angry > Incongruent)  ∩ (C Happy > Incongruent) uncorrected; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Klasen et al., 2011-(CAV >  A) ∩ (CAV >  V) ∩ (ICAV >  A) ∩ (ICAV >  V); socialcommunication	0	1	1	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Klasen et al., 2011-(CAV >  A) ∩ (CAV >  V); socialcommunication	0	1	1	0	0	0	0	0	0	2	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Klasen et al., 2011-(ICAV >  A) ∩ (ICAV >  V); socialcommunication	0	1	1	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Klasen et al., 2011-CAV > ICAV; socialcommunication	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Klasen et al., 2011-Congruent happy AV > Incongruent; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Klasen et al., 2011-ICAV > CAV; socialcommunication	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kohn et al., 2011-cartoons > neutral pictures; socialcommunication	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Koppe et al., 2015-FAC-Angry > Control; socialcommunication	1	3	2	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Koppe et al., 2015-FAC-Angry > FAC-Happy; socialcommunication	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Koppe et al., 2015-FAC-Happy > Control; socialcommunication	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Koppe et al., 2015-[constant ISI > variable ISI] - FAC-Angry; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Koppe et al., 2015-[constant ISI > variable ISI] - FAC-happy; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Koppe et al., 2015-[constant ISI > variable ISI] - control task; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Koppe et al., 2015-[variable ISI > constant ISI] - FAC-angry; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Koppe et al., 2015-[variable ISI > constant ISI] - control task; socialcommunication	1	1	0	1	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Labek et al., 2016-attachment > neutral; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Labek et al., 2016-interaction of attachment > neutral with dyadic > monadic; socialcommunication	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Labek et al., 2016-interaction of dyadic scenes with attachment > neutral; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lazar et al., 2014-house + faces; socialcommunication	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Liu et al., 2016-Disgust > Neutral; socialcommunication	1	3	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Liu et al., 2016-Disgusted out-group-neutral out-group > Disgusted In-group-neutral in-group; socialcommunication	0	0	0	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Liu et al., 2016-Out-group > In-group; socialcommunication	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Lotze et al., 2006-Retaliation > Watching opponent; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lotze et al., 2006-Retaliation interaction with low CU > High CU; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lotze et al., 2006-Watching opponent > Retaliation (conjunction); socialcommunication	1	1	1	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Lotze et al., 2006-Watching opponent > Retaliation; socialcommunication	0	2	1	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Love et al., 2011-A > Fix; socialcommunication	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Love et al., 2011-A > V; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Love et al., 2011-AV > Fix; socialcommunication	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Love et al., 2011-V > A; socialcommunication	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0
+Love et al., 2011-V > Fix; socialcommunication	0	1	1	1	0	0	0	0	0	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Luo et al., 2013-painful > non-painful stimuli; socialcommunication	1	1	1	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mainieri et al., 2013-(IMIO > CTO) ∩ (IMIE > CTE); socialcommunication	0	1	0	2	1	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mainieri et al., 2013-(S-IMIO>NS-IMIO) > (S-CTO > NS-CTO); socialcommunication	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mainieri et al., 2013-[(S-IMIO > NS-IMIO) > (S-CTO > NS-CTO)] > [(S-IMIE > NS-IMIE) > (S-CTE > NS- CTE)]; socialcommunication	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0
+Mainieri et al., 2013-[(S-IMIO > S-CTO) + (S-IMIE > S-CTE)] > [(NS-IMIO > NS-CTO) + (NS-IMIE > NS-CTE)]; socialcommunication	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mainieri et al., 2013-[S (IMIO + CTO + IMIE + CTE) > NS (IMIO + CTO + IMIE + CTE)]; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mano et al., 2011-Retrieval of social context > Retrieval of self-generation; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mattan et al., 2018-EMS (covariate) + IMS x Perceived status (High vs. Low) (negative correlation with status); socialcommunication	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mattan et al., 2018-IMS x Perceived status (High vs. Low) (negative correlation with status; excluded EMS covariate); socialcommunication	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mazzola et al., 2016-Angry > Joyful session; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mazzola et al., 2016-Faces > Grasping; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mazzola et al., 2016-Grasping > Faces; socialcommunication	0	1	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mazzola et al., 2016-Interaction analysis between grasping and neutral grasping; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mende-Siedlecki et al., 2016-First three trials > last two trials; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mende-Siedlecki et al., 2016-Last two trials > first three trials; socialcommunication	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mende-Siedlecki et al., 2016-Merely Inconsistent & Control >Positive-to-Negative & Negative-to-Positive; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mende-Siedlecki et al., 2016-Negative-to-Positive, Merely Inconsistent, & Control > Positive-to-Negative; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mende-Siedlecki et al., 2016-Positive-to-Negative & Negative-to-Positive > Merely Inconsistent & Control; socialcommunication	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mende-Siedlecki et al., 2016-Positive-to-Negative, Negative-to-Positive, & Merely Inconsistent > Control; socialcommunication	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Montgomery et al., 2008-Facial expressions interaction with view > baseline; socialcommunication	1	3	3	2	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Montgomery et al., 2008-facial expressions > social hand gestures; socialcommunication	1	1	2	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Montgomery et al., 2008-social hand gestures > facial expressions; socialcommunication	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Montgomery et al., 2008-social hand gestures interaction with (imitate)> baseline same for social hand gestures interaction with (produce)> baseline; socialcommunication	0	3	3	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Morawetz et al., 2016-Decrease > Observe-angry; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Morawetz et al., 2016-Increase + Decrease > Observe-angry; socialcommunication	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Morawetz et al., 2016-Increase > Observe-angry; socialcommunication	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Morawetz et al., 2016-Observe-angry > Decrease; socialcommunication	1	2	1	2	0	0	2	1	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Morawetz et al., 2016-Observe-angry > Increase + Decrease; socialcommunication	2	1	1	4	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Morawetz et al., 2016-Observe-angry > Increase; socialcommunication	1	0	1	3	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Morawetz et al., 2016-Observe-angry > Observe-neutral; socialcommunication	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Morawetz et al., 2016-Observe-neutral > Observe-angry; socialcommunication	1	3	2	2	1	0	2	1	0	3	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Nagals., 2015-(IC > NG ∩ ego > allo) (conjunction analysis); socialcommunication	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nagals., 2015-(IC-allo>NG-allo)>(IC-ego>NG-ego); socialcommunication	3	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nagals., 2015-(IC-ego>IC-allo)> (NG-ego>NG-allo); socialcommunication	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nagals., 2015-IC > NG; socialcommunication	0	1	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nagals., 2015-allo > ego; socialcommunication	0	2	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nagals., 2015-ego > allo; socialcommunication	0	0	0	0	2	0	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Neukel et al., 2019-CON: own>unknown masked with group×(own>unknown); socialcommunication	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pierno et al., 2008-Interaction [( Individual gaze + Social No-gaze) - (Individual No-gaze + Social gaze)];socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pierno et al., 2008-[( Social gaze + Individual gaze) - ( Social No-gaze + Individual No-gaze)]; socialcommunication	0	1	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pierno et al., 2008-[(Individual gaze + Social No-gaze) - (Individual No-gaze + Social Gaze); socialcommunication	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Platek et al., 2005-distracter > null; socialcommunication	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Platek et al., 2005-familiar face > distracter; socialcommunication	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Platek et al., 2005-familiar face > self face; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Platek et al., 2005-self face > distracter; socialcommunication	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Platek et al., 2005-self face > famililar face; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Podrebarac et al., 2013-Different Gender > Same Gender; socialcommunication	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rauchbauer et al., 2015-Angry (Incongruent > Congruent) masked inclusively with Angry (Incongruent > Congruent) > Happy (Incongruent > Congruent); socialcommunication	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rauchbauer et al., 2015-Happy (Incongruent > Congruent) masked inclusively with Happy (Incongruent > Congruent) > Angry (Incongruent > Congruent); socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rauchbauer et al., 2015-In-group (Incongruent > Congruent) masked inclusively with In-group (Incongruent > Congruent) > Out-group (Incongruent > Congruent); socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rauchbauer et al., 2015-Incongruent > Congruent; socialcommunication	1	0	1	2	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rauchbauer et al., 2015-Out-group (Incongruent > Congruent) masked inclusively with Out-group (Incongruent > Congruent) > In-group (Incongruent > Congruent);socialcommunication	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Redcay et al., 2010a-Live > Recorded; socialcommunication	2	1	2	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Redcay et al., 2010a-Recorded > Live; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Redcay et al., 2010b-JA > SA; socialcommunication	0	3	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rice et al., 2016-Live > Social; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Rice et al., 2016-Social > Live; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Rice et al., 2016-Social > Standard; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Saarela et al, 2008-NOISE1 + NOISE2 - REST; socialcommunication	0	1	1	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Saarela et al. 2008-STEP1 + STEP2 - REST; socialcommunication	0	1	1	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Saarela et al., 2008-(STEP2 - NOISE2) - (STEP1 - NOISE1); socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Saarela et al., 2008-STEP1 - NOISE1; socialcommunication	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Saarela et al., 2008-STEP1 - STEP1; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Saarela et al., 2008-STEP2 - NOISE2; socialcommunication	0	1	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Saggar et al., 2014-Sociability x Actor-orientation; socialcommunication	0	4	3	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Saggar et al., 2014-Sociability x Face-visibility; socialcommunication	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Saggar et al., 2014-actor’s face-blurred > actor’s face-visible; socialcommunication	0	1	2	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	2	0	0	0	0	0	0	0	0
+Saggar et al., 2014-actor’s face-visible > actor’s face-blurred; socialcommunication	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Saggar et al., 2014-oriented away > oriented towards; socialcommunication	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Saggar et al., 2014-oriented towards > directed away; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Saggar et al., 2014-social > nonsocial gestures; socialcommunication	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sander et al., 2005-Anger > Neutral (AN + NA) > (NN); socialcommunication	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Sander et al., 2005-Anger to be attended > to be ignored; socialcommunication	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Sander et al., 2005-Anger to-be-attended > Neutral; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sander et al., 2005-Anger to-be-ignored > Neutral; socialcommunication	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sander et al., 2005-anger to be ignored > to be attended; socialcommunication	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sander et al., 2005-spatial attention to left ear > right ear; socialcommunication	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sander et al., 2005-spatial attention to right ear> left ear; socialcommunication	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sassa et al., 2007-Communication > Description; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sassa et al., 2007-Communication > control; socialcommunication	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sassa et al., 2007-Description > control; socialcommunication	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sassa et al., 2007-Familiar communication > unfamiliar communication; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sato et al., 2019-(expression > mosaic) × laterality; socialcommunication	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sato et al., 2019-expression > mosaic; socialcommunication	0	4	5	3	0	0	0	0	0	4	1	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Scheuerecker et al., 2007-Explicit triplets > Implicit triplet; socialcommunication	0	1	1	1	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Scheuerecker et al., 2007-Explicit triplets > control stimuli; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Scheuerecker et al., 2007-Implicit triplets > control stimuli; socialcommunication	1	1	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Schilbach et al., 2006-ARB > SOC; socialcommunication	0	2	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Schilbach et al., 2006-ME > OTHER; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Schilbach et al., 2006-OTHER > ME; socialcommunication	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Schilbach et al., 2006-SOC > ARB; socialcommunication	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Schilbach et al., 2006-SOC x ME>Other; socialcommunication	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Schilbach et al., 2006-SOC x OTHER> ME; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Schilbach et al., 2010-INC > CON; socialcommunication	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Schilbach et al., 2010-INC X SOC; socialcommunication	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Schilbach et al., 2010-OBJ > SOC; socialcommunication	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Schilbach et al., 2010-SOC > OBJ; socialcommunication	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Schulte-Rüther et al., 2008-Other > high-level baseline; socialcommunication	2	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Schulte-Rüther et al., 2008-Self > high-level baseline; socialcommunication	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Seitz et al., 2008-Emotional Faces > Control(Scrambled Images); socialcommunication	1	1	1	2	2	0	1	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Seitz et al., 2008-Perception of Emotion > Control (Object Detection); socialcommunication	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Seitz et al., 2008-Shared Emotion > Control (Object Detection); socialcommunication	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Semrud-Clikeman et al., 2011-negative - positive stimuli; socialcommunication	0	0	0	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Shultz et al., 2012-Communicative > Noncommunicative; socialcommunication	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Singer et al., 2004-Affective > Neutral faces; socialcommunication	2	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Singer et al., 2004-Cooperator > Neutral faces; socialcommunication	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Singer et al., 2004-Defector > Neutral faces; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Smith et al., 2017-Social Judgment > Perceptual Judgment; socialcommunication	1	1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sperduti et al., 2014-being imitated > rest; socialcommunication	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Sperduti et al., 2014-imitating > rest; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Sperduti et al., 2014-observation > rest; socialcommunication	0	1	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Spunt et al., 2013-Conjunction of all Conditions > Fixation Baseline; socialcommunication	0	3	2	1	1	0	1	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Spunt et al., 2013-Conjunction of low-load/how-goal condition > low-load/observe-goal condition and high-load/how-goal condition > high-load/observe-goal condition; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Spunt et al., 2013-Load x Goal > Fixation Baseline; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Spunt et al., 2013-Low-load/why-goal condition compared with high-load/why-goal condition, low-load/how-goal condition, and high-load/how-goal condition combined; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Spunt et al., 2013-Modulation by load for any of the four goals; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Spunt et al., 2015-Why > How (All stimuli); socialcommunication	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Spunt et al., 2015-Why > How (social stimuli); socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Spunt et al., 2019, HumanEmotion+Expression > PrimateEmotion+Expression & HumanEmotion+Expression > DogEmotion+Expression-socialcommunication	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Spunt et al., 2019, HumanEmotion>Expression & PrimateEmotion>Expression & DogEmotion>Expression-socialcommunication	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Spunt et al., 2019, HumanExpression>Emotion & PrimateExpression>Emotion & DogExpression>Emotion-socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Spunt et al., 2019, PrimateEmotion+Expression > HumanEmotion+Expression & DogEmotion+Expression> HumanEmotion+Expression-socialcommunication	0	1	1	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Spunt et al., 2019, PrimateFace > HumanFace & DogFace > HumanFace-socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sugiura et al., 2008-Face (simple effect) [Ff–Sf]; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sugiura et al., 2008-Face (simple effect) [Sf+Ff–2Cf masked by Sf–Cf, and Ff–Cf]; socialcommunication	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sugiura et al., 2008-Face (simple effect) [Sf–Ff]; socialcommunication	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sugiura et al., 2008-Face specific (interaction) [(Sf+Ff–2Cf)–(Sn+Fn–2Cn) masked by Sf+Ff–2Cf]; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sugiura et al., 2008-Face specific (interaction) [(Sf–Ff)–(Sn–Fn) masked by Sf–Ff]; socialcommunication	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sugiura et al., 2008-Main effect [(Ff+Fn)–(Sf+Sn) masked by Ff–Sf and Fn–Sn]; socialcommunication	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sugiura et al., 2008-Main effect [(Sf+Ff+Sn+Fn)–2(Cf+Cn) masked by Sf–Cf, Ff–Cf, Sn–Cn, and Fn–Cn]; socialcommunication	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sugiura et al., 2008-Name (simple effect) [Sn+Fn–2Cn masked by Sn–Cn, and Fn–Cn]; socialcommunication	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Sugiura et al., 2010-First (P1–F1); socialcommunication	0	2	1	3	0	0	0	0	0	1	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0
+Sugiura et al., 2010-Second (P2–F2); socialcommunication	0	0	0	2	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sumiya et al., 2017-SELFGroup−SELFNo > OTHER Group–OTHERNo; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sumiya et al., 2017-group > no laughter; socialcommunication	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Sumiya et al., 2017-group > single laughter; socialcommunication	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Sumiya et al., 2017-self > other; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sumiya et al., 2017-single > no laughter; socialcommunication	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Suslow et al., 2009-Coorelation -- attachment avoidance with brain responses to masked sad faces; socialcommunication	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Suslow et al., 2009-Masked sad faces > neutral faces; socialcommunication	1	1	1	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Suslow et al., 2009-Negative coorelation -- attachment avoidance with brain responsed to masked sad faces; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Suslow et al., 2009-masked happy faces > neutral faces; socialcommunication	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Suslow et al., 2017-masked disgust > masked neutral; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Suslow et al., 2017-masked happy faces > masked neutral; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Suslow et al., 2017-unmasked disgust > unmasked neutral; socialcommunication	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Takahashi et al., 2004-Embarrassment > Neutral; socialcommunication	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0
+Takahashi et al., 2004-Embarrassment > guilt; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Takahashi et al., 2004-G > N masked E > N; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0
+Takahashi et al., 2004-Guilt > Embarrassment; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Takahashi et al., 2004-Guilt > Neutral; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+Thornton et al., 2013-interaction between sociality and working memory load; socialcommunication	0	0	0	2	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Thornton et al., 2013-sociality > working memory load; socialcommunication	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thornton et al., 2013-working memory load > sociality; socialcommunication	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Todorov et al., 2007-face associated with behavior > novel faces; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Todorov et al., 2007-faces associated with aggressive behaviors > faces associated with disgusting behaviors; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Todorov et al., 2007-faces associated with disgusting behaviors > faces associated with aggressive behaviors; socialcommunication	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Todorov et al., 2007-faces associated with nice behaviors > faces associated with neutral behaviors; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Toki et al, 2013-Main effect of face type; socialcommunication	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Toki et al, 2013-Main effect of task; socialcommunication	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Toki et al, 2013-Task by face type interaction; socialcommunication	3	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tomova et al., 2017, (INJECTION > QTIP): STRESS > CONTROL \ (BIOPSY > QTIP): STRESS > CONTROL-socialcommunication	0	0	0	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Uddin et al., 2005-Other - Self; socialcommunication	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Uddin et al., 2005-Self - Other; socialcommunication	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ueda et al., 2017-Incongruent > Congruent; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Vanlangendonck et al., 2018-Arbitrary > Collaborative; socialcommunication	2	1	2	4	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0
+Vanlangendonck et al., 2018-Arbitrary > Individual; socialcommunication	1	0	0	2	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0
+Vanlangendonck et al., 2018-Collaborative > Arbitrary; socialcommunication	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Vanlangendonck et al., 2018-Collaborative > Individual; socialcommunication	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Vanlangendonck et al., 2018-Individual > Arbitrary; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Vanlangendonck et al., 2018-Individual > Collaborative; socialcommunication	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Von Der Heide et al., 2013-Faces > Landmarks; socialcommunication	0	2	2	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Von Der Heide et al., 2013-Familiar faces > Novel faces; socialcommunication	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Von Der Heide et al., 2013-Famous faces > Novel faces; socialcommunication	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Von Der Heide et al., 2013-Famous faces > Novel landmarks; socialcommunication	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Von Der Heide et al., 2013-Famous landmarks > Novel landmarks; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Von Der Heide et al., 2013-Famous ∩ Familiar faces; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Von Der Heide et al., 2013-Landmarks > Faces; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Von Der Heide et al., 2013-Novel faces > Famous faces; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Von Der Heide et al., 2013-Novel faces > Novel landmarks; socialcommunication	0	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Von Der Heide et al., 2013-Novel landmarks > Famous faces; socialcommunication	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Von Der Heide et al., 2013-Novel landmarks > Famous landmarks; socialcommunication	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Von Der Heide et al., 2013-Novel landmarks > Novel faces; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Wagner et al., 2015-Shared_emo > unshared_emo (masked with interaction sharing 􏰀 emotion); socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Wagner et al., 2015-Shared_emo > unshared_emo; socialcommunication	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Wang et al., 2011-Eye contact effect Simple effect: Direct-Cong > Averted-Cong; socialcommunication	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wang et al., 2011-Hand movement task Cong > Catch; socialcommunication	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wang et al., 2011-Hand movement task Incong > Catch; socialcommunication	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wang et al., 2011-Inhibition of mimicry Main effect: Incong > Cong; socialcommunication	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Wang et al., 2011-Inhibition of mimicry Simple effect: Averted-Incong > averted-Cong; socialcommunication	0	1	0	2	0	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wang et al., 2011-Interaction (Direct-Cong > Direct-Incong) > (Averted-Cong > Averted-Incong); socialcommunication	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wildgruber et al., 2013-CAT > COU; socialcommunication	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wildgruber et al., 2013-CSL > TIC; socialcommunication	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Wildgruber et al., 2013-TIC > CSL; socialcommunication	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Winston et al., 2002-Explicit > implicit; socialcommunication	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Winston et al., 2002-Iimplicit > Explicit; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Winston et al., 2002-Trustworthy > Untrustworthy; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Winston et al., 2002-Untrustworthy > Trustworthy; socialcommunication	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wolf et al., 2018-non-verbal > verbal interaction types; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Wolf et al., 2018-verbal > non-verbal interaction types; socialcommunication	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Zahn et al., 2007-Positive > negative social concepts; socialcommunication	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Zahn et al., 2007-Social > animal masked by social > fixation; socialcommunication	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Zerubavel et al., 2015-target popularity during face-viewing task; socialcommunication	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Zhang et al., 2018-Emotion > Modality; socialcommunication	3	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Zhang et al., 2018-Modality > Emotion; socialcommunication	0	6	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Zhang et al., 2018-Modality X Emotion; socialcommunication	0	10	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ziaei et al., 2016-Angry averted gaze > angry direct gaze; socialcommunication	1	1	2	3	1	0	2	1	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0
+Ziaei et al., 2016-Happy direct + averted gaze; socialcommunication	0	0	1	0	0	1	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ziaei et al., 2016-angry direct gaze > angry averted gaze; socialcommunication	1	0	0	2	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

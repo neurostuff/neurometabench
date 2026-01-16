@@ -1,0 +1,6047 @@
+{
+  "id": "nimads_15846822_nback-Owen-ALL-Updated",
+  "name": "n-back - nback-Owen-ALL-Updated",
+  "studies": [
+    {
+      "id": "Awh E, 1996",
+      "name": "Awh E, 1996",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Subject Group 2",
+          "name": "Subject Group 2",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -33.0,
+                -46.0,
+                38.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                28.0,
+                -60.0,
+                -38.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                3.0,
+                -62.0,
+                -25.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                3.0,
+                -17.0,
+                2.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                26.0,
+                3.0,
+                50.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                26.0,
+                -58.0,
+                45.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -3.0,
+                14.0,
+                43.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -28.0,
+                1.0,
+                50.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -17.0,
+                -60.0,
+                43.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -3.0,
+                12.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                12.0,
+                -64.0,
+                47.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                1.0,
+                -64.0,
+                -25.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                24.0,
+                3.0,
+                52.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                26.0,
+                -55.0,
+                50.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                12.0,
+                -64.0,
+                47.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -6.0,
+                3.0,
+                54.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -26.0,
+                -67.0,
+                -50.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -28.0,
+                1.0,
+                52.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -42.0,
+                17.0,
+                22.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -17.0,
+                -60.0,
+                45.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                33.0,
+                -60.0,
+                -25.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              9
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Braver T S, 1997",
+      "name": "Braver T S, 1997",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Brain Areas Showing Monotonic Increases in Activity as a Function of Memory Load",
+          "name": "Brain Areas Showing Monotonic Increases in Activity as a Function of Memory Load",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -32.0,
+                20.0,
+                8.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                43.0,
+                6.0,
+                31.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -47.0,
+                6.0,
+                15.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                37.0,
+                37.0,
+                33.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -42.0,
+                23.0,
+                39.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                18.0,
+                1.0,
+                23.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -30.0,
+                -6.0,
+                57.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -26.0,
+                -60.0,
+                45.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                32.0,
+                -56.0,
+                43.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -39.0,
+                -1.0,
+                29.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                13.0,
+                8.0,
+                54.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -47.0,
+                -2.0,
+                43.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              8
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Braver T S, 2001",
+      "name": "Braver T S, 2001",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Working Memory",
+          "name": "Working Memory",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                37.0,
+                30.0,
+                36.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                37.0,
+                48.0,
+                15.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -43.0,
+                24.0,
+                27.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                25.0,
+                9.0,
+                45.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              28
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Callicott J H, 1999",
+      "name": "Callicott J H, 1999",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Significant Increases in Activation as a Function of Working Memory Load",
+          "name": "Significant Increases in Activation as a Function of Working Memory Load",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -4.0,
+                -8.0,
+                68.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -36.0,
+                -58.0,
+                52.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                4.0,
+                -60.0,
+                60.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                44.0,
+                -28.0,
+                32.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                8.0,
+                2.0,
+                8.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                2.0,
+                -18.0,
+                12.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                16.0,
+                -4.0,
+                12.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                0.0,
+                0.0,
+                64.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -8.0,
+                -2.0,
+                64.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -48.0,
+                24.0,
+                20.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -50.0,
+                10.0,
+                36.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                32.0,
+                4.0,
+                52.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                20.0,
+                8.0,
+                56.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                28.0,
+                14.0,
+                48.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                30.0,
+                32.0,
+                0.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                36.0,
+                30.0,
+                16.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                42.0,
+                26.0,
+                20.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -32.0,
+                0.0,
+                56.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              9
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Carlson S, 1998",
+      "name": "Carlson S, 1998",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Two-Back vs. Zero-Back Carlson S, 1998: One-Back vs. Zero-Back Carlson S, 1998: Two-Back vs. One-Back",
+          "name": "Two-Back vs. Zero-Back Carlson S, 1998: One-Back vs. Zero-Back Carlson S, 1998: Two-Back vs. One-Back",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -15.0,
+                -63.0,
+                42.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                53.0,
+                24.0,
+                5.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -11.0,
+                23.0,
+                53.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                11.0,
+                10.0,
+                56.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -26.0,
+                7.0,
+                51.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                24.0,
+                12.0,
+                50.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -34.0,
+                40.0,
+                32.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                8.0,
+                32.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -8.0,
+                -62.0,
+                28.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -8.0,
+                52.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -50.0,
+                18.0,
+                24.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -14.0,
+                -79.0,
+                11.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                27.0,
+                -82.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -55.0,
+                -44.0,
+                51.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -31.0,
+                -59.0,
+                43.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                40.0,
+                34.0,
+                21.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                12.0,
+                54.0,
+                1.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                8.0,
+                -61.0,
+                45.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                50.0,
+                0.0,
+                46.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -44.0,
+                13.0,
+                1.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                28.0,
+                12.0,
+                10.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -4.0,
+                5.0,
+                43.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                5.0,
+                29.0,
+                25.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -27.0,
+                -79.0,
+                23.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                34.0,
+                -77.0,
+                12.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -13.0,
+                56.0,
+                17.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -43.0,
+                -55.0,
+                34.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -37.0,
+                -60.0,
+                38.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                29.0,
+                -57.0,
+                36.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -19.0,
+                -61.0,
+                55.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                24.0,
+                -59.0,
+                51.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -8.0,
+                -59.0,
+                53.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -36.0,
+                -8.0,
+                50.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                42.0,
+                -48.0,
+                37.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                18.0,
+                -66.0,
+                56.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                2.0,
+                14.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                2.0,
+                -52.0,
+                54.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                8.0,
+                -58.0,
+                65.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -4.0,
+                -64.0,
+                45.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                3.0,
+                -68.0,
+                46.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -44.0,
+                -4.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                37.0,
+                -6.0,
+                49.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -26.0,
+                49.0,
+                11.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                34.0,
+                53.0,
+                10.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -43.0,
+                17.0,
+                27.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                37.0,
+                14.0,
+                29.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -9.0,
+                10.0,
+                55.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                2.0,
+                10.0,
+                54.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -7.0,
+                -57.0,
+                54.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                18.0,
+                3.0,
+                58.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -37.0,
+                32.0,
+                32.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                38.0,
+                23.0,
+                31.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -13.0,
+                -63.0,
+                57.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                29.0,
+                -59.0,
+                45.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -23.0,
+                14.0,
+                51.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                41.0,
+                -51.0,
+                33.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -26.0,
+                54.0,
+                3.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                12.0,
+                50.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -38.0,
+                34.0,
+                -7.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -8.0,
+                -5.0,
+                55.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -32.0,
+                -4.0,
+                62.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -36.0,
+                11.0,
+                6.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                34.0,
+                17.0,
+                3.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                14.0,
+                4.0,
+                56.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                6.0,
+                -51.0,
+                29.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -3.0,
+                11.0,
+                44.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -22.0,
+                -75.0,
+                22.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                25.0,
+                -74.0,
+                27.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -45.0,
+                -54.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -5.0,
+                -50.0,
+                23.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -35.0,
+                -58.0,
+                45.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              7
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Casey B J, 1998",
+      "name": "Casey B J, 1998",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Boston Site",
+          "name": "Boston Site",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                23.0,
+                -27.0,
+                57.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -5.0,
+                -41.0,
+                56.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                39.0,
+                -40.0,
+                60.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -19.0,
+                -56.0,
+                54.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                46.0,
+                -32.0,
+                43.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -48.0,
+                -29.0,
+                48.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -1.0,
+                15.0,
+                51.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -42.0,
+                29.0,
+                17.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                29.0,
+                11.0,
+                55.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                42.0,
+                18.0,
+                48.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                39.0,
+                38.0,
+                25.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -32.0,
+                43.0,
+                13.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -36.0,
+                18.0,
+                1.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              5
+            ]
+          }
+        },
+        {
+          "id": "Madison Site",
+          "name": "Madison Site",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                11.0,
+                -51.0,
+                45.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                2.0,
+                13.0,
+                42.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -2.0,
+                -43.0,
+                24.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                31.0,
+                3.0,
+                46.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                37.0,
+                38.0,
+                21.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -26.0,
+                -2.0,
+                46.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              5
+            ]
+          }
+        },
+        {
+          "id": "Minnesota Site",
+          "name": "Minnesota Site",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -47.0,
+                -34.0,
+                -18.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -7.0,
+                -74.0,
+                32.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                17.0,
+                -52.0,
+                -15.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -30.0,
+                -60.0,
+                -35.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                49.0,
+                -60.0,
+                29.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                10.0,
+                -47.0,
+                62.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -15.0,
+                -40.0,
+                3.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -23.0,
+                -39.0,
+                76.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                17.0,
+                -34.0,
+                6.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                1.0,
+                -33.0,
+                29.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                17.0,
+                -84.0,
+                15.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -7.0,
+                -26.0,
+                69.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -7.0,
+                63.0,
+                15.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                24.0,
+                36.0,
+                33.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -23.0,
+                31.0,
+                47.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                9.0,
+                28.0,
+                -23.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -63.0,
+                -26.0,
+                -16.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                25.0,
+                19.0,
+                41.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                17.0,
+                -10.0,
+                -5.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -39.0,
+                -13.0,
+                14.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -47.0,
+                -20.0,
+                -34.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -23.0,
+                19.0,
+                34.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              6
+            ]
+          }
+        },
+        {
+          "id": "Pittsburgh Site",
+          "name": "Pittsburgh Site",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                44.0,
+                -53.0,
+                35.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                25.0,
+                -86.0,
+                -15.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -2.0,
+                -88.0,
+                19.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -36.0,
+                -78.0,
+                11.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -29.0,
+                -76.0,
+                32.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                55.0,
+                -52.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                25.0,
+                -60.0,
+                54.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -36.0,
+                -58.0,
+                59.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -57.0,
+                -51.0,
+                34.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                4.0,
+                -50.0,
+                10.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                29.0,
+                10.0,
+                8.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -7.0,
+                -52.0,
+                58.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                30.0,
+                -6.0,
+                43.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -42.0,
+                6.0,
+                5.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                36.0,
+                38.0,
+                27.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -32.0,
+                15.0,
+                56.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                29.0,
+                -5.0,
+                49.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -9.0,
+                24.0,
+                61.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                10.0,
+                40.0,
+                50.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -3.0,
+                50.0,
+                0.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                12.0,
+                -48.0,
+                66.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              8
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Cohen J D, 1994",
+      "name": "Cohen J D, 1994",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Memory - Control",
+          "name": "Memory - Control",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                3.0,
+                22.0,
+                15.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                26.0,
+                41.0,
+                -11.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -24.0,
+                27.0,
+                -11.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -3.0,
+                39.0,
+                13.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                31.0,
+                42.0,
+                22.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -36.0,
+                33.0,
+                13.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                39.0,
+                39.0,
+                14.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -29.0,
+                38.0,
+                20.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                17.0,
+                49.0,
+                25.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              12
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Cohen J D, 1997",
+      "name": "Cohen J D, 1997",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Load",
+          "name": "Load",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                44.0,
+                -55.0,
+                43.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -40.0,
+                -48.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                32.0,
+                6.0,
+                58.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -35.0,
+                2.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                12.0,
+                -61.0,
+                53.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -41.0,
+                8.0,
+                16.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                7.0,
+                29.0,
+                37.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                37.0,
+                32.0,
+                30.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                45.0,
+                13.0,
+                26.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              10
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Dade L A, 2001",
+      "name": "Dade L A, 2001",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Odor Working Memory - Baseline Dade L A, 2001: Face Working Memory - Baseline",
+          "name": "Odor Working Memory - Baseline Dade L A, 2001: Face Working Memory - Baseline",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -8.96,
+                -0.21,
+                59.61
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -43.89,
+                38.23,
+                -3.61
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -30.94,
+                23.82,
+                9.83
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                6.14,
+                13.72,
+                50.07
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                34.32,
+                27.33,
+                43.36
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -0.36,
+                -29.45,
+                23.07
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                9.11,
+                24.4,
+                34.71
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                13.91,
+                33.84,
+                22.89
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                14.5,
+                5.71,
+                54.94
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -13.78,
+                -38.99,
+                60.06
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -31.49,
+                -29.03,
+                55.24
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -6.22,
+                -30.07,
+                54.55
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -59.09,
+                -31.42,
+                -6.65
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                60.69,
+                -33.91,
+                -8.17
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                4.97,
+                -68.74,
+                40.75
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -6.25,
+                -64.98,
+                41.82
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                35.86,
+                -57.9,
+                44.68
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -40.54,
+                15.06,
+                37.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                27.54,
+                -3.13,
+                57.99
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -37.84,
+                0.29,
+                43.97
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -38.92,
+                -48.49,
+                39.16
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                30.95,
+                51.15,
+                6.42
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -27.22,
+                43.67,
+                21.39
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -29.0,
+                48.16,
+                12.7
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                25.32,
+                51.98,
+                8.22
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -26.1,
+                28.2,
+                -9.62
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                29.16,
+                41.05,
+                -8.85
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -38.67,
+                7.75,
+                33.73
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                35.32,
+                29.85,
+                35.45
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -12.39,
+                26.57,
+                32.83
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -15.44,
+                0.49,
+                51.47
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -48.6,
+                31.54,
+                -2.39
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                18.24,
+                5.68,
+                54.98
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                23.79,
+                -9.61,
+                56.53
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -29.6,
+                -27.09,
+                54.51
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -27.23,
+                15.27,
+                10.09
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -42.73,
+                -55.48,
+                43.97
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -27.75,
+                -58.18,
+                41.22
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                38.69,
+                -55.9,
+                43.07
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                5.88,
+                -69.98,
+                44.27
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -33.67,
+                46.54,
+                9.81
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -1.4,
+                10.44,
+                56.04
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              12
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Druzgal T J, 2001",
+      "name": "Druzgal T J, 2001",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Working Memory Load",
+          "name": "Working Memory Load",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                26.85,
+                16.23,
+                1.76
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -38.8,
+                -51.56,
+                -23.79
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -4.57,
+                -31.68,
+                -16.82
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -46.34,
+                -59.85,
+                -15.69
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -32.3,
+                23.49,
+                -3.05
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                40.38,
+                17.27,
+                29.12
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -33.09,
+                -78.25,
+                27.83
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -39.39,
+                -12.07,
+                34.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -5.23,
+                4.58,
+                45.16
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                25.99,
+                -69.61,
+                43.16
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                29.78,
+                -10.45,
+                53.34
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -53.2,
+                -4.11,
+                30.01
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              9
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Hautzel H, 2002",
+      "name": "Hautzel H, 2002",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Conjunction Analysis Hautzel H, 2002: Real Object WM vs. Spatial WM Hautzel H, 2002: Spatial WM vs. Real Object WM Hautzel H, 2002: Spatial WM vs. Shape WM Hautzel H, 2002: Spatial WM vs. Verbal WM Hautzel H, 2002: Verbal WM vs. Spatial WM",
+          "name": "Conjunction Analysis Hautzel H, 2002: Real Object WM vs. Spatial WM Hautzel H, 2002: Spatial WM vs. Real Object WM Hautzel H, 2002: Spatial WM vs. Shape WM Hautzel H, 2002: Spatial WM vs. Verbal WM Hautzel H, 2002: Verbal WM vs. Spatial WM",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                9.23,
+                -62.95,
+                52.52
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -19.68,
+                -61.29,
+                -1.86
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -23.21,
+                -67.33,
+                -16.91
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                13.64,
+                -57.74,
+                -0.96
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                21.2,
+                -67.56,
+                -16.18
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -20.38,
+                -62.79,
+                52.03
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                9.23,
+                -62.95,
+                52.52
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                39.4,
+                -62.65,
+                9.82
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                9.93,
+                -61.45,
+                -1.38
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                40.5,
+                -50.43,
+                0.18
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -5.47,
+                -58.45,
+                45.49
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -16.45,
+                -83.08,
+                28.56
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                28.02,
+                -79.24,
+                26.07
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                39.39,
+                -66.37,
+                9.47
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                9.86,
+                -87.53,
+                -3.85
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -15.92,
+                -57.24,
+                -5.02
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -5.14,
+                -56.01,
+                20.5
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -13.02,
+                -59.45,
+                56.08
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -27.01,
+                -86.29,
+                -15.17
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                21.02,
+                -87.24,
+                -7.24
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -45.75,
+                3.48,
+                29.06
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -45.6,
+                26.53,
+                24.04
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -34.18,
+                21.46,
+                -1.47
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                24.18,
+                -7.13,
+                58.06
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                28.69,
+                53.63,
+                13.45
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                28.79,
+                21.48,
+                -4.01
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -34.19,
+                54.3,
+                8.84
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                24.34,
+                1.37,
+                48.06
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -42.32,
+                -46.03,
+                35.23
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                5.65,
+                -69.33,
+                41.04
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                5.65,
+                -69.33,
+                41.04
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                6.52,
+                -73.89,
+                -27.84
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -11.99,
+                -73.8,
+                -28.14
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -33.92,
+                -57.04,
+                -44.94
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                28.86,
+                -58.41,
+                -33.2
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -1.4,
+                13.73,
+                37.99
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              17
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Honey G D, 1999",
+      "name": "Honey G D, 1999",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Normals",
+          "name": "Normals",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -40.0,
+                -14.0,
+                48.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -40.0,
+                -69.0,
+                -13.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                32.0,
+                -6.0,
+                53.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                17.0,
+                -75.0,
+                -13.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -43.0,
+                3.0,
+                42.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -32.0,
+                -67.0,
+                -18.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -35.0,
+                19.0,
+                9.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                35.0,
+                44.0,
+                15.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -43.0,
+                3.0,
+                37.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                32.0,
+                -64.0,
+                37.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -38.0,
+                -53.0,
+                37.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -3.0,
+                8.0,
+                48.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              10
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Jonides J, 1997",
+      "name": "Jonides J, 1997",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "3-back minus Control, Activations Jonides J, 1997: 2-back minus Control, Activations Jonides J, 1997: 1-back minus Control, Activations Jonides J, 1997: 0-back minus Control, Activations",
+          "name": "3-back minus Control, Activations Jonides J, 1997: 2-back minus Control, Activations Jonides J, 1997: 1-back minus Control, Activations Jonides J, 1997: 0-back minus Control, Activations",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                12.0,
+                -15.0,
+                7.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                42.0,
+                50.0,
+                22.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                44.0,
+                30.0,
+                29.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                30.0,
+                -60.0,
+                38.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -37.0,
+                -49.0,
+                -45.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                28.0,
+                1.0,
+                54.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -39.0,
+                -55.0,
+                -18.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -39.0,
+                -71.0,
+                -14.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -37.0,
+                1.0,
+                27.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                35.0,
+                -49.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                35.0,
+                -55.0,
+                -22.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                21.0,
+                -58.0,
+                -43.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                33.0,
+                -51.0,
+                -32.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -3.0,
+                8.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -6.0,
+                -17.0,
+                4.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                3.0,
+                -51.0,
+                -20.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -1.0,
+                -69.0,
+                -34.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -62.0,
+                -1.0,
+                14.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                35.0,
+                -64.0,
+                -11.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                3.0,
+                -42.0,
+                -22.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -30.0,
+                8.0,
+                4.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                10.0,
+                -35.0,
+                -20.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -51.0,
+                -8.0,
+                34.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                21.0,
+                -62.0,
+                -22.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -21.0,
+                -64.0,
+                36.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                24.0,
+                48.0,
+                -11.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -26.0,
+                -6.0,
+                50.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -26.0,
+                -4.0,
+                50.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -48.0,
+                1.0,
+                36.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -21.0,
+                -67.0,
+                36.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -35.0,
+                -49.0,
+                36.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -44.0,
+                8.0,
+                27.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -39.0,
+                44.0,
+                18.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -64.0,
+                -1.0,
+                14.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -26.0,
+                12.0,
+                4.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -37.0,
+                -42.0,
+                -34.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -33.0,
+                -55.0,
+                -45.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                26.0,
+                -1.0,
+                52.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -57.0,
+                14.0,
+                25.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                42.0,
+                32.0,
+                29.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                3.0,
+                -69.0,
+                -18.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                30.0,
+                -58.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                8.0,
+                -13.0,
+                4.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -3.0,
+                8.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                26.0,
+                -58.0,
+                -45.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                1.0,
+                -19.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -35.0,
+                -51.0,
+                38.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                26.0,
+                19.0,
+                7.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                37.0,
+                48.0,
+                18.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                42.0,
+                3.0,
+                27.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                35.0,
+                -55.0,
+                -22.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              19
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Kim J J, 2002",
+      "name": "Kim J J, 2002",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Simple Pictures - Control Kim J J, 2002: English Words - Control Kim J J, 2002: Korean Words - Control",
+          "name": "Simple Pictures - Control Kim J J, 2002: English Words - Control Kim J J, 2002: Korean Words - Control",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -43.5,
+                -57.56,
+                -19.93
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                32.49,
+                -60.81,
+                -27.96
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -28.91,
+                -79.35,
+                -9.14
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -56.78,
+                -37.92,
+                10.53
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -44.2,
+                -6.08,
+                49.8
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                26.65,
+                35.82,
+                22.54
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -10.11,
+                -73.63,
+                -29.9
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -42.0,
+                -74.74,
+                1.89
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -21.46,
+                -86.32,
+                -15.07
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                49.92,
+                -51.96,
+                -13.31
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -7.3,
+                -3.41,
+                59.68
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -28.57,
+                63.94,
+                6.25
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                30.45,
+                45.64,
+                18.13
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                26.1,
+                7.94,
+                57.72
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -43.87,
+                -74.91,
+                3.65
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -49.84,
+                -65.15,
+                38.7
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                52.05,
+                -39.42,
+                41.06
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                44.51,
+                -9.27,
+                60.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -26.71,
+                56.65,
+                3.79
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -19.81,
+                14.52,
+                30.54
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                24.58,
+                3.11,
+                30.21
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                33.6,
+                12.33,
+                51.06
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              14
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Kim J J, 2003",
+      "name": "Kim J J, 2003",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Normals",
+          "name": "Normals",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -43.34,
+                -74.63,
+                -37.76
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -21.31,
+                8.0,
+                1.07
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                53.89,
+                -41.29,
+                40.91
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -49.86,
+                -63.46,
+                40.66
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                4.18,
+                24.88,
+                39.14
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -26.74,
+                56.48,
+                5.57
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                33.6,
+                12.33,
+                51.06
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -23.99,
+                -62.08,
+                44.83
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              12
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Martinkauppi S, 2000",
+      "name": "Martinkauppi S, 2000",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "3-Back vs. 1-Back Martinkauppi S, 2000: 2-Back vs. 1-Back",
+          "name": "3-Back vs. 1-Back Martinkauppi S, 2000: 2-Back vs. 1-Back",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                41.0,
+                -6.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -24.0,
+                51.0,
+                14.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                21.0,
+                52.0,
+                4.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -44.0,
+                21.0,
+                17.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                40.0,
+                21.0,
+                15.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -37.0,
+                15.0,
+                46.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                35.0,
+                11.0,
+                47.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -41.0,
+                25.0,
+                33.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                39.0,
+                31.0,
+                33.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -22.0,
+                6.0,
+                54.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                22.0,
+                2.0,
+                57.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -39.0,
+                -4.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -3.0,
+                21.0,
+                57.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                19.0,
+                -57.0,
+                54.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -46.0,
+                -55.0,
+                -11.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                31.0,
+                -51.0,
+                43.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -36.0,
+                -51.0,
+                44.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                40.0,
+                -51.0,
+                41.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -39.0,
+                -56.0,
+                42.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                5.0,
+                -59.0,
+                49.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -6.0,
+                -64.0,
+                48.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                49.0,
+                -41.0,
+                3.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -48.0,
+                -52.0,
+                5.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                8.0,
+                30.0,
+                23.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -5.0,
+                21.0,
+                30.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                8.0,
+                -44.0,
+                34.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                37.0,
+                4.0,
+                4.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -36.0,
+                9.0,
+                5.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                4.0,
+                19.0,
+                49.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -21.0,
+                -64.0,
+                49.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -33.0,
+                17.0,
+                7.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                5.0,
+                -42.0,
+                33.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -2.0,
+                -44.0,
+                25.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                34.0,
+                17.0,
+                11.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                4.0,
+                15.0,
+                51.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -4.0,
+                14.0,
+                58.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                24.0,
+                7.0,
+                51.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -23.0,
+                8.0,
+                54.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                40.0,
+                32.0,
+                30.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -41.0,
+                35.0,
+                35.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                38.0,
+                13.0,
+                50.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -38.0,
+                15.0,
+                46.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                45.0,
+                18.0,
+                19.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                30.0,
+                51.0,
+                4.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -34.0,
+                52.0,
+                11.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                41.0,
+                -1.0,
+                36.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -41.0,
+                4.0,
+                41.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -44.0,
+                19.0,
+                18.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -23.0,
+                -67.0,
+                46.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -4.0,
+                16.0,
+                35.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                23.0,
+                -67.0,
+                50.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -48.0,
+                -55.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                42.0,
+                -63.0,
+                -5.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -50.0,
+                -51.0,
+                7.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                51.0,
+                -45.0,
+                1.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                7.0,
+                18.0,
+                29.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                6.0,
+                -62.0,
+                44.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -47.0,
+                -49.0,
+                41.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                42.0,
+                -49.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -35.0,
+                -50.0,
+                44.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                35.0,
+                -54.0,
+                52.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -6.0,
+                -66.0,
+                51.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              10
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Nystrom L E, 2000",
+      "name": "Nystrom L E, 2000",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Group 1 Normals",
+          "name": "Group 1 Normals",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -1.0,
+                26.0,
+                28.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -43.0,
+                -1.0,
+                36.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -57.0,
+                4.0,
+                4.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                6.0,
+                11.0,
+                45.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                21.0,
+                -75.0,
+                48.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -41.0,
+                -47.0,
+                56.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                2.0,
+                27.0,
+                35.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                47.0,
+                33.0,
+                18.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              8
+            ]
+          }
+        },
+        {
+          "id": "Group 2 Normals",
+          "name": "Group 2 Normals",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                35.0,
+                -37.0,
+                37.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                35.0,
+                25.0,
+                2.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -6.0,
+                15.0,
+                39.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                49.0,
+                14.0,
+                15.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -34.0,
+                -47.0,
+                -10.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                25.0,
+                7.0,
+                48.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -24.0,
+                5.0,
+                50.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                21.0,
+                -62.0,
+                44.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              7
+            ]
+          }
+        },
+        {
+          "id": "Group 3 Normals",
+          "name": "Group 3 Normals",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                11.0,
+                -73.0,
+                46.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                25.0,
+                0.0,
+                51.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -37.0,
+                18.0,
+                18.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                12.0,
+                23.0,
+                31.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                47.0,
+                12.0,
+                32.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                30.0,
+                4.0,
+                43.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -37.0,
+                11.0,
+                28.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              10
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Owen A M, 1999",
+      "name": "Owen A M, 1999",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Spatial Manipulation - Visuomotor Control Owen A M, 1999: Spatial Manipulation - Spatial Span",
+          "name": "Spatial Manipulation - Visuomotor Control Owen A M, 1999: Spatial Manipulation - Spatial Span",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                28.4,
+                29.53,
+                29.18
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                34.01,
+                35.44,
+                26.23
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                18.57,
+                -66.02,
+                45.18
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                28.03,
+                -6.1,
+                47.41
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                34.18,
+                11.09,
+                5.91
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                30.24,
+                27.65,
+                29.03
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              5
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Ragland J D, 2002",
+      "name": "Ragland J D, 2002",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Letter 1Back - 0Back Ragland J D, 2002: Fractal 1Back - 0Back Ragland J D, 2002: Letter 2Back - 0Back Ragland J D, 2002: Fractal 2Back - 0Back Ragland J D, 2002: Letter 2Back - 1Back Ragland J D, 2002: Fractal 2Back - 1Back",
+          "name": "Letter 1Back - 0Back Ragland J D, 2002: Fractal 1Back - 0Back Ragland J D, 2002: Letter 2Back - 0Back Ragland J D, 2002: Fractal 2Back - 0Back Ragland J D, 2002: Letter 2Back - 1Back Ragland J D, 2002: Fractal 2Back - 1Back",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                40.0,
+                -50.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -28.0,
+                -54.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                0.0,
+                26.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                28.0,
+                26.0,
+                8.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -48.0,
+                14.0,
+                8.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                36.0,
+                46.0,
+                20.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -32.0,
+                -54.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -36.0,
+                26.0,
+                24.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -44.0,
+                6.0,
+                36.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                40.0,
+                22.0,
+                36.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -12.0,
+                -10.0,
+                16.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                4.0,
+                22.0,
+                36.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                44.0,
+                -46.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -24.0,
+                -58.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -32.0,
+                42.0,
+                12.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                44.0,
+                30.0,
+                24.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -44.0,
+                2.0,
+                32.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -4.0,
+                26.0,
+                36.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -44.0,
+                6.0,
+                32.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                40.0,
+                6.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -40.0,
+                26.0,
+                24.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                48.0,
+                -50.0,
+                4.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -32.0,
+                42.0,
+                8.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                40.0,
+                30.0,
+                24.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                36.0,
+                22.0,
+                16.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                36.0,
+                18.0,
+                28.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                28.0,
+                -6.0,
+                36.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -32.0,
+                -50.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -44.0,
+                -38.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -24.0,
+                -54.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -40.0,
+                26.0,
+                24.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -28.0,
+                -6.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                36.0,
+                -42.0,
+                36.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -36.0,
+                -58.0,
+                44.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                36.0,
+                18.0,
+                0.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                36.0,
+                54.0,
+                4.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                44.0,
+                34.0,
+                28.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -48.0,
+                14.0,
+                8.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                44.0,
+                -42.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -52.0,
+                -42.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -24.0,
+                22.0,
+                4.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                36.0,
+                -6.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                32.0,
+                22.0,
+                4.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              11
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Rama P, 2001",
+      "name": "Rama P, 2001",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Two-Back vs. Zero-Back Rama P, 2001: One-Back vs. Zero-Back",
+          "name": "Two-Back vs. Zero-Back Rama P, 2001: One-Back vs. Zero-Back",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                18.0,
+                16.0,
+                56.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -37.0,
+                6.0,
+                42.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                22.0,
+                36.0,
+                52.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -42.0,
+                31.0,
+                30.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                37.0,
+                16.0,
+                30.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -8.0,
+                -81.0,
+                21.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -5.0,
+                62.0,
+                16.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                28.0,
+                43.0,
+                -5.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                4.0,
+                -80.0,
+                14.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -8.0,
+                9.0,
+                54.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -44.0,
+                13.0,
+                17.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                2.0,
+                13.0,
+                52.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                28.0,
+                -78.0,
+                27.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -40.0,
+                -14.0,
+                42.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -44.0,
+                -43.0,
+                43.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                34.0,
+                -42.0,
+                38.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -32.0,
+                -54.0,
+                32.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                17.0,
+                -75.0,
+                44.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -22.0,
+                -64.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                10.0,
+                -70.0,
+                54.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -52.0,
+                -28.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -40.0,
+                -10.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -8.0,
+                -64.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -37.0,
+                -52.0,
+                -27.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -7.0,
+                -80.0,
+                19.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -3.0,
+                7.0,
+                57.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                29.0,
+                -62.0,
+                -12.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                20.0,
+                -80.0,
+                -16.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                29.0,
+                -81.0,
+                19.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -31.0,
+                -73.0,
+                8.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                28.0,
+                55.0,
+                18.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -18.0,
+                49.0,
+                6.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                44.0,
+                19.0,
+                16.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -43.0,
+                16.0,
+                16.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                32.0,
+                34.0,
+                29.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -37.0,
+                27.0,
+                29.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                35.0,
+                7.0,
+                47.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                20.0,
+                9.0,
+                59.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -18.0,
+                16.0,
+                53.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                5.0,
+                9.0,
+                59.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -4.0,
+                2.0,
+                55.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                34.0,
+                -14.0,
+                51.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -35.0,
+                14.0,
+                44.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                41.0,
+                -20.0,
+                44.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -48.0,
+                -48.0,
+                2.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -34.0,
+                13.0,
+                53.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                49.0,
+                -41.0,
+                -1.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -56.0,
+                -46.0,
+                -14.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                51.0,
+                -59.0,
+                -9.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                6.0,
+                -64.0,
+                47.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -8.0,
+                -73.0,
+                47.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                16.0,
+                -73.0,
+                51.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -33.0,
+                -63.0,
+                31.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                32.0,
+                -64.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -43.0,
+                -46.0,
+                41.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -17.0,
+                -72.0,
+                48.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              8
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Schumacher E H, 1996",
+      "name": "Schumacher E H, 1996",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Visual Memory - Control, Increases Schumacher E H, 1996: Auditory Memory - Control, Increases",
+          "name": "Visual Memory - Control, Increases Schumacher E H, 1996: Auditory Memory - Control, Increases",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -57.0,
+                5.0,
+                16.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -39.0,
+                -42.0,
+                38.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -42.0,
+                10.0,
+                29.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -46.0,
+                26.0,
+                25.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -48.0,
+                19.0,
+                7.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -6.0,
+                -69.0,
+                -25.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                15.0,
+                -62.0,
+                45.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                39.0,
+                -51.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -8.0,
+                8.0,
+                45.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -26.0,
+                -62.0,
+                45.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                28.0,
+                5.0,
+                52.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -24.0,
+                1.0,
+                45.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                17.0,
+                -60.0,
+                -22.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                28.0,
+                -58.0,
+                -25.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                1.0,
+                14.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -26.0,
+                1.0,
+                54.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -8.0,
+                -67.0,
+                43.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -46.0,
+                -4.0,
+                34.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -48.0,
+                17.0,
+                22.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -28.0,
+                -60.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -51.0,
+                10.0,
+                9.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                30.0,
+                5.0,
+                47.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                12.0,
+                -67.0,
+                47.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                39.0,
+                -46.0,
+                36.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -44.0,
+                44.0,
+                18.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              8
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Smith E E, 1996",
+      "name": "Smith E E, 1996",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Verbal 3-Back - Control Smith E E, 1996: Spatial 3-Back - Control Smith E E, 1996: Verbal 2-Back - Control",
+          "name": "Verbal 3-Back - Control Smith E E, 1996: Spatial 3-Back - Control Smith E E, 1996: Verbal 2-Back - Control",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -30.0,
+                -49.0,
+                -45.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -28.0,
+                1.0,
+                52.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -33.0,
+                -46.0,
+                38.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -42.0,
+                17.0,
+                22.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -26.0,
+                -67.0,
+                -50.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                24.0,
+                -62.0,
+                -45.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                24.0,
+                3.0,
+                52.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                26.0,
+                -55.0,
+                50.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                12.0,
+                -64.0,
+                47.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                1.0,
+                -64.0,
+                -25.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -6.0,
+                3.0,
+                54.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                3.0,
+                12.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -28.0,
+                -62.0,
+                -52.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                35.0,
+                28.0,
+                29.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -17.0,
+                -60.0,
+                45.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                30.0,
+                3.0,
+                47.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                42.0,
+                -49.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -37.0,
+                -49.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -39.0,
+                32.0,
+                29.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -37.0,
+                44.0,
+                20.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                10.0,
+                -64.0,
+                47.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                35.0,
+                41.0,
+                25.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -37.0,
+                55.0,
+                2.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -19.0,
+                -67.0,
+                50.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -44.0,
+                -46.0,
+                43.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -26.0,
+                -53.0,
+                40.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -33.0,
+                44.0,
+                20.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                12.0,
+                -64.0,
+                50.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -12.0,
+                -1.0,
+                58.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              30
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Veltman D J, 2003",
+      "name": "Veltman D J, 2003",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "n-Back",
+          "name": "n-Back",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -43.36,
+                -42.33,
+                45.48
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                35.43,
+                -51.4,
+                -37.83
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                6.59,
+                3.88,
+                61.51
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -42.62,
+                -50.55,
+                -14.75
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                48.77,
+                7.59,
+                22.04
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -42.9,
+                29.64,
+                30.68
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                48.56,
+                8.81,
+                38.36
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -48.29,
+                8.87,
+                12.41
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -45.74,
+                18.21,
+                32.25
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -34.47,
+                41.29,
+                26.52
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                40.28,
+                28.42,
+                40.08
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              22
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "Zurowski B, 2002",
+      "name": "Zurowski B, 2002",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "Main Effect of Working Memory",
+          "name": "Main Effect of Working Memory",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -1.75,
+                -70.23,
+                40.84
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -23.83,
+                -6.09,
+                49.24
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                26.11,
+                -3.82,
+                53.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -40.19,
+                29.1,
+                36.08
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                40.31,
+                25.89,
+                37.14
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -26.55,
+                -66.0,
+                27.3
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                26.02,
+                -67.58,
+                41.56
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                40.1,
+                -44.25,
+                33.19
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              8
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

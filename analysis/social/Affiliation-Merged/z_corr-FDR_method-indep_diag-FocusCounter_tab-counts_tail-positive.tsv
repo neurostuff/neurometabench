@@ -1,0 +1,107 @@
+id	PositiveTail 1	PositiveTail 2	PositiveTail 3	PositiveTail 4	PositiveTail 5	PositiveTail 6	PositiveTail 7	PositiveTail 8	PositiveTail 9	PositiveTail 10	PositiveTail 11	PositiveTail 12	PositiveTail 13	PositiveTail 14	PositiveTail 15	PositiveTail 16	PositiveTail 17	PositiveTail 18	PositiveTail 19	PositiveTail 20	PositiveTail 21	PositiveTail 22
+Braams et al., 2014-Interaction effect Person x Outcome; affiliation	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Braams et al., 2014-Main effect of Person; affiliation	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Braams et al., 2014-Main effect of outcome; affiliation	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cacioppo et al., 2014-Negative correlation: perception of syncrhony and feelings of social affiliation; affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cacioppo et al., 2014-Positive correlation: perception of syncrhony and feelings of social affiliation; affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cacioppo et al., 2014-Synchrony > asynchrony; affiliation	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carter et al., 2008-Angry > Happy; affiliation	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carter et al., 2008-Happy > Angry; affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chen et al., 2010-Gender > Preference; affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chen et al., 2010-Preference > Gender; affiliation	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cheng et al., 2010-loved one > self; affiliation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cheng et al., 2010-loved one > stranger; affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cooper et al., 2013-Match > Unrequited; affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cooper et al., 2013-Mismatched (Rejection + Unrequited) > matched (Match + Disinterest); affiliation	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cooper et al., 2013-Partners who were given a no > those given a yes; affiliation	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cooper et al., 2013-Partners who were given a yes > those given a no; affiliation	1	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Cooper et al., 2013-Rejection > Disinterest; affiliation	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cooper et al., 2013-Unsigned prediction errors from RL model; affiliation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cooper et al., 2013-Yes (Match + Unrequited) > No (Rejection + Disinterest); affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Decety et al., 2004-Competition versus cooperation; affiliation	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Decety et al., 2004-Competition versus independent; affiliation	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Decety et al., 2004-Cooperation versus competition; affiliation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Decety et al., 2004-Cooperation versus independent; affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Farrow et al., 2011-Social alliance vs. ‘number equal’; affiliation	0	0	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Farrow et al., 2011-Social hierarchy vs. fame, age, gender and ‘no. higher / lower’; affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Filkowski et al., 2015-Attitude > Age; affiliation	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Filkowski et al., 2015-Distrust > Age; affiliation	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Filkowski et al., 2015-Trust > Age; affiliation	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Filkowski et al., 2015-Trust > Distrust; affiliation	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Güroğlu et al., 2008-(peer vs. celebrity) x (positive vs. non-positive); affiliation	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hughes et al., 2011-Close Other > Non-Close Other; affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hughes et al., 2011-Negative > Positive; affiliation	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hughes et al., 2011-Positive > Negative; affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hughes et al., 2011-Target x Breadth; affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kedia et al., 2013-Conjunction analyses of the beauty and height distance effects; affiliation	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Kedia et al., 2013-Conjunction analyses of the women and dog distance effects; affiliation	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Kedia et al., 2013-Distance effect in the beauty condition > height condition; affiliation	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kedia et al., 2013-Distance effect in the dog condition > women condition; affiliation	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kedia et al., 2013-Distance effect in the height condition > beauty condition; affiliation	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Kedia et al., 2013-Distance effect in the women condition > dog condition; affiliation	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Kedia et al., 2013-Main effect of judgment: Beauty > height comparisons; affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kedia et al., 2013-Main effect of judgment: Height > beauty comparisons; affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kedia et al., 2013-Main effect of judgment: Height > control condition; affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kedia et al., 2013-Main effect of target: Dogs > Women; affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kedia et al., 2013-Main effect of target: Women > dogs; affiliation	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Koban et al., 2013-Conflict > No Conflict; affiliation	1	0	1	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Koban et al., 2013-[Human (Conflict > No Conflict)] > [Computer (Conflict > No Conflict)]; affiliation	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Koban et al., 2013-[Human (Conflict > No Conflict)] \ [Computer (Conflict > No Conflict)]; affiliation	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kumar et al., 2009-Pavlovian > with social task; affiliation	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Labek et al., 2016-attachment > neutral; affiliation	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Labek et al., 2016-interaction of attachment > neutral with dyadic > monadic; affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Labek et al., 2016-interaction of dyadic scenes with attachment > neutral; affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lotze et al., 2006-Retaliation > Watching opponent; affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lotze et al., 2006-Retaliation interaction with low CU > High CU; affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lotze et al., 2006-Watching opponent > Retaliation (conjunction); affiliation	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lotze et al., 2006-Watching opponent > Retaliation; affiliation	1	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0
+Luo et al., 2015-social exclusion > social inclusion; affiliation	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mattan et al., 2018-EMS (covariate) + IMS x Perceived status (High vs. Low) (negative correlation with status); affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mattan et al., 2018-IMS x Perceived status (High vs. Low) (negative correlation with status; excluded EMS covariate); affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Miedl et al., 2016-Negative > neutral; affiliation	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Miedl et al., 2016-positive > neutral and negative > neutral (conjunction analysis); affiliation	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Miedl et al., 2016-positive > neutral; affiliation	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Moll et al., 2012-affiliative > nonaffiliative; affiliation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Morese et al., 2019-appraisal support group > no support group (run 1 > run 2); affiliation	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Morese et al., 2019-appraisal support group > no support group (run 2 > run 1); affiliation	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Morese et al., 2019-emotional support group > no support group (run 1 > run 2); affiliation	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Polosan et al., 2011-H(I + C) > M(I + C); affiliation	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Polosan et al., 2011-I(H + M) > C(H + M); affiliation	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Polosan et al., 2011-[H(I > C)] > [M(I > C)]; affiliation	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Quirin et al., 2012-affiliation > power; affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Quirin et al., 2012-power > affiliation; affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rilling et al., 2008-PD – Gamble; affiliation	1	1	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sugiura et al., 2010-First (P1–F1); affiliation	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sugiura et al., 2010-Second (P2–F2); affiliation	0	0	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Suslow et al., 2009-Coorelation -- attachment avoidance with brain responses to masked sad faces; affiliation	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Suslow et al., 2009-Masked sad faces > neutral faces; affiliation	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Suslow et al., 2009-Negative coorelation -- attachment avoidance with brain responsed to masked sad faces; affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Suslow et al., 2009-masked happy faces > neutral faces; affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Suzuki et al., 2012-Reward Prediction Error (control) > Reward probability (other); affiliation	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Suzuki et al., 2012-Reward probability (other) >  Reward Prediction Error (control); affiliation	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Suzuki et al., 2012-Reward probability (other) > Reward Prediction Error (other); affiliation	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Suzuki et al., 2012-Simulated-other’s action prediction error > Simulated-other’s reward prediction error; affiliation	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Suzuki et al., 2012-Simulated-other’s reward prediction error > Simulated-other’s action prediction error; affiliation	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ueda et al., 2017-Incongruent > Congruent; affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Von Der Heide et al., 2013-Familiar faces > Novel faces; affiliation	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Von Der Heide et al., 2013-Famous faces > Novel faces; affiliation	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Von Der Heide et al., 2013-Famous faces > Novel landmarks; affiliation	0	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Von Der Heide et al., 2013-Famous ∩ Familiar faces; affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wagels et al., 2016-FG EX > FG IN; affiliation	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wagels et al., 2016-FG EX > PG EX; affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wagels et al., 2016-PG EX > FG EX; affiliation	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wagels et al., 2016-PG EX > FG IN ∩ FG EX > FG IN (Conjunction); affiliation	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wagels et al., 2016-PG EX > FG IN; affiliation	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Wagner et al., 2015-Shared_emo > unshared_emo (masked); affiliation with interaction sharing 􏰀 emotion)"""	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wagner et al., 2015-Shared_emo > unshared_emo; affiliation	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Will et al., 2014-Excluders > Includers; affiliation	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Will et al., 2014-Excluders equality > Includers equality; affiliation	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Will et al., 2014-Includers > Excluders; affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Will et al., 2014-Positive correlation with punishment frequency (percentage inequality for excluders - percentage inequality for includers); affiliation	2	0	0	1	0	1	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wlodarski et al., 2016-friend > kin condition; affiliation	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Špiláková et al., 2019-Builder (COO > COM) > Other (COO > COM); affiliation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Špiláková et al., 2019-CN > TB; affiliation	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Špiláková et al., 2019-Competition > Cooperation; affiliation	2	0	0	1	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Špiláková et al., 2019-Cooperation > competition; affiliation	0	0	5	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Špiláková et al., 2019-Other (COO > COM) > Builder (COO > COM); affiliation	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Špiláková et al., 2019-TB (COO > COM) > CN (COO > COM); affiliation	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0

@@ -1,0 +1,1050 @@
+{
+  "id": "nimads_27251183_TLRCH_NON_greater_SMOKERS_TLRC_11_3_15_TLRCH",
+  "name": "Nicotine Use - TLRCH_NON_greater_SMOKERS_TLRC_11_3_15_TLRCH",
+  "studies": [
+    {
+      "id": "(1) Hanlon, in press",
+      "name": "(1) Hanlon, in press",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (all smokers)",
+          "name": "NS > S (all smokers)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -21.14,
+                1.94,
+                -13.91
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -9.96,
+                51.76,
+                -4.5
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -7.57,
+                -25.11,
+                2.67
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                29.77,
+                4.47,
+                -12.81
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                26.99,
+                46.56,
+                -0.76
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                29.54,
+                -15.46,
+                -1.19
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              58
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(10) Liao, 2010",
+      "name": "(10) Liao, 2010",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (all smokers)",
+          "name": "NS > S (all smokers)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -4.0,
+                27.0,
+                13.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -22.0,
+                -34.0,
+                1.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -10.0,
+                40.0,
+                -8.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              44
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(11) Almeida, 2008",
+      "name": "(11) Almeida, 2008",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (all smokers)",
+          "name": "NS > S (all smokers)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -33.14,
+                -25.61,
+                47.23
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -5.16,
+                -51.61,
+                23.62
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                17.06,
+                -68.06,
+                17.94
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                17.28,
+                -20.78,
+                15.21
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                35.43,
+                -17.99,
+                43.71
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              39
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(12) Galliant, 2006",
+      "name": "(12) Galliant, 2006",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (all smokers, table3)",
+          "name": "NS > S (all smokers, table3)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -8.0,
+                -33.0,
+                35.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -3.0,
+                -12.0,
+                46.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -54.0,
+                -22.0,
+                4.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                44.0,
+                -70.0,
+                31.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                14.0,
+                -54.0,
+                9.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -33.0,
+                -37.0,
+                -32.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -15.0,
+                26.0,
+                48.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                35.0,
+                -65.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                55.0,
+                -27.0,
+                14.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -14.0,
+                -34.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -54.0,
+                -48.0,
+                27.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                7.0,
+                -28.0,
+                35.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -55.0,
+                -54.0,
+                -1.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -5.0,
+                11.0,
+                59.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                24.0,
+                -39.0,
+                62.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                15.0,
+                23.0,
+                51.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -30.0,
+                17.0,
+                -18.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                32.0,
+                15.0,
+                -20.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                14.0,
+                -59.0,
+                -20.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                37.0,
+                37.0,
+                25.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -43.0,
+                -1.0,
+                3.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                15.0,
+                -22.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                41.0,
+                13.0,
+                10.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              22
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(13) Brody, 2004",
+      "name": "(13) Brody, 2004",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (all smokers)",
+          "name": "NS > S (all smokers)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                20.91,
+                34.46,
+                36.72
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                6.2,
+                53.52,
+                34.68
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                13.96,
+                -51.75,
+                -23.81
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                29.89,
+                -0.52,
+                47.97
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                16.96,
+                25.28,
+                53.8
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                28.0,
+                10.15,
+                54.36
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -30.96,
+                32.52,
+                39.26
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -49.26,
+                25.04,
+                20.23
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                13.53,
+                41.95,
+                37.31
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              19
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(16) Stoeckel, in submission",
+      "name": "(16) Stoeckel, in submission",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (all smokers)",
+          "name": "NS > S (all smokers)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -32.6,
+                17.67,
+                18.01
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              16
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(2) Franklin, 2014",
+      "name": "(2) Franklin, 2014",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (all smokers)",
+          "name": "NS > S (all smokers)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                2.61,
+                -18.73,
+                4.35
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -37.71,
+                -63.13,
+                -40.18
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                27.21,
+                -44.14,
+                -44.49
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                1.27,
+                34.37,
+                -19.47
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              80
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(3) Wang, 2014",
+      "name": "(3) Wang, 2014",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (all smokers)",
+          "name": "NS > S (all smokers)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                30.51,
+                10.44,
+                3.08
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                4.4,
+                -11.9,
+                11.33
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                7.99,
+                40.29,
+                35.26
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              22
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(4) Fritz, 2014",
+      "name": "(4) Fritz, 2014",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (all smokers)",
+          "name": "NS > S (all smokers)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                6.52,
+                41.22,
+                6.49
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                13.01,
+                55.92,
+                9.8
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -39.93,
+                8.16,
+                9.78
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -13.82,
+                61.56,
+                10.78
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                6.49,
+                41.05,
+                8.28
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                12.05,
+                55.66,
+                12.46
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -13.82,
+                57.92,
+                9.53
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                32.48,
+                46.01,
+                4.68
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                12.11,
+                57.96,
+                8.17
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -8.1,
+                57.34,
+                -3.94
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -13.8,
+                58.1,
+                7.75
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                10.26,
+                57.04,
+                8.05
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                6.49,
+                41.05,
+                8.28
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -37.08,
+                9.6,
+                4.56
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -34.41,
+                -13.12,
+                6.06
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                4.75,
+                20.85,
+                -6.28
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              315
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(5) Morales, 2012",
+      "name": "(5) Morales, 2012",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (all smokers)",
+          "name": "NS > S (all smokers)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                15.9,
+                34.85,
+                -5.66
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              25
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(6) Zhang, 2011",
+      "name": "(6) Zhang, 2011",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (high pack year smokers)",
+          "name": "NS > S (high pack year smokers)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -23.72,
+                -47.29,
+                28.22
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              24
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(7) Yu, 2011",
+      "name": "(7) Yu, 2011",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (GM, univariate results)",
+          "name": "NS > S (GM, univariate results)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -32.08,
+                -40.62,
+                -39.75
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                23.49,
+                -35.15,
+                -40.09
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              16
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(8) Almeida, 2011",
+      "name": "(8) Almeida, 2011",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (unsuccessful quiters, no sub-peaks included)",
+          "name": "NS > S (unsuccessful quiters, no sub-peaks included)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                13.62,
+                -21.35,
+                11.49
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                8.63,
+                -64.71,
+                -44.95
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -27.75,
+                -58.85,
+                50.48
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              48
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(9) Kuhn, 2010",
+      "name": "(9) Kuhn, 2010",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "NS > S (all smokers)",
+          "name": "NS > S (all smokers)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -2.5,
+                26.0,
+                -20.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              22
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1845 @@
+{
+  "id": "nimads_25662104_plac_nic_TLRC_smokers_only",
+  "name": "Nicotine Administration - plac_nic_TLRC_smokers_only",
+  "studies": [
+    {
+      "id": "(1) Hahn, 2007",
+      "name": "(1) Hahn, 2007",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "PLAC > NIC (nic main effect)",
+          "name": "PLAC > NIC (nic main effect)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -33.3,
+                -73.6,
+                36.6
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                0.4,
+                -33.5,
+                42.6
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -2.6,
+                -47.8,
+                30.1
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -26.0,
+                44.6,
+                34.5
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -1.0,
+                48.1,
+                17.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                2.9,
+                -74.5,
+                2.3
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              17
+            ]
+          }
+        },
+        {
+          "id": "PLAC > NIC (nic main effect, invalid targets)",
+          "name": "PLAC > NIC (nic main effect, invalid targets)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                2.2,
+                -46.9,
+                52.4
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                8.0,
+                -76.7,
+                39.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              17
+            ]
+          }
+        },
+        {
+          "id": "PLAC > NIC (nic main effect, valid targets)",
+          "name": "PLAC > NIC (nic main effect, valid targets)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -1.4,
+                -22.4,
+                10.6
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -2.9,
+                -76.3,
+                -9.6
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              17
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(11) Beaver, 2011",
+      "name": "(11) Beaver, 2011",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "PLAC > NIC, (RVIP, eeg informed)",
+          "name": "PLAC > NIC, (RVIP, eeg informed)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                38.39,
+                -67.11,
+                19.04
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -12.67,
+                -50.06,
+                27.07
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                10.04,
+                -50.26,
+                27.2
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -2.77,
+                46.85,
+                -0.95
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -1.41,
+                -80.14,
+                19.75
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -41.11,
+                -66.41,
+                18.59
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              15
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(15) Froeliger, 2012",
+      "name": "(15) Froeliger, 2012",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "PLAC > NIC, (affective stroop)",
+          "name": "PLAC > NIC, (affective stroop)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                2.86,
+                32.45,
+                0.19
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                32.06,
+                23.74,
+                30.49
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              17
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(16) Froeliger, 2011",
+      "name": "(16) Froeliger, 2011",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "ABST > SAT, (emotional oddball)(emotional distractor)",
+          "name": "ABST > SAT, (emotional oddball)(emotional distractor)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                30.51,
+                15.01,
+                4.41
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                33.93,
+                -3.52,
+                20.73
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                6.0,
+                0.82,
+                35.09
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              17
+            ]
+          }
+        },
+        {
+          "id": "ABST > SAT, (emotional oddball)(emotional target)",
+          "name": "ABST > SAT, (emotional oddball)(emotional target)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -38.17,
+                1.11,
+                14.55
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                33.93,
+                -5.38,
+                20.56
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                30.51,
+                15.01,
+                4.41
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              17
+            ]
+          }
+        },
+        {
+          "id": "ABST > SAT, (emotional oddball)(negative target)",
+          "name": "ABST > SAT, (emotional oddball)(negative target)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                43.16,
+                12.68,
+                27.83
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              17
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(17) Azizian, 2010",
+      "name": "(17) Azizian, 2010",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "ABST > SAT, (stroop)(negative target)",
+          "name": "ABST > SAT, (stroop)(negative target)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                2.71,
+                17.94,
+                33.4
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              17
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(19) Addicott, 2012",
+      "name": "(19) Addicott, 2012",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "ABST > SAT, (wheel of fortune)(anticipation)",
+          "name": "ABST > SAT, (wheel of fortune)(anticipation)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                23.64,
+                41.2,
+                24.18
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                12.33,
+                37.12,
+                0.32
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -37.01,
+                5.09,
+                1.56
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              13
+            ]
+          }
+        },
+        {
+          "id": "ABST > SAT, (wheel of fortune)(selection)",
+          "name": "ABST > SAT, (wheel of fortune)(selection)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                40.58,
+                -8.28,
+                -7.88
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                48.0,
+                -27.38,
+                21.68
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                30.87,
+                -32.88,
+                50.17
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -3.1,
+                -51.27,
+                -14.57
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -57.85,
+                3.03,
+                6.72
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                33.0,
+                -8.44,
+                -4.32
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -33.09,
+                48.09,
+                13.42
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                30.96,
+                -11.56,
+                44.32
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -25.94,
+                -34.62,
+                55.14
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -16.39,
+                -53.74,
+                -3.96
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                19.49,
+                -64.7,
+                13.65
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -29.54,
+                16.71,
+                56.64
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                48.3,
+                33.48,
+                -6.93
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -3.2,
+                -58.58,
+                10.29
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -12.46,
+                12.15,
+                36.55
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                10.12,
+                -17.18,
+                45.64
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                2.96,
+                51.52,
+                -15.08
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -39.18,
+                -67.39,
+                4.06
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                12.0,
+                -6.98,
+                64.41
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              13
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(19) Koznick, 2010",
+      "name": "(19) Koznick, 2010",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "ABST > SAT, (RVIP)(transient)",
+          "name": "ABST > SAT, (RVIP)(transient)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -33.4,
+                -52.24,
+                60.02
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                20.44,
+                5.41,
+                64.59
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -42.32,
+                -2.18,
+                48.4
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                16.83,
+                -78.01,
+                33.21
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -25.11,
+                -49.39,
+                -8.03
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                52.72,
+                -21.67,
+                -5.89
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -45.8,
+                -51.72,
+                16.62
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -4.75,
+                -65.91,
+                -12.86
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -17.79,
+                -46.4,
+                -0.42
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              19
+            ]
+          }
+        },
+        {
+          "id": "ABST > SAT, (RVIP)(transient, interaciton)",
+          "name": "ABST > SAT, (RVIP)(transient, interaciton)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                46.48,
+                -8.41,
+                51.11
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -18.14,
+                -56.29,
+                23.86
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                37.75,
+                22.9,
+                19.7
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                40.96,
+                -77.61,
+                28.25
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              19
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(2) Hahn, 2009",
+      "name": "(2) Hahn, 2009",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "PLAC > NIC (nic main effect all conditions, invalid targets)",
+          "name": "PLAC > NIC (nic main effect all conditions, invalid targets)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -37.9,
+                16.2,
+                50.2
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -22.9,
+                -12.9,
+                -22.4
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -46.1,
+                37.0,
+                15.9
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -43.9,
+                8.9,
+                34.8
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                32.7,
+                -26.8,
+                52.2
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -53.8,
+                -41.5,
+                -10.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -30.0,
+                -36.0,
+                -13.8
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                13.6,
+                -89.0,
+                6.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                34.8,
+                -18.2,
+                25.5
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                30.3,
+                -78.3,
+                -3.1
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -31.9,
+                -86.9,
+                -6.6
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -12.2,
+                -13.1,
+                13.8
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                8.3,
+                -8.4,
+                7.1
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -10.0,
+                44.9,
+                1.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -21.7,
+                -97.5,
+                5.1
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              18
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(26) Jacobsen, 2007",
+      "name": "(26) Jacobsen, 2007",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "PLAC > NIC, (n-back)",
+          "name": "PLAC > NIC, (n-back)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                8.44,
+                -8.08,
+                66.39
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                29.16,
+                -52.25,
+                41.58
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                41.04,
+                -38.44,
+                -6.12
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                50.97,
+                0.51,
+                33.89
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              55
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(27) Loughead, 2010",
+      "name": "(27) Loughead, 2010",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "PLAC > NIC, (nback)(whole-brain, session effect)",
+          "name": "PLAC > NIC, (nback)(whole-brain, session effect)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                10.0,
+                44.0,
+                0.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                28.0,
+                42.0,
+                42.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                20.0,
+                -8.0,
+                -20.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -28.0,
+                -4.0,
+                -22.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                30.0,
+                -56.0,
+                10.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -2.0,
+                -56.0,
+                16.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                6.0,
+                -80.0,
+                -6.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -42.0,
+                22.0,
+                -12.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              22
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(29) Xu, 2007",
+      "name": "(29) Xu, 2007",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "PLAC > NIC, (stroop)(inon-con)",
+          "name": "PLAC > NIC, (stroop)(inon-con)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                38.13,
+                -26.82,
+                47.42
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              9
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(30) Xu, 2005",
+      "name": "(30) Xu, 2005",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "PLAC > NIC, (n-back)(1-back)",
+          "name": "PLAC > NIC, (n-back)(1-back)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -47.65,
+                2.21,
+                32.51
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              8
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(31) Zubieta, 2005",
+      "name": "(31) Zubieta, 2005",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "PLAC > NIC, (rCBF, resting)(1st cig vs denic)",
+          "name": "PLAC > NIC, (rCBF, resting)(1st cig vs denic)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                15.76,
+                -6.4,
+                -6.87
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                36.03,
+                -23.62,
+                -4.56
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -13.85,
+                2.9,
+                -4.69
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -17.57,
+                -6.4,
+                -5.63
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -6.38,
+                47.23,
+                3.24
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                4.58,
+                0.42,
+                0.79
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              18
+            ]
+          }
+        },
+        {
+          "id": "PLAC > NIC, (rCBF, resting)(1st cig vs non-smoking)",
+          "name": "PLAC > NIC, (rCBF, resting)(1st cig vs non-smoking)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                21.16,
+                -67.91,
+                -12.61
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                15.82,
+                -11.46,
+                -12.76
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                35.33,
+                -43.4,
+                44.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -34.5,
+                -85.09,
+                -7.97
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                43.41,
+                -60.4,
+                -13.32
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -0.91,
+                6.38,
+                -2.34
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              17
+            ]
+          }
+        },
+        {
+          "id": "PLAC > NIC, (rCBF, resting)(2nd cig vs denic)",
+          "name": "PLAC > NIC, (rCBF, resting)(2nd cig vs denic)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -4.53,
+                28.93,
+                -2.07
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -15.91,
+                47.05,
+                24.68
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                4.71,
+                14.16,
+                -5.11
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              19
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(33) Loughead, 2011",
+      "name": "(33) Loughead, 2011",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "PLAC > NIC, (emotional processing)(whole-bra, drug main effect)",
+          "name": "PLAC > NIC, (emotional processing)(whole-bra, drug main effect)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                8.35,
+                8.3,
+                34.62
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                21.34,
+                -86.42,
+                -4.04
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                6.39,
+                -29.88,
+                6.79
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              22
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(34) Franklin, 2011",
+      "name": "(34) Franklin, 2011",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "PLAC > NIC, (CASL baseline time1 vs2)",
+          "name": "PLAC > NIC, (CASL baseline time1 vs2)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -1.69,
+                -1.23,
+                56.38
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -28.83,
+                -29.4,
+                -0.8
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -36.26,
+                7.03,
+                11.54
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                21.06,
+                -33.9,
+                5.02
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                19.68,
+                4.29,
+                -20.21
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              11
+            ]
+          }
+        },
+        {
+          "id": "PLAC > NIC, (CASL cue-presentation time1 vs2)",
+          "name": "PLAC > NIC, (CASL cue-presentation time1 vs2)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                1.05,
+                29.08,
+                -3.76
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              11
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(35) Lee, 2012",
+      "name": "(35) Lee, 2012",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "PLAC > NIC, (cue-reactivity)",
+          "name": "PLAC > NIC, (cue-reactivity)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -6.61,
+                -24.85,
+                0.01
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                54.25,
+                -15.82,
+                20.81
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -31.47,
+                -18.35,
+                -7.9
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -20.7,
+                42.21,
+                35.85
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -31.52,
+                30.65,
+                10.25
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                43.53,
+                11.74,
+                -1.08
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -54.07,
+                -21.11,
+                21.18
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -14.95,
+                -2.97,
+                7.35
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                24.06,
+                11.58,
+                1.28
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              12
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(36) McClernon, 2009",
+      "name": "(36) McClernon, 2009",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "PLAC > NIC, (cue-reactivity)",
+          "name": "PLAC > NIC, (cue-reactivity)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                5.91,
+                -39.99,
+                29.42
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                14.94,
+                -56.34,
+                42.43
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -20.17,
+                17.32,
+                59.63
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                22.11,
+                -39.84,
+                65.74
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                26.3,
+                -74.63,
+                17.47
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                17.29,
+                11.3,
+                23.66
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -21.62,
+                -50.98,
+                8.09
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                22.81,
+                -56.62,
+                6.51
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              18
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(40) ROSE, 2010",
+      "name": "(40) ROSE, 2010",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "PLCC > NIC, (IAT)(attention)",
+          "name": "PLCC > NIC, (IAT)(attention)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                52.0,
+                69.0,
+                41.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              25
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "(9) Lawrence, 2002",
+      "name": "(9) Lawrence, 2002",
+      "authors": "",
+      "publication": "",
+      "metadata": {},
+      "analyses": [
+        {
+          "id": "PLAC > NIC, (RVIP vs cntrl)",
+          "name": "PLAC > NIC, (RVIP vs cntrl)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -35.0,
+                1.0,
+                10.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -20.0,
+                -13.0,
+                -11.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -22.0,
+                -30.0,
+                -8.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              15
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
