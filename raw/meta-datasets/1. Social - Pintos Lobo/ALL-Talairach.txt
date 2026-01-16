@@ -259,7 +259,7 @@
 2	44	24
 50	22	22
 		
-//Saarela et al. 2008; STEP1 + STEP2 - REST		
+//Saarela et al., 2008; STEP1 + STEP2 - REST		
 // Subjects=12		
 -40	-32	14
 50	-24	9
@@ -276,7 +276,7 @@
 -6	-28	-8
 -17	-33	-18
 		
-//Saarela et al, 2008; NOISE1 + NOISE2 - REST		
+//Saarela et al., 2008; NOISE1 + NOISE2 - REST		
 // Subjects=12		
 -42	-30	13
 48	-22	9
@@ -362,7 +362,7 @@
 38	-47	42
 3	-38	41
 -33	14	8
-//Harris et al., 2007, 2007; SE>NS		
+//Harris et al., 2007; SE>NS		
 // Subjects=18		
 0	38	-1
 54	-36	-3
@@ -982,11 +982,11 @@
 6	-73	49
 -18	-79	43
 		
-//Chauvigne et al., 2018; Activations= Leading > Following (Followers only)		
+//Chauvigne et al., 2018b; Activations= Leading > Following (Followers only)		
 // Subjects=10		
 -39	44	34
 		
-//Chauvigne et al., 2018; Deactivations= Following > Leading (Whole-group)		
+//Chauvigne et al., 2018b; Deactivations= Following > Leading (Whole-group)		
 // Subjects=18		
 3	-54	23
 45	-59	25
@@ -994,7 +994,7 @@
 17	-33	0
 -21	-16	-6
 		
-//Chauvigne et al., 2018; Deactivations= Following > Leading (Followers only)		
+//Chauvigne et al., 2018b; Deactivations= Following > Leading (Followers only)		
 // Subjects=10		
 3	-61	31
 48	-61	31

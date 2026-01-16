@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Script to fetch titles for study_pmid values and add them
-as a new column to the CSV file.
+Script to fetch titles, publication years, and first authors for
+study_pmid values and add them as new columns to the CSV file.
 """
 
 import pandas as pd
@@ -11,9 +11,11 @@ from typing import Optional
 import xml.etree.ElementTree as ET
 
 
-def fetch_title_from_pmid(pmid: str) -> Optional[str]:
+def fetch_data_from_pmid(pmid: str) -> (
+        tuple[Optional[str], Optional[str], Optional[str]]):
     """
-    Fetch the title of a study given its PMID using the NCBI EFetch API.
+    Fetch the title, publication year, and first author of a study given
+    its PMID using the NCBI EFetch API.
     
     Parameters
     ----------
@@ -22,11 +24,12 @@ def fetch_title_from_pmid(pmid: str) -> Optional[str]:
         
     Returns
     -------
-    str or None
-        Title of the study if found, otherwise None
+    tuple[str or None, str or None, str or None]
+        Tuple of (title, publication_year, first_author) of the study if found,
+        otherwise (None, None, None)
     """
     if not pmid or pd.isna(pmid):
-        return None
+        return None, None, None
         
     try:
         # NCBI EFetch API URL
@@ -63,24 +66,51 @@ def fetch_title_from_pmid(pmid: str) -> Optional[str]:
         
         # Find the title in the XML
         title_element = root.find(".//ArticleTitle")
+        title = None
         if title_element is not None:
-            return title_element.text
+            title = title_element.text
             
         # Try alternative path
-        title_element = root.find(".//Title")
-        if title_element is not None:
-            return title_element.text
+        if title is None:
+            title_element = root.find(".//Title")
+            if title_element is not None:
+                title = title_element.text
+                
+        # Find the publication year in the XML
+        year_element = root.find(".//PubDate/Year")
+        year = None
+        if year_element is not None:
+            year = year_element.text
             
-        return None
+        # Try alternative path for year
+        if year is None:
+            year_element = root.find(
+                ".//PubMedPubDate[@PubStatus='pubmed']/Year")
+            if year_element is not None:
+                year = year_element.text
+                
+        # Find the first author in the XML
+        first_author = None
+        author_element = root.find(".//AuthorList/Author[1]/LastName")
+        if author_element is not None:
+            first_author = author_element.text
+        else:
+            # Try alternative path for author
+            author_element = root.find(".//Author/LastName")
+            if author_element is not None:
+                first_author = author_element.text
+                
+        return title, year, first_author
     except Exception as e:
-        print(f"Error fetching title for PMID {pmid}: {e}")
-        return None
+        print(f"Error fetching data for PMID {pmid}: {e}")
+        return None, None, None
 
 
-def add_titles_to_csv(input_file: str, output_file: str,
-                      sample_size: Optional[int] = None):
+def add_titles_years_and_authors_to_csv(input_file: str, output_file: str,
+                                        sample_size: Optional[int] = None):
     """
-    Add titles to the CSV file based on study_pmid values.
+    Add titles, publication years, and first authors to the CSV file based on
+    study_pmid values.
     
     Parameters
     ----------
@@ -120,18 +150,31 @@ def add_titles_to_csv(input_file: str, output_file: str,
         pmid = row['study_pmid']
         processed_count += 1
         
-        # Skip if pmid is missing (shouldn't happen due to mask, but just in case)
+        # Skip if pmid is missing (shouldn't happen due to mask,
+        # but just in case)
         if pd.isna(pmid):
             print(f"Skipping row {index + 1}: Missing PMID")
             continue
             
-        # Fetch the title
-        print(f"Fetching title for PMID {pmid} "
+        # Fetch the title, publication year, and first author
+        print(f"Fetching data for PMID {pmid} "
               f"({processed_count}/{total_rows})...")
-        title = fetch_title_from_pmid(str(pmid))
+        title, year, first_author = fetch_data_from_pmid(str(pmid))
         
         # Add the title to the dataframe
         df.at[index, 'title'] = title
+        
+        # Add the publication year to the dataframe if year column
+        # exists or create it
+        if 'year' not in df.columns:
+            df['year'] = None
+        df.at[index, 'year'] = year
+        
+        # Add the first author to the dataframe if author column
+        # exists or create it
+        if 'author' not in df.columns:
+            df['author'] = None
+        df.at[index, 'author'] = first_author
         
         # Add a delay to respect API rate limits
         time.sleep(0.5)
@@ -145,7 +188,8 @@ if __name__ == "__main__":
     import argparse
     
     parser = argparse.ArgumentParser(
-        description='Add titles to CSV file based on study_pmid values.')
+        description='Add titles, publication years, and first authors ' +
+                    'to CSV file based on study_pmid values.')
     parser.add_argument('input_file', type=str,
                         help='Input CSV file with study_pmid column')
     parser.add_argument('output_file', type=str,
@@ -155,4 +199,5 @@ if __name__ == "__main__":
     
     args = parser.parse_args()
     
-    add_titles_to_csv(args.input_file, args.output_file, args.sample)
+    add_titles_years_and_authors_to_csv(
+        args.input_file, args.output_file, args.sample)

@@ -1940,12 +1940,12 @@
 -48	-32	-8
 20	8	8
 		
-//Majdandzic et al., 2016, DISSIMILAR > SIMILAR; others		
+//Majdandzic et al., 2016; DISSIMILAR > SIMILAR; others		
 // Subjects=30		
 -36	30	18
 38	30	14
 		
-//Majdandzic et al., 2016, PAINFUL > NON-PAINFUL and SELF PAINFUL > NON-PAINFUL; others		
+//Majdandzic et al., 2016; PAINFUL > NON-PAINFUL and SELF PAINFUL > NON-PAINFUL; others		
 // Subjects=30		
 -32	22	2
 34	24	2

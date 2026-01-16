@@ -3796,13 +3796,13 @@
 -16	-2	-12
 -40	20	-22
 		
-//Hartung et al., 2019= before treatment > after treatment (increased activation)		
+//Hartung et al., 2019; before treatment > after treatment (increased activation)		
 // Subjects=21		
 -28	-98	8
 34	-90	2
 42	8	26
 		
-//Hartung et al., 2019= before treatment > after treatment (decreased activation)		
+//Hartung et al., 2019; before treatment > after treatment (decreased activation)		
 // Subjects=21		
 -2	36	10
 6	-88	12
@@ -4346,31 +4346,31 @@
 42	-14	48
 44	-18	62
 		
-//Spunt et al., 2019, HumanEmotion>Expression & PrimateEmotion>Expression & DogEmotion>Expression		
+//Spunt et al., 2019; HumanEmotion>Expression & PrimateEmotion>Expression & DogEmotion>Expression		
 // Subjects=16		
 -8	56	28
 -46	26	-14
 		
-//Spunt et al., 2019, HumanExpression>Emotion & PrimateExpression>Emotion & DogExpression>Emotion		
+//Spunt et al., 2019; HumanExpression>Emotion & PrimateExpression>Emotion & DogExpression>Emotion		
 // Subjects=16		
 -32	-44	40
 -58	-34	46
 		
-//Spunt et al., 2019, HumanEmotion+Expression > PrimateEmotion+Expression & HumanEmotion+Expression > DogEmotion+Expression		
+//Spunt et al., 2019; HumanEmotion+Expression > PrimateEmotion+Expression & HumanEmotion+Expression > DogEmotion+Expression		
 // Subjects=16		
 -4	-54	26
 52	-8	16
 8	56	-12
 -52	-12	-16
 		
-//Spunt et al., 2019, PrimateEmotion+Expression > HumanEmotion+Expression & DogEmotion+Expression> HumanEmotion+Expression		
+//Spunt et al., 2019; PrimateEmotion+Expression > HumanEmotion+Expression & DogEmotion+Expression> HumanEmotion+Expression		
 // Subjects=16		
 34	-88	10
 -28	-92	12
 -40	-64	-8
 48	-60	-6
 		
-//Spunt et al., 2019, PrimateEmotion+Expression > HumanEmotion+Expression & DogEmotion+Expression> HumanEmotion+Expression		
+//Spunt et al., 2019; PrimateEmotion+Expression > HumanEmotion+Expression & DogEmotion+Expression> HumanEmotion+Expression		
 // Subjects=16		
 38	-48	-16
 -36	-82	-4
@@ -4380,21 +4380,21 @@
 -22	-12	-12
 -2	-52	22
 		
-//Spunt et al., 2019, PrimateFace > HumanFace & DogFace > HumanFace		
+//Spunt et al., 2019; PrimateFace > HumanFace & DogFace > HumanFace		
 // Subjects=16		
 -30	-64	-4
 		
-//Majdandzic et al., 2016, DISSIMILAR > SIMILAR		
+//Majdandzic et al., 2016; DISSIMILAR > SIMILAR		
 // Subjects=30		
 -36	30	18
 38	30	14
 		
-//Majdandzic et al., 2016, PAINFUL > NON-PAINFUL and SELF PAINFUL > NON-PAINFUL		
+//Majdandzic et al., 2016; PAINFUL > NON-PAINFUL and SELF PAINFUL > NON-PAINFUL		
 // Subjects=30		
 -32	22	2
 34	24	2
 		
-//Tomova et al., 2017, (INJECTION > QTIP)= STRESS > CONTROL \ (BIOPSY > QTIP)= STRESS > CONTROL		
+//Tomova et al., 2017; (INJECTION > QTIP)= STRESS > CONTROL \ (BIOPSY > QTIP)= STRESS > CONTROL		
 // Subjects=67		
 -2	-88	-8
 -6	4	-2
