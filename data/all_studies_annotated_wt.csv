@@ -1,0 +1,487 @@
+meta_pmid,study_pmid,status,final_status,corrected_status,reason,SourceSheet,posthoc_status,posthoc_reason,title,year,author
+36436737,10607399,YES,YES,YES,,YES,,,Distinct representations of eye gaze and identity in the distributed human neural system for face perception.,2000,Hoffman
+36436737,10943684,YES,NO,,,YES,,,Differential response in the human amygdala to racial outgroup vs ingroup face stimuli.,2000,Hart
+36436737,11352615,YES,YES,YES,,YES,NO,"Full-text unavailable, exclude",Seen gaze-direction modulates fusiform activity and its coupling with other brain areas during face processing.,2001,George
+36436737,11496124,YES,YES,YES,,YES,,,Investigating the functional anatomy of empathy and forgiveness.,2001,Farrow
+36436737,11850635,YES,YES,YES,,YES,,,Automatic and intentional brain responses during evaluation of trustworthiness of faces.,2002,Winston
+36436737,12202103,NO,NO,NO,NotHealthy,YES,,,Hyperscanning: simultaneous fMRI during linked social interactions.,2002,Montague
+36436737,14568477,YES,YES,YES,,YES,,,Self-responsibility and the self-serving bias: an fMRI investigation of causal attributions.,2003,Blackwood
+36436737,14980212,YES,YES,YES,,YES,,,Brain responses to the acquired moral status of faces.,2004,Singer
+36436737,15006683,YES,YES,YES,,YES,,,Watching social interactions produces dorsomedial prefrontal and medial parietal BOLD fMRI signal increases compared to a resting baseline.,2004,Iacoboni
+36436737,15327630,YES,NO,YES,"NoCoordinates, Maybe",YES,YES,"LLM going beyond instructions to say not ""generalizable""",When strangers pass: processing of mutual and averted social gaze in the superior temporal sulcus.,2004,Pelphrey
+36436737,15488424,YES,YES,YES,,YES,,,The neural bases of cooperation and competition: an fMRI investigation.,2004,Decety
+36436737,15528097,YES,YES,YES,,YES,,,Brain activation associated with evaluative processes of guilt and embarrassment: an fMRI study.,2004,Takahashi
+36436737,15668098,NO,NO,NO,Non-Adults,Non-Adults,,,Mapping brain maturation and cognitive development during adolescence.,2005,Paus
+36436737,15701234,YES,YES,YES,,YES,,,Understanding intentions in social interaction: the role of the anterior paracingulate cortex.,2004,Walter
+36436737,15808992,NO,YES,YES,Age,,,,"Self-face recognition activates a frontoparietal ""mirror"" network in the right hemisphere: an event-related fMRI study.",2005,Uddin
+36436737,15862225,YES,NO,YES,,YES,,,Forming impressions of people versus inanimate objects: social-cognitive processing in the medial prefrontal cortex.,2005,Mitchell
+36436737,16023041,NO,NO,NO,Non-Adults,Non-Adults,,,"Taking an ""intentional stance"" on eye-gaze shifts: a functional neuroimaging study of social perception in children.",2005,Mosconi
+36436737,16035037,YES,YES,YES,,YES,,,Neural substrates for functionally discriminating self-face from personally familiar faces.,2006,Platek
+36436737,16055351,YES,YES,YES,,YES,,,Emotion and attention interactions in social cognition: brain regions involved in processing anger prosody.,2005,Sander
+36436737,16122944,YES,YES,YES,,YES,,,Neuronal correlates of theory of mind and empathy: a functional magnetic resonance imaging study in a nonverbal task.,2006,Völlm
+36436737,16171833,YES,YES,YES,,YES,,,Being with virtual others: Neural correlates of social interaction.,2006,Schilbach
+36436737,16406606,YES,YES,YES,,YES,,,Similar brain networks for detecting visuo-motor and visuo-proprioceptive synchrony.,2006,Balslev
+36436737,16759672,YES,YES,YES,,,,,Spontaneous retrieval of affective person knowledge in face perception.,2007,Todorov
+36436737,17055981,YES,NO,NO,ROI,,NO,Only ROI data is shown,Cortical responses to invisible faces: dissociating subsystems for facial-information processing.,2006,Jiang
+36436737,17071110,YES,YES,YES,,YES,,,Evidence for a different role of the ventral and dorsal medial prefrontal cortex for social reactive aggression: An interactive fMRI study.,2007,Lotze
+36436737,17100784,YES,NO,YES,NoCoordiantes,YES,,,Dehumanizing the lowest of the low: neuroimaging responses to extreme out-groups.,2006,Harris
+36436737,17404215,YES,YES,YES,,YES,,,Social concepts are represented in the superior anterior temporal cortex.,2007,Zahn
+36436737,17408704,YES,YES,YES,,YES,,,Amygdala activation and facial expressions: explicit emotion discrimination versus implicit emotion processing.,2007,Habel
+36436737,17499173,NO,NO,NO,Non-Human,Non-Human,,,Beyond grasping: representation of action in human anterior intraparietal sulcus.,2007,Tunik
+36436737,17536964,YES,NO,YES,Only PDF,YES,,,Distinct regions of the medial prefrontal cortex are associated with self-referential processing and perspective taking.,2007,D'Argembeau
+36436737,17627852,YES,YES,YES,,YES,,,Cortical mechanism of communicative speech production.,2007,Sassa
+36436737,17964185,NO,YES,YES,NotHealthy,YES,,,Why are friends special? Implementing a social interaction simulation task to probe the neural correlates of friendship.,2008,Güroğlu
+36436737,17986835,YES,YES,YES,,YES,,,Cerebral differences in explicit and implicit emotional processing--an fMRI study.,2007,Scheuerecker
+36436737,18082427,NO,NO,NO,Non-Adults,,,,Mirroring others' emotions relates to empathy and interpersonal competence in children.,2008,Pfeifer
+36436737,18234518,YES,NO,NO,Atypical,YES,NO,"Main whole-brain analyses are not reported, only timecourses in ROIs",Cognitive control in social situations: a role for the dorsolateral prefrontal cortex.,2008,Weissman
+36436737,18313858,,YES,YES,,,,,Valuating other people's emotional face expression: a combined functional magnetic resonance imaging and electroencephalography study.,2008,Seitz
+36436737,18370602,YES,YES,YES,,,,,Mirror neuron system differentially activated by facial expressions and social hand gestures: a functional magnetic resonance imaging study.,2008,Montgomery
+36436737,18375769,NO,NO,NO,Non-Human,Non-Human,,,Perception of emotional expressions is independent of face selectivity in monkey inferior temporal cortex.,2008,Hadj-Bouziane
+36436737,18431500,YES,NO,YES,,YES,,,Cooperation and deception recruit different subsets of the theory-of-mind network.,2008,Lissek
+36436737,18439411,YES,YES,YES,,YES,,,Know your place: neural processing of social hierarchy in humans.,2008,Zink
+36436737,18486489,YES,NO,YES,,YES,,,"Self, mother and abstract other: an fMRI study of reflective social processing.",2008,Vanderwal
+36436737,18486491,NO,YES,YES,???,,,,Social cognitive neural networks during in-group and out-group interactions.,2008,Rilling
+36436737,18501639,YES,YES,YES,,YES,,,Face-specific and domain-general characteristics of cortical responses during self-recognition.,2008,Sugiura
+36436737,18514546,YES,YES,YES,,YES,,,Gender differences in brain networks supporting empathy.,2008,Schulte-Rüther
+36436737,18537114,YES,YES,YES,,YES,,,Frontal operculum temporal difference signals and social motor response learning.,2009,Kumar
+36436737,18573266,NO,NO,NO,Non-Adults,Non-Adults,,,Who caused the pain? An fMRI investigation of empathy and intentionality in children.,2008,Decety
+36436737,18585742,YES,YES,YES,,YES,,,The posterior superior temporal sulcus is involved in social communication not specific for the eyes.,2008,Materna
+36436737,18586108,NO,NO,NO,NotHealthy,YES,,,Your hand or mine? The extrastriate body area.,2008,Myers
+36436737,18603608,NO,YES,YES,NotHealthy,YES,,,Understanding the intentions behind man-made products elicits neural activity in areas dedicated to mental state attribution.,2009,Steinbeis
+36436737,18633788,YES,YES,YES,,YES,,,"Theory of mind broad and narrow: reasoning about social exchange engages ToM areas, precautionary reasoning does not.",2006,Ermer
+36436737,18633834,YES,YES,YES,,,,,Listening to humans walking together activates the social brain circuitry.,2008,Saarela
+36436737,18633845,YES,NO,YES,,,,,What's in a smile? Neural correlates of facial embodiment during social interaction.,2008,Schilbach
+36436737,18633846,YES,YES,YES,,YES,,,Observing social interactions: the effect of gaze.,2008,Pierno
+36436737,18633856,YES,YES,YES,,YES,,,Friend or foe? Brain systems involved in the perception of dynamic signals of menacing and friendly social approaches.,2008,Carter
+36436737,18783371,YES,YES,YES,,YES,,,Through the looking glass: counter-mirror activation following incompatible sensorimotor learning.,2008,Catmur
+36436737,18985118,YES,YES,YES,,YES,,,Social groups that elicit disgust are differentially processed in mPFC.,2007,Harris
+36436737,18985119,YES,YES,YES,,YES,,,Social interaction modifies neural response to gaze shifts.,2007,Bristow
+36436737,19015088,NO,YES,YES,NotHealthy,YES,,,Mapping social target detection with functional magnetic resonance imaging.,2009,Dichter
+36436737,19048432,YES,YES,YES,,YES,,,Dynamic pupillary exchange engages brain regions encoding social salience.,2009,Harrison
+36436737,19048446,NO,NO,NO,Non-Adults,Non-Adults,,,Developmental frontal lobe imaging in moral judgment: Arthur Benton's enduring influence 60 years later.,2009,Eslinger
+36436737,19107754,NO,YES,YES,NotHealthy,YES,,,Neural basis of individualistic and collectivistic views of self.,2009,Chiao
+36436737,19136216,YES,YES,YES,,YES,NO,Not Whole Brain,Amygdala activity to fear and anger in healthy young males is associated with testosterone.,2009,Derntl
+36436737,19199417,,YES,YES,,YES,,,How do we empathize with someone who is not like us? A functional magnetic resonance imaging study.,2010,Lamm
+36436737,19199419,YES,NO,YES,,YES,,,Cross-cultural reading the mind in the eyes: an fMRI investigation.,2010,Adams
+36436737,19304843,YES,YES,YES,,YES,,,What motivates repayment? Neural correlates of reciprocity in the Trust Game.,2009,van den Bos
+36436737,19347874,YES,YES,YES,,YES,,,Attachment avoidance modulates neural response to masked facial emotion.,2009,Suslow
+36436737,19384602,YES,NO,NO,NotHealthy,,YES,Subjects are healthy ,Audiovisual non-verbal dynamic faces elicit converging fMRI and ERP responses.,2009,Brefczynski-Lewis
+36436737,19439183,YES,YES,YES,,,,,Social context and perceived agency affects empathy for pain: an event-related fMRI investigation.,2009,Akitsuki
+36436737,19596021,YES,NO,NO,Atypical,YES,,,Cerebral representation of non-verbal emotional perception: fMRI reveals audiovisual integration area between voice- and face-sensitive regions in the superior temporal sulcus.,2009,Kreifelts
+36436737,19630890,NO,NO,NO,Non-Adults,Non-Adults,,,Probing the neural correlates of anticipated peer evaluation in adolescence.,2009,Guyer
+36436737,19630891,NO,NO,NO,Age,YES,YES,Adult only data is reported,Neural correlates of direct and reflected self-appraisals in adolescents and adults: when social perspective-taking informs self-perception.,2009,Pfeifer
+36436737,19733672,YES,YES,YES,,,,,Neural correlates of social cognition in naturalistic settings: a model-free analysis approach.,2010,Wolf
+36436737,19739909,NO,NO,NO,Non-Adults,Non-Adults,NO,No young only results reported,Aging minds and twisting attitudes: an fMRI investigation of age differences in inhibiting prejudice.,2009,Krendl
+36436737,19944083,YES,YES,YES,,,,,Emotional and cognitive aspects of empathy and their relation to social cognition--an fMRI-study.,2010,Krämer
+36436737,20045478,YES,YES,YES,,YES,,,When I think about me and simulate you: medial rostral prefrontal cortex and self-referential processes.,2010,Benoit
+36436737,20056152,YES,YES,YES,,,,,Brain mechanisms for representing what another person sees.,2010,Heyda
+36436737,20071521,YES,YES,YES,,YES,,,Value computations in ventral medial prefrontal cortex during charitable decision making incorporate input from regions involved in social cognition.,2010,Hare
+36436737,20096792,YES,YES,YES,,,,,Live face-to-face interaction during fMRI: a new tool for social cognitive neuroscience.,2010,Redcay
+36436737,20098696,YES,NO,YES,No Coordinates,YES,,,Common premotor regions for the perception and production of prosody and correlations with empathy and prosodic ability.,2010,Aziz-Zadeh
+36436737,20119878,YES,YES,YES,,,,,Neural regions that underlie reinforcement learning are also active for social expectancy violations.,2010,Harris
+36436737,20188182,YES,YES,YES,,YES,,,Love hurts: an fMRI study.,2010,Cheng
+36436737,20188190,YES,YES,YES,,,,,'Do I like this person?' A network analysis of midline cortex during a social preference task.,2010,Chen
+36436737,20350167,NO,NO,NO,NotOriginal,YES,,,The role of the human prefrontal cortex in social cognition and moral judgment.,2010,Forbes
+36436737,20350171,YES,YES,YES,,YES,,,Beyond the memory mechanism: person-selective and nonselective processes in recognition of personally familiar faces.,2011,Sugiura
+36436737,20350187,,YES,YES,,,,,From agents to objects: sexist attitudes and neural responses to sexualized targets.,2011,Cikara
+36436737,20401807,NO,NO,NO,NotHealthy,,,,Resisting motor mimicry: control of imitation involves processes central to social cognition in patients with frontal and temporo-parietal lesions.,2010,Spengler
+36436737,20439736,YES,NO,NO,Atypical,,NO,"Atypical analysis - Granger causality is not the main task evoked effect. Although there are some whole-brain GLM results, they are not the critical contrast",Mapping the information flow from one brain to another during gestural communication.,2010,Schippers
+36436737,20460301,YES,NO,NO,ROI,YES,,,"Stop looking angry and smile, please: start and stop of the very same facial expression differentially activate threat- and reward-related brain networks.",2011,Mühlberger
+36436737,20534459,YES,YES,YES,,YES,,,Neural correlates of anchoring-and-adjustment during mentalizing.,2010,Tamir
+36436737,20695655,NO,NO,NO,Non-Human,Non-Human,,,A comparative view of face perception.,2010,Leopold
+36436737,20705602,YES,YES,YES,,YES,,,Eyes on me: an fMRI study of the effects of social gaze on action control.,2011,Schilbach
+36436737,20923708,NO,NO,NO,Age,YES,NO,Main adult effects are not separately reported,Developmental influences on the neural bases of responses to social rejection: implications of social neuroscience for education.,2011,Sebastian
+36436737,20943931,YES,NO,YES,No Coordinates,,,,Clan mentality: evidence that the medial prefrontal cortex responds to close others.,2010,Krienen
+36436737,20977559,NO,NO,NO,Age,YES,,,Neurodevelopmental changes in the circuits underlying empathy and sympathy from childhood to adulthood.,2010,Decety
+36436737,21036192,NO,NO,NO,Non-Adults,Non-Adults,,,The social brain in adolescence: evidence from functional magnetic resonance imaging and behavioural studies.,2011,Burnett
+36436737,21164174,NO,NO,NO,Non-Adults,Non-Adults,,,"Changing brains, changing perspectives: the neurocognitive development of reciprocity.",2011,van den Bos
+36436737,21172325,YES,NO,NO,Atypical,YES,,,I remember you: a role for memory in social cognition and the functional neuroanatomy of their interaction.,2012,Spreng
+36436737,21206532,YES,YES,YES,,YES,,,Individuating faces and common objects produces equal responses in putative face-processing areas in the ventral occipitotemporal cortex.,2010,Haist
+36436737,21249224,YES,YES,YES,,YES,,,Recruitment of both the mirror and the mentalizing networks when observing social interactions depicted by point-lights: a neuroimaging study.,2011,Centelles
+36436737,21278194,NO,NO,NO,Non-Adults,Non-Adults,,,Development of the action observation network during early adolescence: a longitudinal study.,2012,Shaw
+36436737,21320516,YES,YES,YES,,YES,,,Gender differences in the neural correlates of humor processing: implications for different processing modes.,2011,Kohn
+36436737,21569855,YES,YES,YES,,YES,,,An fMRI study of violations of social expectations: when people are not who we expect them to be.,2011,Cloutier
+36436737,21600991,YES,YES,YES,,YES,,,The representation of social interaction in episodic memory: a functional MRI study.,2011,Mano
+36436737,21606658,YES,YES,YES,,YES,,,The role of the right hemisphere for processing of social interactions in normal adults using functional magnetic resonance imaging.,2011,Semrud-Clikeman
+36436737,21664277,,YES,YES,,YES,,,Higher or lower? The functional anatomy of perceived allocentric social hierarchies.,2011,Farrow
+36436737,21703352,NO,YES,YES,NotHealthy,YES,,,Neural regions associated with self control and mentalizing are recruited during prosocial behaviors towards the family.,2011,Telzer
+36436737,21723130,NO,NO,NO,Non-Adults,Non-Adults,,,Early specialization for voice and emotion processing in the infant brain.,2011,Blasi
+36436737,21761508,YES,NO,YES,NoCoordinates,YES,,,Functional dissociation of the left and right fusiform gyrus in self-face recognition.,2012,Ma
+36436737,21775952,NO,NO,NO,NotHealthy,YES,NO,Not a real original study,Brain imaging investigation of the neural correlates of observing virtual social interactions.,2011,Sung
+36436737,21812564,NO,NO,NO,Non-Adults,Non-Adults,,,Development of functional connectivity during adolescence: a longitudinal study using an action-observation paradigm.,2011,Shaw
+36436737,21849560,YES,YES,YES,,YES,,,The control of mimicry by eye contact is mediated by medial prefrontal cortex.,2011,Wang
+36436737,21862446,YES,YES,YES,,YES,NO,Technically not whole brain,Orbitofrontal cortex and anterior cingulate cortex are modulated by motivated social cognition.,2012,Hughes
+36436737,21864459,,YES,YES,,,,,Cerebral correlates and statistical criteria of cross-modal face and voice integration.,2011,Love
+36436737,21908447,YES,YES,YES,,,,,Dissociable neural correlates of stereotypes and other forms of semantic knowledge.,2012,Contreras
+36436737,21940454,YES,YES,YES,,YES,,,Supramodal representation of emotions.,2011,Klasen
+36436737,21955370,YES,YES,YES,,YES,,,An fMRI study of the social competition in healthy subjects.,2011,Polosan
+36436737,21981758,YES,NO,YES,,YES,,,Differential brain responses to social exclusion by one's own versus opposite-gender peers.,2012,Bolling
+36436737,22003388,YES,NO,NO,"ROI, Atypical",YES,,,Predicting decisions in human social interactions using real-time fMRI and pattern classification.,2011,Hollmann
+36436737,22019860,YES,YES,YES,,YES,,,Biological motion processing: the left cerebellum communicates with the right superior temporal sulcus.,2012,Sokolov
+36436737,22038344,NO,NO,NO,Non-Adults,Non-Adults,,,"""Better the devil you know"": a preliminary study of the differential modulating effects of reputation on reward processing for boys with and without externalizing behavior problems.",2011,Sharp
+36436737,22125232,YES,YES,YES,,YES,,,Brain mechanisms for processing affective touch.,2013,Gordon
+36436737,22174872,YES,YES,YES,,YES,,,The neural correlates of emotional prosody comprehension: disentangling simple from complex emotion.,2011,Alba-Ferrara
+36436737,22257745,NO,NO,NO,Non-Adults,Non-Adults,,,Rebelling against the brain: public engagement with the 'neurological adolescent'.,2012,Choudhury
+36436737,22290781,YES,NO,YES,,YES,,,Seeing is believing: neural mechanisms of action-perception are biased by team membership.,2013,Molenberghs
+36436737,22308468,NO,NO,NO,,,YES,,Evidence for social working memory from a parametric functional MRI study.,2012,Meyer
+36436737,22349798,YES,YES,YES,,YES,,,Empathic choice involves vmPFC value signals that are modulated by social processing implemented in IPL.,2013,Janowski
+36436737,22360624,YES,YES,YES,,YES,,,The superior temporal sulcus differentiates communicative and noncommunicative auditory signals.,2012,Shultz
+36436737,22371086,YES,NO,NO,Age,YES,NO,Young control results are not reported independently of older group,Age-related neural differences in affiliation and isolation.,2012,Beadle
+36436737,22403154,YES,NO,YES,,YES,,,Neuroimaging self-esteem: a fMRI study of individual differences in women.,2013,Frewen
+36436737,22434810,NO,NO,NO,Non-Adults,Non-Adults,,,Development of the social brain in adolescence.,2012,Blakemore
+36436737,22439896,NO,NO,NO,Non-Adults,Non-Adults,NO,Control young subjects results is not reported separately,Age-related changes to the neural correlates of social evaluation.,2012,Cassidy
+36436737,22490923,YES,NO,YES,,YES,,,The neural dynamics of updating person impressions.,2013,Mende-Siedlecki
+36436737,22507230,YES,NO,NO,Not Social,,YES,"By definition on meta-analysis, it is a social task",Disentangling the brain networks supporting affective speech comprehension.,2012,Hervé
+36436737,22507699,NO,NO,NO,NotOriginal,YES,,,Imaging models of valuation during social interaction in humans.,2012,Kishida
+36436737,22563005,NO,YES,YES,NotHealthy,YES,,,Familiarity promotes the blurring of self and other in the neural representation of threat.,2013,Beckes
+36436737,22563008,NO,NO,NO,Non-Adults,Non-Adults,NO,Only developmental (age-related) effects are shown,Differential neurobiological effects of expert advice on risky choice in adolescents and adults.,2012,Engelmann
+36436737,22623534,YES,NO,NO,Atypical,YES,NO,Atypical analysis - not main task evoked effect,Emotions promote social interaction by synchronizing brain activity across individuals.,2012,Nummenmaa
+36436737,22661409,YES,YES,YES,,,,,Functional neural plasticity and associated changes in positive affect after compassion training.,2013,Klimecki
+36436737,22726841,YES,YES,YES,,YES,,,Learning to simulate others' decisions.,2012,Suzuki
+36436737,22841755,YES,YES,YES,,YES,,,Neural correlates of social motivation: an fMRI study on power versus affiliation.,2013,Quirin
+36436737,22848759,YES,YES,YES,,YES,,,The neural bases of social intention understanding: the role of interaction goals.,2012,Canessa
+36436737,22905026,YES,NO,YES,,YES,,,Naturalistic FMRI mapping reveals superior temporal sulcus as the hub for the distributed brain network for social perception.,2012,Lahnakoski
+36436737,22909094,NO,NO,NO,Non-Adults,Non-Adults,,,Normal aging modulates prefrontoparietal networks underlying multiple memory processes.,2012,Sambataro
+36436737,22956840,YES,YES,YES,,YES,,,A neural signature of affiliative emotion in the human septohypothalamic area.,2012,Moll
+36436737,22982277,NO,NO,NO,Non-Adults,Non-Adults,YES,"Whole brain is shown, for adult group",The missing link: mothers' neural response to infant cry related to infant attachment behaviors.,2012,Laurent
+36436737,23063451,YES,YES,YES,,YES,,,Inter-individual differences in successful perspective taking during pain perception mediates emotional responsiveness in self and others: an fMRI study.,2013,van der Heiden
+36436737,23110882,YES,NO,YES,,YES,,,fMRI reveals reciprocal inhibition between social and physical cognitive domains.,2013,Jack
+36436737,23142071,NO,NO,NO,Non-Human,Non-Human,YES,Non-human but have human only results,Dissimilar processing of emotional facial expressions in human and monkey temporal cortex.,2013,Zhu
+36436737,23149446,NO,NO,NO,Non-Adults,Non-Adults,,,Maternal interpersonal affiliation is associated with adolescents' brain structure and reward processing.,2012,Schneider
+36436737,23221019,NO,YES,YES,NotHealthy,YES,,,The busy social brain: evidence for automaticity and control in the neural systems supporting social cognition and action understanding.,2013,Spunt
+36436737,23249349,NO,YES,YES,NotHealthy,YES,,,Seeing it my way or your way: frontoparietal brain areas sustain viewpoint-independent perspective selection processes.,2013,Ramsey
+36436737,23251653,YES,NO,YES,,YES,,,FMRI evidence of 'mirror' responses to geometric shapes.,2012,Press
+36436737,23267322,YES,NO,NO,ROI,YES,NO,Whole brain data is not reported,Interaction vs. observation: distinctive modes of social cognition in human brain and behavior? A combined fMRI and eye-tracking study.,2012,Tylén
+36436737,23298748,YES,YES,YES,,YES,,,Working memory for social information: chunking or domain-specific buffer?,2013,Thornton
+36436737,23327932,YES,YES,YES,,YES,,,Reminders of mortality decrease midcingulate activity in response to others' suffering.,2014,Luo
+36436737,23378834,YES,YES,YES,Also includes a meta-analysis in the paper,YES,,,Anterior temporal face patches: a meta-analysis and empirical study.,2013,Von Der Heide
+36436737,23435496,NO,YES,YES,NotHealthy,YES,,,Gender-selective neural populations: evidence from event-related fMRI repetition suppression.,2013,Podrebarac
+36436737,23460073,YES,YES,YES,,YES,,,Responses of medial and ventrolateral prefrontal cortex to interpersonal conflict for resources.,2014,Koban
+36436737,23482624,YES,YES,YES,,YES,,,From mind to matter: neural correlates of abstract and concrete mindsets.,2014,Gilead
+36436737,23508477,NO,YES,YES,NotHealthy,YES,,,The neural correlates of beauty comparison.,2014,Kedia
+36436737,23528247,YES,NO,NO,Atypical,YES,,,Decoding the representation of learned social roles in the human brain.,2013,Eger
+36436737,23574585,YES,YES,YES,,YES,,,Common brain regions with distinct patterns of neural responses during mentalizing about groups and individuals.,2013,Contreras
+36436737,23599165,YES,YES,YES,,YES,,,The role of the posterior temporal and medial prefrontal cortices in mediating learning from romantic interest and rejection.,2014,Cooper
+36436737,23620602,YES,YES,YES,,YES,,,Do you mean me? Communicative intentions recruit the mirror and the mentalizing system.,2014,Ciaramidaro
+36436737,23639347,NO,NO,NO,Non-Adults,Non-Adults,YES,Scanning was done when participant were adults,Childhood maternal support and social capital moderate the regulatory impact of social relationships in adulthood.,2013,Coan
+36436737,23667619,YES,YES,YES,,YES,,,Different types of laughter modulate connectivity within distinct parts of the laughter perception network.,2013,Wildgruber
+36436737,23684882,YES,YES,YES,,YES,,,Differential role of the Mentalizing and the Mirror Neuron system in the imitation of communicative gestures.,2013,Mainieri
+36436737,23696200,YES,YES,YES,,YES,,,Compassion training alters altruism and neural responses to suffering.,2013,Weng
+36436737,23720575,YES,YES,YES,,YES,,,Reward-related neural responses are dependent on the beneficiary.,2014,Braams
+36436737,23722983,YES,YES,YES,,YES,,,Creating buzz: the neural correlates of effective message propagation.,2013,Falk
+36436737,23740868,YES,YES,YES,,YES,,,"The neural correlates of 'vitality form' recognition: an fMRI study: this work is dedicated to Daniel Stern, whose immeasurable contribution to science has inspired our research.",2014,Di Cesare
+36436737,23770622,YES,NO,YES,,YES,,,Cognitive and affective theory of mind share the same local patterns of activity in posterior temporal but not medial prefrontal cortex.,2014,Corradi-Dell'Acqua
+36436737,23804962,NO,NO,NO,Non-Adults,,,,The medial prefrontal cortex and the emergence of self-conscious emotion in adolescence.,2013,Somerville
+36436737,23813661,YES,YES,YES,,YES,,,Perceiving nonverbal behavior: neural correlates of processing movement fluency and contingency in dyadic interactions.,2014,Georgescu
+36436737,23850465,NO,NO,NO,NotHealthy,YES,YES,"Not explicitly healthy, but inferred",Outcome dependency alters the neural substrates of impression formation.,2013,Ames
+36436737,23876243,YES,YES,YES,,,,,Sex differences in the development of brain mechanisms for processing biological motion.,2013,Anderson
+36436737,23887806,YES,NO,YES,,YES,,,From social-signal detection to higher social cognition: an fMRI approach.,2014,Sugiura
+36436737,23887810,YES,YES,YES,,YES,,,An fMRI investigation of the effects of belief in free will on third-party punishment.,2014,Krueger
+36436737,23911672,YES,NO,YES,NotSocial?,YES,,,Superior temporal sulcus and social cognition in dangerous drivers.,2013,Zelinková
+36436737,23917500,NO,NO,NO,,,,,[Social decision-making and theoretical neuroscience: prospects for human sciences and computational psychiatry].,2013,Nakahara
+36436737,23948645,YES,NO,NO,Age,YES,,,The functional architecture for face-processing expertise: FMRI evidence of the developmental trajectory of the core and the extended face systems.,2013,Haist
+36436737,23988759,NO,YES,YES,NotHealthy,YES,,,A neuroimaging investigation of attribute framing and individual differences.,2014,Murch
+36436737,24036130,NO,NO,NO,Non-Human,Non-Human,,,Investigation of musicality in birdsong.,2014,Rothenberg
+36436737,24051621,YES,YES,YES,,,,,Automatic and intentional brain responses during evaluation of face approachability: correlations with trait anxiety.,2013,Toki
+36436737,24068815,YES,YES,YES,,,,,Right supramarginal gyrus is crucial to overcome emotional egocentricity bias in social judgments.,2013,Silani
+36436737,24084068,YES,YES,YES,,YES,,,Revealing the neural networks associated with processing of natural social interaction and the related effects of actor-orientation and face-visibility.,2014,Saggar
+36436737,24089495,YES,NO,YES,,YES,,,Imaging social motivation: distinct brain mechanisms drive effort production during collaboration versus competition.,2013,Le Bouc
+36436737,24097375,YES,YES,YES,,YES,,,Rough primes and rough conversations: evidence for a modality-specific basis to mental metaphors.,2014,Schaefer
+36436737,24106333,YES,NO,NO,Atypical,YES,,,Individual differences in posterior cortical volume correlate with proneness to pride and gratitude.,2014,Zahn
+36436737,24144548,YES,NO,YES,,YES,,,Interindividual synchronization of brain activity during live verbal communication.,2014,Spiegelhalder
+36436737,24243619,YES,YES,YES,,YES,,,Neural correlates of explicit social judgments on vocal stimuli.,2015,Hensel
+36436737,24265613,YES,NO,NO,Atypical,YES,NO,"Atypical analysis, not main task evoked effect",Connecting multimodality in human communication.,2013,Regenbogen
+36436737,24294841,YES,YES,YES,,YES,,,"Empathy, ToM, and self-other differentiation: an fMRI study of internal states.",2014,Reniers
+36436737,24294906,YES,YES,YES,,YES,,,Establishing cooperation in a mixed-motive social dilemma. An fMRI study investigating the role of social value orientation and dispositional trust.,2014,Emonds
+36436737,24341069,NO,NO,NO,NoCoordiantes,,,,[Social neuroscience and psychiatry].,2013,Takahashi
+36436737,24381271,NO,NO,NO,Non-Human,Non-Human,,,Heterogeneous single-unit selectivity in an fMRI-defined body-selective patch.,2014,Popivanov
+36436737,24412433,NO,NO,NO,"Age, NotHealthy",YES,NO,Control participants are older,When a loved one feels unfamiliar: a case study on the neural basis of Capgras delusion.,2014,Thiel
+36436737,24412687,YES,NO,NO,Non-Adults,YES,NO,Adult group results not reported,Developmental changes of neuronal networks associated with strategic social decision-making.,2014,Steinmann
+36436737,24414614,YES,YES,YES,,YES,,,Mirror Neuron System and Mentalizing System connect during online social interaction.,2014,Sperduti
+36436737,24447026,YES,NO,NO,Atypical,YES,,,Functional parcellation of the human primary somatosensory cortex to natural touch.,2014,Malinen
+36436737,24462962,YES,YES,YES,,YES,,,Social cognition and neural substrates of face perception: implications for neurodevelopmental and neuropsychiatric disorders.,2014,Lazar
+36436737,24478377,NO,NO,NO,NotHealthy,YES,YES,Healthy not explicit but true,"A common cortical metric for spatial, temporal, and social distance.",2014,Parkinson
+36436737,24493846,NO,NO,NO,ROI,YES,,,The social network-network: size is predicted by brain structure and function in the amygdala and paralimbic regions.,2014,Von Der Heide
+36436737,24582805,YES,YES,YES,,YES,,,But do you think I'm cool? Developmental differences in striatal recruitment during direct and reflected social self-evaluations.,2014,Jankowski
+36436737,24583253,YES,YES,YES,,YES,,,The neural basis of the bystander effect--the influence of group size on neural activity when witnessing an emergency.,2014,Hortensius
+36436737,24607363,NO,NO,NO,Non-Human,Non-Human,,,Scent of the familiar: an fMRI study of canine brain responses to familiar and unfamiliar human and dog odors.,2015,Berns
+36436737,24633532,YES,YES,YES,,YES,,,"Neural correlates of attributing causes to the self, another person and the situation.",2015,Kestemont
+36436737,24639542,YES,YES,YES,,YES,,,Attributing awareness to oneself and to others.,2014,Kelly
+36436737,24652858,YES,YES,YES,,YES,,,Acting on social exclusion: neural correlates of punishment and forgiveness of excluders.,2015,Will
+36436737,24666131,YES,YES,YES,,YES,,,Reach out and touch someone: anticipatory sensorimotor processes of active interpersonal touch.,2014,Ebisch
+36436737,24700584,YES,YES,YES,,YES,,,Reflections of Oneself: Neurocognitive Evidence for Dissociable Forms of Self-Referential Recollection.,2015,Bergström
+36436737,24726338,YES,YES,YES,,YES,,,Reduced self-referential neural response during intergroup competition predicts competitor harm.,2014,Cikara
+36436737,24760733,YES,NO,NO,NotSocial,YES,YES,Social task,Facial color processing in the face-selective regions: an fMRI study.,2014,Nakajima
+36436737,24772075,NO,YES,YES,NotHealthy,YES,,,Cultural influences on social feedback processing of character traits.,2014,Korn
+36436737,24795436,NO,NO,NO,,YES,YES,Healthy participants,The neural correlates of emotion alignment in social interaction.,2015,Prehn
+36436737,24814646,YES,YES,YES,,YES,,,Neural correlates of the empathic perceptual processing of realistic social interaction scenarios displayed from a first-order perspective.,2014,Fehr
+36436737,24824165,YES,YES,YES,,YES,,,Look at those two!: The precuneus role in unattended third-person perspective of social interactions.,2014,Petrini
+36436737,24825504,YES,YES,YES,,YES,,,Imagining triadic interactions simultaneously activates mirror and mentalizing systems.,2014,Trapp
+36436737,24834034,YES,YES,YES,Technically not whole brain,YES,NO,Technically Not Whole Brain,Money talks: neural substrate of modulation of fairness by monetary incentives.,2014,Zhou
+36436737,24842782,YES,YES,YES,,YES,,,Orbitofrontal Cortex Reactivity to Angry Facial Expression in a Social Interaction Correlates with Aggressive Behavior.,2015,Beyer
+36436737,24880954,YES,NO,YES,,YES,,,Different impressions of other agents obtained through social interaction uniquely modulate dorsal and ventral pathway activities in the social human brain.,2014,Takahashi
+36436737,24936688,YES,YES,YES,,YES,,,Ventral medial prefrontal cortex and person evaluation: forming impressions of others varying in financial and moral status.,2014,Cloutier
+36436737,25042446,YES,YES,YES,,YES,,,Implicit false-belief processing in the human brain.,2014,Schneider
+36436737,25088911,YES,YES,YES,,YES,,,You are in sync with me: neural correlates of interpersonal synchrony with a partner.,2014,Cacioppo
+36436737,25118071,YES,YES,YES,,YES,,,An evaluation of traffic-awareness campaign videos: empathy induction is associated with brain function within superior temporal sulcus.,2014,Zelinková
+36436737,25220190,YES,NO,NO,ROI,YES,,,How the human brain exchanges information across sensory modalities to recognize other people.,2015,Blank
+36436737,25244113,YES,NO,NO,"AtypicalData, NotHealthy",YES,,,Asymmetric connectivity between the anterior temporal lobe and the language network.,2015,Hurley
+36436737,25253279,YES,NO,NO,NoCoordinates,YES,YES,"No coordinates available, but study does report whole-brain analysis",Social-network complexity in humans is associated with the neural response to social information.,2014,Dziura
+36436737,25281889,YES,YES,YES,,YES,,,Alexithymic features and the labeling of brief emotional facial expressions - An fMRI study.,2014,Ihme
+36436737,25289182,NO,NO,NO,Non-Human,Non-Human,,,One pair of hands is not like another: caudate BOLD response in dogs depends on signal source and canine temperament.,2014,Cook
+36436737,25298009,NO,YES,YES,NoHealthyInfo,YES,,,Beautiful friendship: Social sharing of emotions improves subjective feelings and activates the neural reward circuitry.,2015,Wagner
+36436737,25315788,YES,YES,YES,,YES,,,Social gating of sensory information during ongoing communication.,2015,Anders
+36436737,25338630,YES,NO,YES,Atypical-Maybe,YES,,,Neural dynamics of social tie formation in economic decision-making.,2015,Bault
+36436737,25489093,YES,NO,NO,Atypical,YES,YES,,Cerebral coherence between communicators marks the emergence of meaning.,2014,Stolk
+36436737,25499683,NO,NO,NO,No Coordinates,No Coordinates,,,"Hyperscanning neuroimaging technique to reveal the ""two-in-one"" system in social interactions.",2015,Koike
+36436737,25512496,NO,NO,NO,Non-Human,Non-Human,,,Large-scale topology and the default mode network in the mouse connectome.,2014,Stafford
+36436737,25534111,YES,YES,YES,,YES,,,A frontotemporoparietal network common to initiating and responding to joint attention bids.,2015,Caruana
+36436737,25571093,NO,NO,NO,NoDemographicInfo,YES,,,Dual logic and dual neural basis for reciprocal social interaction in eye contact.,2014,Lee
+36436737,25640962,YES,YES,YES,,YES,,,Feeling addressed! The role of body orientation and co-speech gesture in social communication.,2015,Nagels
+36436737,25697049,YES,YES,YES,,YES,,,The neural basis of perceiving person interactions.,2015,Quadflieg
+36436737,25716010,YES,YES,YES,,YES,,,From personal fear to mass panic: The neurological basis of crowd perception.,2015,Huis In 't Veld
+36436737,25729358,YES,YES,YES,,YES,,,The neural basis of deception in strategic interactions.,2015,Volz
+36436737,25758671,NO,NO,NO,Non-Adults,Non-Adults,,,Chronic Childhood Peer Rejection is Associated with Heightened Neural Responses to Social Exclusion During Adolescence.,2016,Will
+36436737,25759285,NO,NO,NO,Non-Adults,Non-Adults,,,The development of the intrinsic functional connectivity of default network subsystems from age 3 to 5.,2016,Xiao
+36436737,25770039,NO,NO,NO,Non-Adults,Non-Adults,,,Distinct neural correlates of emotional and cognitive empathy in older adults.,2015,Moore
+36436737,25820129,YES,NO,YES,,YES,,,How the brain predicts people's behavior in relation to rules and desires. Evidence of a medio-prefrontal dissociation.,2015,Corradi-Dell'Acqua
+36436737,25885446,NO,NO,YES,,YES,,,Dual logic and cerebral coordinates for reciprocal interaction in eye contact.,2015,Lee
+36436737,25893437,NO,NO,NO,Not an experiment,YES,,,Explaining mirror-touch synesthesia.,2015,Ward
+36436737,25911123,YES,YES,YES,,YES,,,Folk explanations of behavior: a specialized use of a domain-general mechanism.,2015,Spunt
+36436737,25929599,YES,YES,YES,,YES,,,Distinct neural processes are engaged in the modulation of mimicry by social group-membership and emotional expressions.,2015,Rauchbauer
+36436737,25944965,YES,YES,YES,Does compare to autistic population,YES,,,Gender-specific modulation of neural mechanisms underlying social reward processing by Autism Quotient.,2015,Barman
+36436737,25987597,NO,NO,NO,NoHealthyInfo,YES,YES,Subjects are healthy,Social working memory and its distinctive link to social cognitive ability: an fMRI study.,2015,Meyer
+36436737,25996424,YES,YES,YES,,YES,,,(How) observed eye-contact modulates gaze following. An fMRI study.,2016,Böckler
+36436737,26048954,YES,NO,NO,ROI,YES,,,Functional Organization of Social Perception and Cognition in the Superior Temporal Sulcus.,2015,Deen
+36436737,26117505,YES,YES,YES,,YES,,,The neural basis of conceptualizing the same action at different levels of abstraction.,2016,Spunt
+36436737,26143208,YES,YES,YES,,YES,,,Temporal unpredictability of a stimulus sequence and the processing of neutral and emotional stimuli.,2015,Koppe
+36436737,26162239,YES,NO,YES,,YES,YES,,Adult attachment style modulates neural responses in a mentalizing task.,2015,Schneider-Hassloff
+36436737,26168793,YES,YES,YES,,YES,,,The neural basis of the imitation drive.,2016,Hanawa
+36436737,26188122,NO,NO,NO,Non-Adults,Non-Adults,,,Neural correlates of parent-child HPA axis coregulation.,2015,Saxbe
+36436737,26200892,NO,NO,NO,Non-Adults,Non-Adults,,,Atypical processing of voice sounds in infants at risk for autism spectrum disorder.,2015,Blasi
+36436737,26206505,NO,YES,YES,NoHealthyInfo,YES,,,Individual differences in response of dorsomedial prefrontal cortex predict daily social behavior.,2016,Powers
+36436737,26235682,YES,YES,YES,,YES,,,Differential activation of the ventromedial prefrontal cortex between male and female givers of social reputation.,2016,Kawasaki
+36436737,26254589,YES,YES,YES,,YES,,,Dissecting the social brain: Introducing the EmpaToM to reveal distinct neural networks and brain-behavior relations for empathy and Theory of Mind.,2015,Kanske
+36436737,26262561,YES,YES,YES,,YES,,,The attracting power of the gaze of politicians is modulated by the personality and ideological attitude of their voters: a functional magnetic resonance imaging study.,2015,Cazzato
+36436737,26301900,YES,YES,YES,,YES,,,Is the Medial Prefrontal Cortex Necessary for Theory of Mind?,2015,Otti
+36436737,26318628,YES,NO,NO,Atypical,YES,,,Sex differences in effective fronto-limbic connectivity during negative emotion processing.,2015,Lungu
+36436737,26323252,YES,YES,YES,,YES,,,How pain empathy depends on ingroup/outgroup decisions: A functional magnet resonance imaging study.,2015,Ruckmann
+36436737,26337369,YES,YES,YES,,YES,,,Personality traits predict brain activation and connectivity when witnessing a violent conflict.,2015,Van den Stock
+36436737,26342221,YES,YES,YES,,YES,,,Reading fiction and reading minds: the role of simulation in the default network.,2016,Tamir
+36436737,26348613,NO,NO,NO,Non-Human,Non-Human,,,Face Patch Resting State Networks Link Face Processing to Social Cognition.,2015,Schwiedrzik
+36436737,26365506,YES,YES,YES,,YES,,,Common and distinct networks for self-referential and social stimulus processing in the human brain.,2016,Herold
+36436737,26385612,YES,YES,YES,,YES,,,Genetic and neural correlates of romantic relationship satisfaction.,2016,Luo
+36436737,26417673,YES,YES,YES,,YES,,,Neural basis of disgust perception in racial prejudice.,2015,Liu
+36436737,26481048,NO,YES,YES,,YES,,,Common and distinct neural mechanisms of the fundamental dimensions of social cognition.,2016,Han
+36436737,26483621,NO,NO,NO,Non-Adults,Non-Adults,,,Development of social skills in children: neural and behavioral evidence for the elaboration of cognitive models.,2015,Soto-Icaza
+36436737,26505303,YES,YES,YES,,YES,,,Brain basis of communicative actions in language.,2016,Egorova
+36436737,26514295,YES,NO,YES,,YES,,,Neural substrates of shared attention as social memory: A hyperscanning functional magnetic resonance imaging study.,2016,Koike
+36436737,26541443,YES,NO,YES,,YES,NO,Technically out of age range,Understanding the influence of personality on dynamic social gesture processing: An fMRI study.,2016,Saggar
+36436737,26567160,YES,YES,YES,,YES,,,Trying to trust: Brain activity during interpersonal social attitude change.,2016,Filkowski
+36436737,26598684,YES,YES,YES,,YES,,,Neural mechanisms tracking popularity in real-world social networks.,2015,Zerubavel
+36436737,26604273,YES,YES,YES,,YES,,,The Temporal Pole Top-Down Modulates the Ventral Visual Stream During Social Cognition.,2017,Pehrs
+36436737,26608245,YES,YES,YES,,YES,,,Interaction matters: A perceived social partner alters the neural processing of human speech.,2016,Rice
+36436737,26621704,YES,NO,NO,Atypical,YES,NO,Atypical analysis (PCA-derived dimensions),"Neural evidence that three dimensions organize mental state representation: Rationality, social impact, and valence.",2016,Tamir
+36436737,26656563,NO,YES,YES,NoHealthyInfo,YES,,,Getting to know you: general and specific neural computations for learning about people.,2016,Stanley
+36436737,26736634,NO,NO,NO,NoDemographicInfo,YES,,,Emergence of the default-mode network from resting-state to activation-state in reciprocal social interaction via eye contact.,2015,Lee
+36436737,26737187,NO,NO,NO,ROI,YES,,,Feature analysis for correlation studies of simultaneous EEG-fMRI data: A proof of concept for neurofeedback approaches.,2015,Simoes
+36436737,26746179,YES,YES,YES,,,,,'Imagined guilt' vs 'recollected guilt': implications for fMRI.,2016,Mclatchie
+36436737,26759479,NO,NO,NO,Non-Human,Non-Human,,,Facial Expressions Evoke Differential Neural Coupling in Macaques.,2017,Liu
+36436737,26803059,YES,YES,YES,,YES,,,Stimulus-dependent amygdala involvement in affective theory of mind generation.,2016,Schmitgen
+36436737,26812250,YES,YES,YES,,YES,,,Effects of empathic social responses on the emotions of the recipient.,2016,Seehausen
+36436737,26825440,YES,NO,NO,Atypical,YES,NO,No whole-brain results are presented,Modelling the perceptual similarity of facial expressions from image statistics and neural responses.,2016,Sormaz
+36436737,26892856,NO,NO,NO,Non-Adults,Non-Adults,,,Look into my eyes: Investigating joint attention using interactive eye-tracking and fMRI in a developmental sample.,2016,Oberwelland
+36436737,26892859,YES,YES,YES,,YES,,,"Criticism hurts everybody, praise only some: Common and specific neural responses to approving and disapproving social-evaluative videos.",2016,Miedl
+36436737,26908320,YES,YES,YES,,YES,,,Dynamic neural mechanisms underlie race disparities in social cognition.,2016,Cassidy
+36436737,26920683,YES,YES,YES,,YES,,,Linking person perception and person knowledge in the human brain.,2016,Greven
+36436737,26934715,NO,NO,NO,Non-Human,Non-Human,,,Our Faces in the Dog's Brain: Functional Imaging Reveals Temporal Cortex Activation during Perception of Human Faces.,2016,Cuaya
+36436737,26946502,NO,NO,NO,Non-Human,Non-Human,,,A Plea for Cross-species Social Neuroscience.,2017,Keysers
+36436737,26969865,YES,YES,YES,,YES,,,Theory of mind for processing unexpected events across contexts.,2016,Dungan
+36436737,27007121,YES,YES,YES,,YES,,,Contributions of self-report and performance-based individual differences measures of social cognitive ability to large-scale neural network functioning.,2017,Smith
+36436737,27039141,YES,YES,YES,,YES,,,Trails of meaning construction: Symbolic artifacts engage the social brain.,2016,Tylén
+36436737,27090501,YES,YES,YES,,YES,,,Increased frequency of social interaction is associated with enjoyment enhancement and reward system activation.,2016,Kawamichi
+36436737,27091676,NO,NO,NO,Non-Adults,Non-Adults,,,Plastic modulation of episodic memory networks in the aging brain with cognitive decline.,2016,Bai
+36436737,27095057,YES,YES,YES,,YES,,,How do you make me feel better? Social cognitive emotion regulation and the default mode network.,2016,Xie
+36436737,27096431,YES,YES,YES,,YES,,,The Role of the Insular Cortex in Retaliation.,2016,Emmerling
+36436737,27109357,YES,NO,NO,Atypical,YES,NO,"Main effects are only reported verbally, not actual data shared (x,y,z)","Oxytocin receptor polymorphism and childhood social experiences shape adult personality, brain structure and neural correlates of mentalizing.",2016,Schneider-Hassloff
+36436737,27122031,YES,NO,YES,No Univariate Coordinates,YES,,,"Decoding the Charitable Brain: Empathy, Perspective Taking, and Attention Shifts Differentially Predict Altruistic Giving.",2016,Tusche
+36436737,27129758,NO,NO,NO,NotOriginal,YES,,,Overlapping communities reveal rich structure in large-scale brain networks during rest and task conditions.,2016,Najafi
+36436737,27129794,NO,NO,NO,NoDemographicInfo,YES,YES,"Weak demographic info, but likely is healthy",Are strong empathizers better mentalizers? Evidence for independence and interaction between the routes of social cognition.,2016,Kanske
+36436737,27150109,NO,NO,NO,Non-Adults,Non-Adults,,,Early-Childhood Social Reticence Predicts Brain Function in Preadolescent Youths During Distinct Forms of Peer Evaluation.,2016,Jarcho
+36436737,27165762,YES,YES,YES,,YES,,,Distinct neural patterns of social cognition for cooperation versus competition.,2016,Tsoi
+36436737,27167401,YES,NO,NO,Atypical,YES,YES,"In reality would exclude, but meets inclusion criteria - is social task",Social Cognition as Reinforcement Learning: Feedback Modulates Emotion Inference.,2016,Zaki
+36436737,27170266,NO,NO,NO,Non-Adults,Non-Adults,,,"Testing differential susceptibility: Plasticity genes, the social environment, and their interplay in adolescent response inhibition.",2017,Richards
+36436737,27185915,NO,NO,NO,Non-Adults,Non-Adults,,,Neural circuits underlying mother's voice perception predict social communication abilities in children.,2016,Abrams
+36436737,27217118,YES,YES,YES,,YES,,,Neural dissociations between meaningful and mere inconsistency in impression updating.,2016,Mende-Siedlecki
+36436737,27236373,YES,YES,YES,,YES,,,Social representations and contextual adjustments as two distinct components of the Theory of Mind brain network: Evidence from the REMICS task.,2016,Lavoie
+36436737,27247125,NO,NO,NO,Non-Adults,Non-Adults,,,The Power of the Like in Adolescence: Effects of Peer Influence on Neural and Behavioral Responses to Social Media.,2016,Sherman
+36436737,27266443,YES,YES,YES,,YES,,,Mindfulness training increases cooperative decision making in economic exchanges: Evidence from fMRI.,2016,Kirk
+36436737,27272314,NO,NO,NO,Non-Adults,Non-Adults,,,Perceived live interaction modulates the developing social brain.,2016,Rice
+36436737,27280153,YES,NO,NO,Atypical,YES,,,"Topographical Organization of Attentional, Social, and Memory Processes in the Human Temporoparietal Cortex.",2016,Igelström
+36436737,27319001,YES,YES,YES,,YES,,,Contextual exclusion processing: an fMRI study of rejection in a performance-related context.,2017,Wagels
+36436737,27340019,NO,NO,NO,NoCoordiantes,YES,,,"Neurology of ecstatic religious and similar experiences: Ecstatic, orgasmic, and musicogenic seizures. Stendhal syndrome and autoscopic phenomena.",2019,Arias
+36436737,27358450,YES,NO,NO,Atypical,YES,YES,Naturalistic analysis atypical but reports main social effect,The Dorsal Medial Prefrontal Cortex Responds Preferentially to Social Interactions during Natural Viewing.,2016,Wagner
+36436737,27375449,YES,YES,YES,,YES,,,What Impact does An Angry Context have Upon Us? The Effect of Anger on Functional Connectivity of the Right Insula and Superior Temporal Gyri.,2016,Mazzola
+36436737,27405334,YES,NO,YES,,YES,,,Inhibition of Information Flow to the Default Mode Network During Self-Reference Versus Reference to Others.,2017,Soch
+36436737,27458349,YES,NO,YES,,YES,,,Impact of Short Social Training on Prosocial Behaviors: An fMRI Study.,2016,Lukinova
+36436737,27458363,YES,YES,YES,,YES,,,Neural Correlates of the Appraisal of Attachment Scenes in Healthy Controls and Social Cognition-An fMRI Study.,2016,Labek
+36436737,27477020,NO,YES,YES,NoHealthyInfo,YES,,,Self-Other Mergence in the Frontal Cortex during Cooperation and Competition.,2016,Wittmann
+36436737,27494142,YES,YES,YES,,YES,,,The Neural Responses to Social Cooperation in Gain and Loss Context.,2016,Sun
+36436737,27496338,YES,YES,YES,,YES,,,Neural correlates of naturalistic social cognition: brain-behavior relationships in healthy adults.,2016,Deuse
+36436737,27506384,NO,NO,NO,Non-Adults,Non-Adults,,,The neurobiology of the emotional adolescent: From the inside out.,2016,Guyer
+36436737,27510495,YES,YES,YES,,YES,,,Intrinsic functional connectivity underlying successful emotion regulation of angry faces.,2016,Morawetz
+36436737,27521302,NO,NO,NO,Non-Human,Non-Human,,,Awake canine fMRI predicts dogs' preference for praise vs food.,2016,Cook
+36436737,27528669,YES,YES,YES,,YES,,,Neurocomputational mechanisms of prosocial learning and links to empathy.,2016,Lockwood
+36436737,27568587,YES,YES,YES,,YES,,,The selfless mind: How prefrontal involvement in mentalizing with similar and dissimilar others shapes empathy and prosocial behavior.,2016,Majdandžić
+36436737,27576746,YES,YES,YES,,YES,,,When BOLD is thicker than water: processing social information about kin and friends at different levels of the social network.,2016,Wlodarski
+36436737,27579051,YES,NO,NO,Atypical,,YES,Typical results are presented in supplement,Neural Modulation in Aversive Emotion Processing: An Independent Component Analysis Study.,2016,Romero-Rebollar
+36436737,27622781,YES,YES,YES,,YES,,,Increases in brain activity during social competition predict decreases in working memory performance and later recall.,2017,DiMenichi
+36436737,27642220,YES,NO,YES,,,,,"Social in, social out: How the brain responds to social language with more social language.",2015,O'Donnell
+36436737,27695409,NO,NO,NO,NotOriginal,YES,,,Contribution of Neuroimaging Studies to Understanding Development of Human Cognitive Brain Functions.,2016,Morita
+36436737,27713694,NO,NO,NO,ROI,YES,,,Variation in the Oxytocin Receptor Gene Is Associated with Face Recognition and its Neural Correlates.,2016,Westberg
+36436737,27716474,YES,YES,NO,Out of age range 18+,YES,,,The impact of aging on the neural networks involved in gaze and emotional processing.,2016,Ziaei
+36436737,27798249,YES,YES,YES,,YES,,,Increased neural responses to empathy for pain might explain how acute stress increases prosociality.,2017,Tomova
+36436737,27803286,YES,YES,YES,,YES,,,The neural basis of understanding the expression of the emotions in man and animals.,2017,Spunt
+36436737,27815729,NO,NO,NO,No Coordinates,No Coordinates,,,Mu rhythm suppression is associated with the classification of emotion in faces.,2017,Moore
+36436737,27856343,YES,YES,YES,,YES,,,Brain response to masked and unmasked facial emotions as a function of implicit and explicit personality self-concept of extraversion.,2017,Suslow
+36436737,27859899,NO,NO,NO,NotOriginal,YES,,,Neural signatures of trust in reciprocity: A coordinate-based meta-analysis.,2017,Bellucci
+36436737,27866893,NO,NO,NO,Non-Human,Non-Human,,,Effective Connectivity Reveals Largely Independent Parallel Networks of Face and Body Patches.,2016,Premereur
+36436737,27898705,NO,NO,NO,NoAgeInfo,YES,,,The Role of the Amygdala in Facial Trustworthiness Processing: A Systematic Review and Meta-Analyses of fMRI Studies.,2016,Santos
+36436737,27978778,YES,NO,NO,Atypical,YES,YES,Task is social communication,Decoding task and stimulus representations in face-responsive cortex.,2016,Kliemann
+36436737,28008075,YES,YES,YES,,YES,,,Deciphering human motion to discriminate social interactions: a developmental neuroimaging study.,2017,Sapey-Triomphe
+36436737,28094810,NO,NO,NO,Non-Human,Non-Human,,,Aberrant development of intrinsic brain activity in a rat model of caregiver maltreatment of offspring.,2017,Yan
+36436737,28169323,NO,NO,NO,Non-Adults,Non-Adults,NO,Group is adolescents -- update prompt,Social pain and social gain in the adolescent brain: A common neural circuitry underlying both positive and negative social evaluation.,2017,Dalgleish
+36436737,28242678,YES,YES,YES,,YES,,,A neural model of valuation and information virality.,2017,Scholz
+36436737,28289200,YES,NO,YES,,YES,,,Dynamic neural architecture for social knowledge retrieval.,2017,Wang
+36436737,28338962,YES,YES,YES,,YES,,,Higher order intentionality tasks are cognitively more demanding.,2017,Lewis
+36436737,28393755,NO,NO,NO,Non-Adults,Non-Adults,,,Chronic peer victimization heightens neural sensitivity to risk taking.,2018,Telzer
+36436737,28455517,YES,NO,NO,Atypical,YES,NO,PLS analysis does not show main task effect,Neural Activity while Imitating Emotional Faces is Related to Both Lower and Higher-Level Social Cognitive Performance.,2017,Hawco
+36436737,28465434,NO,NO,NO,Non-Adults,Non-Adults,,,Brain connectivity dynamics during social interaction reflect social network structure.,2017,Schmälzle
+36436737,28477977,YES,YES,YES,,YES,,,Brain networks of social action-outcome contingency: The role of the ventral striatum in integrating signals from the sensory cortex and medial prefrontal cortex.,2017,Sumiya
+36436737,28504911,YES,YES,YES,,YES,,,The Value of Sharing Information: A Neural Account of Information Transmission.,2017,Baek
+36436737,28522533,NO,NO,NO,Non-Human,Non-Human,,,A dedicated network for social interaction processing in the primate brain.,2017,Sliwa
+36436737,28540647,NO,NO,NO,NotOriginal,,YES,Paper states data is original,The integration of social influence and reward: Computational approaches and neural evidence.,2017,Tomlin
+36436737,28551067,YES,NO,YES,,YES,,,The neural correlates of reciprocity are sensitive to prior experience of reciprocity.,2017,Cáceda
+36436737,28557690,YES,NO,NO,Atypical,YES,,,Consistent Neural Activity Patterns Represent Personally Familiar People.,2017,Thornton
+36436737,28583386,NO,NO,NO,NotHealthy,YES,YES,Group is healthy. Autistic subjects were not included in analysis,Laugh or cringe? Common and distinct processes of reward-based schadenfreude and empathy-based fremdscham.,2018,Paulus
+36436737,28608647,NO,NO,NO,NotOriginal,YES,,,Specifying the brain anatomy underlying temporo-parietal junction activations for theory of mind: A review using probabilistic atlases from different imaging modalities.,2017,Schurz
+36436737,28643894,YES,NO,NO,No Coordinates,YES,YES,Although coordinates are not report-- whole brain results are shown,Do implicit and explicit belief processing share neural substrates?,2017,Naughtin
+36436737,28748572,NO,NO,NO,Non-Adults,Non-Adults,,,Let's chat: developmental neural bases of social motivation during real-time peer interaction.,2018,Warnell
+36436737,28766324,NO,NO,NO,NotHealthy,YES,,,Resting-state fMRI and social cognition: An opportunity to connect.,2017,Doruyter
+36436737,28807871,NO,NO,NO,NoHealthyInfo,YES,,,"Mentalizing regions represent distributed, continuous, and abstract dimensions of others' beliefs.",2017,Koster-Hale
+36436737,28905269,YES,YES,YES,,YES,,,Differences in Neural Response to Romantic Stimuli in Monogamous and Non-Monogamous Men.,2017,Hamilton
+36436737,28914498,NO,NO,NO,"NoHealthyInfo, SingleSubject",YES,,,Shared temptations: An fMRI study of dishonest profit maximization.,2017,Simmank
+36436737,28931014,YES,YES,YES,,YES,YES,,Phonological memory in sign language relies on the visuomotor neural system outside the left hemisphere language network.,2017,Kanazawa
+36436737,28966083,NO,NO,NO,NotOriginal,YES,,,Assessing autism at its social and developmental roots: A review of Autism Spectrum Disorder studies using functional near-infrared spectroscopy.,2019,Liu
+36436737,29039129,YES,YES,YES,,YES,,,Implicit attitudes and executive control interact to regulate interest in extra-pair relationships.,2017,Ueda
+36436737,29073111,NO,YES,YES,"ROI, NotHealthy, NotfMRI",YES,,,Perceiving social interactions in the posterior superior temporal sulcus.,2017,Isik
+36436737,29077925,,YES,YES,,,,,External motivation to avoid prejudice alters neural responses to targets varying in race and status.,2018,Mattan
+36436737,29079809,YES,YES,YES,,YES,,,Differential inter-subject correlation of brain activity when kinship is a variable in moral dilemma.,2017,Bacha-Trams
+36436737,29097704,YES,YES,YES,,YES,,,Potential for social involvement modulates activity within the mirror and the mentalizing systems.,2017,Begliomini
+36436737,29111359,YES,NO,NO,Connectivity,YES,,,Role of Spontaneous Brain Activity in Explicit and Implicit Aspects of Cognitive Flexibility under Socially Conflicting Situations: A Resting-state fMRI Study using Fractional Amplitude of Low-frequency Fluctuations.,2017,Fujino
+36436737,29126210,YES,NO,NO,ROI,YES,,,The functional role of ventral anterior cingulate cortex in social evaluation: disentangling valence from subjectively rewarding opportunities.,2018,Rigney
+36436737,29164726,YES,NO,NO,Connectivity,,,,Functional connectivity changes following interpersonal reactivity.,2018,Krause
+36436737,29221830,YES,YES,YES,,YES,,,Distinguishable memory retrieval networks for collaboratively and non-collaboratively learned information.,2018,Vanlangendonck
+36436737,29265483,YES,YES,YES,,YES,,,Affective and cooperative social interactions modulate effective connectivity within and between the mirror and mentalizing systems.,2018,Arioli
+36436737,29324862,YES,YES,YES,,YES,,,Taking two to tango: fMRI analysis of improvised joint action with physical contact.,2018,Chauvigné
+36436737,29330483,YES,YES,YES,,YES,,,"Neural Correlates of Sexual Orientation in Heterosexual, Bisexual, and Homosexual Women.",2018,Safron
+36436737,29352154,NO,NO,NO,Non-Human,Non-Human,,,Resting state brain networks in the prairie vole.,2018,Ortiz
+36436737,29366950,NO,NO,NO,Non-Human,Non-Human,NO,No human only results were shown,"Human behavioural discrimination of human, chimpanzee and macaque affective vocalisations is reflected by the neural response in the superior temporal sulcus.",2018,Fritz
+36436737,29396415,NO,NO,NO,Non-Adults,Non-Adults,YES,Adult only data is reported,Inter-subject synchrony as an index of functional specialization in early childhood.,2018,Moraczewski
+36436737,29408539,YES,NO,NO,Atypical,YES,NO,Results are not whole-brain only cerebellar,"Triple representation of language, working memory, social and emotion processing in the cerebellum: convergent evidence from task and seed-based resting-state fMRI analyses in a single large cohort.",2018,Guell
+36436737,29432769,YES,YES,YES,,YES,,,Self-construals moderate associations between trait creativity and social brain network.,2018,Liu
+36436737,29455860,NO,NO,NO,NotOriginal,YES,,,A Social-Interactive Neuroscience Approach to Understanding the Developing Brain.,2018,Redcay
+36436737,29455864,NO,NO,NO,Non-Adults,Non-Adults,,,Social Influence on Positive Youth Development: A Developmental Neuroscience Perspective.,2018,Telzer
+36436737,29476765,YES,YES,YES,,YES,,,Neural responses to visually observed social interactions.,2018,Walbrin
+36436737,29518712,NO,NO,NO,Non-Adults,Non-Adults,,,Not just social sensitivity: Adolescent neural suppression of social feedback during risk taking.,2018,McCormick
+36436737,29561702,NO,NO,NO,Non-Human,Non-Human,,,Neural Mechanisms of Social Cognition in Primates.,2018,Wittmann
+36436737,29582502,YES,YES,YES,,YES,,,The role of the right temporo-parietal junction in social decision-making.,2018,Bitsch
+36436737,29723244,YES,YES,YES,,YES,,,"The ""social brain"" is highly sensitive to the mere presence of social information: An automated meta-analysis and an independent study.",2018,Tso
+36436737,29740753,YES,YES,YES,,YES,,,Facial Expression Enhances Emotion Perception Compared to Vocal Prosody: Behavioral and fMRI Studies.,2018,Zhang
+36436737,29760183,YES,YES,YES,,YES,,,Neural Mechanisms Underlying Individual Differences in Control-Averse Behavior.,2018,Rudorf
+36436737,29771359,YES,YES,YES,,YES,,,Neural bases of social communicative intentions in speech.,2018,Hellbernd
+36436737,29777673,YES,YES,YES,,YES,,,Activations of the dorsolateral prefrontal cortex and thalamus during agentic self-evaluation are negatively associated with trait self-esteem.,2018,Jiang
+36436737,29806978,YES,NO,NO,No main effect,,,,Approach or avoidance: Neural correlates of intelligence evaluation from faces.,2018,Akimoto
+36436737,29845003,NO,NO,NO,Non-Adults,Non-Adults,,,Early bilateral and massive compromise of the frontal lobes.,2018,Ibáñez
+36436737,29885085,NO,NO,NO,Non-Adults,Non-Adults,,,Social interaction recruits mentalizing and reward systems in middle childhood.,2018,Alkire
+36436737,29890323,YES,YES,YES,,,,,Tracking emotions in the brain - Revisiting the Empathic Accuracy Task.,2018,Mackes
+36436737,29891257,NO,NO,NO,Non-Adults,Non-Adults,,,Gaming-addicted teens identify more with their cyber-self than their own self: Neural evidence.,2018,Choi
+36436737,29896995,YES,NO,NO,AtypicalData,YES,,,"Disrupted Cerebrocerebellar Intrinsic Functional Connectivity in Young Adults with High-Functioning Autism Spectrum Disorder: A Data-Driven, Whole-Brain, High-Temporal Resolution Functional Magnetic Resonance Imaging Study.",2019,Arnold Anteraper
+36436737,29901788,NO,NO,NO,Non-Adults,Non-Adults,,,Somatotopic Mapping of the Developing Sensorimotor Cortex in the Preterm Human Brain.,2018,Dall'Orso
+36436737,29915004,NO,NO,NO,NoDemographicInfo,YES,YES,"Lacking in demographic detail, but most likely from healthy group",Concrete versus abstract forms of social concept: an fMRI comparison of knowledge about people versus social terms.,2018,Rice
+36436737,29931116,YES,NO,NO,AtypicalData,YES,NO,"Only connectivity results are reported, not main task-evoked signal",Toward Task Connectomics: Examining Whole-Brain Task Modulated Connectivity in Different Task Domains.,2019,Di
+36436737,29943174,NO,NO,NO,Non-Adults,Non-Adults,,,Adolescents' neural response to social reward and real-world emotional closeness and positive affect.,2018,Flores
+36436737,29959970,YES,NO,YES,,YES,,,Oxytocinergic modulation of brain activation to cues related to reproduction and attachment: Differences and commonalities during the perception of erotic and fearful social scenes.,2019,Sauer
+36436737,29992485,YES,NO,YES,,YES,,,Seeing minds in others: Mind perception modulates low-level social-cognitive performance and relates to ventromedial prefrontal structures.,2018,Wiese
+36436737,30017395,NO,NO,NO,Non-Human,Non-Human,,,Functional Networks for Social Communication in the Macaque Monkey.,2018,Shepherd
+36436737,30038232,NO,NO,NO,Meta-analysis,YES,,,A view behind the mask of sanity: meta-analysis of aberrant brain activity in psychopaths.,2019,Poeppl
+36436737,30041864,NO,NO,NO,Non-Human,Non-Human,,,Social Origins of Cortical Face Areas.,2018,Powell
+36436737,30056560,YES,YES,YES,,OutsideDateRange,,,Neural processing of the own child's facial emotions in mothers with a history of early life maltreatment.,2019,Neukel
+36436737,30077577,YES,YES,YES,,OutsideDateRange,,,Thinking about the past to shape the present: neural activation during the recall of relationship episodes.,2019,Wade-Bohleber
+36436737,30085122,YES,NO,YES,"Maybe-Atypical, NotHealthy",YES,,,Oxytocin Facilitates Approach Behavior to Positive Social Stimuli via Decreasing Anterior Insula Activity.,2018,Yao
+36436737,30154703,YES,YES,YES,,YES,,,Interpretation of Social Interactions: Functional Imaging of Cognitive-Semiotic Categories During Naturalistic Viewing.,2018,Wolf
+36436737,30195053,NO,NO,NO,"NotHealthy, Review, NoCoordinates",OutsideDateRange,,,Alteration of functional brain architecture in 22q11.2 deletion syndrome - Insights into susceptibility for psychosis.,2019,Larsen
+36436737,30221467,NO,NO,NO,Meta-analysis,OutsideDateRange,,,Role of social cognition in post-traumatic stress disorder: A review and meta-analysis.,2019,Stevens
+36436737,30225341,YES,NO,NO,Atypical,YES,,,Motivation Modulates Brain Networks in Response to Faces Varying in Race and Status: A Multivariate Approach.,2018,Mattan
+36436737,30272134,YES,YES,YES,,YES,,,Hierarchical Brain Network for Face and Voice Integration of Emotion Expression.,2019,Davies-Thompson
+36436737,30300745,YES,NO,YES,,YES,,,Age-related differences in the activation of the mentalizing- and reward-related brain regions during the learning of others' true trustworthiness.,2019,Suzuki
+36436737,30349467,YES,YES,YES,,,,,Role-Specific Brain Activations in Leaders and Followers During Joint Action.,2018,Chauvigné
+36436737,30374665,YES,NO,NO,ROI,,,,"Peer influence, Frontostriatal connectivity, and delay discounting in African American emerging adults.",2020,Holmes
+36436737,30389840,YES,NO,NO,NoCoordinates,OutsideDateRange,YES,Agree if criteria is changed to not only include uni variate,The Social Brain Automatically Predicts Others' Future Mental States.,2019,Thornton
+36436737,30411904,NO,NO,NO,NotHealthy,OutsideDateRange,,,Salience network connectivity and social processing in children with nonverbal learning disability or autism spectrum disorder.,2019,Margolis
+36436737,30414457,NO,NO,NO,Review,YES,,,Altered resting-state dynamics in autism spectrum disorder: Causal to the social impairment?,2019,Gotts
+36436737,30455187,YES,NO,YES,,YES,,,MDMA Increases Cooperation and Recruitment of Social Brain Areas When Playing Trustworthy Players in an Iterated Prisoner's Dilemma.,2019,Gabay
+36436737,30500423,NO,NO,NO,AtypicalData,OutsideDateRange,,,Combining resting state functional MRI with intraoperative cortical stimulation to map the mentalizing network.,2019,Yordanova
+36436737,30594068,YES,NO,NO,AtypicalData,YES,,,Hypoconnectivity of insular resting-state networks in adolescents with Autism Spectrum Disorder.,2019,Francis
+36436737,30610911,NO,NO,NO,No coordinates; review,YES,,,"Social, self, (situational), and affective processes in medial prefrontal cortex (MPFC): Causal, multivariate, and reverse inference evidence.",2019,Lieberman
+36436737,30624029,YES,NO,NO,ROI,YES,NO,Main effects not reported,OXTR methylation modulates exogenous oxytocin effects on human brain activity during social interaction.,2020,Chen
+36436737,30639176,YES,NO,NO,AtypicalData,YES,,,"Trustworthiness appraisal deficits in borderline personality disorder are associated with prefrontal cortex, not amygdala, impairment.",2019,Fertuck
+36436737,30639342,YES,NO,NO,No info on subjects. Only 2 subjects in study,YES,YES,,"Exogenous testosterone and the monoamine-oxidase A polymorphism influence anger, aggression and neural responses to provocation in males.",2019,Wagels
+36436737,30649548,NO,YES,YES,Does not specify healthy,YES,,,Dissecting social interaction: dual-fMRI reveals patterns of interpersonal brain-behavior relationships that dissociate among dimensions of social exchange.,2019,Špiláková
+36436737,30658938,YES,YES,YES,,YES,,,Altered striatal reward processing in abstinent dependent cannabis users: Social context matters.,2019,Zimmermann
+36436737,30679738,NO,NO,NO,Does not state healthy subjects,YES,,,Neurometabolic and functional connectivity basis of prosocial behavior in early adolescence.,2019,Okada
+36436737,30698656,YES,NO,NO,AtypicalData,YES,,,Overt social interaction and resting state in young adult males with autism: core and contextual neural features.,2019,Jasmin
+36436737,30794869,NO,NO,NO,NoHealthyInfo,,YES,"Although main reported results are ""atypical"", qualifying results are reported in Supplemental",Age differences in specific neural connections within the Default Mode Network underlie theory of mind.,2019,Hughes
+36436737,30807820,NO,NO,NO,Non-human; use mice model,YES,,,Inhibiting mGluR5 activity by AFQ056/Mavoglurant rescues circuit-specific functional connectivity in Fmr1 knockout mice.,2019,Zerbi
+36436737,30825583,YES,NO,NO,Includes non-MRI data,YES,YES,Localizer counts as social communication,Targeting dynamic facial processing mechanisms in superior temporal sulcus using a novel fMRI neurofeedback target.,2019,Direito
+36436737,30833582,NO,NO,NO,Includes atypical data,YES,,,Atypical functional connectome hierarchy in autism.,2019,Hong
+36436737,30834300,YES,NO,NO,Atypical,YES,YES,"Although many atypical analyses are reported, main result qualifies",What Makes Eye Contact Special? Neural Substrates of On-Line Mutual Eye-Gaze: A Hyperscanning fMRI Study.,2019,Koike
+36436737,30842248,YES,NO,NO,Atypical,YES,NO,"Atypical analysis, doesn't report main localizer",Symmetrical Viewpoint Representations in Face-Selective Regions Convey an Advantage in the Perception and Recognition of Faces.,2019,Flack
+36436737,30852994,YES,NO,YES,No Coordinates,YES,,,Brain activity during reciprocal social interaction investigated using conversational robots as control condition.,2019,Rauchbauer
+36436737,30852995,YES,YES,YES,,YES,,,A neurocognitive investigation of the impact of socializing with a robot on empathy for pain.,2019,Cross
+36436737,30930310,YES,YES,YES,,YES,,,The facilitative effect of gestures on the neural processing of semantic complexity in a continuous narrative.,2019,Cuevas
+36436737,30949039,YES,NO,NO,"Connectivity, ROI",YES,YES,Whole brain results are provided,Convergent Neural Correlates of Empathy and Anxiety During Socioemotional Processing.,2019,Knight
+36436737,30976115,YES,NO,NO,AtypicalData,YES,,,Causal Interactions in Human Amygdala Cortical Networks across the Lifespan.,2019,Jiang
+36436737,31011853,YES,NO,YES,"AtypicalData, NoHealthyOnlyResult",,NO,,Neural Signatures of Social Inclusion in Borderline Personality Disorder Versus Non-suicidal Self-injury.,2019,Malejko
+36436737,31028922,YES,NO,NO,ROI,YES,YES,One whole brain analysis reported,Perceiving animacy purely from visual motion cues involves intraparietal sulcus.,2019,Schultz
+36436737,31028924,NO,NO,NO,Review,YES,,,The inhibition of automatic imitation: A meta-analysis and synthesis of fMRI studies.,2019,Darda
+36436737,31036762,YES,NO,NO,Atypical,YES,,,"Multifaceted Integration: Memory for Faces Is Subserved by Widespread Connections between Visual, Memory, Auditory, and Social Networks.",2019,Ramot
+36436737,31051206,YES,NO,NO,AtypicalData,YES,,,Diminished single-stimulus response in vmPFC to favorite people in children diagnosed with Autism Spectrum Disorder.,2019,Kishida
+36436737,31056647,YES,YES,YES,,YES,,,Social support modulates the neural correlates underlying social exclusion.,2019,Morese
+36436737,31063817,YES,NO,NO,Atypical,YES,YES,Most analyses are atypical but main effects are reported,The functional database of the ARCHI project: Potential and perspectives.,2019,Pinel
+36436737,31090126,YES,YES,YES,,YES,,,Widespread and lateralized social brain activity for processing dynamic facial expressions.,2019,Sato
+36436737,31100434,NO,NO,NO,NoHealthyInfo,YES,YES,"Demographics are lacking, but likely a healthy group",Dyadic interaction processing in the posterior temporal cortex.,2019,Walbrin
+36436737,31142792,YES,YES,YES,,YES,,,Behavioural and Neural Responses to Facial Disfigurement.,2019,Hartung
+36436737,31157395,YES,NO,NO,Atypical,YES,,,Investigation of functional brain network reconfiguration during vocal emotional processing using graph-theoretical analysis.,2019,Lin
+36436737,31170400,NO,NO,NO,Review,YES,,,Universal Transform or Multiple Functionality? Understanding the Contribution of the Human Cerebellum across Task Domains.,2019,Diedrichsen
+36436737,31268615,YES,NO,NO,Atypical,YES,,,Modulating functional connectivity between medial frontopolar cortex and amygdala by inhibitory and excitatory transcranial magnetic stimulation.,2019,Riedel
+36436737,31322784,YES,NO,NO,Atypical,YES,,,Linking resting-state networks and social cognition in schizophrenia and bipolar disorder.,2019,Jimenez
+36436737,31379539,YES,NO,NO,Atypical,YES,,,Emotion Regulation of Hippocampus Using Real-Time fMRI Neurofeedback in Healthy Human.,2019,Zhu
+36436737,31420884,YES,NO,NO,NotSocial,YES,,,Linking visual gamma to task-related brain networks-a simultaneous EEG-fMRI study.,2019,Beldzik
+36436737,31506672,YES,NO,NO,AtypicalData,YES,,,The neural mechanisms of social reward in early psychosis.,2019,Fett
+36436737,31589003,YES,NO,NO,Meta-analysis,YES,,,Meta-analytic and functional connectivity evidence from functional magnetic resonance imaging for an anterior to posterior gradient of function along the hippocampal axis.,2020,Grady
+36436737,31598216,YES,YES,YES,,YES,,,"Social cognition, behaviour and therapy adherence in frontal lobe epilepsy: a study combining neuroeconomic and neuropsychological methods.",2019,Javor
+36436737,31639270,NO,NO,NO,"NoHealthyInfo, Non-Adults",YES,,,Direct replication of task-dependent neural activation patterns during sadness introspection in two independent adolescent samples.,2020,Vilgis
+36436737,31680906,YES,NO,NO,AtypicalData,YES,,,Atypical Amygdala-Neocortex Interaction During Dynamic Facial Expression Processing in Autism Spectrum Disorder.,2019,Sato
+36436737,31690846,YES,NO,NO,AtypicalData,YES,,,Neural and functional correlates of impaired reading ability in schizophrenia.,2019,Dondé
+36436737,31729396,YES,NO,YES,,YES,,,Neural representations of honesty predict future trust behavior.,2019,Bellucci
+36436737,31740271,NO,NO,NO,NotHealthy,YES,,,"The effects of nalmefene on emotion processing in alcohol use disorder - A randomized, controlled fMRI study.",2019,Vollstädt-Klein
+36436737,31747689,YES,NO,NO,NotWholeBrain,YES,NO,Only cerebellar results,Action perception recruits the cerebellum and is impaired in patients with spinocerebellar ataxia.,2019,Abdelgabar
+36436737,31783116,YES,YES,YES,,YES,,,Neural oscillations in human auditory cortex revealed by fast fMRI during auditory perception.,2020,Frühholz
+36436737,31798816,YES,NO,NO,AtypicalData,YES,YES,Typical results reported in supplement,Intact neural representations of affective meaning of touch but lack of embodied resonance in autism: a multi-voxel pattern analysis study.,2019,Lee Masson
+36436737,31843053,NO,NO,NO,Age,YES,,,Default mode-visual network hypoconnectivity in an autism subtype with pronounced social visual engagement difficulties.,2019,Lombardo
+36436737,31844272,YES,NO,NO,"Atypical, No Coordiantes",YES,NO,Whole-brain task-evoked results are not shown,Collective memory shapes the organization of individual memories in the medial prefrontal cortex.,2020,Gagnepain
+36436737,31849730,NO,NO,NO,"Review, NoCoordinates",,,,Modulation of Social Cognition ,2019,Preller
+36436737,34895947,NO,NO,NO,"ROI, NotHealthy, NotfMRI",,,,Corrigendum to The role of oxytocin in implicit personal space regulation: An fMRI study [Psychoneuroendocrinology 91 (2018) 206-215].,2022,Cohen
+36436737,38867029,NO,NO,NO,Atypical,,,,Combining developmental and sleep health measures for autism spectrum disorder screening: an ECHO study.,2025,Shuffrey
+36436737,40773391,NO,NO,NO,Atypical,,,,Generalized Probabilistic Graphical Modeling for Multi-View Bipartite Graph Clustering.,2025,Li
