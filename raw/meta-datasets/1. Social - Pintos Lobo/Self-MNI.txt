@@ -592,13 +592,13 @@
 39	8	5
 15	5	-4
 		
-//Hartung et al., 2019: before treatment > after treatment (increased activation); self		
+//Hartung et al., 2019; before treatment > after treatment (increased activation); self		
 // Subjects=21		
 -28	-98	8
 34	-90	2
 42	8	26
 		
-//Hartung et al., 2019: before treatment > after treatment (decreased activation); self		
+//Hartung et al., 2019; before treatment > after treatment (decreased activation); self		
 // Subjects=21		
 -2	36	10
 6	-88	12

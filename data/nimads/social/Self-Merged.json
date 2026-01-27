@@ -3537,15 +3537,15 @@
       ]
     },
     {
-      "id": "Hartung et al., 2019: before treatment > after treatment (decreased activation)",
-      "name": "Hartung et al., 2019: before treatment > after treatment (decreased activation)",
+      "id": "Hartung et al., 2019",
+      "name": "Hartung et al., 2019",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "self",
-          "name": "self",
+          "id": "before treatment > after treatment (decreased activation); self",
+          "name": "before treatment > after treatment (decreased activation); self",
           "conditions": [
             {
               "name": "default",
@@ -3579,19 +3579,10 @@
               21
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Hartung et al., 2019: before treatment > after treatment (increased activation)",
-      "name": "Hartung et al., 2019: before treatment > after treatment (increased activation)",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "self",
-          "name": "self",
+          "id": "before treatment > after treatment (increased activation); self",
+          "name": "before treatment > after treatment (increased activation); self",
           "conditions": [
             {
               "name": "default",

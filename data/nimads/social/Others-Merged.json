@@ -15788,15 +15788,15 @@
       ]
     },
     {
-      "id": "Majdandzic et al., 2016, DISSIMILAR > SIMILAR",
-      "name": "Majdandzic et al., 2016, DISSIMILAR > SIMILAR",
+      "id": "Majdandzic et al., 2016",
+      "name": "Majdandzic et al., 2016",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "others",
-          "name": "others",
+          "id": "DISSIMILAR > SIMILAR; others",
+          "name": "DISSIMILAR > SIMILAR; others",
           "conditions": [
             {
               "name": "default",
@@ -15830,19 +15830,10 @@
               30
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Majdandzic et al., 2016, PAINFUL > NON-PAINFUL and SELF PAINFUL > NON-PAINFUL",
-      "name": "Majdandzic et al., 2016, PAINFUL > NON-PAINFUL and SELF PAINFUL > NON-PAINFUL",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "others",
-          "name": "others",
+          "id": "PAINFUL > NON-PAINFUL and SELF PAINFUL > NON-PAINFUL; others",
+          "name": "PAINFUL > NON-PAINFUL and SELF PAINFUL > NON-PAINFUL; others",
           "conditions": [
             {
               "name": "default",
