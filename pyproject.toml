@@ -19,6 +19,7 @@ requests = ">=2.32.5,<3"
 openpyxl = ">=3.1.5,<4"
 ipython = ">=9.6.0,<10"
 pip = "*"
+rapidfuzz = ">=3.0.0,<4"
 
 [tool.pixi.pypi-dependencies]
 
