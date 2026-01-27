@@ -45,3 +45,5 @@ data/studies/ace/
 # pixi environments
 .pixi/*
 !.pixi/config.toml
+
+.DS_Store
