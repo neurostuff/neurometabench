@@ -1833,31 +1833,31 @@
 42	-14	48
 44	-18	62
 		
-//Spunt et al., 2019, HumanEmotion>Expression & PrimateEmotion>Expression & DogEmotion>Expression; socialcommunication		
+//Spunt et al., 2019; HumanEmotion>Expression & PrimateEmotion>Expression & DogEmotion>Expression; socialcommunication		
 // Subjects=16		
 -8	56	28
 -46	26	-14
 		
-//Spunt et al., 2019, HumanExpression>Emotion & PrimateExpression>Emotion & DogExpression>Emotion; socialcommunication		
+//Spunt et al., 2019; HumanExpression>Emotion & PrimateExpression>Emotion & DogExpression>Emotion; socialcommunication		
 // Subjects=16		
 -32	-44	40
 -58	-34	46
 		
-//Spunt et al., 2019, HumanEmotion+Expression > PrimateEmotion+Expression & HumanEmotion+Expression > DogEmotion+Expression; socialcommunication
+//Spunt et al., 2019; HumanEmotion+Expression > PrimateEmotion+Expression & HumanEmotion+Expression > DogEmotion+Expression; socialcommunication
 // Subjects=16		
 -4	-54	26
 52	-8	16
 8	56	-12
 -52	-12	-16
 		
-//Spunt et al., 2019, PrimateEmotion+Expression > HumanEmotion+Expression & DogEmotion+Expression> HumanEmotion+Expression; socialcommunication
+//Spunt et al., 2019; PrimateEmotion+Expression > HumanEmotion+Expression & DogEmotion+Expression> HumanEmotion+Expression; socialcommunication
 // Subjects=16		
 34	-88	10
 -28	-92	12
 -40	-64	-8
 48	-60	-6
 		
-//Spunt et al., 2019, PrimateEmotion+Expression > HumanEmotion+Expression & DogEmotion+Expression> HumanEmotion+Expression; socialcommunication
+//Spunt et al., 2019; PrimateEmotion+Expression > HumanEmotion+Expression & DogEmotion+Expression> HumanEmotion+Expression; socialcommunication
 // Subjects=16		
 38	-48	-16
 -36	-82	-4
@@ -1867,7 +1867,7 @@
 -22	-12	-12
 -2	-52	22
 		
-//Spunt et al., 2019, PrimateFace > HumanFace & DogFace > HumanFace; socialcommunication		
+//Spunt et al., 2019; PrimateFace > HumanFace & DogFace > HumanFace; socialcommunication		
 // Subjects=16		
 -30	-64	-4
 		
