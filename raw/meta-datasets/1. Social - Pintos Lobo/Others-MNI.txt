@@ -1950,7 +1950,7 @@
 -32	22	2
 34	24	2
 		
-//Tomova et al., 2017, (INJECTION > QTIP): STRESS > CONTROL \ (BIOPSY > QTIP): STRESS > CONTROL; others		
+//Tomova et al., 2017; (INJECTION > QTIP): STRESS > CONTROL \ (BIOPSY > QTIP): STRESS > CONTROL; others	
 // Subjects=67		
 -2	-88	-8
 -6	4	-2
