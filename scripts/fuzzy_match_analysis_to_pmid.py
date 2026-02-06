@@ -8,10 +8,9 @@ matching on years.
 
 Usage:
     python scripts/fuzzy_match_analysis_to_pmid.py \
-        --meta-pmid 36436737 \
-        --included-studies data/included_studies_wt.csv \
-        --nimads data/nimads/social/ALL-Merged.json \
-        --output results/matched_studies.csv \
+        --project social \
+        --included-studies data/included_studies.csv \
+        --output-dir raw/fuzzy_match_study_to_pmcid \
         --threshold 0.85 \
         --verbose
 """
@@ -93,6 +92,63 @@ def normalize_string(s: str) -> str:
     return without_accents.lower()
 
 
+def load_meta_datasets(filepath: str) -> pd.DataFrame:
+    """
+    Load meta_datasets.csv file.
+    
+    Args:
+        filepath: Path to meta_datasets.csv
+    
+    Returns:
+        DataFrame with meta-dataset information
+    
+    Raises:
+        FileNotFoundError: If CSV file doesn't exist
+        ValueError: If required columns are missing
+    """
+    if not Path(filepath).exists():
+        raise FileNotFoundError(f"Meta datasets file not found: {filepath}")
+    
+    df = pd.read_csv(filepath)
+    
+    # Check required columns
+    required_cols = ['pmid', 'topic']
+    missing_cols = set(required_cols) - set(df.columns)
+    if missing_cols:
+        raise ValueError(f"Missing required columns: {missing_cols}")
+    
+    return df
+
+
+def get_meta_pmid_for_project(meta_datasets_df: pd.DataFrame, project_name: str) -> Optional[int]:
+    """
+    Look up meta-analysis PMID for a given project name.
+    
+    Args:
+        meta_datasets_df: DataFrame with meta-dataset information
+        project_name: Name of the project (e.g., "social")
+    
+    Returns:
+        Meta-analysis PMID or None if not found
+    """
+    # Normalize project name for comparison
+    project_normalized = project_name.lower().replace('_', ' ').strip()
+    
+    # Try exact match first
+    for _, row in meta_datasets_df.iterrows():
+        topic = str(row['topic']).lower().strip()
+        if topic == project_normalized:
+            return int(row['pmid'])
+    
+    # Try partial match
+    for _, row in meta_datasets_df.iterrows():
+        topic = str(row['topic']).lower().strip()
+        if project_normalized in topic or topic in project_normalized:
+            return int(row['pmid'])
+    
+    return None
+
+
 def load_included_studies(filepath: str, meta_pmid: int) -> pd.DataFrame:
     """
     Load CSV and filter by meta_pmid.
@@ -163,6 +219,28 @@ def load_nimads_studies(filepath: str) -> List[Dict[str, str]]:
             })
     
     return studies
+
+
+def find_nimads_files(project_name: str, nimads_dir: str = 'data/nimads') -> List[Path]:
+    """
+    Find all NIMADS JSON files for a given project.
+    
+    Args:
+        project_name: Name of the project (e.g., "social")
+        nimads_dir: Base directory for NIMADS files
+    
+    Returns:
+        List of Path objects for NIMADS JSON files
+    """
+    project_dir = Path(nimads_dir) / project_name
+    
+    if not project_dir.exists():
+        return []
+    
+    # Find all .json files in the project directory
+    json_files = list(project_dir.glob('*.json'))
+    
+    return sorted(json_files)
 
 
 def fuzzy_match_study(
@@ -409,13 +487,13 @@ def process_matches(nimads_studies: List[Dict], included_studies: pd.DataFrame,
     return all_results
 
 
-def write_results(results: List[Dict], output_file: Optional[str]):
+def write_results(results: List[Dict], output_file: str):
     """
-    Write results to CSV file or stdout.
+    Write results to CSV file.
     
     Args:
         results: List of match result dicts
-        output_file: Output file path or None for stdout
+        output_file: Output file path
     """
     fieldnames = [
         'nimads_study_id', 'nimads_name', 'match_status',
@@ -423,54 +501,187 @@ def write_results(results: List[Dict], output_file: Optional[str]):
         'matched_title', 'match_score', 'match_count'
     ]
     
-    if output_file:
-        # Ensure output directory exists
-        Path(output_file).parent.mkdir(parents=True, exist_ok=True)
-        with open(output_file, 'w', newline='', encoding='utf-8') as f:
-            writer = csv.DictWriter(f, fieldnames=fieldnames)
-            writer.writeheader()
-            writer.writerows(results)
-    else:
-        # Write to stdout
-        writer = csv.DictWriter(sys.stdout, fieldnames=fieldnames)
+    # Ensure output directory exists
+    Path(output_file).parent.mkdir(parents=True, exist_ok=True)
+    
+    with open(output_file, 'w', newline='', encoding='utf-8') as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(results)
+
+
+def process_project(project_name: str, included_studies_file: str, output_dir: str,
+                   meta_datasets_file: str, threshold: float, verbose: bool):
+    """
+    Process all NIMADS files for a given project.
+    
+    Args:
+        project_name: Name of the project (e.g., "social")
+        included_studies_file: Path to included_studies CSV
+        output_dir: Output directory for results
+        meta_datasets_file: Path to meta_datasets.csv
+        threshold: Matching threshold
+        verbose: Print progress information
+    """
+    if verbose:
+        print(f"\n{'='*60}", file=sys.stderr)
+        print(f"Processing project: {project_name}", file=sys.stderr)
+        print(f"{'='*60}\n", file=sys.stderr)
+    
+    # Load meta datasets and find meta-PMID
+    if verbose:
+        print(f"Loading meta datasets from: {meta_datasets_file}", file=sys.stderr)
+    
+    meta_datasets_df = load_meta_datasets(meta_datasets_file)
+    meta_pmid = get_meta_pmid_for_project(meta_datasets_df, project_name)
+    
+    if meta_pmid is None:
+        print(f"ERROR: Could not find meta-PMID for project '{project_name}'", file=sys.stderr)
+        print(f"Available topics:", file=sys.stderr)
+        for _, row in meta_datasets_df.iterrows():
+            print(f"  - {row['topic']} (PMID: {row['pmid']})", file=sys.stderr)
+        sys.exit(1)
+    
+    if verbose:
+        print(f"Found meta-PMID: {meta_pmid}\n", file=sys.stderr)
+    
+    # Load included studies
+    if verbose:
+        print(f"Loading included studies from: {included_studies_file}", file=sys.stderr)
+    
+    included_studies = load_included_studies(included_studies_file, meta_pmid)
+    
+    if verbose:
+        print(f"Found {len(included_studies)} studies for meta-PMID {meta_pmid}\n", file=sys.stderr)
+    
+    # Find all NIMADS files for this project
+    nimads_files = find_nimads_files(project_name)
+    
+    if not nimads_files:
+        print(f"ERROR: No NIMADS files found for project '{project_name}'", file=sys.stderr)
+        sys.exit(1)
+    
+    if verbose:
+        print(f"Found {len(nimads_files)} NIMADS files:", file=sys.stderr)
+        for nf in nimads_files:
+            print(f"  - {nf.name}", file=sys.stderr)
+        print(f"\nMatching with threshold: {threshold}\n", file=sys.stderr)
+    
+    # Process each NIMADS file
+    project_output_dir = Path(output_dir) / project_name
+    project_output_dir.mkdir(parents=True, exist_ok=True)
+    
+    total_studies = 0
+    total_exact = 0
+    total_fuzzy = 0
+    total_multiple = 0
+    total_no_match = 0
+    
+    for nimads_file in nimads_files:
+        if verbose:
+            print(f"\n{'-'*60}", file=sys.stderr)
+            print(f"Processing: {nimads_file.name}", file=sys.stderr)
+            print(f"{'-'*60}\n", file=sys.stderr)
+        
+        # Load NIMADS studies
+        nimads_studies = load_nimads_studies(nimads_file)
+        total_studies += len(nimads_studies)
+        
+        if verbose:
+            print(f"Found {len(nimads_studies)} studies in NIMADS file\n", file=sys.stderr)
+        
+        # Process matches
+        results = process_matches(nimads_studies, included_studies, threshold, verbose)
+        
+        # Count match types
+        exact_matches = sum(1 for r in results if r['match_status'] == 'exact_match' and r['match_count'] > 0)
+        fuzzy_matches = sum(1 for r in results if r['match_status'] == 'fuzzy_match')
+        multiple_matches = len(set(r['nimads_study_id'] for r in results if r['match_status'] == 'multiple_matches'))
+        no_matches = sum(1 for r in results if r['match_status'] == 'no_match')
+        
+        total_exact += exact_matches
+        total_fuzzy += fuzzy_matches
+        total_multiple += multiple_matches
+        total_no_match += no_matches
+        
+        # Generate output filename
+        base_name = nimads_file.stem  # e.g., "ALL-Merged" from "ALL-Merged.json"
+        output_file = project_output_dir / f"matched_studies_{base_name}.csv"
+        
+        # Write results
+        write_results(results, str(output_file))
+        
+        if verbose:
+            print(f"\n{'='*60}", file=sys.stderr)
+            print(f"File: {nimads_file.name}", file=sys.stderr)
+            print(f"{'='*60}", file=sys.stderr)
+            print(f"Total studies:         {len(nimads_studies)}", file=sys.stderr)
+            print(f"Exact matches:         {exact_matches}", file=sys.stderr)
+            print(f"Fuzzy matches:         {fuzzy_matches}", file=sys.stderr)
+            print(f"Multiple matches:      {multiple_matches}", file=sys.stderr)
+            print(f"No matches:            {no_matches}", file=sys.stderr)
+            print(f"Output:                {output_file}", file=sys.stderr)
+            print(f"{'='*60}", file=sys.stderr)
+    
+    # Print overall summary
+    if verbose:
+        print(f"\n\n{'='*60}", file=sys.stderr)
+        print(f"PROJECT SUMMARY: {project_name}", file=sys.stderr)
+        print(f"{'='*60}", file=sys.stderr)
+        print(f"Files processed:       {len(nimads_files)}", file=sys.stderr)
+        print(f"Total studies:         {total_studies}", file=sys.stderr)
+        print(f"Exact matches:         {total_exact}", file=sys.stderr)
+        print(f"Fuzzy matches:         {total_fuzzy}", file=sys.stderr)
+        print(f"Multiple matches:      {total_multiple}", file=sys.stderr)
+        print(f"No matches:            {total_no_match}", file=sys.stderr)
+        print(f"Output directory:      {project_output_dir}", file=sys.stderr)
+        print(f"{'='*60}", file=sys.stderr)
 
 
 def main():
     """Main entry point for the script."""
     parser = argparse.ArgumentParser(
-        description='Fuzzy match NIMADS study IDs to PMIDs',
+        description='Fuzzy match NIMADS study IDs to PMIDs for a project',
         formatter_class=argparse.RawDescriptionHelpFormatter,
-        epilog=__doc__
+        epilog="""
+Examples:
+  # Process social project
+  python scripts/fuzzy_match_analysis_to_pmid.py --project social
+  
+  # Process with custom threshold
+  python scripts/fuzzy_match_analysis_to_pmid.py --project social --threshold 0.90
+  
+  # Verbose output
+  python scripts/fuzzy_match_analysis_to_pmid.py --project social --verbose
+        """
     )
     
     parser.add_argument(
-        '--meta-pmid',
-        type=int,
+        '--project',
+        type=str,
         required=True,
-        help='PMID of the meta-analysis to filter included studies'
+        help='Name of the project to process (e.g., "social")'
     )
     
     parser.add_argument(
         '--included-studies',
         type=str,
-        required=True,
-        help='Path to included studies CSV file'
+        default='data/included_studies_wt.csv',
+        help='Path to included studies CSV file (default: data/included_studies_wt.csv)'
     )
     
     parser.add_argument(
-        '--nimads',
+        '--output-dir',
         type=str,
-        required=True,
-        help='Path to NIMADS JSON file'
+        default='raw/fuzzy_match_study_to_pmcid',
+        help='Output directory for results (default: raw/fuzzy_match_study_to_pmcid)'
     )
     
     parser.add_argument(
-        '--output',
+        '--meta-datasets',
         type=str,
-        default=None,
-        help='Output CSV file path (default: stdout)'
+        default='data/meta_datasets.csv',
+        help='Path to meta_datasets.csv (default: data/meta_datasets.csv)'
     )
     
     parser.add_argument(
@@ -493,51 +704,20 @@ def main():
         parser.error("Threshold must be between 0.0 and 1.0")
     
     try:
-        if args.verbose:
-            print(f"Loading NIMADS file: {args.nimads}", file=sys.stderr)
-        nimads_studies = load_nimads_studies(args.nimads)
-        
-        if args.verbose:
-            print(f"Found {len(nimads_studies)} studies in NIMADS file", file=sys.stderr)
-            print(f"\nLoading included studies: {args.included_studies}", file=sys.stderr)
-        
-        included_studies = load_included_studies(args.included_studies, args.meta_pmid)
-        
-        if args.verbose:
-            print(f"Found {len(included_studies)} studies for meta-PMID {args.meta_pmid}", file=sys.stderr)
-            print(f"\nMatching with threshold: {args.threshold}\n", file=sys.stderr)
-        
-        # Process matches
-        results = process_matches(nimads_studies, included_studies, args.threshold, args.verbose)
-        
-        # Write results
-        if args.verbose:
-            print(f"\nWriting results...", file=sys.stderr)
-        write_results(results, args.output)
-        
-        if args.verbose:
-            # Print summary statistics
-            total_studies = len(nimads_studies)
-            exact_matches = sum(1 for r in results if r['match_status'] == 'exact_match' and r['match_count'] > 0)
-            fuzzy_matches = sum(1 for r in results if r['match_status'] == 'fuzzy_match')
-            multiple_matches = len(set(r['nimads_study_id'] for r in results if r['match_status'] == 'multiple_matches'))
-            no_matches = sum(1 for r in results if r['match_status'] == 'no_match')
-            
-            print(f"\n{'='*60}", file=sys.stderr)
-            print(f"SUMMARY", file=sys.stderr)
-            print(f"{'='*60}", file=sys.stderr)
-            print(f"Total NIMADS studies:  {total_studies}", file=sys.stderr)
-            print(f"Exact matches:         {exact_matches}", file=sys.stderr)
-            print(f"Fuzzy matches:         {fuzzy_matches}", file=sys.stderr)
-            print(f"Multiple matches:      {multiple_matches}", file=sys.stderr)
-            print(f"No matches:            {no_matches}", file=sys.stderr)
-            print(f"{'='*60}", file=sys.stderr)
-            
-            if args.output:
-                print(f"\nResults written to: {args.output}", file=sys.stderr)
+        process_project(
+            project_name=args.project,
+            included_studies_file=args.included_studies,
+            output_dir=args.output_dir,
+            meta_datasets_file=args.meta_datasets,
+            threshold=args.threshold,
+            verbose=args.verbose
+        )
         
     except Exception as e:
         print(f"ERROR: {e}", file=sys.stderr)
+        import traceback
+        if args.verbose:
+            traceback.print_exc(file=sys.stderr)
         sys.exit(1)
 
 
