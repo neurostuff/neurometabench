@@ -367,13 +367,13 @@ def main():
     
     # Paths
     base_dir = Path(__file__).parent.parent
-    meta_datasets_file = base_dir / 'data' / 'meta_datasets.tsv'
+    meta_datasets_file = base_dir / 'data' / 'meta_datasets.csv'
     sources_dir = base_dir / 'raw' / 'meta-datasets'
     output_base_dir = base_dir / 'data' / 'nimads'
     
     # Read meta_datasets.tsv
     print("Reading meta_datasets.tsv...")
-    df = pd.read_csv(meta_datasets_file, sep='\t')
+    df = pd.read_csv(meta_datasets_file)
     
     # Get available folders
     available_folders = [

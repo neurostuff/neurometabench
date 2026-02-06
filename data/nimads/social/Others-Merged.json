@@ -23508,15 +23508,15 @@
       ]
     },
     {
-      "id": "Tomova et al., 2017, (INJECTION > QTIP): STRESS > CONTROL \\ (BIOPSY > QTIP): STRESS > CONTROL",
-      "name": "Tomova et al., 2017, (INJECTION > QTIP): STRESS > CONTROL \\ (BIOPSY > QTIP): STRESS > CONTROL",
+      "id": "Tomova et al., 2017",
+      "name": "Tomova et al., 2017",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "others",
-          "name": "others",
+          "id": "(INJECTION > QTIP): STRESS > CONTROL \\ (BIOPSY > QTIP): STRESS > CONTROL; others",
+          "name": "(INJECTION > QTIP): STRESS > CONTROL \\ (BIOPSY > QTIP): STRESS > CONTROL; others",
           "conditions": [
             {
               "name": "default",

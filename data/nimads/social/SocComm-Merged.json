@@ -18404,15 +18404,15 @@
       ]
     },
     {
-      "id": "Spunt et al., 2019, HumanEmotion+Expression > PrimateEmotion+Expression & HumanEmotion+Expression > DogEmotion+Expression",
-      "name": "Spunt et al., 2019, HumanEmotion+Expression > PrimateEmotion+Expression & HumanEmotion+Expression > DogEmotion+Expression",
+      "id": "Spunt et al., 2019",
+      "name": "Spunt et al., 2019",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "socialcommunication",
-          "name": "socialcommunication",
+          "id": "HumanEmotion+Expression > PrimateEmotion+Expression & HumanEmotion+Expression > DogEmotion+Expression; socialcommunication",
+          "name": "HumanEmotion+Expression > PrimateEmotion+Expression & HumanEmotion+Expression > DogEmotion+Expression; socialcommunication",
           "conditions": [
             {
               "name": "default",
@@ -18462,19 +18462,10 @@
               16
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Spunt et al., 2019, HumanEmotion>Expression & PrimateEmotion>Expression & DogEmotion>Expression",
-      "name": "Spunt et al., 2019, HumanEmotion>Expression & PrimateEmotion>Expression & DogEmotion>Expression",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "socialcommunication",
-          "name": "socialcommunication",
+          "id": "HumanEmotion>Expression & PrimateEmotion>Expression & DogEmotion>Expression; socialcommunication",
+          "name": "HumanEmotion>Expression & PrimateEmotion>Expression & DogEmotion>Expression; socialcommunication",
           "conditions": [
             {
               "name": "default",
@@ -18508,19 +18499,10 @@
               16
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Spunt et al., 2019, HumanExpression>Emotion & PrimateExpression>Emotion & DogExpression>Emotion",
-      "name": "Spunt et al., 2019, HumanExpression>Emotion & PrimateExpression>Emotion & DogExpression>Emotion",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "socialcommunication",
-          "name": "socialcommunication",
+          "id": "HumanExpression>Emotion & PrimateExpression>Emotion & DogExpression>Emotion; socialcommunication",
+          "name": "HumanExpression>Emotion & PrimateExpression>Emotion & DogExpression>Emotion; socialcommunication",
           "conditions": [
             {
               "name": "default",
@@ -18554,19 +18536,10 @@
               16
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Spunt et al., 2019, PrimateEmotion+Expression > HumanEmotion+Expression & DogEmotion+Expression> HumanEmotion+Expression",
-      "name": "Spunt et al., 2019, PrimateEmotion+Expression > HumanEmotion+Expression & DogEmotion+Expression> HumanEmotion+Expression",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "socialcommunication",
-          "name": "socialcommunication",
+          "id": "PrimateEmotion+Expression > HumanEmotion+Expression & DogEmotion+Expression> HumanEmotion+Expression; socialcommunication",
+          "name": "PrimateEmotion+Expression > HumanEmotion+Expression & DogEmotion+Expression> HumanEmotion+Expression; socialcommunication",
           "conditions": [
             {
               "name": "default",
@@ -18640,19 +18613,10 @@
               16
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Spunt et al., 2019, PrimateFace > HumanFace & DogFace > HumanFace",
-      "name": "Spunt et al., 2019, PrimateFace > HumanFace & DogFace > HumanFace",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "socialcommunication",
-          "name": "socialcommunication",
+          "id": "PrimateFace > HumanFace & DogFace > HumanFace; socialcommunication",
+          "name": "PrimateFace > HumanFace & DogFace > HumanFace; socialcommunication",
           "conditions": [
             {
               "name": "default",
