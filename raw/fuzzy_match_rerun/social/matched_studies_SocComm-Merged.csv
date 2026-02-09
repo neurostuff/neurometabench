@@ -68,7 +68,7 @@ nimads_study_id,nimads_name,match_status,matched_pmid,matched_author,matched_yea
 "Takahashi et al., 2004","Takahashi et al., 2004",exact_match,15528097,Takahashi,2004,Brain activation associated with evaluative processes of guilt and embarrassment: an fMRI study.,1.0,1
 "Thornton et al., 2013","Thornton et al., 2013",exact_match,23298748,Thornton,2013,Working memory for social information: chunking or domain-specific buffer?,1.0,1
 "Toki et al, 2013","Toki et al, 2013",exact_match,24051621,Toki,2013,Automatic and intentional brain responses during evaluation of face approachability: correlations with trait anxiety.,1.0,1
-"Tomova et al., 2017, (INJECTION > QTIP): STRESS > CONTROL \ (BIOPSY > QTIP): STRESS > CONTROL","Tomova et al., 2017, (INJECTION > QTIP): STRESS > CONTROL \ (BIOPSY > QTIP): STRESS > CONTROL",exact_match,27798249,Tomova,2017,Increased neural responses to empathy for pain might explain how acute stress increases prosociality.,1.0,1
+"Tomova et al., 2017","Tomova et al., 2017",exact_match,27798249,Tomova,2017,Increased neural responses to empathy for pain might explain how acute stress increases prosociality.,1.0,1
 "Uddin et al., 2005","Uddin et al., 2005",exact_match,15808992,Uddin,2005,"Self-face recognition activates a frontoparietal ""mirror"" network in the right hemisphere: an event-related fMRI study.",1.0,1
 "Ueda et al., 2017","Ueda et al., 2017",exact_match,29039129,Ueda,2017,Implicit attitudes and executive control interact to regulate interest in extra-pair relationships.,1.0,1
 "Vanlangendonck et al., 2018","Vanlangendonck et al., 2018",exact_match,29221830,Vanlangendonck,2018,Distinguishable memory retrieval networks for collaboratively and non-collaboratively learned information.,1.0,1

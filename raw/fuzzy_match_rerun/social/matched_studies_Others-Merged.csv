@@ -22,8 +22,8 @@ nimads_study_id,nimads_name,match_status,matched_pmid,matched_author,matched_yea
 "Cross et al., 2019","Cross et al., 2019",exact_match,30852995,Cross,2019,A neurocognitive investigation of the impact of socializing with a robot on empathy for pain.,1.0,1
 "Decety et al., 2004","Decety et al., 2004",exact_match,15488424,Decety,2004,The neural bases of cooperation and competition: an fMRI investigation.,1.0,1
 "Deuse et al., 2016","Deuse et al., 2016",exact_match,27496338,Deuse,2016,Neural correlates of naturalistic social cognition: brain-behavior relationships in healthy adults.,1.0,1
-"Di Cesare et al., 2013","Di Cesare et al., 2013",multiple_matches,23740868,Di Cesare,2014,"The neural correlates of 'vitality form' recognition: an fMRI study: this work is dedicated to Daniel Stern, whose immeasurable contribution to science has inspired our research.",0.95,2
 "Di Cesare et al., 2013","Di Cesare et al., 2013",multiple_matches,23508477,Kedia,2014,The neural correlates of beauty comparison.,0.95,2
+"Di Cesare et al., 2013","Di Cesare et al., 2013",multiple_matches,23740868,Di Cesare,2014,"The neural correlates of 'vitality form' recognition: an fMRI study: this work is dedicated to Daniel Stern, whose immeasurable contribution to science has inspired our research.",0.95,2
 "Dungan et al., 2016","Dungan et al., 2016",exact_match,26969865,Dungan,2016,Theory of mind for processing unexpected events across contexts.,1.0,1
 "Georgescu et al., 2013","Georgescu et al., 2013",fuzzy_match,23813661,Georgescu,2014,Perceiving nonverbal behavior: neural correlates of processing movement fluency and contingency in dyadic interactions.,0.95,1
 "Greven et al., 2016","Greven et al., 2016",exact_match,26920683,Greven,2016,Linking person perception and person knowledge in the human brain.,1.0,1
@@ -69,8 +69,7 @@ nimads_study_id,nimads_name,match_status,matched_pmid,matched_author,matched_yea
 "Silani et al., 2013","Silani et al., 2013",exact_match,24068815,Silani,2013,Right supramarginal gyrus is crucial to overcome emotional egocentricity bias in social judgments.,1.0,1
 "Singer et al., 2004","Singer et al., 2004",exact_match,14980212,Singer,2004,Brain responses to the acquired moral status of faces.,1.0,1
 "Smith et al., 2017","Smith et al., 2017",exact_match,27007121,Smith,2017,Contributions of self-report and performance-based individual differences measures of social cognitive ability to large-scale neural network functioning.,1.0,1
-"Sokolov et al., 2012","Sokolov et al., 2012",multiple_matches,22019860,Sokolov,2012,Biological motion processing: the left cerebellum communicates with the right superior temporal sulcus.,1.0,2
-"Sokolov et al., 2012","Sokolov et al., 2012",multiple_matches,22019860,Sokolov,2012,Biological motion processing: the left cerebellum communicates with the right superior temporal sulcus.,1.0,2
+"Sokolov et al., 2012","Sokolov et al., 2012",exact_match,22019860,Sokolov,2012,Biological motion processing: the left cerebellum communicates with the right superior temporal sulcus.,1.0,1
 "Sperduti et al., 2014","Sperduti et al., 2014",exact_match,24414614,Sperduti,2014,Mirror Neuron System and Mentalizing System connect during online social interaction.,1.0,1
 "Spunt et al., 2013","Spunt et al., 2013",exact_match,23221019,Spunt,2013,The busy social brain: evidence for automaticity and control in the neural systems supporting social cognition and action understanding.,1.0,1
 "Spunt et al., 2015","Spunt et al., 2015",exact_match,25911123,Spunt,2015,Folk explanations of behavior: a specialized use of a domain-general mechanism.,1.0,1

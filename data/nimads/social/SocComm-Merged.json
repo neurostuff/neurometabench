@@ -21491,15 +21491,15 @@
       ]
     },
     {
-      "id": "Tomova et al., 2017, (INJECTION > QTIP): STRESS > CONTROL \\ (BIOPSY > QTIP): STRESS > CONTROL",
-      "name": "Tomova et al., 2017, (INJECTION > QTIP): STRESS > CONTROL \\ (BIOPSY > QTIP): STRESS > CONTROL",
+      "id": "Tomova et al., 2017",
+      "name": "Tomova et al., 2017",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "socialcommunication",
-          "name": "socialcommunication",
+          "id": "(INJECTION > QTIP): STRESS > CONTROL \\ (BIOPSY > QTIP): STRESS > CONTROL; socialcommunication",
+          "name": "(INJECTION > QTIP): STRESS > CONTROL \\ (BIOPSY > QTIP): STRESS > CONTROL; socialcommunication",
           "conditions": [
             {
               "name": "default",

@@ -15,7 +15,7 @@
 		
 //Zhang et al., 2018; Modality > Emotion; socialcommunication		
 // Subjects=25		
-39	-81	9F
+39	-81	9
 48	-75	-3
 -48	-72	-3
 -38	-81	6
