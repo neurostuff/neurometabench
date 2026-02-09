@@ -2237,7 +2237,7 @@
 // Subjects=41		
 4	-64	-14
 		
-//Nagals., 2015; IC > NG; socialcommunication		
+//Nagals et al., 2015; IC > NG; socialcommunication		
 // Subjects=37		
 -50	-72	4
 46	-66	0
@@ -2250,14 +2250,14 @@
 -10	-20	8
 -4	36	46
 		
-//Nagals., 2015;  (IC > NG ∩ ego > allo) (conjunction analysis); socialcommunication		
+//Nagals et al., 2015;  (IC > NG ∩ ego > allo) (conjunction analysis); socialcommunication		
 // Subjects=37		
 54	-30	54
 18	-100	12
 42	-32	44
 58	8	20
 		
-//Nagals., 2015; ego > allo; socialcommunication		
+//Nagals et al., 2015; ego > allo; socialcommunication		
 // Subjects=37		
 18	-98	6
 12	-96	22
@@ -2282,7 +2282,7 @@
 -22	-60	-34
 -22	-48	-30
 		
-//Nagals., 2015;  allo > ego; socialcommunication		
+//Nagals et al., 2015;  allo > ego; socialcommunication		
 // Subjects=37		
 -16	-94	-8
 -38	-84	-6
@@ -2300,7 +2300,7 @@
 0	-62	58
 14	-50	44
 		
-//Nagals., 2015; (IC-ego>IC-allo)> (NG-ego>NG-allo); socialcommunication		
+//Nagals et al., 2015; (IC-ego>IC-allo)> (NG-ego>NG-allo); socialcommunication		
 // Subjects=37		
 2	20	-10
 -6	38	-6
@@ -2308,7 +2308,7 @@
 -24	34	-28
 -32	-32	-18
 		
-//Nagals., 2015; (IC-allo>NG-allo)>(IC-ego>NG-ego); socialcommunication		
+//Nagals et al., 2015; (IC-allo>NG-allo)>(IC-ego>NG-ego); socialcommunication		
 // Subjects=37		
 -8	22	60
 8	22	48

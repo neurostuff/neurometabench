@@ -5,7 +5,8 @@ nimads_study_id,nimads_name,match_status,matched_pmid,matched_author,matched_yea
 "Barman et al., 2015","Barman et al., 2015",exact_match,25944965,Barman,2015,Gender-specific modulation of neural mechanisms underlying social reward processing by Autism Quotient.,1.0,1
 "Beckes et al., 2013","Beckes et al., 2013",exact_match,22563005,Beckes,2013,Familiarity promotes the blurring of self and other in the neural representation of threat.,1.0,1
 "Benoit et al., 2010","Benoit et al., 2010",exact_match,20045478,Benoit,2010,When I think about me and simulate you: medial rostral prefrontal cortex and self-referential processes.,1.0,1
-"Bergström et al., 2014","Bergström et al., 2014",fuzzy_match,24700584,Bergström,2015,Reflections of Oneself: Neurocognitive Evidence for Dissociable Forms of Self-Referential Recollection.,0.95,1
+"Bergström et al., 2014","Bergström et al., 2014",multiple_matches,24700584,Bergström,2015,Reflections of Oneself: Neurocognitive Evidence for Dissociable Forms of Self-Referential Recollection.,0.95,2
+"Bergström et al., 2014","Bergström et al., 2014",multiple_matches,24842782,Beyer,2015,Orbitofrontal Cortex Reactivity to Angry Facial Expression in a Social Interaction Correlates with Aggressive Behavior.,0.7,2
 "Cazzato et al., 2015","Cazzato et al., 2015",exact_match,26262561,Cazzato,2015,The attracting power of the gaze of politicians is modulated by the personality and ideological attitude of their voters: a functional magnetic resonance imaging study.,1.0,1
 "Cheng et al., 2010","Cheng et al., 2010",exact_match,20188182,Cheng,2010,Love hurts: an fMRI study.,1.0,1
 "Chiao et al., 2009","Chiao et al., 2009",exact_match,19107754,Chiao,2009,Neural basis of individualistic and collectivistic views of self.,1.0,1
@@ -15,11 +16,11 @@ nimads_study_id,nimads_name,match_status,matched_pmid,matched_author,matched_yea
 "Hartung et al., 2019","Hartung et al., 2019",exact_match,31142792,Hartung,2019,Behavioural and Neural Responses to Facial Disfigurement.,1.0,1
 "Herold et al., 2016","Herold et al., 2016",exact_match,26365506,Herold,2016,Common and distinct networks for self-referential and social stimulus processing in the human brain.,1.0,1
 "Jankowski et al., 2014","Jankowski et al., 2014",exact_match,24582805,Jankowski,2014,But do you think I'm cool? Developmental differences in striatal recruitment during direct and reflected social self-evaluations.,1.0,1
-"Janowski et al., 2012","Janowski et al., 2012",fuzzy_match,22349798,Janowski,2013,Empathic choice involves vmPFC value signals that are modulated by social processing implemented in IPL.,0.95,1
+"Janowski et al., 2012","Janowski et al., 2012",fuzzy_match,22726841,Suzuki,2012,Learning to simulate others' decisions.,0.6666666666666667,1
 "Jiang et al., 2018","Jiang et al., 2018",exact_match,29777673,Jiang,2018,Activations of the dorsolateral prefrontal cortex and thalamus during agentic self-evaluation are negatively associated with trait self-esteem.,1.0,1
 "Kawamichi et al., 2016","Kawamichi et al., 2016",exact_match,27090501,Kawamichi,2016,Increased frequency of social interaction is associated with enjoyment enhancement and reward system activation.,1.0,1
 "Kawasaki et al., 2016","Kawasaki et al., 2016",exact_match,26235682,Kawasaki,2016,Differential activation of the ventromedial prefrontal cortex between male and female givers of social reputation.,1.0,1
-"Kestemont et al., 2014","Kestemont et al., 2014",fuzzy_match,24633532,Kestemont,2015,"Neural correlates of attributing causes to the self, another person and the situation.",0.95,1
+"Kestemont et al., 2014","Kestemont et al., 2014",fuzzy_match,24294906,Emonds,2014,Establishing cooperation in a mixed-motive social dilemma. An fMRI study investigating the role of social value orientation and dispositional trust.,0.7272727272727273,1
 "Kirk et al., 2016","Kirk et al., 2016",exact_match,27266443,Kirk,2016,Mindfulness training increases cooperative decision making in economic exchanges: Evidence from fMRI.,1.0,1
 "Korn et al., 2014","Korn et al., 2014",exact_match,24772075,Korn,2014,Cultural influences on social feedback processing of character traits.,1.0,1
 "Liu et al., 2018","Liu et al., 2018",exact_match,29432769,Liu,2018,Self-construals moderate associations between trait creativity and social brain network.,1.0,1
@@ -43,14 +44,21 @@ nimads_study_id,nimads_name,match_status,matched_pmid,matched_author,matched_yea
 "Trapp et al., 2014","Trapp et al., 2014",exact_match,24825504,Trapp,2014,Imagining triadic interactions simultaneously activates mirror and mentalizing systems.,1.0,1
 "Tylén et al., 2016","Tylén et al., 2016",exact_match,27039141,Tylén,2016,Trails of meaning construction: Symbolic artifacts engage the social brain.,1.0,1
 "Uddin et al., 2005","Uddin et al., 2005",exact_match,15808992,Uddin,2005,"Self-face recognition activates a frontoparietal ""mirror"" network in the right hemisphere: an event-related fMRI study.",1.0,1
-"Van Der Heiden et al., 2013","Van Der Heiden et al., 2013",exact_match,23063451,van der Heiden,2013,Inter-individual differences in successful perspective taking during pain perception mediates emotional responsiveness in self and others: an fMRI study.,1.0,1
+"Van Der Heiden et al., 2013","Van Der Heiden et al., 2013",multiple_matches,23063451,van der Heiden,2013,Inter-individual differences in successful perspective taking during pain perception mediates emotional responsiveness in self and others: an fMRI study.,1.0,6
+"Van Der Heiden et al., 2013","Van Der Heiden et al., 2013",multiple_matches,23876243,Anderson,2013,Sex differences in the development of brain mechanisms for processing biological motion.,0.8,6
+"Van Der Heiden et al., 2013","Van Der Heiden et al., 2013",multiple_matches,22349798,Janowski,2013,Empathic choice involves vmPFC value signals that are modulated by social processing implemented in IPL.,0.6666666666666667,6
+"Van Der Heiden et al., 2013","Van Der Heiden et al., 2013",multiple_matches,23378834,Von Der Heide,2013,Anterior temporal face patches: a meta-analysis and empirical study.,0.6666666666666667,6
+"Van Der Heiden et al., 2013","Van Der Heiden et al., 2013",multiple_matches,23684882,Mainieri,2013,Differential role of the Mentalizing and the Mirror Neuron system in the imitation of communicative gestures.,0.6666666666666667,6
+"Van Der Heiden et al., 2013","Van Der Heiden et al., 2013",multiple_matches,24068815,Silani,2013,Right supramarginal gyrus is crucial to overcome emotional egocentricity bias in social judgments.,0.6666666666666667,6
 "Wade-Bohleber et al., 2019","Wade-Bohleber et al., 2019",exact_match,30077577,Wade-Bohleber,2019,Thinking about the past to shape the present: neural activation during the recall of relationship episodes.,1.0,1
-"Weng et al., 2015","Weng et al., 2015",no_match,,,,,0.0,0
-"Whitman et al., 2016","Whitman et al., 2016",fuzzy_match,27477020,Wittmann,2016,Self-Other Mergence in the Frontal Cortex during Cooperation and Competition.,0.8571428571428572,1
-"Will et al., 2014","Will et al., 2014",fuzzy_match,24652858,Will,2015,Acting on social exclusion: neural correlates of punishment and forgiveness of excluders.,0.95,1
+"Weng et al., 2015","Weng et al., 2015",fuzzy_match,25697049,Quadflieg,2015,The neural basis of perceiving person interactions.,0.6666666666666667,1
+"Whitman et al., 2016","Whitman et al., 2016",multiple_matches,27477020,Wittmann,2016,Self-Other Mergence in the Frontal Cortex during Cooperation and Competition.,0.8571428571428572,2
+"Whitman et al., 2016","Whitman et al., 2016",multiple_matches,26481048,Han,2016,Common and distinct neural mechanisms of the fundamental dimensions of social cognition.,0.8,2
+"Will et al., 2014","Will et al., 2014",multiple_matches,24652858,Will,2015,Acting on social exclusion: neural correlates of punishment and forgiveness of excluders.,0.95,2
+"Will et al., 2014","Will et al., 2014",multiple_matches,23667619,Wildgruber,2013,Different types of laughter modulate connectivity within distinct parts of the laughter perception network.,0.8071428571428572,2
 "Xie et al., 2016","Xie et al., 2016",exact_match,27095057,Xie,2016,How do you make me feel better? Social cognitive emotion regulation and the default mode network.,1.0,1
 "Zhou et al., 2014","Zhou et al., 2014",exact_match,24834034,Zhou,2014,Money talks: neural substrate of modulation of fairness by monetary incentives.,1.0,1
-"Zimmermann et al., 2018","Zimmermann et al., 2018",fuzzy_match,30658938,Zimmermann,2019,Altered striatal reward processing in abstinent dependent cannabis users: Social context matters.,0.95,1
+"Zimmermann et al., 2018","Zimmermann et al., 2018",fuzzy_match,29077925,Mattan,2018,External motivation to avoid prejudice alters neural responses to targets varying in race and status.,0.6,1
 "van den Bos et al., 2009","van den Bos et al., 2009",exact_match,19304843,van den Bos,2009,What motivates repayment? Neural correlates of reciprocity in the Trust Game.,1.0,1
 "Anderson et al., 2013","Anderson et al., 2013",exact_match,23876243,Anderson,2013,Sex differences in the development of brain mechanisms for processing biological motion.,1.0,1
 "Blackwood et al., 2003","Blackwood et al., 2003",exact_match,14568477,Blackwood,2003,Self-responsibility and the self-serving bias: an fMRI investigation of causal attributions.,1.0,1
@@ -60,11 +68,13 @@ nimads_study_id,nimads_name,match_status,matched_pmid,matched_author,matched_yea
 "Chauvigne et al., 2018a","Chauvigne et al., 2018a",multiple_matches,30349467,Chauvigné,2018,Role-Specific Brain Activations in Leaders and Followers During Joint Action.,0.95,2
 "Chauvigne et al., 2018b","Chauvigne et al., 2018b",multiple_matches,29324862,Chauvigné,2018,Taking two to tango: fMRI analysis of improvised joint action with physical contact.,0.95,2
 "Chauvigne et al., 2018b","Chauvigne et al., 2018b",multiple_matches,30349467,Chauvigné,2018,Role-Specific Brain Activations in Leaders and Followers During Joint Action.,0.95,2
-"Dimenichi et al., 2016","Dimenichi et al., 2016",fuzzy_match,27622781,DiMenichi,2017,Increases in brain activity during social competition predict decreases in working memory performance and later recall.,0.8999999999999999,1
+"Dimenichi et al., 2016","Dimenichi et al., 2016",multiple_matches,27090501,Kawamichi,2016,Increased frequency of social interaction is associated with enjoyment enhancement and reward system activation.,0.7142857142857143,3
+"Dimenichi et al., 2016","Dimenichi et al., 2016",multiple_matches,27095057,Xie,2016,How do you make me feel better? Social cognitive emotion regulation and the default mode network.,0.6666666666666667,3
+"Dimenichi et al., 2016","Dimenichi et al., 2016",multiple_matches,27716474,Ziaei,2016,The impact of aging on the neural networks involved in gaze and emotional processing.,0.6,3
 "Ebisch et al., 2014","Ebisch et al., 2014",exact_match,24666131,Ebisch,2014,Reach out and touch someone: anticipatory sensorimotor processes of active interpersonal touch.,1.0,1
 "Emonds et al., 2014","Emonds et al., 2014",exact_match,24294906,Emonds,2014,Establishing cooperation in a mixed-motive social dilemma. An fMRI study investigating the role of social value orientation and dispositional trust.,1.0,1
 "Fehr et al., 2014","Fehr et al., 2014",exact_match,24814646,Fehr,2014,Neural correlates of the empathic perceptual processing of realistic social interaction scenarios displayed from a first-order perspective.,1.0,1
-"Gordon et al., 2011","Gordon et al., 2011",no_match,,,,,0.0,0
+"Gordon et al., 2011","Gordon et al., 2011",fuzzy_match,21320516,Kohn,2011,Gender differences in the neural correlates of humor processing: implications for different processing modes.,0.6666666666666667,1
 "Krämer et al., 2010","Krämer et al., 2010",exact_match,19944083,Krämer,2010,Emotional and cognitive aspects of empathy and their relation to social cognition--an fMRI-study.,1.0,1
 "Reniers et al., 2014","Reniers et al., 2014",exact_match,24294841,Reniers,2014,"Empathy, ToM, and self-other differentiation: an fMRI study of internal states.",1.0,1
 "Volz et al., 2015","Volz et al., 2015",exact_match,25729358,Volz,2015,The neural basis of deception in strategic interactions.,1.0,1

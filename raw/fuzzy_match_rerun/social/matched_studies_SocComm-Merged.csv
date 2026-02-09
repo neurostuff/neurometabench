@@ -1,6 +1,10 @@
 nimads_study_id,nimads_name,match_status,matched_pmid,matched_author,matched_year,matched_title,match_score,match_count
 "Barman et al., 2015","Barman et al., 2015",exact_match,25944965,Barman,2015,Gender-specific modulation of neural mechanisms underlying social reward processing by Autism Quotient.,1.0,1
-"Beyer et al., 2014","Beyer et al., 2014",fuzzy_match,24842782,Beyer,2015,Orbitofrontal Cortex Reactivity to Angry Facial Expression in a Social Interaction Correlates with Aggressive Behavior.,0.95,1
+"Beyer et al., 2014","Beyer et al., 2014",multiple_matches,23887810,Krueger,2014,An fMRI investigation of the effects of belief in free will on third-party punishment.,0.6666666666666667,5
+"Beyer et al., 2014","Beyer et al., 2014",multiple_matches,24097375,Schaefer,2014,Rough primes and rough conversations: evidence for a modality-specific basis to mental metaphors.,0.6666666666666667,5
+"Beyer et al., 2014","Beyer et al., 2014",multiple_matches,24814646,Fehr,2014,Neural correlates of the empathic perceptual processing of realistic social interaction scenarios displayed from a first-order perspective.,0.6666666666666667,5
+"Beyer et al., 2014","Beyer et al., 2014",multiple_matches,24294841,Reniers,2014,"Empathy, ToM, and self-other differentiation: an fMRI study of internal states.",0.6,5
+"Beyer et al., 2014","Beyer et al., 2014",multiple_matches,25042446,Schneider,2014,Implicit false-belief processing in the human brain.,0.6,5
 "Bockler et al., 2016","Bockler et al., 2016",fuzzy_match,25996424,Böckler,2016,(How) observed eye-contact modulates gaze following. An fMRI study.,0.95,1
 "Bristow et al., 2007","Bristow et al., 2007",exact_match,18985119,Bristow,2007,Social interaction modifies neural response to gaze shifts.,1.0,1
 "Caruana et al., 2015","Caruana et al., 2015",exact_match,25534111,Caruana,2015,A frontotemporoparietal network common to initiating and responding to joint attention bids.,1.0,1
@@ -8,22 +12,28 @@ nimads_study_id,nimads_name,match_status,matched_pmid,matched_author,matched_yea
 "Catmur et al., 2008","Catmur et al., 2008",exact_match,18783371,Catmur,2008,Through the looking glass: counter-mirror activation following incompatible sensorimotor learning.,1.0,1
 "Chen et al., 2010","Chen et al., 2010",exact_match,20188190,Chen,2010,'Do I like this person?' A network analysis of midline cortex during a social preference task.,1.0,1
 "Cloutier et al., 2014","Cloutier et al., 2014",exact_match,24936688,Cloutier,2014,Ventral medial prefrontal cortex and person evaluation: forming impressions of others varying in financial and moral status.,1.0,1
-"Contreras et al., 2011","Contreras et al., 2011",fuzzy_match,21908447,Contreras,2012,Dissociable neural correlates of stereotypes and other forms of semantic knowledge.,0.95,1
-"Cooper et al., 2013","Cooper et al., 2013",fuzzy_match,23599165,Cooper,2014,The role of the posterior temporal and medial prefrontal cortices in mediating learning from romantic interest and rejection.,0.95,1
+"Contreras et al., 2011","Contreras et al., 2011",fuzzy_match,21569855,Cloutier,2011,An fMRI study of violations of social expectations: when people are not who we expect them to be.,0.6666666666666667,1
+"Cooper et al., 2013","Cooper et al., 2013",multiple_matches,23599165,Cooper,2014,The role of the posterior temporal and medial prefrontal cortices in mediating learning from romantic interest and rejection.,0.95,2
+"Cooper et al., 2013","Cooper et al., 2013",multiple_matches,24814646,Fehr,2014,Neural correlates of the empathic perceptual processing of realistic social interaction scenarios displayed from a first-order perspective.,0.6166666666666667,2
 "Cuevas et al., 2019","Cuevas et al., 2019",exact_match,30930310,Cuevas,2019,The facilitative effect of gestures on the neural processing of semantic complexity in a continuous narrative.,1.0,1
-"Davies-Thompson et al., 2018","Davies-Thompson et al., 2018",fuzzy_match,30272134,Davies-Thompson,2019,Hierarchical Brain Network for Face and Voice Integration of Emotion Expression.,0.95,1
+"Davies-Thompson et al., 2018","Davies-Thompson et al., 2018",multiple_matches,29330483,Safron,2018,"Neural Correlates of Sexual Orientation in Heterosexual, Bisexual, and Homosexual Women.",0.6666666666666667,2
+"Davies-Thompson et al., 2018","Davies-Thompson et al., 2018",multiple_matches,29723244,Tso,2018,"The ""social brain"" is highly sensitive to the mere presence of social information: An automated meta-analysis and an independent study.",0.6666666666666667,2
 "Derntl et al., 2009","Derntl et al., 2009",exact_match,19136216,Derntl,2009,Amygdala activity to fear and anger in healthy young males is associated with testosterone.,1.0,1
-"Dichter et al., 2008","Dichter et al., 2008",fuzzy_match,19015088,Dichter,2009,Mapping social target detection with functional magnetic resonance imaging.,0.95,1
+"Dichter et al., 2008","Dichter et al., 2008",multiple_matches,18633856,Carter,2008,Friend or foe? Brain systems involved in the perception of dynamic signals of menacing and friendly social approaches.,0.7272727272727273,3
+"Dichter et al., 2008","Dichter et al., 2008",multiple_matches,18514546,Schulte-Rüther,2008,Gender differences in brain networks supporting empathy.,0.6,3
+"Dichter et al., 2008","Dichter et al., 2008",multiple_matches,18585742,Materna,2008,The posterior superior temporal sulcus is involved in social communication not specific for the eyes.,0.6,3
 "Egorova et al., 2016","Egorova et al., 2016",exact_match,26505303,Egorova,2016,Brain basis of communicative actions in language.,1.0,1
 "Falk et al., 2013","Falk et al., 2013",exact_match,23722983,Falk,2013,Creating buzz: the neural correlates of effective message propagation.,1.0,1
 "Fruhholz et al., 2020","Fruhholz et al., 2020",fuzzy_match,31783116,Frühholz,2020,Neural oscillations in human auditory cortex revealed by fast fMRI during auditory perception.,0.95,1
-"Gilead et al., 2013","Gilead et al., 2013",fuzzy_match,23482624,Gilead,2014,From mind to matter: neural correlates of abstract and concrete mindsets.,0.95,1
+"Gilead et al., 2013","Gilead et al., 2013",multiple_matches,23667619,Wildgruber,2013,Different types of laughter modulate connectivity within distinct parts of the laughter perception network.,0.6,2
+"Gilead et al., 2013","Gilead et al., 2013",multiple_matches,24068815,Silani,2013,Right supramarginal gyrus is crucial to overcome emotional egocentricity bias in social judgments.,0.6,2
 "Güroğlu et al., 2008","Güroğlu et al., 2008",exact_match,17964185,Güroğlu,2008,Why are friends special? Implementing a social interaction simulation task to probe the neural correlates of friendship.,1.0,1
 "Habel et al., 2007","Habel et al., 2007",exact_match,17408704,Habel,2007,Amygdala activation and facial expressions: explicit emotion discrimination versus implicit emotion processing.,1.0,1
 "Hanawa et al., 2016","Hanawa et al., 2016",exact_match,26168793,Hanawa,2016,The neural basis of the imitation drive.,1.0,1
 "Harrison et al., 2009","Harrison et al., 2009",exact_match,19048432,Harrison,2009,Dynamic pupillary exchange engages brain regions encoding social salience.,1.0,1
 "Hellbernd et al., 2018","Hellbernd et al., 2018",exact_match,29771359,Hellbernd,2018,Neural bases of social communicative intentions in speech.,1.0,1
-"Hensel et al., 2013","Hensel et al., 2013",no_match,,,,,0.0,0
+"Hensel et al., 2013","Hensel et al., 2013",multiple_matches,25281889,Ihme,2014,Alexithymic features and the labeling of brief emotional facial expressions - An fMRI study.,0.6166666666666667,2
+"Hensel et al., 2013","Hensel et al., 2013",multiple_matches,21862446,Hughes,2012,Orbitofrontal cortex and anterior cingulate cortex are modulated by motivated social cognition.,0.6166666666666667,2
 "Ihme et al., 2014","Ihme et al., 2014",exact_match,25281889,Ihme,2014,Alexithymic features and the labeling of brief emotional facial expressions - An fMRI study.,1.0,1
 "Kanazawa et al., 2017","Kanazawa et al., 2017",exact_match,28931014,Kanazawa,2017,Phonological memory in sign language relies on the visuomotor neural system outside the left hemisphere language network.,1.0,1
 "Kedia et al., 2013","Kedia et al., 2013",fuzzy_match,23508477,Kedia,2014,The neural correlates of beauty comparison.,0.95,1
@@ -31,16 +41,19 @@ nimads_study_id,nimads_name,match_status,matched_pmid,matched_author,matched_yea
 "Koppe et al., 2015","Koppe et al., 2015",exact_match,26143208,Koppe,2015,Temporal unpredictability of a stimulus sequence and the processing of neutral and emotional stimuli.,1.0,1
 "Labek et al., 2016","Labek et al., 2016",exact_match,27458363,Labek,2016,Neural Correlates of the Appraisal of Attachment Scenes in Healthy Controls and Social Cognition-An fMRI Study.,1.0,1
 "Lazar et al., 2014","Lazar et al., 2014",exact_match,24462962,Lazar,2014,Social cognition and neural substrates of face perception: implications for neurodevelopmental and neuropsychiatric disorders.,1.0,1
-"Liu et al., 2016","Liu et al., 2016",fuzzy_match,26417673,Liu,2015,Neural basis of disgust perception in racial prejudice.,0.95,1
-"Lotze et al., 2006","Lotze et al., 2006",fuzzy_match,17071110,Lotze,2007,Evidence for a different role of the ventral and dorsal medial prefrontal cortex for social reactive aggression: An interactive fMRI study.,0.95,1
+"Liu et al., 2016","Liu et al., 2016",multiple_matches,26385612,Luo,2016,Genetic and neural correlates of romantic relationship satisfaction.,0.8,2
+"Liu et al., 2016","Liu et al., 2016",multiple_matches,27096431,Emmerling,2016,The Role of the Insular Cortex in Retaliation.,0.6666666666666667,2
+"Lotze et al., 2006","Lotze et al., 2006",fuzzy_match,16035037,Platek,2006,Neural substrates for functionally discriminating self-face from personally familiar faces.,0.6,1
 "Love et al., 2011","Love et al., 2011",exact_match,21864459,Love,2011,Cerebral correlates and statistical criteria of cross-modal face and voice integration.,1.0,1
-"Luo et al., 2013","Luo et al., 2013",fuzzy_match,23327932,Luo,2014,Reminders of mortality decrease midcingulate activity in response to others' suffering.,0.95,1
+"Luo et al., 2013","Luo et al., 2013",multiple_matches,23327932,Luo,2014,Reminders of mortality decrease midcingulate activity in response to others' suffering.,0.95,3
+"Luo et al., 2013","Luo et al., 2013",multiple_matches,24936688,Cloutier,2014,Ventral medial prefrontal cortex and person evaluation: forming impressions of others varying in financial and moral status.,0.6166666666666667,3
+"Luo et al., 2013","Luo et al., 2013",multiple_matches,22019860,Sokolov,2012,Biological motion processing: the left cerebellum communicates with the right superior temporal sulcus.,0.6166666666666667,3
 "Mainieri et al., 2013","Mainieri et al., 2013",exact_match,23684882,Mainieri,2013,Differential role of the Mentalizing and the Mirror Neuron system in the imitation of communicative gestures.,1.0,1
 "Mano et al., 2011","Mano et al., 2011",exact_match,21600991,Mano,2011,The representation of social interaction in episodic memory: a functional MRI study.,1.0,1
 "Mattan et al., 2018","Mattan et al., 2018",exact_match,29077925,Mattan,2018,External motivation to avoid prejudice alters neural responses to targets varying in race and status.,1.0,1
 "Mazzola et al., 2016","Mazzola et al., 2016",exact_match,27375449,Mazzola,2016,What Impact does An Angry Context have Upon Us? The Effect of Anger on Functional Connectivity of the Right Insula and Superior Temporal Gyri.,1.0,1
 "Morawetz et al., 2016","Morawetz et al., 2016",exact_match,27510495,Morawetz,2016,Intrinsic functional connectivity underlying successful emotion regulation of angry faces.,1.0,1
-"Nagals., 2015","Nagals., 2015",no_match,,,,,0.0,0
+"Nagals et al., 2015","Nagals et al., 2015",fuzzy_match,25640962,Nagels,2015,Feeling addressed! The role of body orientation and co-speech gesture in social communication.,0.8333333333333335,1
 "Neukel et al., 2019","Neukel et al., 2019",exact_match,30056560,Neukel,2019,Neural processing of the own child's facial emotions in mothers with a history of early life maltreatment.,1.0,1
 "Pierno et al., 2008","Pierno et al., 2008",exact_match,18633846,Pierno,2008,Observing social interactions: the effect of gaze.,1.0,1
 "Platek et al., 2005","Platek et al., 2005",fuzzy_match,16035037,Platek,2006,Neural substrates for functionally discriminating self-face from personally familiar faces.,0.95,1
@@ -51,7 +64,7 @@ nimads_study_id,nimads_name,match_status,matched_pmid,matched_author,matched_yea
 "Sander et al., 2005","Sander et al., 2005",exact_match,16055351,Sander,2005,Emotion and attention interactions in social cognition: brain regions involved in processing anger prosody.,1.0,1
 "Sato et al., 2019","Sato et al., 2019",exact_match,31090126,Sato,2019,Widespread and lateralized social brain activity for processing dynamic facial expressions.,1.0,1
 "Scheuerecker et al., 2007","Scheuerecker et al., 2007",exact_match,17986835,Scheuerecker,2007,Cerebral differences in explicit and implicit emotional processing--an fMRI study.,1.0,1
-"Schilbach et al., 2010","Schilbach et al., 2010",fuzzy_match,20705602,Schilbach,2011,Eyes on me: an fMRI study of the effects of social gaze on action control.,0.95,1
+"Schilbach et al., 2010","Schilbach et al., 2010",fuzzy_match,20188190,Chen,2010,'Do I like this person?' A network analysis of midline cortex during a social preference task.,0.6666666666666667,1
 "Schulte-Rüther et al., 2008","Schulte-Rüther et al., 2008",exact_match,18514546,Schulte-Rüther,2008,Gender differences in brain networks supporting empathy.,1.0,1
 "Seitz et al., 2008","Seitz et al., 2008",exact_match,18313858,Seitz,2008,Valuating other people's emotional face expression: a combined functional magnetic resonance imaging and electroencephalography study.,1.0,1
 "Singer et al., 2004","Singer et al., 2004",exact_match,14980212,Singer,2004,Brain responses to the acquired moral status of faces.,1.0,1
@@ -101,5 +114,10 @@ Saarela et al. 2008,Saarela et al. 2008,exact_match,18633834,Saarela,2008,Listen
 "Semrud-Clikeman et al., 2011","Semrud-Clikeman et al., 2011",exact_match,21606658,Semrud-Clikeman,2011,The role of the right hemisphere for processing of social interactions in normal adults using functional magnetic resonance imaging.,1.0,1
 "Shultz et al., 2012","Shultz et al., 2012",exact_match,22360624,Shultz,2012,The superior temporal sulcus differentiates communicative and noncommunicative auditory signals.,1.0,1
 "Todorov et al., 2007","Todorov et al., 2007",exact_match,16759672,Todorov,2007,Spontaneous retrieval of affective person knowledge in face perception.,1.0,1
-"Von Der Heide et al., 2013","Von Der Heide et al., 2013",exact_match,23378834,Von Der Heide,2013,Anterior temporal face patches: a meta-analysis and empirical study.,1.0,1
+"Von Der Heide et al., 2013","Von Der Heide et al., 2013",multiple_matches,23378834,Von Der Heide,2013,Anterior temporal face patches: a meta-analysis and empirical study.,1.0,6
+"Von Der Heide et al., 2013","Von Der Heide et al., 2013",multiple_matches,22125232,Gordon,2013,Brain mechanisms for processing affective touch.,0.8,6
+"Von Der Heide et al., 2013","Von Der Heide et al., 2013",multiple_matches,23298748,Thornton,2013,Working memory for social information: chunking or domain-specific buffer?,0.8,6
+"Von Der Heide et al., 2013","Von Der Heide et al., 2013",multiple_matches,23876243,Anderson,2013,Sex differences in the development of brain mechanisms for processing biological motion.,0.8,6
+"Von Der Heide et al., 2013","Von Der Heide et al., 2013",multiple_matches,23063451,van der Heiden,2013,Inter-individual differences in successful perspective taking during pain perception mediates emotional responsiveness in self and others: an fMRI study.,0.6666666666666667,6
+"Von Der Heide et al., 2013","Von Der Heide et al., 2013",multiple_matches,23574585,Contreras,2013,Common brain regions with distinct patterns of neural responses during mentalizing about groups and individuals.,0.6666666666666667,6
 "Winston et al., 2002","Winston et al., 2002",exact_match,11850635,Winston,2002,Automatic and intentional brain responses during evaluation of trustworthiness of faces.,1.0,1
