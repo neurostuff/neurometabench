@@ -15,7 +15,7 @@
 		
 //Zhang et al., 2018; Modality > Emotion; socialcommunication		
 // Subjects=25		
-39	-81	9
+39	-81	9F
 48	-75	-3
 -48	-72	-3
 -38	-81	6
@@ -1871,7 +1871,7 @@
 // Subjects=16		
 -30	-64	-4
 		
-//Tomova et al., 2017, (INJECTION > QTIP): STRESS > CONTROL \ (BIOPSY > QTIP): STRESS > CONTROL; socialcommunication		
+//Tomova et al., 2017; (INJECTION > QTIP): STRESS > CONTROL \ (BIOPSY > QTIP): STRESS > CONTROL; socialcommunication		
 // Subjects=67		
 -2	-88	-8
 -6	4	-2
