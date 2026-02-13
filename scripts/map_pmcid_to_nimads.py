@@ -94,6 +94,45 @@ def validate_csv(csv_path):
     return is_valid, errors, warnings, mappings
 
 
+def validate_nimads_coverage(nimads_path, mappings):
+    """
+    Validate that every unique study_id in the NiMADS file has an entry in the mappings.
+    
+    Args:
+        nimads_path: Path to NiMADS JSON file
+        mappings: Dict mapping nimads_study_id to matched_pmid
+    
+    Returns:
+        tuple: (is_valid, errors, nimads_study_ids)
+    """
+    errors = []
+    nimads_study_ids = set()
+    
+    try:
+        with open(nimads_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        
+        if 'studies' in data:
+            for study in data['studies']:
+                study_id = study.get('id')
+                if study_id:
+                    nimads_study_ids.add(study_id)
+        
+        # Check if all NiMADS study IDs are in the mapping
+        missing_ids = nimads_study_ids - set(mappings.keys())
+        
+        if missing_ids:
+            errors.append(f"Found {len(missing_ids)} study IDs in NiMADS file not present in fuzzy matching CSV:")
+            for missing_id in sorted(missing_ids):
+                errors.append(f"  - {missing_id}")
+    
+    except Exception as e:
+        errors.append(f"Error reading NiMADS file: {str(e)}")
+    
+    is_valid = len(errors) == 0
+    return is_valid, errors, nimads_study_ids
+
+
 def map_pmids_to_nimads(nimads_path, mappings, output_path=None):
     """
     Map PMIDs to NiMADS file by replacing study IDs.

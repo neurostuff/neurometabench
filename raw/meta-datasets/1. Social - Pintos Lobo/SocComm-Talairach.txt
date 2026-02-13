@@ -136,7 +136,7 @@
 13	-23	2
 -14	-13	6
 -6	-28	-8
--17	-33	-18al
+-17	-33	-18
 		
 //Saarela et al., 2008; NOISE1 + NOISE2 - REST; socialcommunication		
 // Subjects=12		

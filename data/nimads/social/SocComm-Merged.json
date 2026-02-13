@@ -13742,25 +13742,57 @@
             {
               "space": "MNI",
               "coordinates": [
-                -46.0,
-                34.0,
-                14.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                47.0,
-                37.0,
-                8.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
                 -18.0,
                 34.0,
                 56.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                28.0,
+                -101.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -28.0,
+                -102.0,
+                2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                40.0,
+                -62.0,
+                38.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.0,
+                -60.0,
+                36.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -2.0,
+                -56.0,
+                36.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -54.0,
+                20.0,
+                28.0
               ]
             },
             {
@@ -13782,49 +13814,17 @@
             {
               "space": "MNI",
               "coordinates": [
-                -54.0,
-                20.0,
-                28.0
+                -46.0,
+                34.0,
+                14.0
               ]
             },
             {
               "space": "MNI",
               "coordinates": [
-                -42.0,
-                -60.0,
-                36.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                40.0,
-                -62.0,
-                38.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -28.0,
-                -102.0,
-                2.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                28.0,
-                -101.0,
-                0.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -2.0,
-                -56.0,
-                36.0
+                47.0,
+                37.0,
+                8.0
               ]
             }
           ],
@@ -13860,17 +13860,25 @@
             {
               "space": "MNI",
               "coordinates": [
-                36.0,
-                -4.0,
-                56.0
+                24.0,
+                -34.0,
+                0.0
               ]
             },
             {
               "space": "MNI",
               "coordinates": [
-                0.0,
-                10.0,
-                48.0
+                26.0,
+                -48.0,
+                42.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                36.0,
+                -4.0,
+                56.0
               ]
             },
             {
@@ -13884,14 +13892,6 @@
             {
               "space": "MNI",
               "coordinates": [
-                24.0,
-                -34.0,
-                0.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
                 30.0,
                 -84.0,
                 -6.0
@@ -13900,9 +13900,9 @@
             {
               "space": "MNI",
               "coordinates": [
-                26.0,
-                -48.0,
-                42.0
+                0.0,
+                10.0,
+                48.0
               ]
             }
           ],
@@ -13929,9 +13929,9 @@
             {
               "space": "MNI",
               "coordinates": [
-                42.0,
-                -6.0,
-                -14.0
+                50.0,
+                -46.0,
+                0.0
               ]
             },
             {
@@ -13945,25 +13945,9 @@
             {
               "space": "MNI",
               "coordinates": [
-                -32.0,
-                18.0,
-                4.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -20.0,
-                -58.0,
-                -36.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                50.0,
-                -46.0,
-                0.0
+                -40.0,
+                -2.0,
+                44.0
               ]
             },
             {
@@ -13977,9 +13961,25 @@
             {
               "space": "MNI",
               "coordinates": [
-                -40.0,
-                -2.0,
-                44.0
+                42.0,
+                -6.0,
+                -14.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -20.0,
+                -58.0,
+                -36.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -32.0,
+                18.0,
+                4.0
               ]
             }
           ],
@@ -14035,6 +14035,14 @@
             {
               "space": "MNI",
               "coordinates": [
+                -12.0,
+                8.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
                 58.0,
                 -48.0,
                 24.0
@@ -14059,9 +14067,9 @@
             {
               "space": "MNI",
               "coordinates": [
+                56.0,
                 12.0,
-                8.0,
-                -2.0
+                -6.0
               ]
             },
             {
@@ -14075,15 +14083,7 @@
             {
               "space": "MNI",
               "coordinates": [
-                56.0,
                 12.0,
-                -6.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -12.0,
                 8.0,
                 -2.0
               ]
@@ -14112,9 +14112,9 @@
             {
               "space": "MNI",
               "coordinates": [
-                -52.0,
-                4.0,
-                -16.0
+                26.0,
+                34.0,
+                34.0
               ]
             },
             {
@@ -14160,9 +14160,9 @@
             {
               "space": "MNI",
               "coordinates": [
-                26.0,
-                34.0,
-                34.0
+                -52.0,
+                4.0,
+                -16.0
               ]
             }
           ],
@@ -14227,6 +14227,14 @@
             {
               "space": "MNI",
               "coordinates": [
+                4.0,
+                -52.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
                 -8.0,
                 -6.0,
                 68.0
@@ -14254,14 +14262,6 @@
                 30.0,
                 -52.0,
                 68.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                4.0,
-                -52.0,
-                -8.0
               ]
             }
           ],
@@ -14397,9 +14397,9 @@
             {
               "space": "MNI",
               "coordinates": [
-                6.0,
-                28.0,
-                26.0
+                4.0,
+                -48.0,
+                -12.0
               ]
             },
             {
@@ -14413,17 +14413,17 @@
             {
               "space": "MNI",
               "coordinates": [
-                4.0,
-                -48.0,
-                -12.0
+                -56.0,
+                -64.0,
+                2.0
               ]
             },
             {
               "space": "MNI",
               "coordinates": [
-                -56.0,
-                -64.0,
-                2.0
+                6.0,
+                28.0,
+                26.0
               ]
             }
           ],
@@ -14450,9 +14450,33 @@
             {
               "space": "MNI",
               "coordinates": [
-                -48.0,
-                -58.0,
-                -2.0
+                -34.0,
+                -42.0,
+                40.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                32.0,
+                24.0,
+                4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                22.0,
+                -8.0,
+                56.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                2.0,
+                8.0,
+                46.0
               ]
             },
             {
@@ -14474,33 +14498,9 @@
             {
               "space": "MNI",
               "coordinates": [
-                22.0,
-                -8.0,
-                56.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                32.0,
-                24.0,
-                4.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -34.0,
-                -42.0,
-                40.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                2.0,
-                8.0,
-                46.0
+                -48.0,
+                -58.0,
+                -2.0
               ]
             }
           ],
@@ -14513,251 +14513,8 @@
       ]
     },
     {
-      "id": "Redcay et al., 2010a",
-      "name": "Redcay et al., 2010a",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
-        {
-          "id": "Live > Recorded; socialcommunication",
-          "name": "Live > Recorded; socialcommunication",
-          "conditions": [
-            {
-              "name": "default",
-              "description": ""
-            }
-          ],
-          "weights": [
-            1.0
-          ],
-          "images": [],
-          "points": [
-            {
-              "space": "MNI",
-              "coordinates": [
-                60.0,
-                -46.0,
-                24.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                6.0,
-                14.0,
-                36.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                2.0,
-                36.0,
-                14.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                8.0,
-                6.0,
-                62.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -40.0,
-                14.0,
-                4.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                38.0,
-                16.0,
-                0.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                54.0,
-                -48.0,
-                12.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                38.0,
-                -64.0,
-                8.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                10.0,
-                -74.0,
-                -12.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                38.0,
-                -70.0,
-                20.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -48.0,
-                -44.0,
-                22.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -46.0,
-                16.0,
-                -16.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -48.0,
-                -60.0,
-                4.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -42.0,
-                -56.0,
-                -28.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                20.0,
-                -2.0,
-                -18.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                26.0,
-                -16.0,
-                -14.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                22.0,
-                8.0,
-                -10.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -14.0,
-                -8.0,
-                6.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                48.0,
-                12.0,
-                -30.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -12.0,
-                12.0,
-                -4.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -18.0,
-                18.0,
-                4.0
-              ]
-            }
-          ],
-          "metadata": {
-            "sample_sizes": [
-              16
-            ]
-          }
-        },
-        {
-          "id": "Recorded > Live; socialcommunication",
-          "name": "Recorded > Live; socialcommunication",
-          "conditions": [
-            {
-              "name": "default",
-              "description": ""
-            }
-          ],
-          "weights": [
-            1.0
-          ],
-          "images": [],
-          "points": [
-            {
-              "space": "MNI",
-              "coordinates": [
-                -38.0,
-                -20.0,
-                58.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                46.0,
-                -24.0,
-                58.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                8.0,
-                -18.0,
-                64.0
-              ]
-            }
-          ],
-          "metadata": {
-            "sample_sizes": [
-              16
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "Redcay et al., 2010b",
-      "name": "Redcay et al., 2010b",
+      "id": "Redcay et al., 2010",
+      "name": "Redcay et al., 2010",
       "authors": "",
       "publication": "",
       "metadata": {},
@@ -14862,6 +14619,240 @@
               13
             ]
           }
+        },
+        {
+          "id": "Live > Recorded; socialcommunication",
+          "name": "Live > Recorded; socialcommunication",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -18.0,
+                18.0,
+                4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                26.0,
+                -16.0,
+                -14.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                20.0,
+                -2.0,
+                -18.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                60.0,
+                -46.0,
+                24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                10.0,
+                -74.0,
+                -12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                -60.0,
+                4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.0,
+                16.0,
+                -16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                -44.0,
+                22.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.0,
+                -56.0,
+                -28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                38.0,
+                -70.0,
+                20.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                48.0,
+                12.0,
+                -30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                14.0,
+                36.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                2.0,
+                36.0,
+                14.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.0,
+                6.0,
+                62.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -40.0,
+                14.0,
+                4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                38.0,
+                16.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                54.0,
+                -48.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -12.0,
+                12.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                22.0,
+                8.0,
+                -10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                38.0,
+                -64.0,
+                8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -14.0,
+                -8.0,
+                6.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              16
+            ]
+          }
+        },
+        {
+          "id": "Recorded > Live; socialcommunication",
+          "name": "Recorded > Live; socialcommunication",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -38.0,
+                -20.0,
+                58.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                46.0,
+                -24.0,
+                58.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.0,
+                -18.0,
+                64.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              16
+            ]
+          }
         }
       ]
     },
@@ -14889,17 +14880,9 @@
             {
               "space": "MNI",
               "coordinates": [
-                -34.0,
-                -78.0,
-                42.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                22.0,
-                -94.0,
-                4.0
+                12.0,
+                56.0,
+                28.0
               ]
             },
             {
@@ -14913,9 +14896,9 @@
             {
               "space": "MNI",
               "coordinates": [
-                12.0,
-                56.0,
-                28.0
+                22.0,
+                -94.0,
+                4.0
               ]
             },
             {
@@ -14932,6 +14915,14 @@
                 -38.0,
                 -56.0,
                 32.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -34.0,
+                -78.0,
+                42.0
               ]
             }
           ],
@@ -15033,46 +15024,6 @@
             {
               "space": "MNI",
               "coordinates": [
-                -33.0,
-                -72.0,
-                36.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -54.0,
-                24.0,
-                21.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -45.0,
-                -15.0,
-                -6.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                60.0,
-                -15.0,
-                0.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                18.0,
-                45.0,
-                6.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
                 -60.0,
                 -24.0,
                 0.0
@@ -15089,9 +15040,9 @@
             {
               "space": "MNI",
               "coordinates": [
-                27.0,
-                -6.0,
-                -15.0
+                -45.0,
+                -15.0,
+                -6.0
               ]
             },
             {
@@ -15100,6 +15051,46 @@
                 27.0,
                 -87.0,
                 24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                18.0,
+                45.0,
+                6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                27.0,
+                -6.0,
+                -15.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                60.0,
+                -15.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -33.0,
+                -72.0,
+                36.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -54.0,
+                24.0,
+                21.0
               ]
             }
           ],
@@ -15126,6 +15117,14 @@
             {
               "space": "MNI",
               "coordinates": [
+                -24.0,
+                57.0,
+                6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
                 3.0,
                 39.0,
                 -12.0
@@ -15134,16 +15133,24 @@
             {
               "space": "MNI",
               "coordinates": [
-                33.0,
-                -57.0,
-                27.0
+                -60.0,
+                -27.0,
+                3.0
               ]
             },
             {
               "space": "MNI",
               "coordinates": [
-                -60.0,
-                -27.0,
+                60.0,
+                -30.0,
+                3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -36.0,
+                0.0,
                 3.0
               ]
             },
@@ -15174,33 +15181,17 @@
             {
               "space": "MNI",
               "coordinates": [
+                33.0,
+                -57.0,
+                27.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
                 -9.0,
                 -87.0,
                 9.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                60.0,
-                -30.0,
-                3.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -24.0,
-                57.0,
-                6.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -36.0,
-                0.0,
-                3.0
               ]
             }
           ],
@@ -15280,14 +15271,6 @@
             {
               "space": "MNI",
               "coordinates": [
-                66.0,
-                -30.0,
-                3.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
                 57.0,
                 -6.0,
                 -15.0
@@ -15296,9 +15279,9 @@
             {
               "space": "MNI",
               "coordinates": [
-                -3.0,
-                -45.0,
-                30.0
+                66.0,
+                -30.0,
+                3.0
               ]
             },
             {
@@ -15307,6 +15290,14 @@
                 39.0,
                 33.0,
                 -3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -3.0,
+                -45.0,
+                30.0
               ]
             }
           ],
@@ -15378,9 +15369,25 @@
             {
               "space": "MNI",
               "coordinates": [
-                48.0,
+                27.0,
+                -69.0,
+                27.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                60.0,
+                -39.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -9.0,
                 -60.0,
-                18.0
+                9.0
               ]
             },
             {
@@ -15402,22 +15409,6 @@
             {
               "space": "MNI",
               "coordinates": [
-                6.0,
-                54.0,
-                18.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -9.0,
-                -60.0,
-                9.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
                 -9.0,
                 45.0,
                 9.0
@@ -15434,17 +15425,17 @@
             {
               "space": "MNI",
               "coordinates": [
-                60.0,
-                -39.0,
-                48.0
+                6.0,
+                54.0,
+                18.0
               ]
             },
             {
               "space": "MNI",
               "coordinates": [
-                27.0,
-                -69.0,
-                27.0
+                48.0,
+                -60.0,
+                18.0
               ]
             }
           ],
@@ -15471,17 +15462,17 @@
             {
               "space": "MNI",
               "coordinates": [
-                -48.0,
-                -63.0,
-                51.0
+                -36.0,
+                21.0,
+                6.0
               ]
             },
             {
               "space": "MNI",
               "coordinates": [
-                -36.0,
-                21.0,
-                6.0
+                -48.0,
+                -63.0,
+                51.0
               ]
             }
           ],
@@ -15517,9 +15508,9 @@
             {
               "space": "MNI",
               "coordinates": [
-                -24.0,
-                -64.0,
-                -56.0
+                26.0,
+                -68.0,
+                34.0
               ]
             },
             {
@@ -15541,9 +15532,9 @@
             {
               "space": "MNI",
               "coordinates": [
-                26.0,
-                -68.0,
-                34.0
+                -24.0,
+                -64.0,
+                -56.0
               ]
             },
             {
