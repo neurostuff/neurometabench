@@ -32,6 +32,10 @@ def validate_csv(csv_path):
     matched_pmids = []
     
     try:
+        # First pass: count rows per nimads_id
+        nimads_id_counts = Counter()
+        all_rows = []
+        
         with open(csv_path, 'r', encoding='utf-8') as f:
             reader = csv.DictReader(f)
             
@@ -43,23 +47,33 @@ def validate_csv(csv_path):
             
             for row_num, row in enumerate(reader, start=2):  # start=2 because row 1 is header
                 nimads_id = row['nimads_study_id']
-                match_status = row['match_status']
-                matched_pmid = row['matched_pmid']
-                
-                # Check match_status
-                if match_status not in ['exact_match', 'manual_override', 'fuzzy_match', 'multiple_matches', 'no_match']:
-                    errors.append(f"Row {row_num}: Invalid match_status '{match_status}'. Expected 'exact_match' or 'manual_override'")
-                
-                # Only process exact_match and manual_override
-                if match_status in ['exact_match', 'manual_override']:
-                    if not matched_pmid:
-                        errors.append(f"Row {row_num}: match_status is '{match_status}' but matched_pmid is empty for '{nimads_id}'")
-                    else:
-                        nimads_ids.append(nimads_id)
-                        matched_pmids.append(matched_pmid)
-                        mappings[nimads_id] = matched_pmid
-                elif match_status in ['fuzzy_match', 'multiple_matches', 'no_match']:
-                    warnings.append(f"Row {row_num}: Skipping '{nimads_id}' with match_status '{match_status}'")
+                nimads_id_counts[nimads_id] += 1
+                all_rows.append((row_num, row))
+        
+        # Second pass: process rows with conditional logic
+        for row_num, row in all_rows:
+            nimads_id = row['nimads_study_id']
+            match_status = row['match_status']
+            matched_pmid = row['matched_pmid']
+            
+            # Check match_status
+            if match_status not in ['exact_match', 'manual_override', 'fuzzy_match', 'multiple_matches', 'no_match']:
+                errors.append(f"Row {row_num}: Invalid match_status '{match_status}'. Expected 'exact_match' or 'manual_override'")
+            
+            # Always skip no_match
+            if match_status == 'no_match':
+                warnings.append(f"Row {row_num}: Skipping '{nimads_id}' with match_status '{match_status}'")
+            # Only skip fuzzy_match and multiple_matches if there's more than 1 row for this nimads_id
+            elif match_status in ['fuzzy_match', 'multiple_matches'] and nimads_id_counts[nimads_id] > 1:
+                warnings.append(f"Row {row_num}: Skipping '{nimads_id}' with match_status '{match_status}' (multiple rows for this ID)")
+            # Process exact_match, manual_override, and single-row fuzzy_match/multiple_matches
+            elif match_status in ['exact_match', 'manual_override', 'fuzzy_match', 'multiple_matches']:
+                if not matched_pmid:
+                    errors.append(f"Row {row_num}: match_status is '{match_status}' but matched_pmid is empty for '{nimads_id}'")
+                else:
+                    nimads_ids.append(nimads_id)
+                    matched_pmids.append(matched_pmid)
+                    mappings[nimads_id] = matched_pmid
         
         # Check for duplicate nimads_study_id
         nimads_counts = Counter(nimads_ids)
