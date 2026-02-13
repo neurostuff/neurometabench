@@ -265,8 +265,6 @@ def map_pmids_to_nimads(nimads_path, mappings, output_path=None):
                 original_id = study['id']
                 if original_id in mappings:
                     study['id'] = mappings[original_id]
-                    # Also update name to match new ID
-                    study['name'] = mappings[original_id]
                     num_mapped += 1
                 else:
                     num_not_found += 1
