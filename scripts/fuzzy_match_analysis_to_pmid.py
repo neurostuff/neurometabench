@@ -510,6 +510,40 @@ def write_results(results: List[Dict], output_file: str):
         writer.writerows(results)
 
 
+def validate_coverage(nimads_studies: List[Dict], results: List[Dict],
+                      nimads_file: Path, output_file: Path) -> List[str]:
+    """
+    Validate that every unique study_id in the NiMADS file has an entry in the results.
+    
+    Args:
+        nimads_studies: List of NIMADS study dicts
+        results: List of match result dicts
+        nimads_file: Path to the NiMADS file
+        output_file: Path to the output CSV file
+    
+    Returns:
+        List of validation error messages (empty if validation passes)
+    """
+    errors = []
+    
+    # Get all unique study IDs from NiMADS file
+    nimads_study_ids = set(study['id'] for study in nimads_studies)
+    
+    # Get all study IDs that appear in results
+    results_study_ids = set(result['nimads_study_id'] for result in results)
+    
+    # Find missing study IDs
+    missing_study_ids = nimads_study_ids - results_study_ids
+    
+    if missing_study_ids:
+        errors.append(f"VALIDATION ERROR: {len(missing_study_ids)} study ID(s) from NiMADS file "
+                     f"'{nimads_file.name}' are missing in the output file '{output_file.name}':")
+        for study_id in sorted(missing_study_ids):
+            errors.append(f"  - {study_id}")
+    
+    return errors
+
+
 def process_project(project_name: str, included_studies_file: str, output_dir: str,
                    meta_datasets_file: str, threshold: float, verbose: bool):
     """
@@ -577,6 +611,8 @@ def process_project(project_name: str, included_studies_file: str, output_dir: s
     total_multiple = 0
     total_no_match = 0
     
+    validation_errors = []
+    
     for nimads_file in nimads_files:
         if verbose:
             print(f"\n{'-'*60}", file=sys.stderr)
@@ -611,6 +647,15 @@ def process_project(project_name: str, included_studies_file: str, output_dir: s
         # Write results
         write_results(results, str(output_file))
         
+        # Validate coverage
+        file_validation_errors = validate_coverage(nimads_studies, results, nimads_file, output_file)
+        if file_validation_errors:
+            validation_errors.extend(file_validation_errors)
+            if verbose:
+                print(f"\n⚠️  VALIDATION FAILED ⚠️", file=sys.stderr)
+                for error in file_validation_errors:
+                    print(error, file=sys.stderr)
+        
         if verbose:
             print(f"\n{'='*60}", file=sys.stderr)
             print(f"File: {nimads_file.name}", file=sys.stderr)
@@ -636,6 +681,16 @@ def process_project(project_name: str, included_studies_file: str, output_dir: s
         print(f"No matches:            {total_no_match}", file=sys.stderr)
         print(f"Output directory:      {project_output_dir}", file=sys.stderr)
         print(f"{'='*60}", file=sys.stderr)
+    
+    # Report validation errors if any
+    if validation_errors:
+        print(f"\n⚠️  VALIDATION ERRORS FOUND ⚠️", file=sys.stderr)
+        print(f"{'='*60}", file=sys.stderr)
+        for error in validation_errors:
+            print(error, file=sys.stderr)
+        print(f"{'='*60}", file=sys.stderr)
+        raise ValueError(f"Validation failed: {len(validation_errors)} error(s) found. "
+                        "Every unique study_id in NiMADS files must have a corresponding entry in the fuzzy match output.")
 
 
 def main():
