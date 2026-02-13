@@ -91,27 +91,27 @@ def find_nimads_files(data_dir: Path) -> Dict[str, List[Path]]:
     return project_files
 
 
-def load_exclude_ids(exclude_file: Optional[Path]) -> set:
+def load_include_ids(include_file: Optional[Path]) -> set:
     """
-    Load study IDs to exclude from a text file.
+    Load study IDs to include from a text file.
     
     Args:
-        exclude_file: Path to text file with one ID per line
+        include_file: Path to text file with one ID per line
         
     Returns:
-        Set of study IDs to exclude
+        Set of study IDs to include (None means include all)
     """
-    if exclude_file is None:
-        return set()
+    if include_file is None:
+        return None
     
-    if not exclude_file.exists():
-        raise FileNotFoundError(f"Exclude file not found: {exclude_file}")
+    if not include_file.exists():
+        raise FileNotFoundError(f"Include file not found: {include_file}")
     
-    with open(exclude_file, 'r') as f:
+    with open(include_file, 'r') as f:
         # Read lines, strip whitespace, and filter empty lines
         ids = {line.strip() for line in f if line.strip()}
     
-    print(f"Loaded {len(ids)} study IDs to exclude from {exclude_file}")
+    print(f"Loaded {len(ids)} study IDs to include from {include_file}")
     return ids
 
 
@@ -122,7 +122,7 @@ def run_meta_analysis(
     estimator_args: Optional[Dict] = None,
     corrector_name: str = "fdr",
     corrector_args: Optional[Dict] = None,
-    exclude_ids: Optional[set] = None
+    include_ids: Optional[set] = None
 ):
     """
     Run meta-analysis on a single NiMADS studyset file.
@@ -134,7 +134,7 @@ def run_meta_analysis(
         estimator_args: Arguments for the estimator
         corrector_name: Name of the corrector to use
         corrector_args: Arguments for the corrector
-        exclude_ids: Set of study IDs to exclude from the analysis
+        include_ids: Set of study IDs to include (None means include all)
     """
     if not NIMARE_AVAILABLE:
         raise ImportError("NiMARE is required but not installed")
@@ -148,19 +148,19 @@ def run_meta_analysis(
     with open(studyset_file, 'r') as f:
         studyset_data = json.load(f)
     
-    # Filter out excluded studies if specified
-    if exclude_ids:
+    # Filter to only included studies if specified
+    if include_ids is not None:
         original_count = len(studyset_data.get('studies', []))
         studyset_data['studies'] = [
             study for study in studyset_data.get('studies', [])
-            if study.get('id') not in exclude_ids
+            if study.get('id') in include_ids
         ]
         filtered_count = len(studyset_data['studies'])
         excluded_count = original_count - filtered_count
         if excluded_count > 0:
-            print(f"Excluded {excluded_count} studies (from {original_count} to {filtered_count})")
+            print(f"Included {filtered_count} studies, excluded {excluded_count} (from {original_count} total)")
         else:
-            print(f"No studies matched exclusion list (keeping all {original_count} studies)")
+            print(f"All {original_count} studies matched inclusion list")
     
     print("Creating studyset...")
     studyset = Studyset(studyset_data)
@@ -282,9 +282,9 @@ Examples:
     )
     
     parser.add_argument(
-        "--exclude-ids",
+        "--include-ids",
         type=Path,
-        help="Path to text file with study IDs to exclude (one per line)"
+        help="Path to text file with study IDs to include (one per line; all others excluded)"
     )
     
     args = parser.parse_args()
@@ -306,9 +306,9 @@ Examples:
         print(f"Error parsing JSON arguments: {e}", file=sys.stderr)
         return 1
     
-    # Load exclude IDs if specified
+    # Load include IDs if specified
     try:
-        exclude_ids = load_exclude_ids(args.exclude_ids)
+        include_ids = load_include_ids(args.include_ids)
     except FileNotFoundError as e:
         print(f"Error: {e}", file=sys.stderr)
         return 1
@@ -382,7 +382,7 @@ Examples:
                     estimator_args=estimator_args,
                     corrector_name=args.corrector,
                     corrector_args=corrector_args,
-                    exclude_ids=exclude_ids
+                    include_ids=include_ids
                 )
                 completed += 1
             except Exception as e:
