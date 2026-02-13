@@ -190,7 +190,7 @@
 3	-38	41
 -33	14	8
 
-//Harris et al., 2007, 2007; SE>NS; others		
+//Harris et al., 2007; SE>NS; others		
 // Subjects=18		
 0	38	-1
 54	-36	-3

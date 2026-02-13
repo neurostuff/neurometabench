@@ -3121,7 +3121,7 @@
 -9	-60	9
 6	54	18
 		
-//Walter et al., 2004a; Pint-1> Ph-C		
+//Walter et al., 2004; Exp 1: Pint-1> Ph-C		
 // Subjects=13		
 3	-60	36
 -6	-57	48
@@ -3133,7 +3133,7 @@
 6	33	21
 -6	36	27
 		
-//Walter et al., 2004a; Pint-2> Ph-C		
+//Walter et al., 2004; Exp 1: Pint-2> Ph-C		
 // Subjects=13		
 9	-54	42
 -3	-57	54
@@ -3148,7 +3148,7 @@
 21	-39	-18
 -42	-69	24
 		
-//Walter et al., 2004a; Cint> Ph-C		
+//Walter et al., 2004; Exp 1: Cint> Ph-C		
 // Subjects=13		
 9	-57	42
 -6	-54	45
@@ -3169,7 +3169,7 @@
 -36	-27	-12
 -3	-57	-9
 		
-//Walter et al., 2004b; Pint-2> Ph-C		
+//Walter et al., 2004; Exp 2: Pint-2> Ph-C		
 // Subjects=12		
 3	-54	42
 -6	-45	60
@@ -3183,7 +3183,7 @@
 6	51	-12
 -3	54	-15
 		
-//Walter et al., 2004b; Psint-2> Ph-C		
+//Walter et al., 2004; Exp 2: Psint-2> Ph-C		
 // Subjects=12		
 3	-60	30
 -6	-51	39
@@ -3200,7 +3200,7 @@
 -3	54	15
 -27	-36	-21
 		
-//Walter et al., 2004b; Psint-2> Ph-C		
+//Walter et al., 2004; Exp 2:Psint-2> Ph-C		
 // Subjects=12		
 3	-54	51
 -6	-51	30
@@ -3218,11 +3218,11 @@
 3	54	-15
 0	60	18
 		
-//Walter et al., 2004a; Cint> Pint-1 and Pint-2		
+//Walter et al., 2004; Exp 1: Cint> Pint-1 and Pint-2		
 // Subjects=13		
 6	57	21
 		
-//Walter et al., 2004b; Cint> Psint>Pint-1		
+//Walter et al., 2004; Exp 2: Cint> Psint>Pint-1		
 // Subjects=12		
 0	54	21
 		

@@ -1298,7 +1298,7 @@
 // Subjects=64		
 50	52	27
 		
-//Redcay et al., 2010a; Live > Recorded; others		
+//Redcay et al., 2010; Exp1: Live > Recorded; others		
 // Subjects=16		
 6	14	36
 2	36	14
@@ -1322,13 +1322,13 @@
 22	8	-10
 -14	-8	6
 		
-//Redcay et al., 2010a; Recorded > Live; others		
+//Redcay et al., 2010; Exp 1: Recorded > Live; others		
 // Subjects=16		
 -38	-20	58
 46	-24	58
 8	-18	64
 		
-//Redcay et al., 2010b; JA > SA; others		
+//Redcay et al., 2010; Exp 1: JA > SA; others		
 // Subjects=13		
 48	-40	6
 54	-58	14
@@ -1540,7 +1540,7 @@
 // Subjects=12		
 -2	24	-2
 		
-//Walter et al., 2004a; Pint-1> Ph-C; others		
+//Walter et al., 2004; Exp 1: Pint-1> Ph-C; others		
 // Subjects=13		
 3	-60	36
 -6	-57	48
@@ -1552,7 +1552,7 @@
 6	33	21
 -6	36	27
 		
-//Walter et al., 2004a; Pint-2> Ph-C; others		
+//Walter et al., 2004; Exp 1: Pint-2> Ph-C; others		
 // Subjects=13		
 9	-54	42
 -3	-57	54
@@ -1567,7 +1567,7 @@
 21	-39	-18
 -42	-69	24
 		
-//Walter et al., 2004a; Cint> Ph-C; others		
+//Walter et al., 2004; Exp 1: Cint> Ph-C; others		
 // Subjects=13		
 9	-57	42
 -6	-54	45
@@ -1588,7 +1588,7 @@
 -36	-27	-12
 -3	-57	-9
 		
-//Walter et al., 2004b; Pint-2> Ph-C; others		
+//Walter et al., 2004; Exp 2: Pint-2> Ph-C; others		
 // Subjects=12		
 3	-54	42
 -6	-45	60
@@ -1602,7 +1602,7 @@
 6	51	-12
 -3	54	-15
 		
-//Walter et al., 2004b; Psint-2> Ph-C; others		
+//Walter et al., 2004; Exp 2: Psint-2> Ph-C; others		
 // Subjects=12		
 3	-60	30
 -6	-51	39
@@ -1619,7 +1619,7 @@
 -3	54	15
 -27	-36	-21
 		
-//Walter et al., 2004b; Psint-2> Ph-C; others		
+//Walter et al., 2004; Exp 2: Psint-2> Ph-C; others		
 // Subjects=12		
 3	-54	51
 -6	-51	30
@@ -1637,15 +1637,15 @@
 3	54	-15
 0	60	18
 		
-//Walter et al., 2004a; Cint> Pint-1 and Pint-2; others		
+//Walter et al., 2004; Exp 1: Cint> Pint-1 and Pint-2; others		
 // Subjects=13		
 6	57	21
 		
-//Walter et al., 2004b; Cint> Psint>Pint-1; others		
+//Walter et al., 2004; Exp 2: Cint> Psint>Pint-1; others		
 // Subjects=12		
 0	54	21
 		
-//Zink et al. 2008a; Superior player > inferior player; STABLE HIERARCHY; others		
+//Zink et al. 2008; Exp 1: Superior player > inferior player; STABLE HIERARCHY; others		
 // Subjects=24		
 36	-57	48
 42	-81	-6
@@ -1659,7 +1659,7 @@
 -3	15	-6
 -57	-51	-6
 		
-//Zink et al. 2008b; Superior player > inferior player; UNSTABLE HIERARCHY; others		
+//Zink et al. 2008; Exp 2: Superior player > inferior player; UNSTABLE HIERARCHY; others		
 // Subjects=24		
 36	-93	3
 -27	-93	6
@@ -1681,7 +1681,7 @@
 -45	-18	12
 9	-60	66
 		
-//Zink et al. 2008b; Sub lost/inf won > sub lost/inf lost; others		
+//Zink et al. 2008; Exp 2: Sub lost/inf won > sub lost/inf lost; others		
 // Subjects=24		
 33	-87	9
 -36	-90	-6
@@ -1694,7 +1694,7 @@
 -42	15	-6
 36	24	6
 		
-//Zink et al. 2008b; Sub won/sup lost > sub won/sup won; others		
+//Zink et al. 2008; Exp 2: Sub won/sup lost > sub won/sup won; others		
 // Subjects=24		
 3	9	63
 21	-87	42
@@ -1909,11 +1909,11 @@
 // Subjects=41		
 9	-61	28
 		
-//Walbrin et al., 2018a; point light human interactions > individual actions; others		
+//Walbrin et al., 2018; Exp 1: point light human interactions > individual actions; others		
 // Subjects=19		
 50	-32	-4
 		
-//Walbrin et al., 2018b; competition > cooperation; others		
+//Walbrin et al., 2018; Exp 2: competition > cooperation; others		
 // Subjects=20 		
 54	-44	16
 		

@@ -114,8 +114,7 @@ nimads_study_id,nimads_name,match_status,matched_pmid,matched_author,matched_yea
 "Quirin et al., 2012","Quirin et al., 2012",fuzzy_match,22841755,Quirin,2013,Neural correlates of social motivation: an fMRI study on power versus affiliation.,0.95,1
 "Ramsey et al., 2013","Ramsey et al., 2013",exact_match,23249349,Ramsey,2013,Seeing it my way or your way: frontoparietal brain areas sustain viewpoint-independent perspective selection processes.,1,1
 "Rauchbauer et al., 2015","Rauchbauer et al., 2015",exact_match,25929599,Rauchbauer,2015,Distinct neural processes are engaged in the modulation of mimicry by social group-membership and emotional expressions.,1,1
-"Redcay et al., 2010a","Redcay et al., 2010a",exact_match,20096792,Redcay,2010,Live face-to-face interaction during fMRI: a new tool for social cognitive neuroscience.,1,1
-"Redcay et al., 2010b","Redcay et al., 2010b",exact_match,20096792,Redcay,2010,Live face-to-face interaction during fMRI: a new tool for social cognitive neuroscience.,1,1
+"Redcay et al., 2010","Redcay et al., 2010",exact_match,20096792,Redcay,2010,Live face-to-face interaction during fMRI: a new tool for social cognitive neuroscience.,1,1
 "Rice et al., 2016","Rice et al., 2016",exact_match,26608245,Rice,2016,Interaction matters: A perceived social partner alters the neural processing of human speech.,1,1
 "Ruckmann et al., 2015","Ruckmann et al., 2015",exact_match,26323252,Ruckmann,2015,How pain empathy depends on ingroup/outgroup decisions: A functional magnet resonance imaging study.,1,1
 "Rudorf et al., 2018","Rudorf et al., 2018",exact_match,29760183,Rudorf,2018,Neural Mechanisms Underlying Individual Differences in Control-Averse Behavior.,1,1
@@ -166,10 +165,7 @@ nimads_study_id,nimads_name,match_status,matched_pmid,matched_author,matched_yea
 "Wagels et al., 2016","Wagels et al., 2016",multiple_matches,27319001,Wagels,2017,Contextual exclusion processing: an fMRI study of rejection in a performance-related context.,0.95,2
 "Wagner et al., 2015","Wagner et al., 2015",exact_match,25298009,Wagner,2015,Beautiful friendship: Social sharing of emotions improves subjective feelings and activates the neural reward circuitry.,1,1
 "Walbrin et al., 2018","Walbrin et al., 2018",exact_match,29476765,Walbrin,2018,Neural responses to visually observed social interactions.,1,1
-"Walbrin et al., 2018a","Walbrin et al., 2018a",exact_match,29476765,Walbrin,2018,Neural responses to visually observed social interactions.,1,1
-"Walbrin et al., 2018b","Walbrin et al., 2018b",exact_match,29476765,Walbrin,2018,Neural responses to visually observed social interactions.,1,1
-"Walter et al., 2004a","Walter et al., 2004a",exact_match,15701234,Walter,2004,Understanding intentions in social interaction: the role of the anterior paracingulate cortex.,1,1
-"Walter et al., 2004b","Walter et al., 2004b",exact_match,15701234,Walter,2004,Understanding intentions in social interaction: the role of the anterior paracingulate cortex.,1,1
+"Walter et al., 2004","Walter et al., 2004",exact_match,15701234,Walter,2004,Understanding intentions in social interaction: the role of the anterior paracingulate cortex.,1,1
 "Wang et al., 2011","Wang et al., 2011",exact_match,21849560,Wang,2011,The control of mimicry by eye contact is mediated by medial prefrontal cortex.,1,1
 "Weng et al., 2015","Weng et al., 2013",manual_override,23696200,Weng,2013,,0,0
 "Whitman et al., 2016","Whitman et al., 2016",fuzzy_match,27477020,Wittmann,2016,Self-Other Mergence in the Frontal Cortex during Cooperation and Competition.,0.857142857,1
@@ -186,8 +182,7 @@ nimads_study_id,nimads_name,match_status,matched_pmid,matched_author,matched_yea
 "Zhou et al., 2014","Zhou et al., 2014",exact_match,24834034,Zhou,2014,Money talks: neural substrate of modulation of fairness by monetary incentives.,1,1
 "Ziaei et al., 2016","Ziaei et al., 2016",exact_match,27716474,Ziaei,2016,The impact of aging on the neural networks involved in gaze and emotional processing.,1,1
 "Zimmermann et al., 2018","Zimmermann et al., 2018",fuzzy_match,30658938,Zimmermann,2019,Altered striatal reward processing in abstinent dependent cannabis users: Social context matters.,0.95,1
-Zink et al. 2008a,Zink et al. 2008a,exact_match,18439411,Zink,2008,Know your place: neural processing of social hierarchy in humans.,1,1
-Zink et al. 2008b,Zink et al. 2008b,exact_match,18439411,Zink,2008,Know your place: neural processing of social hierarchy in humans.,1,1
+Zink et al. 2008,Zink et al. 2008,exact_match,18439411,Zink,2008,Know your place: neural processing of social hierarchy in humans.,1,1
 "van den Bos et al., 2009","van den Bos et al., 2009",exact_match,19304843,van den Bos,2009,What motivates repayment? Neural correlates of reciprocity in the Trust Game.,1,1
 "Špiláková et al., 2019","Špiláková et al., 2019",exact_match,30649548,Špiláková,2019,Dissecting social interaction: dual-fMRI reveals patterns of interpersonal brain-behavior relationships that dissociate among dimensions of social exchange.,1,1
 "Anderson et al., 2013","Anderson et al., 2013",exact_match,23876243,Anderson,2013,Sex differences in the development of brain mechanisms for processing biological motion.,1,1

@@ -764,7 +764,7 @@
 -6	-14	8
 14	62	21
 		
-//Redcay et al., 2010a; Live > Recorded; socialcommunication		
+//Redcay et al., 2010; Live > Recorded; socialcommunication		
 // Subjects=16		
 6	14	36
 2	36	14
@@ -788,13 +788,13 @@
 22	8	-10
 -14	-8	6
 		
-//Redcay et al., 2010a; Recorded > Live; socialcommunication		
+//Redcay et al., 2010; Recorded > Live; socialcommunication		
 // Subjects=16		
 -38	-20	58
 46	-24	58
 8	-18	64
 		
-//Redcay et al., 2010b; JA > SA; socialcommunication		
+//Redcay et al., 2010; JA > SA; socialcommunication		
 // Subjects=13		
 48	-40	6
 54	-58	14

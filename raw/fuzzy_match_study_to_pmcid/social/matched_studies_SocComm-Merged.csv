@@ -45,8 +45,7 @@ nimads_study_id,nimads_name,match_status,matched_pmid,matched_author,matched_yea
 "Pierno et al., 2008","Pierno et al., 2008",exact_match,18633846,Pierno,2008,Observing social interactions: the effect of gaze.,1,1
 "Platek et al., 2005","Platek et al., 2005",fuzzy_match,16035037,Platek,2006,Neural substrates for functionally discriminating self-face from personally familiar faces.,0.95,1
 "Rauchbauer et al., 2015","Rauchbauer et al., 2015",exact_match,25929599,Rauchbauer,2015,Distinct neural processes are engaged in the modulation of mimicry by social group-membership and emotional expressions.,1,1
-"Redcay et al., 2010a","Redcay et al., 2010a",exact_match,20096792,Redcay,2010,Live face-to-face interaction during fMRI: a new tool for social cognitive neuroscience.,1,1
-"Redcay et al., 2010b","Redcay et al., 2010b",exact_match,20096792,Redcay,2010,Live face-to-face interaction during fMRI: a new tool for social cognitive neuroscience.,1,1
+"Redcay et al., 2010","Redcay et al., 2010",exact_match,20096792,Redcay,2010,Live face-to-face interaction during fMRI: a new tool for social cognitive neuroscience.,1,1
 "Rice et al., 2016","Rice et al., 2016",exact_match,26608245,Rice,2016,Interaction matters: A perceived social partner alters the neural processing of human speech.,1,1
 "Sander et al., 2005","Sander et al., 2005",exact_match,16055351,Sander,2005,Emotion and attention interactions in social cognition: brain regions involved in processing anger prosody.,1,1
 "Sato et al., 2019","Sato et al., 2019",exact_match,31090126,Sato,2019,Widespread and lateralized social brain activity for processing dynamic facial expressions.,1,1

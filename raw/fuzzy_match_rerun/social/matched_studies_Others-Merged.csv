@@ -65,8 +65,8 @@ nimads_study_id,nimads_name,match_status,matched_pmid,matched_author,matched_yea
 "Platek et al., 2005","Platek et al., 2005",fuzzy_match,16035037,Platek,2006,Neural substrates for functionally discriminating self-face from personally familiar faces.,0.95,1
 "Ramsey et al., 2013","Ramsey et al., 2013",exact_match,23249349,Ramsey,2013,Seeing it my way or your way: frontoparietal brain areas sustain viewpoint-independent perspective selection processes.,1.0,1
 "Rauchbauer et al., 2015","Rauchbauer et al., 2015",exact_match,25929599,Rauchbauer,2015,Distinct neural processes are engaged in the modulation of mimicry by social group-membership and emotional expressions.,1.0,1
-"Redcay et al., 2010a","Redcay et al., 2010a",exact_match,20096792,Redcay,2010,Live face-to-face interaction during fMRI: a new tool for social cognitive neuroscience.,1.0,1
-"Redcay et al., 2010b","Redcay et al., 2010b",exact_match,20096792,Redcay,2010,Live face-to-face interaction during fMRI: a new tool for social cognitive neuroscience.,1.0,1
+"Redcay et al., 2010","Redcay et al., 2010",exact_match,20096792,Redcay,2010,Live face-to-face interaction during fMRI: a new tool for social cognitive neuroscience.,1.0,1
+"Redcay et al., 2010","Redcay et al., 2010",exact_match,20096792,Redcay,2010,Live face-to-face interaction during fMRI: a new tool for social cognitive neuroscience.,1.0,1
 "Ruckmann et al., 2015","Ruckmann et al., 2015",exact_match,26323252,Ruckmann,2015,How pain empathy depends on ingroup/outgroup decisions: A functional magnet resonance imaging study.,1.0,1
 "Rudorf et al., 2018","Rudorf et al., 2018",exact_match,29760183,Rudorf,2018,Neural Mechanisms Underlying Individual Differences in Control-Averse Behavior.,1.0,1
 "Sapey- Triomphe et al., 2017","Sapey- Triomphe et al., 2017",exact_match,28008075,Sapey-Triomphe,2017,Deciphering human motion to discriminate social interactions: a developmental neuroimaging study.,1.0,1
@@ -104,17 +104,17 @@ nimads_study_id,nimads_name,match_status,matched_pmid,matched_author,matched_yea
 "Van Der Heiden et al., 2013","Van Der Heiden et al., 2013",multiple_matches,24068815,Silani,2013,Right supramarginal gyrus is crucial to overcome emotional egocentricity bias in social judgments.,0.6666666666666667,6
 "Wade-Bohleber et al., 2019","Wade-Bohleber et al., 2019",exact_match,30077577,Wade-Bohleber,2019,Thinking about the past to shape the present: neural activation during the recall of relationship episodes.,1.0,1
 "Walbrin et al., 2018","Walbrin et al., 2018",exact_match,29476765,Walbrin,2018,Neural responses to visually observed social interactions.,1.0,1
-"Walbrin et al., 2018a","Walbrin et al., 2018a",exact_match,29476765,Walbrin,2018,Neural responses to visually observed social interactions.,1.0,1
-"Walbrin et al., 2018b","Walbrin et al., 2018b",exact_match,29476765,Walbrin,2018,Neural responses to visually observed social interactions.,1.0,1
-"Walter et al., 2004a","Walter et al., 2004a",exact_match,15701234,Walter,2004,Understanding intentions in social interaction: the role of the anterior paracingulate cortex.,1.0,1
-"Walter et al., 2004b","Walter et al., 2004b",exact_match,15701234,Walter,2004,Understanding intentions in social interaction: the role of the anterior paracingulate cortex.,1.0,1
+"Walbrin et al., 2018","Walbrin et al., 2018",exact_match,29476765,Walbrin,2018,Neural responses to visually observed social interactions.,1.0,1
+"Walbrin et al., 2018","Walbrin et al., 2018",exact_match,29476765,Walbrin,2018,Neural responses to visually observed social interactions.,1.0,1
+"Walter et al., 2004","Walter et al., 2004",exact_match,15701234,Walter,2004,Understanding intentions in social interaction: the role of the anterior paracingulate cortex.,1.0,1
+"Walter et al., 2004","Walter et al., 2004",exact_match,15701234,Walter,2004,Understanding intentions in social interaction: the role of the anterior paracingulate cortex.,1.0,1
 "Whitman et al., 2016","Whitman et al., 2016",multiple_matches,27477020,Wittmann,2016,Self-Other Mergence in the Frontal Cortex during Cooperation and Competition.,0.8571428571428572,2
 "Whitman et al., 2016","Whitman et al., 2016",multiple_matches,26481048,Han,2016,Common and distinct neural mechanisms of the fundamental dimensions of social cognition.,0.8,2
 "Wlodarski et al., 2016","Wlodarski et al., 2016",exact_match,27576746,Wlodarski,2016,When BOLD is thicker than water: processing social information about kin and friends at different levels of the social network.,1.0,1
 "Wolf et al., 2010","Wolf et al., 2010",exact_match,19733672,Wolf,2010,Neural correlates of social cognition in naturalistic settings: a model-free analysis approach.,1.0,1
 "Zelinková et al., 2014","Zelinková et al., 2014",exact_match,25118071,Zelinková,2014,An evaluation of traffic-awareness campaign videos: empathy induction is associated with brain function within superior temporal sulcus.,1.0,1
-Zink et al. 2008a,Zink et al. 2008a,exact_match,18439411,Zink,2008,Know your place: neural processing of social hierarchy in humans.,1.0,1
-Zink et al. 2008b,Zink et al. 2008b,exact_match,18439411,Zink,2008,Know your place: neural processing of social hierarchy in humans.,1.0,1
+Zink et al. 2008,Zink et al. 2008,exact_match,18439411,Zink,2008,Know your place: neural processing of social hierarchy in humans.,1.0,1
+Zink et al. 2008,Zink et al. 2008,exact_match,18439411,Zink,2008,Know your place: neural processing of social hierarchy in humans.,1.0,1
 "van den Bos et al., 2009","van den Bos et al., 2009",exact_match,19304843,van den Bos,2009,What motivates repayment? Neural correlates of reciprocity in the Trust Game.,1.0,1
 "Špiláková et al., 2019","Špiláková et al., 2019",exact_match,30649548,Špiláková,2019,Dissecting social interaction: dual-fMRI reveals patterns of interpersonal brain-behavior relationships that dissociate among dimensions of social exchange.,1.0,1
 "Blackwood et al., 2003","Blackwood et al., 2003",exact_match,14568477,Blackwood,2003,Self-responsibility and the self-serving bias: an fMRI investigation of causal attributions.,1.0,1
