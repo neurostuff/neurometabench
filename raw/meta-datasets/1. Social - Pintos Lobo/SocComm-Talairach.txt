@@ -121,7 +121,7 @@
 -37	-71	49
 -55	-52	27
 		
-//Saarela et al. 2008; STEP1 + STEP2 - REST; socialcommunication		
+//Saarela et al.. 2008; STEP1 + STEP2 - REST; socialcommunication		
 // Subjects=12		
 -40	-32	14
 50	-24	9
@@ -138,7 +138,7 @@
 -6	-28	-8
 -17	-33	-18
 		
-//Saarela et al, 2008; NOISE1 + NOISE2 - REST; socialcommunication		
+//Saarela et al., 2008; NOISE1 + NOISE2 - REST; socialcommunication		
 // Subjects=12		
 -42	-30	13
 48	-22	9
@@ -155,7 +155,6 @@
 //Saarela et al., 2008; (STEP2 - NOISE2) - (STEP1 - NOISE1); socialcommunication		
 // Subjects=12		
 19	-70	-36
-		
 		
 //Saarela et al., 2008; STEP1 - NOISE1; socialcommunication		
 // Subjects=12		
