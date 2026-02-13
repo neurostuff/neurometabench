@@ -1193,7 +1193,7 @@
 // Subjects=28		
 -6	23	-8
 		
-//Spunt et al., 2015; High-why + High-how > Low-Why + Low-How		
+//Spunt et al., 2015a; High-why + High-how > Low-Why + Low-How		
 // Subjects=17		
 -60	-12	-14
 -12	52	8
@@ -1205,14 +1205,14 @@
 -42	-58	28
 4	-54	32
 		
-//Spunt et al., 2015; Low-Why + Low-How > High-why + High-how		
+//Spunt et al., 2015a; Low-Why + Low-How > High-why + High-how		
 // Subjects=17		
 -56	-38	48
 48	40	16
 -44	36	12
 -58	-56	0
 		
-//Spunt et al., 2015; Increasing LOA > Decreasing LOA		
+//Spunt et al., 2015a; Increasing LOA > Decreasing LOA		
 // Subjects=17		
 -18	48	44
 -8	60	22
@@ -1227,7 +1227,7 @@
 -6	-54	28
 26	-88	6
 		
-//Spunt et al., 2015; Decreasing LOA >  Increasing LOA		
+//Spunt et al., 2015a; Decreasing LOA >  Increasing LOA		
 // Subjects=17		
 46	38	18
 36	14	56
@@ -5590,7 +5590,7 @@
 60	24	18
 60	-15	-18
 		
-//Spunt et al., 2015; Why > How (All stimuli)		
+//Spunt et al., 2015b; Why > How (All stimuli)		
 // Subjects=19 		
 -57	0	-21
 -9	45	51
@@ -5599,7 +5599,7 @@
 -51	-69	33
 -42	-51	21
 		
-//Spunt et al., 2015; Why > How (social stimuli)		
+//Spunt et al., 2015b; Why > How (social stimuli)		
 // Subjects=19 		
 -9	57	18
 0	51	36

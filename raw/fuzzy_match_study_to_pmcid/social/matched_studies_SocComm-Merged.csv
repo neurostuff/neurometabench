@@ -57,7 +57,8 @@ nimads_study_id,nimads_name,match_status,matched_pmid,matched_author,matched_yea
 "Smith et al., 2017","Smith et al., 2017",exact_match,27007121,Smith,2017,Contributions of self-report and performance-based individual differences measures of social cognitive ability to large-scale neural network functioning.,1,1
 "Sperduti et al., 2014","Sperduti et al., 2014",exact_match,24414614,Sperduti,2014,Mirror Neuron System and Mentalizing System connect during online social interaction.,1,1
 "Spunt et al., 2013","Spunt et al., 2013",exact_match,23221019,Spunt,2013,The busy social brain: evidence for automaticity and control in the neural systems supporting social cognition and action understanding.,1,1
-"Spunt et al., 2015","Spunt et al., 2015",exact_match,25911123,Spunt,2015,Folk explanations of behavior: a specialized use of a domain-general mechanism.,1,1
+"Spunt et al., 2015a","Spunt et al., 2015",exact_match,25911123,Spunt,2015,Folk explanations of behavior: a specialized use of a domain-general mechanism.,1,1
+"Spunt et al., 2015b","Spunt et al., 2015",manual_override,26117505,,,1,1
 "Spunt et al., 2019","Spunt et al., 2019",manual_override,27803286,Spunt,2017,The neural basis of understanding the expression of the emotions in man and animals.,0,0
 "Sugiura et al., 2008","Sugiura et al., 2008",exact_match,18501639,Sugiura,2008,Face-specific and domain-general characteristics of cortical responses during self-recognition.,1,1
 "Sugiura et al., 2010","Sugiura et al., 2010",fuzzy_match,20350171,Sugiura,2011,Beyond the memory mechanism: person-selective and nonselective processes in recognition of personally familiar faces.,0.95,1

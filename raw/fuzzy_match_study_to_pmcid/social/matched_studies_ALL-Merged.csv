@@ -137,7 +137,8 @@ nimads_study_id,nimads_name,match_status,matched_pmid,matched_author,matched_yea
 "Sokolov et al., 2012","Sokolov et al., 2012",exact_match,22019860,Sokolov,2012,Biological motion processing: the left cerebellum communicates with the right superior temporal sulcus.,1,1
 "Sperduti et al., 2014","Sperduti et al., 2014",exact_match,24414614,Sperduti,2014,Mirror Neuron System and Mentalizing System connect during online social interaction.,1,1
 "Spunt et al., 2013","Spunt et al., 2013",exact_match,23221019,Spunt,2013,The busy social brain: evidence for automaticity and control in the neural systems supporting social cognition and action understanding.,1,1
-"Spunt et al., 2015","Spunt et al., 2015",exact_match,25911123,Spunt,2015,Folk explanations of behavior: a specialized use of a domain-general mechanism.,1,1
+"Spunt et al., 2015a","Spunt et al., 2015",exact_match,25911123,Spunt,2015,Folk explanations of behavior: a specialized use of a domain-general mechanism.,1,1
+"Spunt et al., 2015b","Spunt et al., 2015",manual_override,26117505,,,1,1
 "Spunt et al., 2019","Spunt et al., 2019",manual_override,27803286,Spunt,2017,,0,0
 "Stanley et al., 2016","Stanley et al., 2016",exact_match,26656563,Stanley,2016,Getting to know you: general and specific neural computations for learning about people.,1,1
 "Sugiura et al., 2008","Sugiura et al., 2008",exact_match,18501639,Sugiura,2008,Face-specific and domain-general characteristics of cortical responses during self-recognition.,1,1

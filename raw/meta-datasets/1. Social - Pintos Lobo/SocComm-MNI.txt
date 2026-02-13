@@ -2375,7 +2375,7 @@
 60	24	18
 60	-15	-18
 		
-//Spunt et al., 2015; Why > How (All stimuli); socialcommunication		
+//Spunt et al., 2015b; Why > How (All stimuli); socialcommunication		
 // Subjects=19 		
 -57	0	-21
 -9	45	51
@@ -2384,7 +2384,7 @@
 -51	-69	33
 -42	-51	21
 		
-//Spunt et al., 2015; Why > How (social stimuli); socialcommunication		
+//Spunt et al., 2015b; Why > How (social stimuli); socialcommunication		
 // Subjects=19 		
 -9	57	18
 0	51	36

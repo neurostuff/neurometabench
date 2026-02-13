@@ -604,7 +604,7 @@
 // Subjects=28		
 -6	23	-8
 		
-//Spunt et al., 2015; High-why + High-how > Low-Why + Low-How; others		
+//Spunt et al., 2015a; High-why + High-how > Low-Why + Low-How; others		
 // Subjects=17		
 -60	-12	-14
 -12	52	8
@@ -616,14 +616,14 @@
 -42	-58	28
 4	-54	32
 		
-//Spunt et al., 2015; Low-Why + Low-How > High-why + High-how; others		
+//Spunt et al., 2015a; Low-Why + Low-How > High-why + High-how; others		
 // Subjects=17		
 -56	-38	48
 48	40	16
 -44	36	12
 -58	-56	0
 		
-//Spunt et al., 2015; Increasing LOA > Decreasing LOA; others		
+//Spunt et al., 2015a; Increasing LOA > Decreasing LOA; others		
 // Subjects=17		
 -18	48	44
 -8	60	22
@@ -638,7 +638,7 @@
 -6	-54	28
 26	-88	6
 		
-//Spunt et al., 2015; Decreasing LOA >  Increasing LOA; others		
+//Spunt et al., 2015a; Decreasing LOA >  Increasing LOA; others		
 // Subjects=17		
 46	38	18
 36	14	56
