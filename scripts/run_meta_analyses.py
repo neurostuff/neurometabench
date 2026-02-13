@@ -3,7 +3,7 @@
 Run meta-analyses for all NiMADS datasets found in data/nimads/
 
 This script discovers all NiMADS JSON files in the data/nimads directory,
-runs meta-analyses on each one, and deposits results in analysis/{topic-name}/
+runs meta-analyses on each one, and deposits results in analysis/{project-name}/
 """
 
 import argparse
@@ -66,29 +66,53 @@ def create_corrector(corrector_name: str, corrector_args: Dict):
 
 def find_nimads_files(data_dir: Path) -> Dict[str, List[Path]]:
     """
-    Find all NiMADS JSON files organized by topic.
+    Find all NiMADS JSON files organized by project.
     
     Args:
         data_dir: Path to the data/nimads directory
         
     Returns:
-        Dictionary mapping topic names to lists of JSON file paths
+        Dictionary mapping project names to lists of JSON file paths
     """
     nimads_dir = data_dir / "nimads"
     
     if not nimads_dir.exists():
         raise FileNotFoundError(f"NiMADS directory not found: {nimads_dir}")
     
-    # Find all topic directories
-    topic_files = {}
-    for topic_dir in nimads_dir.iterdir():
-        if topic_dir.is_dir():
-            # Find all JSON files in this topic directory
-            json_files = list(topic_dir.glob("*.json"))
+    # Find all project directories
+    project_files = {}
+    for project_dir in nimads_dir.iterdir():
+        if project_dir.is_dir():
+            # Find all JSON files in this project directory
+            json_files = list(project_dir.glob("*.json"))
             if json_files:
-                topic_files[topic_dir.name] = sorted(json_files)
+                project_files[project_dir.name] = sorted(json_files)
     
-    return topic_files
+    return project_files
+
+
+def load_exclude_ids(exclude_file: Optional[Path]) -> set:
+    """
+    Load study IDs to exclude from a text file.
+    
+    Args:
+        exclude_file: Path to text file with one ID per line
+        
+    Returns:
+        Set of study IDs to exclude
+    """
+    if exclude_file is None:
+        return set()
+    
+    if not exclude_file.exists():
+        raise FileNotFoundError(f"Exclude file not found: {exclude_file}")
+    
+    with open(exclude_file, 'r') as f:
+        # Read lines, strip whitespace, and filter empty lines
+        ids = {line.strip() for line in f if line.strip()}
+    
+    print(f"Loaded {len(ids)} study IDs to exclude from {exclude_file}")
+    return ids
 
 
 def run_meta_analysis(
@@ -97,7 +121,8 @@ def run_meta_analysis(
     estimator_name: str = "mkdadensity",
     estimator_args: Optional[Dict] = None,
     corrector_name: str = "fdr",
-    corrector_args: Optional[Dict] = None
+    corrector_args: Optional[Dict] = None,
+    exclude_ids: Optional[set] = None
 ):
     """
     Run meta-analysis on a single NiMADS studyset file.
@@ -109,6 +134,7 @@ def run_meta_analysis(
         estimator_args: Arguments for the estimator
         corrector_name: Name of the corrector to use
         corrector_args: Arguments for the corrector
+        exclude_ids: Set of study IDs to exclude from the analysis
     """
     if not NIMARE_AVAILABLE:
         raise ImportError("NiMARE is required but not installed")
@@ -121,6 +147,20 @@ def run_meta_analysis(
     print("Loading studyset JSON...")
     with open(studyset_file, 'r') as f:
         studyset_data = json.load(f)
+    
+    # Filter out excluded studies if specified
+    if exclude_ids:
+        original_count = len(studyset_data.get('studies', []))
+        studyset_data['studies'] = [
+            study for study in studyset_data.get('studies', [])
+            if study.get('id') not in exclude_ids
+        ]
+        filtered_count = len(studyset_data['studies'])
+        excluded_count = original_count - filtered_count
+        if excluded_count > 0:
+            print(f"Excluded {excluded_count} studies (from {original_count} to {filtered_count})")
+        else:
+            print(f"No studies matched exclusion list (keeping all {original_count} studies)")
     
     print("Creating studyset...")
     studyset = Studyset(studyset_data)
@@ -178,8 +218,8 @@ Examples:
   # Run with specific estimator and corrector
   python run_meta_analyses.py --estimator ale --corrector montecarlo
   
-  # Process only specific topics
-  python run_meta_analyses.py --topics emotion reward
+  # Process only specific projects
+  python run_meta_analyses.py --projects emotion reward
   
   # Use custom data and analysis directories
   python run_meta_analyses.py --data-dir /path/to/data \\
@@ -202,9 +242,9 @@ Examples:
     )
     
     parser.add_argument(
-        "--topics",
+        "--projects",
         nargs="+",
-        help="Specific topics to process (default: all topics found)"
+        help="Specific projects to process (default: all projects found)"
     )
     
     parser.add_argument(
@@ -241,6 +281,12 @@ Examples:
         help="Skip analyses that already have output directories"
     )
     
+    parser.add_argument(
+        "--exclude-ids",
+        type=Path,
+        help="Path to text file with study IDs to exclude (one per line)"
+    )
+    
     args = parser.parse_args()
     
     # Check if NiMARE is available
@@ -260,6 +306,13 @@ Examples:
         print(f"Error parsing JSON arguments: {e}", file=sys.stderr)
         return 1
     
+    # Load exclude IDs if specified
+    try:
+        exclude_ids = load_exclude_ids(args.exclude_ids)
+    except FileNotFoundError as e:
+        print(f"Error: {e}", file=sys.stderr)
+        return 1
+    
     # Check if data directory exists
     if not args.data_dir.exists():
         print(
@@ -271,45 +324,45 @@ Examples:
     # Find all NiMADS files
     print(f"Searching for NiMADS files in {args.data_dir / 'nimads'}...")
     try:
-        topic_files = find_nimads_files(args.data_dir)
+        project_files = find_nimads_files(args.data_dir)
     except FileNotFoundError as e:
         print(f"Error: {e}", file=sys.stderr)
         return 1
     
-    # Filter topics if specified
-    if args.topics:
-        topic_files = {
-            k: v for k, v in topic_files.items() if k in args.topics
+    # Filter projects if specified
+    if args.projects:
+        project_files = {
+            k: v for k, v in project_files.items() if k in args.projects
         }
-        if not topic_files:
+        if not project_files:
             available = ', '.join(find_nimads_files(args.data_dir).keys())
             print(
-                f"Error: No matching topics found. "
-                f"Available topics: {available}",
+                f"Error: No matching projects found. "
+                f"Available projects: {available}",
                 file=sys.stderr
             )
             return 1
     
-    print(f"\nFound {len(topic_files)} topics:")
-    for topic, files in topic_files.items():
-        print(f"  - {topic}: {len(files)} file(s)")
+    print(f"\nFound {len(project_files)} projects:")
+    for project, files in project_files.items():
+        print(f"  - {project}: {len(files)} file(s)")
     
-    # Process each topic and file
-    total_analyses = sum(len(files) for files in topic_files.values())
+    # Process each project and file
+    total_analyses = sum(len(files) for files in project_files.values())
     completed = 0
     failed = 0
     skipped = 0
     
-    for topic, files in topic_files.items():
+    for project, files in project_files.items():
         print(f"\n{'#'*80}")
-        print(f"# Topic: {topic}")
+        print(f"# Project: {project}")
         print(f"{'#'*80}")
         
         for json_file in files:
             # Create output directory for this specific analysis
             # Use the JSON filename (without extension) as the analysis name
             analysis_name = json_file.stem
-            output_dir = args.analysis_dir / topic / analysis_name
+            output_dir = args.analysis_dir / project / analysis_name
             
             # Check if we should skip existing analyses
             if (args.skip_existing and output_dir.exists() and
@@ -328,7 +381,8 @@ Examples:
                     estimator_name=args.estimator,
                     estimator_args=estimator_args,
                     corrector_name=args.corrector,
-                    corrector_args=corrector_args
+                    corrector_args=corrector_args,
+                    exclude_ids=exclude_ids
                 )
                 completed += 1
             except Exception as e:
