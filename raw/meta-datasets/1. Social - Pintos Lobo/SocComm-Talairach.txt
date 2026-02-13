@@ -121,7 +121,7 @@
 -37	-71	49
 -55	-52	27
 		
-//Saarela et al.. 2008; STEP1 + STEP2 - REST; socialcommunication		
+//Saarela et al., 2008; STEP1 + STEP2 - REST; socialcommunication		
 // Subjects=12		
 -40	-32	14
 50	-24	9

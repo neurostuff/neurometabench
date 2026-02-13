@@ -245,11 +245,11 @@
 6	-73	49
 -18	-79	43
 		
-//Chauvigne et al., 2018; Activations: Leading > Following (Followers only); self		
+//Chauvigne et al., 2018b; Activations: Leading > Following (Followers only); self		
 // Subjects=10		
 -39	44	34
 		
-//Chauvigne et al., 2018; Deactivations: Following > Leading (Whole-group); self		
+//Chauvigne et al., 2018b; Deactivations: Following > Leading (Whole-group); self		
 // Subjects=18		
 3	-54	23
 45	-59	25
@@ -257,7 +257,7 @@
 17	-33	0
 -21	-16	-6
 		
-//Chauvigne et al., 2018; Deactivations: Following > Leading (Followers only); self		
+//Chauvigne et al., 2018b; Deactivations: Following > Leading (Followers only); self		
 // Subjects=10		
 3	-61	31
 48	-61	31
