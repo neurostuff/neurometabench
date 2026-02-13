@@ -6,10 +6,11 @@ This script reads meta_datasets.tsv, finds corresponding Sleuth files in
 raw/meta-datasets/, converts them to NIMADS format using nimare, and
 saves them to data/nimads/{pmid}/.
 
-Files with the same base name but different coordinate space suffixes 
+Files with the same base name but different coordinate space suffixes
 (-MNI, -Tal, -Talairach) are merged into a single file with -Merged suffix.
 """
 
+import argparse
 import json
 import re
 from pathlib import Path
@@ -365,15 +366,59 @@ def process_merges(output_dir: Path) -> Dict[str, int]:
 def main():
     """Main function to convert all Sleuth files to NIMADS format."""
     
+    parser = argparse.ArgumentParser(
+        description='Convert Sleuth format files to NIMADS format',
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+  # Process all projects
+  python convert_sleuth_to_nimads.py
+  
+  # Process only the social project
+  python convert_sleuth_to_nimads.py --project social
+        """
+    )
+    
+    parser.add_argument(
+        '--project',
+        type=str,
+        help='Specific project to process (e.g., "social"). Matches against normalized folder names in data/nimads/. If not specified, processes all projects.'
+    )
+    
+    args = parser.parse_args()
+    
     # Paths
     base_dir = Path(__file__).parent.parent
     meta_datasets_file = base_dir / 'data' / 'meta_datasets.csv'
     sources_dir = base_dir / 'raw' / 'meta-datasets'
     output_base_dir = base_dir / 'data' / 'nimads'
     
-    # Read meta_datasets.tsv
-    print("Reading meta_datasets.tsv...")
+    # Validate paths
+    if not meta_datasets_file.exists():
+        print(f"Error: meta_datasets file not found: {meta_datasets_file}")
+        return 1
+    
+    if not sources_dir.exists():
+        print(f"Error: sources directory not found: {sources_dir}")
+        return 1
+    
+    # Read meta_datasets.csv
+    print(f"Reading meta_datasets.csv...")
     df = pd.read_csv(meta_datasets_file)
+    
+    # Filter by project if specified
+    if args.project:
+        # Match by normalized folder name
+        project_normalized = normalize_folder_name(args.project)
+        df = df[df['topic'].apply(normalize_folder_name) == project_normalized]
+        
+        if df.empty:
+            print(f"Error: Project '{args.project}' not found in meta_datasets.csv")
+            all_projects = pd.read_csv(meta_datasets_file)['topic'].apply(normalize_folder_name).unique()
+            print(f"Available projects: {', '.join(sorted(all_projects))}")
+            return 1
+        
+        print(f"Filtering to project: {args.project} (normalized: {project_normalized})")
     
     # Get available folders
     available_folders = [
@@ -487,8 +532,10 @@ def main():
     print(f"Merged files created: {merge_stats_total['merged_files_created']}")
     print(f"Individual files deleted: {merge_stats_total['files_deleted']}")
     
-    print("\n✓ Conversion and merge complete!")
+    print(f"\n✓ Conversion and merge complete!")
+    return 0
 
 
 if __name__ == '__main__':
-    main()
+    import sys
+    sys.exit(main())
