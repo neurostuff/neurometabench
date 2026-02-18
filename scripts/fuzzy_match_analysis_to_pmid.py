@@ -2,9 +2,9 @@
 """
 Fuzzy Match NIMADS Analysis IDs to PMIDs
 
-This script matches NIMADS study names (format: "Author et al., Year") to PMIDs
-from an included studies CSV file using fuzzy matching on author names and exact
-matching on years.
+This script matches study names in a merged NiMADS studyset
+(`data/nimads/<project>/merged/nimads_studyset.json`) to PMIDs from an included
+studies CSV file using fuzzy matching on author names and exact matching on years.
 
 Usage:
     python scripts/fuzzy_match_analysis_to_pmid.py \
@@ -221,26 +221,14 @@ def load_nimads_studies(filepath: str) -> List[Dict[str, str]]:
     return studies
 
 
-def find_nimads_files(project_name: str, nimads_dir: str = 'data/nimads') -> List[Path]:
+def get_merged_nimads_file(project_name: str, nimads_root: str = 'data/nimads') -> Path:
     """
-    Find all NIMADS JSON files for a given project.
-    
-    Args:
-        project_name: Name of the project (e.g., "social")
-        nimads_dir: Base directory for NIMADS files
-    
-    Returns:
-        List of Path objects for NIMADS JSON files
+    Return the merged NiMADS studyset path for a project.
+
+    Expected path:
+      data/nimads/<project>/merged/nimads_studyset.json
     """
-    project_dir = Path(nimads_dir) / project_name
-    
-    if not project_dir.exists():
-        return []
-    
-    # Find all .json files in the project directory
-    json_files = list(project_dir.glob('*.json'))
-    
-    return sorted(json_files)
+    return Path(nimads_root) / project_name / "merged" / "nimads_studyset.json"
 
 
 def fuzzy_match_study(
@@ -418,8 +406,10 @@ def process_matches(nimads_studies: List[Dict], included_studies: pd.DataFrame,
         if verbose:
             print(f"Processing {idx}/{total}: {study_id}", file=sys.stderr)
         
-        # Parse the study name
-        author, year = parse_study_name(study_id)
+        # Prefer study name for parsing; fallback to study id.
+        author, year = parse_study_name(study_name)
+        if not author or not year:
+            author, year = parse_study_name(study_id)
         
         if not author or not year:
             if verbose:
@@ -544,8 +534,16 @@ def validate_coverage(nimads_studies: List[Dict], results: List[Dict],
     return errors
 
 
-def process_project(project_name: str, included_studies_file: str, output_dir: str,
-                   meta_datasets_file: str, threshold: float, verbose: bool):
+def process_project(
+    project_name: str,
+    included_studies_file: str,
+    output_dir: str,
+    meta_datasets_file: str,
+    threshold: float,
+    verbose: bool,
+    nimads_root: str,
+    output_filename: str,
+):
     """
     Process all NIMADS files for a given project.
     
@@ -588,18 +586,18 @@ def process_project(project_name: str, included_studies_file: str, output_dir: s
     if verbose:
         print(f"Found {len(included_studies)} studies for meta-PMID {meta_pmid}\n", file=sys.stderr)
     
-    # Find all NIMADS files for this project
-    nimads_files = find_nimads_files(project_name)
-    
-    if not nimads_files:
-        print(f"ERROR: No NIMADS files found for project '{project_name}'", file=sys.stderr)
+    # Locate merged NiMADS file for this project.
+    nimads_file = get_merged_nimads_file(project_name, nimads_root=nimads_root)
+    if not nimads_file.exists():
+        print(
+            f"ERROR: Merged NiMADS file not found for project '{project_name}': {nimads_file}",
+            file=sys.stderr,
+        )
         sys.exit(1)
     
     if verbose:
-        print(f"Found {len(nimads_files)} NIMADS files:", file=sys.stderr)
-        for nf in nimads_files:
-            print(f"  - {nf.name}", file=sys.stderr)
-        print(f"\nMatching with threshold: {threshold}\n", file=sys.stderr)
+        print(f"Using merged NiMADS file: {nimads_file}", file=sys.stderr)
+        print(f"Matching with threshold: {threshold}\n", file=sys.stderr)
     
     # Process each NIMADS file
     project_output_dir = Path(output_dir) / project_name
@@ -610,70 +608,59 @@ def process_project(project_name: str, included_studies_file: str, output_dir: s
     total_fuzzy = 0
     total_multiple = 0
     total_no_match = 0
-    
     validation_errors = []
-    
-    for nimads_file in nimads_files:
+    if verbose:
+        print(f"\n{'-'*60}", file=sys.stderr)
+        print(f"Processing: {nimads_file.name}", file=sys.stderr)
+        print(f"{'-'*60}\n", file=sys.stderr)
+
+    nimads_studies = load_nimads_studies(nimads_file)
+    total_studies = len(nimads_studies)
+
+    if verbose:
+        print(f"Found {len(nimads_studies)} studies in merged NiMADS file\n", file=sys.stderr)
+
+    results = process_matches(nimads_studies, included_studies, threshold, verbose)
+
+    exact_matches = sum(1 for r in results if r['match_status'] == 'exact_match' and r['match_count'] > 0)
+    fuzzy_matches = sum(1 for r in results if r['match_status'] == 'fuzzy_match')
+    multiple_matches = len(set(r['nimads_study_id'] for r in results if r['match_status'] == 'multiple_matches'))
+    no_matches = sum(1 for r in results if r['match_status'] == 'no_match')
+
+    total_exact = exact_matches
+    total_fuzzy = fuzzy_matches
+    total_multiple = multiple_matches
+    total_no_match = no_matches
+
+    output_file = project_output_dir / output_filename
+    write_results(results, str(output_file))
+
+    file_validation_errors = validate_coverage(nimads_studies, results, nimads_file, output_file)
+    if file_validation_errors:
+        validation_errors.extend(file_validation_errors)
         if verbose:
-            print(f"\n{'-'*60}", file=sys.stderr)
-            print(f"Processing: {nimads_file.name}", file=sys.stderr)
-            print(f"{'-'*60}\n", file=sys.stderr)
-        
-        # Load NIMADS studies
-        nimads_studies = load_nimads_studies(nimads_file)
-        total_studies += len(nimads_studies)
-        
-        if verbose:
-            print(f"Found {len(nimads_studies)} studies in NIMADS file\n", file=sys.stderr)
-        
-        # Process matches
-        results = process_matches(nimads_studies, included_studies, threshold, verbose)
-        
-        # Count match types
-        exact_matches = sum(1 for r in results if r['match_status'] == 'exact_match' and r['match_count'] > 0)
-        fuzzy_matches = sum(1 for r in results if r['match_status'] == 'fuzzy_match')
-        multiple_matches = len(set(r['nimads_study_id'] for r in results if r['match_status'] == 'multiple_matches'))
-        no_matches = sum(1 for r in results if r['match_status'] == 'no_match')
-        
-        total_exact += exact_matches
-        total_fuzzy += fuzzy_matches
-        total_multiple += multiple_matches
-        total_no_match += no_matches
-        
-        # Generate output filename
-        base_name = nimads_file.stem  # e.g., "ALL-Merged" from "ALL-Merged.json"
-        output_file = project_output_dir / f"matched_studies_{base_name}.csv"
-        
-        # Write results
-        write_results(results, str(output_file))
-        
-        # Validate coverage
-        file_validation_errors = validate_coverage(nimads_studies, results, nimads_file, output_file)
-        if file_validation_errors:
-            validation_errors.extend(file_validation_errors)
-            if verbose:
-                print(f"\n⚠️  VALIDATION FAILED ⚠️", file=sys.stderr)
-                for error in file_validation_errors:
-                    print(error, file=sys.stderr)
-        
-        if verbose:
-            print(f"\n{'='*60}", file=sys.stderr)
-            print(f"File: {nimads_file.name}", file=sys.stderr)
-            print(f"{'='*60}", file=sys.stderr)
-            print(f"Total studies:         {len(nimads_studies)}", file=sys.stderr)
-            print(f"Exact matches:         {exact_matches}", file=sys.stderr)
-            print(f"Fuzzy matches:         {fuzzy_matches}", file=sys.stderr)
-            print(f"Multiple matches:      {multiple_matches}", file=sys.stderr)
-            print(f"No matches:            {no_matches}", file=sys.stderr)
-            print(f"Output:                {output_file}", file=sys.stderr)
-            print(f"{'='*60}", file=sys.stderr)
+            print(f"\n⚠️  VALIDATION FAILED ⚠️", file=sys.stderr)
+            for error in file_validation_errors:
+                print(error, file=sys.stderr)
+
+    if verbose:
+        print(f"\n{'='*60}", file=sys.stderr)
+        print(f"File: {nimads_file.name}", file=sys.stderr)
+        print(f"{'='*60}", file=sys.stderr)
+        print(f"Total studies:         {len(nimads_studies)}", file=sys.stderr)
+        print(f"Exact matches:         {exact_matches}", file=sys.stderr)
+        print(f"Fuzzy matches:         {fuzzy_matches}", file=sys.stderr)
+        print(f"Multiple matches:      {multiple_matches}", file=sys.stderr)
+        print(f"No matches:            {no_matches}", file=sys.stderr)
+        print(f"Output:                {output_file}", file=sys.stderr)
+        print(f"{'='*60}", file=sys.stderr)
     
     # Print overall summary
     if verbose:
         print(f"\n\n{'='*60}", file=sys.stderr)
         print(f"PROJECT SUMMARY: {project_name}", file=sys.stderr)
         print(f"{'='*60}", file=sys.stderr)
-        print(f"Files processed:       {len(nimads_files)}", file=sys.stderr)
+        print(f"Files processed:       1", file=sys.stderr)
         print(f"Total studies:         {total_studies}", file=sys.stderr)
         print(f"Exact matches:         {total_exact}", file=sys.stderr)
         print(f"Fuzzy matches:         {total_fuzzy}", file=sys.stderr)
@@ -733,6 +720,20 @@ Examples:
     )
     
     parser.add_argument(
+        '--output-file',
+        type=str,
+        default='matched_studies_merged.csv',
+        help='Single output CSV filename (default: matched_studies_merged.csv)'
+    )
+    
+    parser.add_argument(
+        '--nimads-root',
+        type=str,
+        default='data/nimads',
+        help='Base NiMADS directory containing <project>/merged/nimads_studyset.json (default: data/nimads)'
+    )
+    
+    parser.add_argument(
         '--meta-datasets',
         type=str,
         default='data/meta_datasets.csv',
@@ -765,7 +766,9 @@ Examples:
             output_dir=args.output_dir,
             meta_datasets_file=args.meta_datasets,
             threshold=args.threshold,
-            verbose=args.verbose
+            verbose=args.verbose,
+            nimads_root=args.nimads_root,
+            output_filename=args.output_file,
         )
         
     except Exception as e:
