@@ -11,10 +11,11 @@ Files with the same base name but different coordinate space suffixes
 """
 
 import argparse
+import csv
 import json
 import re
 from pathlib import Path
-from typing import Dict, List, Optional
+from typing import Any, Dict, List, Optional, Tuple
 from collections import defaultdict
 import pandas as pd
 from difflib import SequenceMatcher
@@ -23,6 +24,215 @@ import nimare.io
 # Suppress warnings
 import warnings
 warnings.filterwarnings("ignore", category=UserWarning)
+
+
+def _is_empty(value: Any) -> bool:
+    if value is None:
+        return True
+    if isinstance(value, str):
+        return value.strip() == ""
+    if isinstance(value, (list, dict, tuple, set)):
+        return len(value) == 0
+    return False
+
+
+def parse_reference_convention(value: str) -> Tuple[str, str]:
+    """
+    Parse study/analysis names from Sleuth convention text.
+
+    Expected pattern:
+    "Study; Analysis; OptionalTag"
+    """
+    text = str(value or "").strip()
+    if not text:
+        return "", ""
+
+    parts = [part.strip() for part in text.split(";")]
+    study_label = parts[0] if parts else text
+    analysis_label = parts[1] if len(parts) > 1 else ""
+    return study_label, analysis_label
+
+
+def ensure_unique_analysis_ids(analyses: List[Dict[str, Any]]) -> None:
+    """Ensure unique analysis IDs within one study, suffixing repeated IDs."""
+    seen: Dict[str, int] = {}
+    for idx, analysis in enumerate(analyses):
+        base_id = str(analysis.get("id", "")).strip() or str(analysis.get("name", "")).strip() or f"analysis_{idx}"
+        if base_id not in seen:
+            seen[base_id] = 1
+            analysis["id"] = base_id
+            continue
+
+        seen[base_id] += 1
+        analysis["id"] = f"{base_id}__{seen[base_id]}"
+
+
+def normalize_studies_by_reference(nimads_dict: Dict[str, Any]) -> Dict[str, Any]:
+    """
+    Group studies by first ';' segment and move second segment to analysis id/name.
+
+    This enforces the project convention:
+    - study id/name: first segment
+    - analysis id/name: second segment
+    - trailing segment(s): ignored
+    """
+    studies = nimads_dict.get("studies", [])
+    if not isinstance(studies, list):
+        return nimads_dict
+
+    grouped: Dict[str, Dict[str, Any]] = {}
+    order: List[str] = []
+
+    for raw_study in studies:
+        if not isinstance(raw_study, dict):
+            continue
+
+        raw_id = raw_study.get("id", "")
+        raw_name = raw_study.get("name", "")
+        source_text = raw_id if str(raw_id).strip() else raw_name
+        study_label, analysis_label = parse_reference_convention(source_text)
+
+        study_key = study_label.strip() or str(source_text).strip()
+        if not study_key:
+            continue
+
+        if study_key not in grouped:
+            canonical = {
+                "id": study_key,
+                "name": study_key,
+                "authors": raw_study.get("authors", ""),
+                "publication": raw_study.get("publication", ""),
+                "metadata": raw_study.get("metadata", {}) if isinstance(raw_study.get("metadata", {}), dict) else {},
+                "analyses": [],
+            }
+            for key, value in raw_study.items():
+                if key not in canonical and key not in {"analyses"}:
+                    canonical[key] = value
+            grouped[study_key] = canonical
+            order.append(study_key)
+        else:
+            canonical = grouped[study_key]
+            if _is_empty(canonical.get("authors")) and not _is_empty(raw_study.get("authors")):
+                canonical["authors"] = raw_study.get("authors")
+            if _is_empty(canonical.get("publication")) and not _is_empty(raw_study.get("publication")):
+                canonical["publication"] = raw_study.get("publication")
+            incoming_metadata = raw_study.get("metadata", {})
+            if isinstance(incoming_metadata, dict):
+                for key, value in incoming_metadata.items():
+                    if key not in canonical["metadata"] or _is_empty(canonical["metadata"].get(key)):
+                        canonical["metadata"][key] = value
+
+        analyses = raw_study.get("analyses", [])
+        if not isinstance(analyses, list):
+            analyses = []
+
+        for idx, analysis in enumerate(analyses):
+            if not isinstance(analysis, dict):
+                continue
+            normalized_analysis = dict(analysis)
+            label = analysis_label or str(normalized_analysis.get("name", "")).strip() or str(normalized_analysis.get("id", "")).strip() or f"analysis_{idx}"
+            normalized_analysis["name"] = label
+            normalized_analysis["id"] = label
+            grouped[study_key]["analyses"].append(normalized_analysis)
+
+    normalized_studies = [grouped[key] for key in order]
+    for study in normalized_studies:
+        ensure_unique_analysis_ids(study.get("analyses", []))
+
+    nimads_dict["studies"] = normalized_studies
+    return nimads_dict
+
+
+def load_pmid_mappings(csv_path: Path) -> Tuple[Dict[str, str], List[str]]:
+    """
+    Load nimads_study_id -> matched_pmid mappings from a fuzzy-match CSV.
+
+    Matches map_pmcid_to_nimads.py behavior:
+    - skip no_match
+    - include exact_match/manual_override always when matched_pmid present
+    - include fuzzy_match/multiple_matches only when the nimads_study_id appears once
+    """
+    warnings: List[str] = []
+    mappings: Dict[str, str] = {}
+
+    with csv_path.open("r", encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        required_cols = {"nimads_study_id", "match_status", "matched_pmid"}
+        if not required_cols.issubset(set(reader.fieldnames or [])):
+            warnings.append(
+                f"Mapping file {csv_path.name} missing required columns: {required_cols}"
+            )
+            return mappings, warnings
+
+        rows = list(reader)
+
+    counts: Dict[str, int] = defaultdict(int)
+    for row in rows:
+        study_id = str(row.get("nimads_study_id", "")).strip()
+        if study_id:
+            counts[study_id] += 1
+
+    for row in rows:
+        study_id = str(row.get("nimads_study_id", "")).strip()
+        status = str(row.get("match_status", "")).strip()
+        pmid = str(row.get("matched_pmid", "")).strip()
+        if not study_id:
+            continue
+
+        if status == "no_match":
+            continue
+
+        if status in {"fuzzy_match", "multiple_matches"} and counts[study_id] > 1:
+            continue
+
+        if status in {"exact_match", "manual_override", "fuzzy_match", "multiple_matches"} and pmid:
+            if study_id in mappings and mappings[study_id] != pmid:
+                warnings.append(
+                    f"Conflicting PMIDs for {study_id} in {csv_path.name}: {mappings[study_id]} vs {pmid}. Keeping first."
+                )
+                continue
+            mappings[study_id] = pmid
+
+    return mappings, warnings
+
+
+def apply_optional_pmid_mapping(
+    nimads_dict: Dict[str, Any],
+    project_key: str,
+    dataset_stem: str,
+    fuzzy_map_dir: Optional[Path],
+) -> Tuple[Dict[str, Any], Optional[Path], int, int, int, List[str]]:
+    """
+    Replace study IDs with mapped PMIDs when a matching fuzzy-map CSV is available.
+
+    Returns:
+        (updated_dict, mapping_csv_path_or_none, total_studies, mapped_count, not_mapped_count, warnings)
+    """
+    studies = nimads_dict.get("studies", [])
+    if not isinstance(studies, list):
+        return nimads_dict, None, 0, 0, 0, []
+
+    total_studies = len(studies)
+    if fuzzy_map_dir is None:
+        return nimads_dict, None, total_studies, 0, total_studies, []
+
+    csv_path = fuzzy_map_dir / project_key / f"matched_studies_{dataset_stem}.csv"
+    if not csv_path.exists():
+        return nimads_dict, None, total_studies, 0, total_studies, []
+
+    mappings, warnings = load_pmid_mappings(csv_path)
+    if not mappings:
+        return nimads_dict, csv_path, total_studies, 0, total_studies, warnings
+
+    mapped_count = 0
+    for study in studies:
+        study_id = str(study.get("id", "")).strip()
+        if study_id in mappings:
+            study["id"] = mappings[study_id]
+            mapped_count += 1
+
+    return nimads_dict, csv_path, total_studies, mapped_count, total_studies - mapped_count, warnings
+
 
 def normalize_folder_name(topic_name: str) -> str:
     """
@@ -126,7 +336,9 @@ def convert_sleuth_files(
     sleuth_dir: Path,
     output_dir: Path,
     pmid: str,
-    topic: str
+    topic: str,
+    project_key: str,
+    fuzzy_map_dir: Optional[Path] = None,
 ) -> Dict[str, int]:
     """
     Convert all Sleuth .txt files in a directory to NIMADS format.
@@ -182,6 +394,17 @@ def convert_sleuth_files(
                 studyset_id=studyset_id,
                 studyset_name=studyset_name
             )
+            original_study_count = len(nimads_dict.get("studies", []))
+            nimads_dict = normalize_studies_by_reference(nimads_dict)
+            normalized_study_count = len(nimads_dict.get("studies", []))
+            nimads_dict, mapping_csv, mapped_total, mapped_count, not_mapped_count, mapping_warnings = apply_optional_pmid_mapping(
+                nimads_dict=nimads_dict,
+                project_key=project_key,
+                dataset_stem=file_stem,
+                fuzzy_map_dir=fuzzy_map_dir,
+            )
+            for warning in mapping_warnings:
+                print(f"  ⚠ Mapping warning: {warning}")
             
             # Save as JSON
             output_file = output_dir / f"{file_stem}.json"
@@ -189,7 +412,15 @@ def convert_sleuth_files(
                 json.dump(nimads_dict, f, indent=2)
             
             stats['files_converted'] += 1
-            print(f"  ✓ Converted: {txt_file.name} -> {output_file.name}")
+            print(
+                f"  ✓ Converted: {txt_file.name} -> {output_file.name} "
+                f"(studies: {original_study_count} -> {normalized_study_count})"
+            )
+            if mapping_csv is not None:
+                print(
+                    f"    PMID mapping from {mapping_csv.name}: {mapped_count}/{mapped_total} "
+                    f"(unmapped={not_mapped_count})"
+                )
             
         except Exception as e:
             error_msg = f"Error converting {txt_file.name}: {str(e)}"
@@ -222,7 +453,12 @@ def get_base_name_and_suffix(filename: str) -> tuple:
     return filename, None
 
 
-def merge_nimads_files(files_to_merge: List[Path], output_file: Path) -> bool:
+def merge_nimads_files(
+    files_to_merge: List[Path],
+    output_file: Path,
+    project_key: str,
+    fuzzy_map_dir: Optional[Path] = None,
+) -> bool:
     """
     Merge multiple NIMADS JSON files into a single file.
     
@@ -277,6 +513,17 @@ def merge_nimads_files(files_to_merge: List[Path], output_file: Path) -> bool:
             'name': merged_name,
             'studies': all_studies
         }
+        original_study_count = len(merged_data["studies"])
+        merged_data = normalize_studies_by_reference(merged_data)
+        normalized_study_count = len(merged_data["studies"])
+        merged_data, mapping_csv, mapped_total, mapped_count, not_mapped_count, mapping_warnings = apply_optional_pmid_mapping(
+            nimads_dict=merged_data,
+            project_key=project_key,
+            dataset_stem=output_file.stem,
+            fuzzy_map_dir=fuzzy_map_dir,
+        )
+        for warning in mapping_warnings:
+            print(f"  ⚠ Mapping warning: {warning}")
         
         # Write merged file
         output_file.parent.mkdir(parents=True, exist_ok=True)
@@ -284,7 +531,12 @@ def merge_nimads_files(files_to_merge: List[Path], output_file: Path) -> bool:
             json.dump(merged_data, f, indent=2)
         
         print(f"  ✓ Merged {len(files_to_merge)} files into: {output_file.name}")
-        print(f"    - Total studies: {len(all_studies)}")
+        print(f"    - Total studies: {original_study_count} -> {normalized_study_count}")
+        if mapping_csv is not None:
+            print(
+                f"    - PMID mapping from {mapping_csv.name}: {mapped_count}/{mapped_total} "
+                f"(unmapped={not_mapped_count})"
+            )
         
         return True
         
@@ -293,7 +545,11 @@ def merge_nimads_files(files_to_merge: List[Path], output_file: Path) -> bool:
         return False
 
 
-def process_merges(output_dir: Path) -> Dict[str, int]:
+def process_merges(
+    output_dir: Path,
+    project_key: str,
+    fuzzy_map_dir: Optional[Path] = None,
+) -> Dict[str, int]:
     """
     Process all files in output directory and merge those with matching base names.
     
@@ -346,7 +602,12 @@ def process_merges(output_dir: Path) -> Dict[str, int]:
                 print(f"    - {file_path.name} ({suffix})")
             
             # Perform merge
-            if merge_nimads_files(file_paths, merged_path):
+            if merge_nimads_files(
+                file_paths,
+                merged_path,
+                project_key=project_key,
+                fuzzy_map_dir=fuzzy_map_dir,
+            ):
                 stats['files_merged'] += len(files)
                 stats['merged_files_created'] += 1
                 
@@ -384,6 +645,12 @@ Examples:
         type=str,
         help='Specific project to process (e.g., "social"). Matches against normalized folder names in data/nimads/. If not specified, processes all projects.'
     )
+    parser.add_argument(
+        '--fuzzy-map-dir',
+        type=str,
+        default='raw/fuzzy_match_study_to_pmcid',
+        help='Optional directory containing matched_studies_*.csv files. If available, study IDs are replaced with mapped PMIDs.'
+    )
     
     args = parser.parse_args()
     
@@ -392,6 +659,7 @@ Examples:
     meta_datasets_file = base_dir / 'data' / 'meta_datasets.csv'
     sources_dir = base_dir / 'raw' / 'meta-datasets'
     output_base_dir = base_dir / 'data' / 'nimads'
+    fuzzy_map_dir = base_dir / args.fuzzy_map_dir
     
     # Validate paths
     if not meta_datasets_file.exists():
@@ -401,6 +669,11 @@ Examples:
     if not sources_dir.exists():
         print(f"Error: sources directory not found: {sources_dir}")
         return 1
+
+    if fuzzy_map_dir.exists():
+        print(f"PMID mapping enabled from: {fuzzy_map_dir}")
+    else:
+        print(f"PMID mapping disabled (directory not found): {fuzzy_map_dir}")
     
     # Read meta_datasets.csv
     print(f"Reading meta_datasets.csv...")
@@ -462,7 +735,9 @@ Examples:
                 sleuth_dir=sleuth_dir,
                 output_dir=output_dir,
                 pmid=pmid,
-                topic=topic
+                topic=topic,
+                project_key=normalized_topic,
+                fuzzy_map_dir=fuzzy_map_dir if fuzzy_map_dir.exists() else None,
             )
             
             total_stats['files_converted'] += stats['files_converted']
@@ -513,7 +788,11 @@ Examples:
     
     for output_dir in output_dirs:
         print(f"\nProcessing directory: {output_dir.name}")
-        merge_stats = process_merges(output_dir)
+        merge_stats = process_merges(
+            output_dir=output_dir,
+            project_key=output_dir.name,
+            fuzzy_map_dir=fuzzy_map_dir if fuzzy_map_dir.exists() else None,
+        )
         
         # Accumulate statistics
         for key in merge_stats_total:
