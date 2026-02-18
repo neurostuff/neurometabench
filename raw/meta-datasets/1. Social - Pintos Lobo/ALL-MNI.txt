@@ -660,7 +660,7 @@
 //Jiang et al., 2018; SA vs. Fixation		
 // Subjects=31		
 39	12	48
-0	-27	-9
+9	-27	-9
 -9	-18	0
 		
 //Xie et al., 2016; Social-Reg > Social-Look		

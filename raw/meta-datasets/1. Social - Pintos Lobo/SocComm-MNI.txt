@@ -582,13 +582,6 @@
 //Mainieri et al., 2013; [(S-IMIO > NS-IMIO) > (S-CTO > NS-CTO)] > [(S-IMIE > NS-IMIE) > (S-CTE > NS- CTE)]; socialcommunication
 // Subjects=20		
 12	40	-4
--33	23	-11
-15	20	49
--6	41	46
-30	8	49
--36	-25	58
-42	-52	-23
--9	-7	1
 		
 //Contreras et al., 2011; Categorical knowledge (non-social > social); socialcommunication		
 // Subjects=19		
