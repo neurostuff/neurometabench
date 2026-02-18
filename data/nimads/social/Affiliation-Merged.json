@@ -3,15 +3,15 @@
   "name": "Social - Affiliation-Merged",
   "studies": [
     {
-      "id": "Braams et al., 2014; Interaction effect Person x Outcome; affiliation",
-      "name": "Braams et al., 2014; Interaction effect Person x Outcome; affiliation",
+      "id": "23720575",
+      "name": "Braams et al., 2014",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Interaction effect Person x Outcome",
+          "name": "Interaction effect Person x Outcome",
           "conditions": [
             {
               "name": "default",
@@ -77,19 +77,10 @@
               31
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Braams et al., 2014; Main effect of Person; affiliation",
-      "name": "Braams et al., 2014; Main effect of Person; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Main effect of Person",
+          "name": "Main effect of Person",
           "conditions": [
             {
               "name": "default",
@@ -131,19 +122,10 @@
               31
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Braams et al., 2014; Main effect of outcome; affiliation",
-      "name": "Braams et al., 2014; Main effect of outcome; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Main effect of outcome",
+          "name": "Main effect of outcome",
           "conditions": [
             {
               "name": "default",
@@ -205,15 +187,15 @@
       ]
     },
     {
-      "id": "Cacioppo et al., 2014; Negative correlation",
-      "name": "Cacioppo et al., 2014; Negative correlation",
+      "id": "25088911",
+      "name": "Cacioppo et al., 2014",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "perception of syncrhony and feelings of social affiliation; affiliation",
-          "name": "perception of syncrhony and feelings of social affiliation; affiliation",
+          "id": "Negative correlation",
+          "name": "Negative correlation",
           "conditions": [
             {
               "name": "default",
@@ -247,19 +229,10 @@
               16
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Cacioppo et al., 2014; Positive correlation",
-      "name": "Cacioppo et al., 2014; Positive correlation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "perception of syncrhony and feelings of social affiliation; affiliation",
-          "name": "perception of syncrhony and feelings of social affiliation; affiliation",
+          "id": "Positive correlation",
+          "name": "Positive correlation",
           "conditions": [
             {
               "name": "default",
@@ -317,19 +290,10 @@
               16
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Cacioppo et al., 2014; Synchrony > asynchrony; affiliation",
-      "name": "Cacioppo et al., 2014; Synchrony > asynchrony; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Synchrony > asynchrony",
+          "name": "Synchrony > asynchrony",
           "conditions": [
             {
               "name": "default",
@@ -375,15 +339,15 @@
       ]
     },
     {
-      "id": "Carter et al., 2008; Angry > Happy; affiliation",
-      "name": "Carter et al., 2008; Angry > Happy; affiliation",
+      "id": "18633856",
+      "name": "Carter et al., 2008",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Angry > Happy",
+          "name": "Angry > Happy",
           "conditions": [
             {
               "name": "default",
@@ -505,19 +469,10 @@
               10
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Carter et al., 2008; Happy > Angry; affiliation",
-      "name": "Carter et al., 2008; Happy > Angry; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Happy > Angry",
+          "name": "Happy > Angry",
           "conditions": [
             {
               "name": "default",
@@ -555,15 +510,15 @@
       ]
     },
     {
-      "id": "Chen et al., 2010; Gender > Preference; affiliation",
-      "name": "Chen et al., 2010; Gender > Preference; affiliation",
+      "id": "20188190",
+      "name": "Chen et al., 2010",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Gender > Preference",
+          "name": "Gender > Preference",
           "conditions": [
             {
               "name": "default",
@@ -605,19 +560,10 @@
               21
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Chen et al., 2010; Preference > Gender; affiliation",
-      "name": "Chen et al., 2010; Preference > Gender; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Preference > Gender",
+          "name": "Preference > Gender",
           "conditions": [
             {
               "name": "default",
@@ -751,15 +697,15 @@
       ]
     },
     {
-      "id": "Cheng et al., 2010;  loved one > self; affiliation",
-      "name": "Cheng et al., 2010;  loved one > self; affiliation",
+      "id": "20188182",
+      "name": "Cheng et al., 2010",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "loved one > self",
+          "name": "loved one > self",
           "conditions": [
             {
               "name": "default",
@@ -809,19 +755,10 @@
               36
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Cheng et al., 2010;  loved one > stranger; affiliation",
-      "name": "Cheng et al., 2010;  loved one > stranger; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "loved one > stranger",
+          "name": "loved one > stranger",
           "conditions": [
             {
               "name": "default",
@@ -867,15 +804,15 @@
       ]
     },
     {
-      "id": "Cooper et al., 2013; Match > Unrequited; affiliation",
-      "name": "Cooper et al., 2013; Match > Unrequited; affiliation",
+      "id": "23599165",
+      "name": "Cooper et al., 2013",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Match > Unrequited",
+          "name": "Match > Unrequited",
           "conditions": [
             {
               "name": "default",
@@ -957,19 +894,10 @@
               38
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Cooper et al., 2013; Mismatched (Rejection + Unrequited) > matched (Match + Disinterest); affiliation",
-      "name": "Cooper et al., 2013; Mismatched (Rejection + Unrequited) > matched (Match + Disinterest); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Mismatched (Rejection + Unrequited) > matched (Match + Disinterest)",
+          "name": "Mismatched (Rejection + Unrequited) > matched (Match + Disinterest)",
           "conditions": [
             {
               "name": "default",
@@ -1003,19 +931,10 @@
               38
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Cooper et al., 2013; Partners who were given a no > those given a yes; affiliation",
-      "name": "Cooper et al., 2013; Partners who were given a no > those given a yes; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Partners who were given a no > those given a yes",
+          "name": "Partners who were given a no > those given a yes",
           "conditions": [
             {
               "name": "default",
@@ -1041,19 +960,10 @@
               38
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Cooper et al., 2013; Partners who were given a yes > those given a no; affiliation",
-      "name": "Cooper et al., 2013; Partners who were given a yes > those given a no; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Partners who were given a yes > those given a no",
+          "name": "Partners who were given a yes > those given a no",
           "conditions": [
             {
               "name": "default",
@@ -1183,19 +1093,10 @@
               38
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Cooper et al., 2013; Rejection > Disinterest; affiliation",
-      "name": "Cooper et al., 2013; Rejection > Disinterest; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Rejection > Disinterest",
+          "name": "Rejection > Disinterest",
           "conditions": [
             {
               "name": "default",
@@ -1221,19 +1122,10 @@
               38
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Cooper et al., 2013; Unsigned prediction errors from RL model; affiliation",
-      "name": "Cooper et al., 2013; Unsigned prediction errors from RL model; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Unsigned prediction errors from RL model",
+          "name": "Unsigned prediction errors from RL model",
           "conditions": [
             {
               "name": "default",
@@ -1259,19 +1151,10 @@
               38
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Cooper et al., 2013; Yes (Match + Unrequited) > No (Rejection + Disinterest); affiliation",
-      "name": "Cooper et al., 2013; Yes (Match + Unrequited) > No (Rejection + Disinterest); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Yes (Match + Unrequited) > No (Rejection + Disinterest)",
+          "name": "Yes (Match + Unrequited) > No (Rejection + Disinterest)",
           "conditions": [
             {
               "name": "default",
@@ -1397,15 +1280,15 @@
       ]
     },
     {
-      "id": "Decety et al., 2004; Competition versus cooperation; affiliation",
-      "name": "Decety et al., 2004; Competition versus cooperation; affiliation",
+      "id": "15488424",
+      "name": "Decety et al., 2004",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Competition versus cooperation",
+          "name": "Competition versus cooperation",
           "conditions": [
             {
               "name": "default",
@@ -1463,19 +1346,10 @@
               12
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Decety et al., 2004; Competition versus independent; affiliation",
-      "name": "Decety et al., 2004; Competition versus independent; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Competition versus independent",
+          "name": "Competition versus independent",
           "conditions": [
             {
               "name": "default",
@@ -1573,19 +1447,10 @@
               12
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Decety et al., 2004; Cooperation versus competition; affiliation",
-      "name": "Decety et al., 2004; Cooperation versus competition; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Cooperation versus competition",
+          "name": "Cooperation versus competition",
           "conditions": [
             {
               "name": "default",
@@ -1675,19 +1540,10 @@
               12
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Decety et al., 2004; Cooperation versus independent; affiliation",
-      "name": "Decety et al., 2004; Cooperation versus independent; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Cooperation versus independent",
+          "name": "Cooperation versus independent",
           "conditions": [
             {
               "name": "default",
@@ -1773,15 +1629,15 @@
       ]
     },
     {
-      "id": "Filkowski et al., 2015; Attitude > Age; affiliation",
-      "name": "Filkowski et al., 2015; Attitude > Age; affiliation",
+      "id": "26567160",
+      "name": "Filkowski et al., 2015",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Attitude > Age",
+          "name": "Attitude > Age",
           "conditions": [
             {
               "name": "default",
@@ -1887,19 +1743,10 @@
               59
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Filkowski et al., 2015; Distrust > Age; affiliation",
-      "name": "Filkowski et al., 2015; Distrust > Age; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Distrust > Age",
+          "name": "Distrust > Age",
           "conditions": [
             {
               "name": "default",
@@ -2005,19 +1852,10 @@
               59
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Filkowski et al., 2015; Trust > Age; affiliation",
-      "name": "Filkowski et al., 2015; Trust > Age; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Trust > Age",
+          "name": "Trust > Age",
           "conditions": [
             {
               "name": "default",
@@ -2107,19 +1945,10 @@
               59
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Filkowski et al., 2015; Trust > Distrust; affiliation",
-      "name": "Filkowski et al., 2015; Trust > Distrust; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Trust > Distrust",
+          "name": "Trust > Distrust",
           "conditions": [
             {
               "name": "default",
@@ -2149,15 +1978,15 @@
       ]
     },
     {
-      "id": "G\u00fcro\u011flu et al., 2008; (peer vs. celebrity) x (positive vs. non-positive); affiliation",
-      "name": "G\u00fcro\u011flu et al., 2008; (peer vs. celebrity) x (positive vs. non-positive); affiliation",
+      "id": "17964185",
+      "name": "G\u00fcro\u011flu et al., 2008",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "(peer vs. celebrity) x (positive vs. non-positive)",
+          "name": "(peer vs. celebrity) x (positive vs. non-positive)",
           "conditions": [
             {
               "name": "default",
@@ -2323,15 +2152,15 @@
       ]
     },
     {
-      "id": "Hughes et al., 2011; Close Other > Non-Close Other; affiliation",
-      "name": "Hughes et al., 2011; Close Other > Non-Close Other; affiliation",
+      "id": "21862446",
+      "name": "Hughes et al., 2011",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Close Other > Non-Close Other",
+          "name": "Close Other > Non-Close Other",
           "conditions": [
             {
               "name": "default",
@@ -2357,19 +2186,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Hughes et al., 2011; Negative > Positive; affiliation",
-      "name": "Hughes et al., 2011; Negative > Positive; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Negative > Positive",
+          "name": "Negative > Positive",
           "conditions": [
             {
               "name": "default",
@@ -2395,19 +2215,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Hughes et al., 2011; Positive > Negative; affiliation",
-      "name": "Hughes et al., 2011; Positive > Negative; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Positive > Negative",
+          "name": "Positive > Negative",
           "conditions": [
             {
               "name": "default",
@@ -2441,19 +2252,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Hughes et al., 2011; Target x Breadth; affiliation",
-      "name": "Hughes et al., 2011; Target x Breadth; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Target x Breadth",
+          "name": "Target x Breadth",
           "conditions": [
             {
               "name": "default",
@@ -2499,15 +2301,15 @@
       ]
     },
     {
-      "id": "Kedia et al., 2013; Conjunction analyses of the beauty and height distance effects; affiliation",
-      "name": "Kedia et al., 2013; Conjunction analyses of the beauty and height distance effects; affiliation",
+      "id": "23508477",
+      "name": "Kedia et al., 2013",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Conjunction analyses of the beauty and height distance effects",
+          "name": "Conjunction analyses of the beauty and height distance effects",
           "conditions": [
             {
               "name": "default",
@@ -2557,19 +2359,10 @@
               25
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Kedia et al., 2013; Conjunction analyses of the women and dog distance effects; affiliation",
-      "name": "Kedia et al., 2013; Conjunction analyses of the women and dog distance effects; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Conjunction analyses of the women and dog distance effects",
+          "name": "Conjunction analyses of the women and dog distance effects",
           "conditions": [
             {
               "name": "default",
@@ -2627,19 +2420,10 @@
               25
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Kedia et al., 2013; Distance effect in the beauty condition > height condition; affiliation",
-      "name": "Kedia et al., 2013; Distance effect in the beauty condition > height condition; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Distance effect in the beauty condition > height condition",
+          "name": "Distance effect in the beauty condition > height condition",
           "conditions": [
             {
               "name": "default",
@@ -2729,19 +2513,10 @@
               25
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Kedia et al., 2013; Distance effect in the dog condition > women condition; affiliation",
-      "name": "Kedia et al., 2013; Distance effect in the dog condition > women condition; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Distance effect in the dog condition > women condition",
+          "name": "Distance effect in the dog condition > women condition",
           "conditions": [
             {
               "name": "default",
@@ -2831,19 +2606,10 @@
               25
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Kedia et al., 2013; Distance effect in the height condition > beauty condition; affiliation",
-      "name": "Kedia et al., 2013; Distance effect in the height condition > beauty condition; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Distance effect in the height condition > beauty condition",
+          "name": "Distance effect in the height condition > beauty condition",
           "conditions": [
             {
               "name": "default",
@@ -2933,19 +2699,10 @@
               25
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Kedia et al., 2013; Distance effect in the women condition > dog condition; affiliation",
-      "name": "Kedia et al., 2013; Distance effect in the women condition > dog condition; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Distance effect in the women condition > dog condition",
+          "name": "Distance effect in the women condition > dog condition",
           "conditions": [
             {
               "name": "default",
@@ -3027,19 +2784,10 @@
               25
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Kedia et al., 2013; Main effect of judgment",
-      "name": "Kedia et al., 2013; Main effect of judgment",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "Beauty > height comparisons; affiliation",
-          "name": "Beauty > height comparisons; affiliation",
+          "id": "Main effect of judgment",
+          "name": "Main effect of judgment",
           "conditions": [
             {
               "name": "default",
@@ -3075,8 +2823,8 @@
           }
         },
         {
-          "id": "Height > beauty comparisons; affiliation",
-          "name": "Height > beauty comparisons; affiliation",
+          "id": "Main effect of judgment__2",
+          "name": "Main effect of judgment",
           "conditions": [
             {
               "name": "default",
@@ -3136,8 +2884,8 @@
           }
         },
         {
-          "id": "Height > control condition; affiliation",
-          "name": "Height > control condition; affiliation",
+          "id": "Main effect of judgment__3",
+          "name": "Main effect of judgment",
           "conditions": [
             {
               "name": "default",
@@ -3179,19 +2927,10 @@
               25
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Kedia et al., 2013; Main effect of target",
-      "name": "Kedia et al., 2013; Main effect of target",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "Dogs > Women; affiliation",
-          "name": "Dogs > Women; affiliation",
+          "id": "Main effect of target",
+          "name": "Main effect of target",
           "conditions": [
             {
               "name": "default",
@@ -3235,8 +2974,8 @@
           }
         },
         {
-          "id": "Women > dogs; affiliation",
-          "name": "Women > dogs; affiliation",
+          "id": "Main effect of target__2",
+          "name": "Main effect of target",
           "conditions": [
             {
               "name": "default",
@@ -3298,15 +3037,15 @@
       ]
     },
     {
-      "id": "Koban et al., 2013; Conflict > No Conflict; affiliation",
-      "name": "Koban et al., 2013; Conflict > No Conflict; affiliation",
+      "id": "23460073",
+      "name": "Koban et al., 2013",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Conflict > No Conflict",
+          "name": "Conflict > No Conflict",
           "conditions": [
             {
               "name": "default",
@@ -3484,19 +3223,10 @@
               17
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Koban et al., 2013; [Human (Conflict > No Conflict)] > [Computer (Conflict > No Conflict)]; affiliation",
-      "name": "Koban et al., 2013; [Human (Conflict > No Conflict)] > [Computer (Conflict > No Conflict)]; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "[Human (Conflict > No Conflict)] > [Computer (Conflict > No Conflict)]",
+          "name": "[Human (Conflict > No Conflict)] > [Computer (Conflict > No Conflict)]",
           "conditions": [
             {
               "name": "default",
@@ -3538,19 +3268,10 @@
               17
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Koban et al., 2013; [Human (Conflict > No Conflict)] \\ [Computer (Conflict > No Conflict)]; affiliation",
-      "name": "Koban et al., 2013; [Human (Conflict > No Conflict)] \\ [Computer (Conflict > No Conflict)]; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "[Human (Conflict > No Conflict)] \\ [Computer (Conflict > No Conflict)]",
+          "name": "[Human (Conflict > No Conflict)] \\ [Computer (Conflict > No Conflict)]",
           "conditions": [
             {
               "name": "default",
@@ -3612,15 +3333,15 @@
       ]
     },
     {
-      "id": "Kumar et al., 2009; Pavlovian > with social task; affiliation",
-      "name": "Kumar et al., 2009; Pavlovian > with social task; affiliation",
+      "id": "18537114",
+      "name": "Kumar et al., 2009",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Pavlovian > with social task",
+          "name": "Pavlovian > with social task",
           "conditions": [
             {
               "name": "default",
@@ -3682,15 +3403,15 @@
       ]
     },
     {
-      "id": "Labek et al., 2016;   interaction of attachment > neutral with dyadic > monadic; affiliation",
-      "name": "Labek et al., 2016;   interaction of attachment > neutral with dyadic > monadic; affiliation",
+      "id": "27458363",
+      "name": "Labek et al., 2016",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "interaction of attachment > neutral with dyadic > monadic",
+          "name": "interaction of attachment > neutral with dyadic > monadic",
           "conditions": [
             {
               "name": "default",
@@ -3724,19 +3445,10 @@
               25
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Labek et al., 2016;  interaction of dyadic scenes with attachment > neutral; affiliation",
-      "name": "Labek et al., 2016;  interaction of dyadic scenes with attachment > neutral; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "interaction of dyadic scenes with attachment > neutral",
+          "name": "interaction of dyadic scenes with attachment > neutral",
           "conditions": [
             {
               "name": "default",
@@ -3762,19 +3474,10 @@
               25
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Labek et al., 2016; attachment > neutral; affiliation",
-      "name": "Labek et al., 2016; attachment > neutral; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "attachment > neutral",
+          "name": "attachment > neutral",
           "conditions": [
             {
               "name": "default",
@@ -3820,15 +3523,15 @@
       ]
     },
     {
-      "id": "Lotze et al., 2006;  Retaliation interaction with low CU > High CU; affiliation",
-      "name": "Lotze et al., 2006;  Retaliation interaction with low CU > High CU; affiliation",
+      "id": "17071110",
+      "name": "Lotze et al., 2006",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Retaliation interaction with low CU > High CU",
+          "name": "Retaliation interaction with low CU > High CU",
           "conditions": [
             {
               "name": "default",
@@ -3854,19 +3557,10 @@
               16
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Lotze et al., 2006; Retaliation > Watching opponent; affiliation",
-      "name": "Lotze et al., 2006; Retaliation > Watching opponent; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Retaliation > Watching opponent",
+          "name": "Retaliation > Watching opponent",
           "conditions": [
             {
               "name": "default",
@@ -3916,19 +3610,10 @@
               16
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Lotze et al., 2006; Watching opponent > Retaliation (conjunction); affiliation",
-      "name": "Lotze et al., 2006; Watching opponent > Retaliation (conjunction); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Watching opponent > Retaliation (conjunction)",
+          "name": "Watching opponent > Retaliation (conjunction)",
           "conditions": [
             {
               "name": "default",
@@ -4026,19 +3711,10 @@
               16
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Lotze et al., 2006; Watching opponent > Retaliation; affiliation",
-      "name": "Lotze et al., 2006; Watching opponent > Retaliation; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Watching opponent > Retaliation",
+          "name": "Watching opponent > Retaliation",
           "conditions": [
             {
               "name": "default",
@@ -4212,15 +3888,15 @@
       ]
     },
     {
-      "id": "Luo et al., 2015; social exclusion > social inclusion; affiliation",
-      "name": "Luo et al., 2015; social exclusion > social inclusion; affiliation",
+      "id": "26385612",
+      "name": "Luo et al., 2015",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "social exclusion > social inclusion",
+          "name": "social exclusion > social inclusion",
           "conditions": [
             {
               "name": "default",
@@ -4370,15 +4046,15 @@
       ]
     },
     {
-      "id": "Mattan et al., 2018; EMS (covariate) + IMS x Perceived status (High vs. Low) (negative correlation with status); affiliation",
-      "name": "Mattan et al., 2018; EMS (covariate) + IMS x Perceived status (High vs. Low) (negative correlation with status); affiliation",
+      "id": "29077925",
+      "name": "Mattan et al., 2018",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "EMS (covariate) + IMS x Perceived status (High vs. Low) (negative correlation with status)",
+          "name": "EMS (covariate) + IMS x Perceived status (High vs. Low) (negative correlation with status)",
           "conditions": [
             {
               "name": "default",
@@ -4484,19 +4160,10 @@
               60
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Mattan et al., 2018; IMS x Perceived status (High vs. Low) (negative correlation with status; excluded EMS covariate); affiliation",
-      "name": "Mattan et al., 2018; IMS x Perceived status (High vs. Low) (negative correlation with status; excluded EMS covariate); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "IMS x Perceived status (High vs. Low) (negative correlation with status",
+          "name": "IMS x Perceived status (High vs. Low) (negative correlation with status",
           "conditions": [
             {
               "name": "default",
@@ -4622,15 +4289,15 @@
       ]
     },
     {
-      "id": "Miedl et al., 2016; Negative > neutral; affiliation",
-      "name": "Miedl et al., 2016; Negative > neutral; affiliation",
+      "id": "26892859",
+      "name": "Miedl et al., 2016",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Negative > neutral",
+          "name": "Negative > neutral",
           "conditions": [
             {
               "name": "default",
@@ -4824,19 +4491,10 @@
               37
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Miedl et al., 2016; positive > neutral and negative > neutral (conjunction analysis); affiliation",
-      "name": "Miedl et al., 2016; positive > neutral and negative > neutral (conjunction analysis); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "positive > neutral and negative > neutral (conjunction analysis)",
+          "name": "positive > neutral and negative > neutral (conjunction analysis)",
           "conditions": [
             {
               "name": "default",
@@ -4894,19 +4552,10 @@
               37
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Miedl et al., 2016; positive > neutral; affiliation",
-      "name": "Miedl et al., 2016; positive > neutral; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "positive > neutral",
+          "name": "positive > neutral",
           "conditions": [
             {
               "name": "default",
@@ -4968,15 +4617,15 @@
       ]
     },
     {
-      "id": "Moll et al., 2012; affiliative > nonaffiliative; affiliation",
-      "name": "Moll et al., 2012; affiliative > nonaffiliative; affiliation",
+      "id": "22956840",
+      "name": "Moll et al., 2012",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "affiliative > nonaffiliative",
+          "name": "affiliative > nonaffiliative",
           "conditions": [
             {
               "name": "default",
@@ -5030,15 +4679,15 @@
       ]
     },
     {
-      "id": "Morese et al., 2019; appraisal support group > no support group (run 1 > run 2); affiliation",
-      "name": "Morese et al., 2019; appraisal support group > no support group (run 1 > run 2); affiliation",
+      "id": "31056647",
+      "name": "Morese et al., 2019",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "appraisal support group > no support group (run 1 > run 2)",
+          "name": "appraisal support group > no support group (run 1 > run 2)",
           "conditions": [
             {
               "name": "default",
@@ -5072,19 +4721,10 @@
               71
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Morese et al., 2019; appraisal support group > no support group (run 2 > run 1); affiliation",
-      "name": "Morese et al., 2019; appraisal support group > no support group (run 2 > run 1); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "appraisal support group > no support group (run 2 > run 1)",
+          "name": "appraisal support group > no support group (run 2 > run 1)",
           "conditions": [
             {
               "name": "default",
@@ -5118,19 +4758,10 @@
               71
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Morese et al., 2019; emotional support group > no support group (run 1 > run 2); affiliation",
-      "name": "Morese et al., 2019; emotional support group > no support group (run 1 > run 2); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "emotional support group > no support group (run 1 > run 2)",
+          "name": "emotional support group > no support group (run 1 > run 2)",
           "conditions": [
             {
               "name": "default",
@@ -5160,15 +4791,15 @@
       ]
     },
     {
-      "id": "Quirin et al., 2012; affiliation > power; affiliation",
-      "name": "Quirin et al., 2012; affiliation > power; affiliation",
+      "id": "22841755",
+      "name": "Quirin et al., 2012",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "affiliation > power",
+          "name": "affiliation > power",
           "conditions": [
             {
               "name": "default",
@@ -5194,19 +4825,10 @@
               17
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Quirin et al., 2012; power > affiliation; affiliation",
-      "name": "Quirin et al., 2012; power > affiliation; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "power > affiliation",
+          "name": "power > affiliation",
           "conditions": [
             {
               "name": "default",
@@ -5260,15 +4882,15 @@
       ]
     },
     {
-      "id": "Sugiura et al., 2010; First (P1\u2013F1); affiliation",
-      "name": "Sugiura et al., 2010; First (P1\u2013F1); affiliation",
+      "id": "20350171",
+      "name": "Sugiura et al., 2010",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "First (P1\u2013F1)",
+          "name": "First (P1\u2013F1)",
           "conditions": [
             {
               "name": "default",
@@ -5558,19 +5180,10 @@
               24
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Sugiura et al., 2010; Second (P2\u2013F2); affiliation",
-      "name": "Sugiura et al., 2010; Second (P2\u2013F2); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Second (P2\u2013F2)",
+          "name": "Second (P2\u2013F2)",
           "conditions": [
             {
               "name": "default",
@@ -5800,15 +5413,15 @@
       ]
     },
     {
-      "id": "Suslow et al., 2009; Coorelation -- attachment avoidance with brain responses to masked sad faces; affiliation",
-      "name": "Suslow et al., 2009; Coorelation -- attachment avoidance with brain responses to masked sad faces; affiliation",
+      "id": "19347874",
+      "name": "Suslow et al., 2009",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Coorelation -- attachment avoidance with brain responses to masked sad faces",
+          "name": "Coorelation -- attachment avoidance with brain responses to masked sad faces",
           "conditions": [
             {
               "name": "default",
@@ -5858,19 +5471,10 @@
               51
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Suslow et al., 2009; Masked sad faces > neutral faces; affiliation",
-      "name": "Suslow et al., 2009; Masked sad faces > neutral faces; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Masked sad faces > neutral faces",
+          "name": "Masked sad faces > neutral faces",
           "conditions": [
             {
               "name": "default",
@@ -6080,19 +5684,10 @@
               51
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Suslow et al., 2009; Negative coorelation -- attachment avoidance with brain responsed to masked sad faces; affiliation",
-      "name": "Suslow et al., 2009; Negative coorelation -- attachment avoidance with brain responsed to masked sad faces; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Negative coorelation -- attachment avoidance with brain responsed to masked sad faces",
+          "name": "Negative coorelation -- attachment avoidance with brain responsed to masked sad faces",
           "conditions": [
             {
               "name": "default",
@@ -6166,19 +5761,10 @@
               51
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Suslow et al., 2009; masked happy faces > neutral faces; affiliation",
-      "name": "Suslow et al., 2009; masked happy faces > neutral faces; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "masked happy faces > neutral faces",
+          "name": "masked happy faces > neutral faces",
           "conditions": [
             {
               "name": "default",
@@ -6264,15 +5850,15 @@
       ]
     },
     {
-      "id": "Ueda et al., 2017; Incongruent > Congruent; affiliation",
-      "name": "Ueda et al., 2017; Incongruent > Congruent; affiliation",
+      "id": "29039129",
+      "name": "Ueda et al., 2017",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Incongruent > Congruent",
+          "name": "Incongruent > Congruent",
           "conditions": [
             {
               "name": "default",
@@ -6326,15 +5912,15 @@
       ]
     },
     {
-      "id": "Wagels et al., 2016; FG EX > FG IN; affiliation",
-      "name": "Wagels et al., 2016; FG EX > FG IN; affiliation",
+      "id": "27319001",
+      "name": "Wagels et al., 2016",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "FG EX > FG IN",
+          "name": "FG EX > FG IN",
           "conditions": [
             {
               "name": "default",
@@ -6496,19 +6082,10 @@
               40
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Wagels et al., 2016; FG EX > PG EX; affiliation",
-      "name": "Wagels et al., 2016; FG EX > PG EX; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "FG EX > PG EX",
+          "name": "FG EX > PG EX",
           "conditions": [
             {
               "name": "default",
@@ -6542,19 +6119,10 @@
               40
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Wagels et al., 2016; PG EX > FG EX; affiliation",
-      "name": "Wagels et al., 2016; PG EX > FG EX; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "PG EX > FG EX",
+          "name": "PG EX > FG EX",
           "conditions": [
             {
               "name": "default",
@@ -6716,19 +6284,10 @@
               40
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Wagels et al., 2016; PG EX > FG IN \u2229 FG EX > FG IN (Conjunction); affiliation",
-      "name": "Wagels et al., 2016; PG EX > FG IN \u2229 FG EX > FG IN (Conjunction); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "PG EX > FG IN \u2229 FG EX > FG IN (Conjunction)",
+          "name": "PG EX > FG IN \u2229 FG EX > FG IN (Conjunction)",
           "conditions": [
             {
               "name": "default",
@@ -6834,19 +6393,10 @@
               40
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Wagels et al., 2016; PG EX > FG IN; affiliation",
-      "name": "Wagels et al., 2016; PG EX > FG IN; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "PG EX > FG IN",
+          "name": "PG EX > FG IN",
           "conditions": [
             {
               "name": "default",
@@ -7076,15 +6626,15 @@
       ]
     },
     {
-      "id": "Wagner et al., 2015;  Shared_emo > unshared_emo (masked); affiliation with interaction sharing \udbff\udc00 emotion)\"",
-      "name": "Wagner et al., 2015;  Shared_emo > unshared_emo (masked); affiliation with interaction sharing \udbff\udc00 emotion)\"",
+      "id": "25298009",
+      "name": "Wagner et al., 2015",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Shared_emo > unshared_emo (masked)",
+          "name": "Shared_emo > unshared_emo (masked)",
           "conditions": [
             {
               "name": "default",
@@ -7158,19 +6708,10 @@
               26
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Wagner et al., 2015; Shared_emo > unshared_emo; affiliation",
-      "name": "Wagner et al., 2015; Shared_emo > unshared_emo; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Shared_emo > unshared_emo",
+          "name": "Shared_emo > unshared_emo",
           "conditions": [
             {
               "name": "default",
@@ -7288,15 +6829,15 @@
       ]
     },
     {
-      "id": "Will et al., 2014;  Excluders > Includers; affiliation",
-      "name": "Will et al., 2014;  Excluders > Includers; affiliation",
+      "id": "24652858",
+      "name": "Will et al., 2014",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Excluders > Includers",
+          "name": "Excluders > Includers",
           "conditions": [
             {
               "name": "default",
@@ -7402,19 +6943,10 @@
               26
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Will et al., 2014;  Includers > Excluders; affiliation",
-      "name": "Will et al., 2014;  Includers > Excluders; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Includers > Excluders",
+          "name": "Includers > Excluders",
           "conditions": [
             {
               "name": "default",
@@ -7448,19 +6980,10 @@
               26
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Will et al., 2014; Excluders equality > Includers equality; affiliation",
-      "name": "Will et al., 2014; Excluders equality > Includers equality; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Excluders equality > Includers equality",
+          "name": "Excluders equality > Includers equality",
           "conditions": [
             {
               "name": "default",
@@ -7630,19 +7153,10 @@
               26
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Will et al., 2014; Positive correlation with punishment frequency (percentage inequality for excluders - percentage inequality for includers); affiliation",
-      "name": "Will et al., 2014; Positive correlation with punishment frequency (percentage inequality for excluders - percentage inequality for includers); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Positive correlation with punishment frequency (percentage inequality for excluders - percentage inequality for includers)",
+          "name": "Positive correlation with punishment frequency (percentage inequality for excluders - percentage inequality for includers)",
           "conditions": [
             {
               "name": "default",
@@ -7928,15 +7442,15 @@
       ]
     },
     {
-      "id": "Wlodarski et al., 2016; friend > kin condition; affiliation",
-      "name": "Wlodarski et al., 2016; friend > kin condition; affiliation",
+      "id": "27576746",
+      "name": "Wlodarski et al., 2016",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "friend > kin condition",
+          "name": "friend > kin condition",
           "conditions": [
             {
               "name": "default",
@@ -8046,15 +7560,15 @@
       ]
     },
     {
-      "id": "\u0160pil\u00e1kov\u00e1 et al., 2019; Builder (COO > COM) > Other (COO > COM); affiliation",
-      "name": "\u0160pil\u00e1kov\u00e1 et al., 2019; Builder (COO > COM) > Other (COO > COM); affiliation",
+      "id": "30649548",
+      "name": "\u0160pil\u00e1kov\u00e1 et al., 2019",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Builder (COO > COM) > Other (COO > COM)",
+          "name": "Builder (COO > COM) > Other (COO > COM)",
           "conditions": [
             {
               "name": "default",
@@ -8168,19 +7682,10 @@
               44
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "\u0160pil\u00e1kov\u00e1 et al., 2019; CN > TB; affiliation",
-      "name": "\u0160pil\u00e1kov\u00e1 et al., 2019; CN > TB; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "CN > TB",
+          "name": "CN > TB",
           "conditions": [
             {
               "name": "default",
@@ -8334,19 +7839,10 @@
               44
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "\u0160pil\u00e1kov\u00e1 et al., 2019; Competition > Cooperation; affiliation",
-      "name": "\u0160pil\u00e1kov\u00e1 et al., 2019; Competition > Cooperation; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Competition > Cooperation",
+          "name": "Competition > Cooperation",
           "conditions": [
             {
               "name": "default",
@@ -8492,19 +7988,10 @@
               44
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "\u0160pil\u00e1kov\u00e1 et al., 2019; Cooperation > competition; affiliation",
-      "name": "\u0160pil\u00e1kov\u00e1 et al., 2019; Cooperation > competition; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Cooperation > competition",
+          "name": "Cooperation > competition",
           "conditions": [
             {
               "name": "default",
@@ -8634,19 +8121,10 @@
               44
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "\u0160pil\u00e1kov\u00e1 et al., 2019; Other (COO > COM) > Builder (COO > COM); affiliation",
-      "name": "\u0160pil\u00e1kov\u00e1 et al., 2019; Other (COO > COM) > Builder (COO > COM); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Other (COO > COM) > Builder (COO > COM)",
+          "name": "Other (COO > COM) > Builder (COO > COM)",
           "conditions": [
             {
               "name": "default",
@@ -8784,19 +8262,10 @@
               44
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "\u0160pil\u00e1kov\u00e1 et al., 2019; TB (COO > COM) > CN (COO > COM); affiliation",
-      "name": "\u0160pil\u00e1kov\u00e1 et al., 2019; TB (COO > COM) > CN (COO > COM); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "TB (COO > COM) > CN (COO > COM)",
+          "name": "TB (COO > COM) > CN (COO > COM)",
           "conditions": [
             {
               "name": "default",
@@ -8922,15 +8391,15 @@
       ]
     },
     {
-      "id": "Farrow et al., 2011; Social alliance vs. \u2018number equal\u2019; affiliation",
-      "name": "Farrow et al., 2011; Social alliance vs. \u2018number equal\u2019; affiliation",
+      "id": "21664277",
+      "name": "Farrow et al., 2011",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Social alliance vs. \u2018number equal\u2019",
+          "name": "Social alliance vs. \u2018number equal\u2019",
           "conditions": [
             {
               "name": "default",
@@ -9108,19 +8577,10 @@
               22
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Farrow et al., 2011; Social hierarchy vs. fame, age, gender and \u2018no. higher / lower\u2019; affiliation",
-      "name": "Farrow et al., 2011; Social hierarchy vs. fame, age, gender and \u2018no. higher / lower\u2019; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Social hierarchy vs. fame, age, gender and \u2018no. higher / lower\u2019",
+          "name": "Social hierarchy vs. fame, age, gender and \u2018no. higher / lower\u2019",
           "conditions": [
             {
               "name": "default",
@@ -9246,15 +8706,15 @@
       ]
     },
     {
-      "id": "Polosan et al., 2011; H(I + C) > M(I + C); affiliation",
-      "name": "Polosan et al., 2011; H(I + C) > M(I + C); affiliation",
+      "id": "21955370",
+      "name": "Polosan et al., 2011",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "H(I + C) > M(I + C)",
+          "name": "H(I + C) > M(I + C)",
           "conditions": [
             {
               "name": "default",
@@ -9352,19 +8812,10 @@
               14
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Polosan et al., 2011; I(H + M) > C(H + M); affiliation",
-      "name": "Polosan et al., 2011; I(H + M) > C(H + M); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "I(H + M) > C(H + M)",
+          "name": "I(H + M) > C(H + M)",
           "conditions": [
             {
               "name": "default",
@@ -9486,19 +8937,10 @@
               14
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Polosan et al., 2011; [H(I > C)] > [M(I > C)]; affiliation",
-      "name": "Polosan et al., 2011; [H(I > C)] > [M(I > C)]; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "[H(I > C)] > [M(I > C)]",
+          "name": "[H(I > C)] > [M(I > C)]",
           "conditions": [
             {
               "name": "default",
@@ -9576,15 +9018,15 @@
       ]
     },
     {
-      "id": "Rilling et al., 2008; PD \u2013 Gamble; affiliation",
-      "name": "Rilling et al., 2008; PD \u2013 Gamble; affiliation",
+      "id": "18486491",
+      "name": "Rilling et al., 2008",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "PD \u2013 Gamble",
+          "name": "PD \u2013 Gamble",
           "conditions": [
             {
               "name": "default",
@@ -9710,15 +9152,15 @@
       ]
     },
     {
-      "id": "Suzuki et al., 2012;  Reward Prediction Error (control) > Reward probability (other); affiliation",
-      "name": "Suzuki et al., 2012;  Reward Prediction Error (control) > Reward probability (other); affiliation",
+      "id": "22726841",
+      "name": "Suzuki et al., 2012",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Reward Prediction Error (control) > Reward probability (other)",
+          "name": "Reward Prediction Error (control) > Reward probability (other)",
           "conditions": [
             {
               "name": "default",
@@ -9744,19 +9186,10 @@
               39
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Suzuki et al., 2012; Reward probability (other) >  Reward Prediction Error (control); affiliation",
-      "name": "Suzuki et al., 2012; Reward probability (other) >  Reward Prediction Error (control); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Reward probability (other) >  Reward Prediction Error (control)",
+          "name": "Reward probability (other) >  Reward Prediction Error (control)",
           "conditions": [
             {
               "name": "default",
@@ -9790,19 +9223,10 @@
               39
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Suzuki et al., 2012; Reward probability (other) > Reward Prediction Error (other); affiliation",
-      "name": "Suzuki et al., 2012; Reward probability (other) > Reward Prediction Error (other); affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Reward probability (other) > Reward Prediction Error (other)",
+          "name": "Reward probability (other) > Reward Prediction Error (other)",
           "conditions": [
             {
               "name": "default",
@@ -9868,19 +9292,10 @@
               39
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Suzuki et al., 2012; Simulated-other\u2019s action prediction error > Simulated-other\u2019s reward prediction error; affiliation",
-      "name": "Suzuki et al., 2012; Simulated-other\u2019s action prediction error > Simulated-other\u2019s reward prediction error; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Simulated-other\u2019s action prediction error > Simulated-other\u2019s reward prediction error",
+          "name": "Simulated-other\u2019s action prediction error > Simulated-other\u2019s reward prediction error",
           "conditions": [
             {
               "name": "default",
@@ -9954,19 +9369,10 @@
               39
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Suzuki et al., 2012; Simulated-other\u2019s reward prediction error > Simulated-other\u2019s action prediction error; affiliation",
-      "name": "Suzuki et al., 2012; Simulated-other\u2019s reward prediction error > Simulated-other\u2019s action prediction error; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Simulated-other\u2019s reward prediction error > Simulated-other\u2019s action prediction error",
+          "name": "Simulated-other\u2019s reward prediction error > Simulated-other\u2019s action prediction error",
           "conditions": [
             {
               "name": "default",
@@ -9996,15 +9402,15 @@
       ]
     },
     {
-      "id": "Von Der Heide et al., 2013; Familiar faces > Novel faces; affiliation",
-      "name": "Von Der Heide et al., 2013; Familiar faces > Novel faces; affiliation",
+      "id": "23378834",
+      "name": "Von Der Heide et al., 2013",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Familiar faces > Novel faces",
+          "name": "Familiar faces > Novel faces",
           "conditions": [
             {
               "name": "default",
@@ -10070,19 +9476,10 @@
               15
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Von Der Heide et al., 2013; Famous faces > Novel faces; affiliation",
-      "name": "Von Der Heide et al., 2013; Famous faces > Novel faces; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Famous faces > Novel faces",
+          "name": "Famous faces > Novel faces",
           "conditions": [
             {
               "name": "default",
@@ -10140,19 +9537,10 @@
               15
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Von Der Heide et al., 2013; Famous faces > Novel landmarks; affiliation",
-      "name": "Von Der Heide et al., 2013; Famous faces > Novel landmarks; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Famous faces > Novel landmarks",
+          "name": "Famous faces > Novel landmarks",
           "conditions": [
             {
               "name": "default",
@@ -10290,19 +9678,10 @@
               15
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Von Der Heide et al., 2013; Famous \u2229 Familiar faces; affiliation",
-      "name": "Von Der Heide et al., 2013; Famous \u2229 Familiar faces; affiliation",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Famous \u2229 Familiar faces",
+          "name": "Famous \u2229 Familiar faces",
           "conditions": [
             {
               "name": "default",

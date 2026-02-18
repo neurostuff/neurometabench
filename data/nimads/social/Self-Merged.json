@@ -3,15 +3,15 @@
   "name": "Social - Self-Merged",
   "studies": [
     {
-      "id": "Bacha-Trams et al., 2017; clusters genetic>non-genetic; self",
-      "name": "Bacha-Trams et al., 2017; clusters genetic>non-genetic; self",
+      "id": "29079809",
+      "name": "Bacha-Trams et al., 2017",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "clusters genetic>non-genetic",
+          "name": "clusters genetic>non-genetic",
           "conditions": [
             {
               "name": "default",
@@ -133,19 +133,10 @@
               30
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Bacha-Trams et al., 2017; clusters non-genetic>genetic; self",
-      "name": "Bacha-Trams et al., 2017; clusters non-genetic>genetic; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "clusters non-genetic>genetic",
+          "name": "clusters non-genetic>genetic",
           "conditions": [
             {
               "name": "default",
@@ -251,19 +242,10 @@
               30
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Bacha-Trams et al., 2017; moral dilemma decision task; self",
-      "name": "Bacha-Trams et al., 2017; moral dilemma decision task; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "moral dilemma decision task",
+          "name": "moral dilemma decision task",
           "conditions": [
             {
               "name": "default",
@@ -381,15 +363,15 @@
       ]
     },
     {
-      "id": "Baek et al., 2017; Select > content; self",
-      "name": "Baek et al., 2017; Select > content; self",
+      "id": "28504911",
+      "name": "Baek et al., 2017",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Select > content",
+          "name": "Select > content",
           "conditions": [
             {
               "name": "default",
@@ -455,19 +437,10 @@
               41
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Baek et al., 2017; Share > content; self",
-      "name": "Baek et al., 2017; Share > content; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Share > content",
+          "name": "Share > content",
           "conditions": [
             {
               "name": "default",
@@ -549,19 +522,10 @@
               41
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Baek et al., 2017; Share > select; self",
-      "name": "Baek et al., 2017; Share > select; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Share > select",
+          "name": "Share > select",
           "conditions": [
             {
               "name": "default",
@@ -591,15 +555,15 @@
       ]
     },
     {
-      "id": "Balslev et al., 2006; Active conditions > passive conditions; self",
-      "name": "Balslev et al., 2006; Active conditions > passive conditions; self",
+      "id": "16406606",
+      "name": "Balslev et al., 2006",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Active conditions > passive conditions",
+          "name": "Active conditions > passive conditions",
           "conditions": [
             {
               "name": "default",
@@ -645,15 +609,15 @@
       ]
     },
     {
-      "id": "Barman et al., 2015;  monetary reward > social reward; self",
-      "name": "Barman et al., 2015;  monetary reward > social reward; self",
+      "id": "25944965",
+      "name": "Barman et al., 2015",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "monetary reward > social reward",
+          "name": "monetary reward > social reward",
           "conditions": [
             {
               "name": "default",
@@ -735,19 +699,10 @@
               63
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Barman et al., 2015;  social reward > monetary reward; self",
-      "name": "Barman et al., 2015;  social reward > monetary reward; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "social reward > monetary reward",
+          "name": "social reward > monetary reward",
           "conditions": [
             {
               "name": "default",
@@ -885,19 +840,10 @@
               63
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Barman et al., 2015; reward > neutral; self",
-      "name": "Barman et al., 2015; reward > neutral; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "reward > neutral",
+          "name": "reward > neutral",
           "conditions": [
             {
               "name": "default",
@@ -959,15 +905,15 @@
       ]
     },
     {
-      "id": "Beckes et al., 2013;  threat-to-self (across all handholding) > threat-to-friend; self",
-      "name": "Beckes et al., 2013;  threat-to-self (across all handholding) > threat-to-friend; self",
+      "id": "22563005",
+      "name": "Beckes et al., 2013",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "threat-to-self (across all handholding) > threat-to-friend",
+          "name": "threat-to-self (across all handholding) > threat-to-friend",
           "conditions": [
             {
               "name": "default",
@@ -1081,19 +1027,10 @@
               22
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Beckes et al., 2013;  threat-to-self (across all handholding) > threat-to-stranger; self",
-      "name": "Beckes et al., 2013;  threat-to-self (across all handholding) > threat-to-stranger; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "threat-to-self (across all handholding) > threat-to-stranger",
+          "name": "threat-to-self (across all handholding) > threat-to-stranger",
           "conditions": [
             {
               "name": "default",
@@ -1119,19 +1056,10 @@
               22
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Beckes et al., 2013;  threat-to-self (friend handholding) > threat-to-friend; self",
-      "name": "Beckes et al., 2013;  threat-to-self (friend handholding) > threat-to-friend; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "threat-to-self (friend handholding) > threat-to-friend",
+          "name": "threat-to-self (friend handholding) > threat-to-friend",
           "conditions": [
             {
               "name": "default",
@@ -1205,19 +1133,10 @@
               22
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Beckes et al., 2013;  threat-to-self (stranger handholding) > threat-to-stranger; self",
-      "name": "Beckes et al., 2013;  threat-to-self (stranger handholding) > threat-to-stranger; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "threat-to-self (stranger handholding) > threat-to-stranger",
+          "name": "threat-to-self (stranger handholding) > threat-to-stranger",
           "conditions": [
             {
               "name": "default",
@@ -1255,15 +1174,15 @@
       ]
     },
     {
-      "id": "Benoit et al., 2010; Self > other; self",
-      "name": "Benoit et al., 2010; Self > other; self",
+      "id": "20045478",
+      "name": "Benoit et al., 2010",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Self > other",
+          "name": "Self > other",
           "conditions": [
             {
               "name": "default",
@@ -1369,19 +1288,10 @@
               13
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Benoit et al., 2010; Self > syllables; self",
-      "name": "Benoit et al., 2010; Self > syllables; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Self > syllables",
+          "name": "Self > syllables",
           "conditions": [
             {
               "name": "default",
@@ -1483,15 +1393,15 @@
       ]
     },
     {
-      "id": "Bergstr\u00f6m et al., 2014;  New > old; self",
-      "name": "Bergstr\u00f6m et al., 2014;  New > old; self",
+      "id": "24700584",
+      "name": "Bergstr\u00f6m et al., 2014",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "New > old",
+          "name": "New > old",
           "conditions": [
             {
               "name": "default",
@@ -1533,19 +1443,10 @@
               18
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Bergstr\u00f6m et al., 2014;  Old > new; self",
-      "name": "Bergstr\u00f6m et al., 2014;  Old > new; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Old > new",
+          "name": "Old > new",
           "conditions": [
             {
               "name": "default",
@@ -1623,15 +1524,15 @@
       ]
     },
     {
-      "id": "Cazzato et al., 2015; [incongruent > congruent trials]; self",
-      "name": "Cazzato et al., 2015; [incongruent > congruent trials]; self",
+      "id": "26262561",
+      "name": "Cazzato et al., 2015",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "[incongruent > congruent trials]",
+          "name": "[incongruent > congruent trials]",
           "conditions": [
             {
               "name": "default",
@@ -1725,15 +1626,15 @@
       ]
     },
     {
-      "id": "Cheng et al., 2010;  pain > no pain; self",
-      "name": "Cheng et al., 2010;  pain > no pain; self",
+      "id": "20188182",
+      "name": "Cheng et al., 2010",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "pain > no pain",
+          "name": "pain > no pain",
           "conditions": [
             {
               "name": "default",
@@ -1863,19 +1764,10 @@
               36
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Cheng et al., 2010;  self > loved one; self",
-      "name": "Cheng et al., 2010;  self > loved one; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "self > loved one",
+          "name": "self > loved one",
           "conditions": [
             {
               "name": "default",
@@ -1933,19 +1825,10 @@
               36
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Cheng et al., 2010;  self > stranger; self",
-      "name": "Cheng et al., 2010;  self > stranger; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "self > stranger",
+          "name": "self > stranger",
           "conditions": [
             {
               "name": "default",
@@ -2055,15 +1938,15 @@
       ]
     },
     {
-      "id": "Chiao et al., 2009; Collectivism > Individualism; self",
-      "name": "Chiao et al., 2009; Collectivism > Individualism; self",
+      "id": "19107754",
+      "name": "Chiao et al., 2009",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Collectivism > Individualism",
+          "name": "Collectivism > Individualism",
           "conditions": [
             {
               "name": "default",
@@ -2089,19 +1972,10 @@
               24
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Chiao et al., 2009; Contextual > General; self",
-      "name": "Chiao et al., 2009; Contextual > General; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Contextual > General",
+          "name": "Contextual > General",
           "conditions": [
             {
               "name": "default",
@@ -2255,19 +2129,10 @@
               24
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Chiao et al., 2009; General > Contextual; self",
-      "name": "Chiao et al., 2009; General > Contextual; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "General > Contextual",
+          "name": "General > Contextual",
           "conditions": [
             {
               "name": "default",
@@ -2325,19 +2190,10 @@
               24
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Chiao et al., 2009; Individualism > Collectivism; self",
-      "name": "Chiao et al., 2009; Individualism > Collectivism; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Individualism > Collectivism",
+          "name": "Individualism > Collectivism",
           "conditions": [
             {
               "name": "default",
@@ -2427,19 +2283,10 @@
               24
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Chiao et al., 2009; Self Judgement ( Contextual > General) > Self-Construal Style Index ( Collectivism > Individualism); self",
-      "name": "Chiao et al., 2009; Self Judgement ( Contextual > General) > Self-Construal Style Index ( Collectivism > Individualism); self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Self Judgement ( Contextual > General) > Self-Construal Style Index ( Collectivism > Individualism)",
+          "name": "Self Judgement ( Contextual > General) > Self-Construal Style Index ( Collectivism > Individualism)",
           "conditions": [
             {
               "name": "default",
@@ -2533,15 +2380,15 @@
       ]
     },
     {
-      "id": "Cikara et al., 2014;  Communication > moral (collapsing across self/other); self",
-      "name": "Cikara et al., 2014;  Communication > moral (collapsing across self/other); self",
+      "id": "24726338",
+      "name": "Cikara et al., 2014",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Communication > moral (collapsing across self/other)",
+          "name": "Communication > moral (collapsing across self/other)",
           "conditions": [
             {
               "name": "default",
@@ -2775,19 +2622,10 @@
               21
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Cikara et al., 2014;  Moral > communication (collapsing across self/other); self",
-      "name": "Cikara et al., 2014;  Moral > communication (collapsing across self/other); self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Moral > communication (collapsing across self/other)",
+          "name": "Moral > communication (collapsing across self/other)",
           "conditions": [
             {
               "name": "default",
@@ -2853,19 +2691,10 @@
               21
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Cikara et al., 2014;  Self > other (collapsing across moral/communication); self",
-      "name": "Cikara et al., 2014;  Self > other (collapsing across moral/communication); self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Self > other (collapsing across moral/communication)",
+          "name": "Self > other (collapsing across moral/communication)",
           "conditions": [
             {
               "name": "default",
@@ -2979,19 +2808,10 @@
               21
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Cikara et al., 2014;  Self > other; self",
-      "name": "Cikara et al., 2014;  Self > other; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Self > other",
+          "name": "Self > other",
           "conditions": [
             {
               "name": "default",
@@ -3037,15 +2857,15 @@
       ]
     },
     {
-      "id": "Hamilton et al., 2017; monogamous men compared to nonmonogamous, romantic > neutral contrast; self",
-      "name": "Hamilton et al., 2017; monogamous men compared to nonmonogamous, romantic > neutral contrast; self",
+      "id": "28905269",
+      "name": "Hamilton et al., 2017",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "monogamous men compared to nonmonogamous, romantic > neutral contrast",
+          "name": "monogamous men compared to nonmonogamous, romantic > neutral contrast",
           "conditions": [
             {
               "name": "default",
@@ -3127,19 +2947,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Hamilton et al., 2017; monogamous men compared to nonmonogamous, romantic > sexual contrast; self",
-      "name": "Hamilton et al., 2017; monogamous men compared to nonmonogamous, romantic > sexual contrast; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "monogamous men compared to nonmonogamous, romantic > sexual contrast",
+          "name": "monogamous men compared to nonmonogamous, romantic > sexual contrast",
           "conditions": [
             {
               "name": "default",
@@ -3249,15 +3060,15 @@
       ]
     },
     {
-      "id": "Han et al., 2016; Activation > Deactivation; self",
-      "name": "Han et al., 2016; Activation > Deactivation; self",
+      "id": "26481048",
+      "name": "Han et al., 2016",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Activation > Deactivation",
+          "name": "Activation > Deactivation",
           "conditions": [
             {
               "name": "default",
@@ -3419,19 +3230,10 @@
               42
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Han et al., 2016; Agency vs. Communion; self",
-      "name": "Han et al., 2016; Agency vs. Communion; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Agency vs. Communion",
+          "name": "Agency vs. Communion",
           "conditions": [
             {
               "name": "default",
@@ -3481,19 +3283,10 @@
               42
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Han et al., 2016; Communion vs. Agency; self",
-      "name": "Han et al., 2016; Communion vs. Agency; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Communion vs. Agency",
+          "name": "Communion vs. Agency",
           "conditions": [
             {
               "name": "default",
@@ -3527,19 +3320,10 @@
               42
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Han et al., 2016; Deactivation > Activation; self",
-      "name": "Han et al., 2016; Deactivation > Activation; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Deactivation > Activation",
+          "name": "Deactivation > Activation",
           "conditions": [
             {
               "name": "default",
@@ -3753,15 +3537,15 @@
       ]
     },
     {
-      "id": "Hartung et al., 2019; before treatment > after treatment (decreased activation); self",
-      "name": "Hartung et al., 2019; before treatment > after treatment (decreased activation); self",
+      "id": "31142792",
+      "name": "Hartung et al., 2019",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "before treatment > after treatment (decreased activation)",
+          "name": "before treatment > after treatment (decreased activation)",
           "conditions": [
             {
               "name": "default",
@@ -3795,19 +3579,10 @@
               21
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Hartung et al., 2019; before treatment > after treatment (increased activation); self",
-      "name": "Hartung et al., 2019; before treatment > after treatment (increased activation); self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "before treatment > after treatment (increased activation)",
+          "name": "before treatment > after treatment (increased activation)",
           "conditions": [
             {
               "name": "default",
@@ -3853,15 +3628,15 @@
       ]
     },
     {
-      "id": "Herold et al., 2016; Self-referential > social; self",
-      "name": "Herold et al., 2016; Self-referential > social; self",
+      "id": "26365506",
+      "name": "Herold et al., 2016",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Self-referential > social",
+          "name": "Self-referential > social",
           "conditions": [
             {
               "name": "default",
@@ -4031,19 +3806,10 @@
               28
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Herold et al., 2016; Social > self-referential; self",
-      "name": "Herold et al., 2016; Social > self-referential; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Social > self-referential",
+          "name": "Social > self-referential",
           "conditions": [
             {
               "name": "default",
@@ -4153,15 +3919,15 @@
       ]
     },
     {
-      "id": "Jankowski et al., 2014; DA > CA; self",
-      "name": "Jankowski et al., 2014; DA > CA; self",
+      "id": "24582805",
+      "name": "Jankowski et al., 2014",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "DA > CA",
+          "name": "DA > CA",
           "conditions": [
             {
               "name": "default",
@@ -4227,19 +3993,10 @@
               19
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Jankowski et al., 2014; DP > CP; self",
-      "name": "Jankowski et al., 2014; DP > CP; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "DP > CP",
+          "name": "DP > CP",
           "conditions": [
             {
               "name": "default",
@@ -4297,19 +4054,10 @@
               19
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Jankowski et al., 2014; DS > CS; self",
-      "name": "Jankowski et al., 2014; DS > CS; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "DS > CS",
+          "name": "DS > CS",
           "conditions": [
             {
               "name": "default",
@@ -4367,19 +4115,10 @@
               19
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Jankowski et al., 2014; RA > CA; self",
-      "name": "Jankowski et al., 2014; RA > CA; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "RA > CA",
+          "name": "RA > CA",
           "conditions": [
             {
               "name": "default",
@@ -4437,19 +4176,10 @@
               19
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Jankowski et al., 2014; RP > CP; self",
-      "name": "Jankowski et al., 2014; RP > CP; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "RP > CP",
+          "name": "RP > CP",
           "conditions": [
             {
               "name": "default",
@@ -4491,19 +4221,10 @@
               19
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Jankowski et al., 2014; RS > CS; self",
-      "name": "Jankowski et al., 2014; RS > CS; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "RS > CS",
+          "name": "RS > CS",
           "conditions": [
             {
               "name": "default",
@@ -4573,15 +4294,15 @@
       ]
     },
     {
-      "id": "Janowski et al., 2012; Self-oriented > Empathic; self",
-      "name": "Janowski et al., 2012; Self-oriented > Empathic; self",
+      "id": "22349798",
+      "name": "Janowski et al., 2012",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Self-oriented > Empathic",
+          "name": "Self-oriented > Empathic",
           "conditions": [
             {
               "name": "default",
@@ -4655,19 +4376,10 @@
               32
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Janowski et al., 2012; bid-for-self during self-oriented choice; self",
-      "name": "Janowski et al., 2012; bid-for-self during self-oriented choice; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "bid-for-self during self-oriented choice",
+          "name": "bid-for-self during self-oriented choice",
           "conditions": [
             {
               "name": "default",
@@ -4721,15 +4433,15 @@
       ]
     },
     {
-      "id": "Jiang et al., 2018; SA vs. Fixation; self",
-      "name": "Jiang et al., 2018; SA vs. Fixation; self",
+      "id": "29777673",
+      "name": "Jiang et al., 2018",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "SA vs. Fixation",
+          "name": "SA vs. Fixation",
           "conditions": [
             {
               "name": "default",
@@ -4771,19 +4483,10 @@
               31
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Jiang et al., 2018; SC > SA; self",
-      "name": "Jiang et al., 2018; SC > SA; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "SC > SA",
+          "name": "SC > SA",
           "conditions": [
             {
               "name": "default",
@@ -4813,15 +4516,15 @@
       ]
     },
     {
-      "id": "Kawamichi et al., 2016; Significant activation for the (toss \u2013 button press) high-frequency effect; self",
-      "name": "Kawamichi et al., 2016; Significant activation for the (toss \u2013 button press) high-frequency effect; self",
+      "id": "27090501",
+      "name": "Kawamichi et al., 2016",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Significant activation for the (toss \u2013 button press) high-frequency effect",
+          "name": "Significant activation for the (toss \u2013 button press) high-frequency effect",
           "conditions": [
             {
               "name": "default",
@@ -5051,15 +4754,15 @@
       ]
     },
     {
-      "id": "Kawasaki et al., 2016; (Positive > Neutral) inclusively masked with (Negative > Neutral); self",
-      "name": "Kawasaki et al., 2016; (Positive > Neutral) inclusively masked with (Negative > Neutral); self",
+      "id": "26235682",
+      "name": "Kawasaki et al., 2016",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "(Positive > Neutral) inclusively masked with (Negative > Neutral)",
+          "name": "(Positive > Neutral) inclusively masked with (Negative > Neutral)",
           "conditions": [
             {
               "name": "default",
@@ -5117,19 +4820,10 @@
               28
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Kawasaki et al., 2016; (Positive vs. Neutral) > (Negative vs. Neutral); self",
-      "name": "Kawasaki et al., 2016; (Positive vs. Neutral) > (Negative vs. Neutral); self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "(Positive vs. Neutral) > (Negative vs. Neutral)",
+          "name": "(Positive vs. Neutral) > (Negative vs. Neutral)",
           "conditions": [
             {
               "name": "default",
@@ -5155,19 +4849,10 @@
               28
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Kawasaki et al., 2016; Negative > Neutral; self",
-      "name": "Kawasaki et al., 2016; Negative > Neutral; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Negative > Neutral",
+          "name": "Negative > Neutral",
           "conditions": [
             {
               "name": "default",
@@ -5233,19 +4918,10 @@
               28
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Kawasaki et al., 2016; Positive > Neutral; self",
-      "name": "Kawasaki et al., 2016; Positive > Neutral; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Positive > Neutral",
+          "name": "Positive > Neutral",
           "conditions": [
             {
               "name": "default",
@@ -5307,15 +4983,15 @@
       ]
     },
     {
-      "id": "Kestemont et al., 2014; Conjunction analysis (self + other + situation > truth); self",
-      "name": "Kestemont et al., 2014; Conjunction analysis (self + other + situation > truth); self",
+      "id": "24633532",
+      "name": "Kestemont et al., 2014",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Conjunction analysis (self + other + situation > truth)",
+          "name": "Conjunction analysis (self + other + situation > truth)",
           "conditions": [
             {
               "name": "default",
@@ -5381,19 +5057,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Kestemont et al., 2014; Self > Truth; self",
-      "name": "Kestemont et al., 2014; Self > Truth; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Self > Truth",
+          "name": "Self > Truth",
           "conditions": [
             {
               "name": "default",
@@ -5451,19 +5118,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Kestemont et al., 2014; Situation > Truth; self",
-      "name": "Kestemont et al., 2014; Situation > Truth; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Situation > Truth",
+          "name": "Situation > Truth",
           "conditions": [
             {
               "name": "default",
@@ -5549,15 +5207,15 @@
       ]
     },
     {
-      "id": "Kirk et al., 2016; interaction of accepting unfair offers and  (Post-MT > Pre-MT) > (Post-CT > Pre-CT); self",
-      "name": "Kirk et al., 2016; interaction of accepting unfair offers and  (Post-MT > Pre-MT) > (Post-CT > Pre-CT); self",
+      "id": "27266443",
+      "name": "Kirk et al., 2016",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "interaction of accepting unfair offers and  (Post-MT > Pre-MT) > (Post-CT > Pre-CT)",
+          "name": "interaction of accepting unfair offers and  (Post-MT > Pre-MT) > (Post-CT > Pre-CT)",
           "conditions": [
             {
               "name": "default",
@@ -5599,19 +5257,10 @@
               50
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Kirk et al., 2016; interaction of accepting unfair offers and  Pre-MT > Pre-CT (conjunction analysis); self",
-      "name": "Kirk et al., 2016; interaction of accepting unfair offers and  Pre-MT > Pre-CT (conjunction analysis); self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "interaction of accepting unfair offers and  Pre-MT > Pre-CT (conjunction analysis)",
+          "name": "interaction of accepting unfair offers and  Pre-MT > Pre-CT (conjunction analysis)",
           "conditions": [
             {
               "name": "default",
@@ -5641,15 +5290,15 @@
       ]
     },
     {
-      "id": "Korn et al., 2014; (SELF > OTHER) \u00d7 (GERMAN > CHINESE); self",
-      "name": "Korn et al., 2014; (SELF > OTHER) \u00d7 (GERMAN > CHINESE); self",
+      "id": "24772075",
+      "name": "Korn et al., 2014",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "(SELF > OTHER) \u00d7 (GERMAN > CHINESE)",
+          "name": "(SELF > OTHER) \u00d7 (GERMAN > CHINESE)",
           "conditions": [
             {
               "name": "default",
@@ -5675,19 +5324,10 @@
               51
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Korn et al., 2014; SELF > OTHER (CORRELATION); self",
-      "name": "Korn et al., 2014; SELF > OTHER (CORRELATION); self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "SELF > OTHER (CORRELATION)",
+          "name": "SELF > OTHER (CORRELATION)",
           "conditions": [
             {
               "name": "default",
@@ -5721,19 +5361,10 @@
               51
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Korn et al., 2014; SELF > OTHER; self",
-      "name": "Korn et al., 2014; SELF > OTHER; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "SELF > OTHER",
+          "name": "SELF > OTHER",
           "conditions": [
             {
               "name": "default",
@@ -5811,15 +5442,15 @@
       ]
     },
     {
-      "id": "Liu et al., 2018; Self vs Celebrity; self",
-      "name": "Liu et al., 2018; Self vs Celebrity; self",
+      "id": "29432769",
+      "name": "Liu et al., 2018",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Self vs Celebrity",
+          "name": "Self vs Celebrity",
           "conditions": [
             {
               "name": "default",
@@ -5881,15 +5512,15 @@
       ]
     },
     {
-      "id": "Mclatchie et al., 2016; Guilt memory reflect > guilt hypothetical reflect; self",
-      "name": "Mclatchie et al., 2016; Guilt memory reflect > guilt hypothetical reflect; self",
+      "id": "26746179",
+      "name": "Mclatchie et al., 2016",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Guilt memory reflect > guilt hypothetical reflect",
+          "name": "Guilt memory reflect > guilt hypothetical reflect",
           "conditions": [
             {
               "name": "default",
@@ -5979,19 +5610,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Mclatchie et al., 2016; Guilt memory reflect > neutral memory reflect; self",
-      "name": "Mclatchie et al., 2016; Guilt memory reflect > neutral memory reflect; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Guilt memory reflect > neutral memory reflect",
+          "name": "Guilt memory reflect > neutral memory reflect",
           "conditions": [
             {
               "name": "default",
@@ -6093,15 +5715,15 @@
       ]
     },
     {
-      "id": "Miedl et al., 2016; Negative > neutral; self",
-      "name": "Miedl et al., 2016; Negative > neutral; self",
+      "id": "26892859",
+      "name": "Miedl et al., 2016",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Negative > neutral",
+          "name": "Negative > neutral",
           "conditions": [
             {
               "name": "default",
@@ -6295,19 +5917,10 @@
               37
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Miedl et al., 2016; positive > neutral and negative > neutral (conjunction analysis); self",
-      "name": "Miedl et al., 2016; positive > neutral and negative > neutral (conjunction analysis); self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "positive > neutral and negative > neutral (conjunction analysis)",
+          "name": "positive > neutral and negative > neutral (conjunction analysis)",
           "conditions": [
             {
               "name": "default",
@@ -6365,19 +5978,10 @@
               37
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Miedl et al., 2016; positive > neutral; self",
-      "name": "Miedl et al., 2016; positive > neutral; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "positive > neutral",
+          "name": "positive > neutral",
           "conditions": [
             {
               "name": "default",
@@ -6439,15 +6043,15 @@
       ]
     },
     {
-      "id": "Murch et al., 2014; frame inconsistent minus frame consistent; self",
-      "name": "Murch et al., 2014; frame inconsistent minus frame consistent; self",
+      "id": "23988759",
+      "name": "Murch et al., 2014",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "frame inconsistent minus frame consistent",
+          "name": "frame inconsistent minus frame consistent",
           "conditions": [
             {
               "name": "default",
@@ -6481,19 +6085,10 @@
               21
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Murch et al., 2014; negative minus positive frame; self",
-      "name": "Murch et al., 2014; negative minus positive frame; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "negative minus positive frame",
+          "name": "negative minus positive frame",
           "conditions": [
             {
               "name": "default",
@@ -6583,19 +6178,10 @@
               21
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Murch et al., 2014; positive minus negative frame; self",
-      "name": "Murch et al., 2014; positive minus negative frame; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "positive minus negative frame",
+          "name": "positive minus negative frame",
           "conditions": [
             {
               "name": "default",
@@ -6637,19 +6223,10 @@
               21
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Murch et al., 2014; task trials vs control trials; self",
-      "name": "Murch et al., 2014; task trials vs control trials; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "task trials vs control trials",
+          "name": "task trials vs control trials",
           "conditions": [
             {
               "name": "default",
@@ -6719,15 +6296,15 @@
       ]
     },
     {
-      "id": "Platek et al., 2005; self face > distracter; self",
-      "name": "Platek et al., 2005; self face > distracter; self",
+      "id": "16035037",
+      "name": "Platek et al., 2005",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "self face > distracter",
+          "name": "self face > distracter",
           "conditions": [
             {
               "name": "default",
@@ -6801,19 +6378,10 @@
               12
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Platek et al., 2005; self face > famililar face; self",
-      "name": "Platek et al., 2005; self face > famililar face; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "self face > famililar face",
+          "name": "self face > famililar face",
           "conditions": [
             {
               "name": "default",
@@ -6891,15 +6459,15 @@
       ]
     },
     {
-      "id": "Powers et al., 2016; social scenes vs non-social scenes; self",
-      "name": "Powers et al., 2016; social scenes vs non-social scenes; self",
+      "id": "26206505",
+      "name": "Powers et al., 2016",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "social scenes vs non-social scenes",
+          "name": "social scenes vs non-social scenes",
           "conditions": [
             {
               "name": "default",
@@ -6993,15 +6561,15 @@
       ]
     },
     {
-      "id": "Ramsey et al., 2013; Consistent Self (CS) > Consistent Other (CO); self",
-      "name": "Ramsey et al., 2013; Consistent Self (CS) > Consistent Other (CO); self",
+      "id": "23249349",
+      "name": "Ramsey et al., 2013",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Consistent Self (CS) > Consistent Other (CO)",
+          "name": "Consistent Self (CS) > Consistent Other (CO)",
           "conditions": [
             {
               "name": "default",
@@ -7291,19 +6859,10 @@
               16
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Ramsey et al., 2013; Inconsistent Self (IS) > Consistent Other (CO); self",
-      "name": "Ramsey et al., 2013; Inconsistent Self (IS) > Consistent Other (CO); self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Inconsistent Self (IS) > Consistent Other (CO)",
+          "name": "Inconsistent Self (IS) > Consistent Other (CO)",
           "conditions": [
             {
               "name": "default",
@@ -7537,19 +7096,10 @@
               16
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Ramsey et al., 2013; Inconsistent Self (IS) > Consistent Self (CS); self",
-      "name": "Ramsey et al., 2013; Inconsistent Self (IS) > Consistent Self (CS); self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Inconsistent Self (IS) > Consistent Self (CS)",
+          "name": "Inconsistent Self (IS) > Consistent Self (CS)",
           "conditions": [
             {
               "name": "default",
@@ -7599,19 +7149,10 @@
               16
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Ramsey et al., 2013; Inconsistent Self (IS) > Inconsistent Other (IO); self",
-      "name": "Ramsey et al., 2013; Inconsistent Self (IS) > Inconsistent Other (IO); self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Inconsistent Self (IS) > Inconsistent Other (IO)",
+          "name": "Inconsistent Self (IS) > Inconsistent Other (IO)",
           "conditions": [
             {
               "name": "default",
@@ -7665,15 +7206,15 @@
       ]
     },
     {
-      "id": "Rudorf et al., 2018; controlled > free condition; self",
-      "name": "Rudorf et al., 2018; controlled > free condition; self",
+      "id": "29760183",
+      "name": "Rudorf et al., 2018",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "controlled > free condition",
+          "name": "controlled > free condition",
           "conditions": [
             {
               "name": "default",
@@ -7735,15 +7276,15 @@
       ]
     },
     {
-      "id": "Safron et al., 2018;  (Homosexual Women) Male > Female Videos; self",
-      "name": "Safron et al., 2018;  (Homosexual Women) Male > Female Videos; self",
+      "id": "29330483",
+      "name": "Safron et al., 2018",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "(Homosexual Women) Male > Female Videos",
+          "name": "(Homosexual Women) Male > Female Videos",
           "conditions": [
             {
               "name": "default",
@@ -7777,19 +7318,10 @@
               76
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Safron et al., 2018; (Bisexual Women) Female > Male Pictures; self",
-      "name": "Safron et al., 2018; (Bisexual Women) Female > Male Pictures; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "(Bisexual Women) Female > Male Pictures",
+          "name": "(Bisexual Women) Female > Male Pictures",
           "conditions": [
             {
               "name": "default",
@@ -7911,19 +7443,10 @@
               76
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Safron et al., 2018; (Bisexual Women) Female > Male Videos; self",
-      "name": "Safron et al., 2018; (Bisexual Women) Female > Male Videos; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "(Bisexual Women) Female > Male Videos",
+          "name": "(Bisexual Women) Female > Male Videos",
           "conditions": [
             {
               "name": "default",
@@ -7957,19 +7480,10 @@
               76
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Safron et al., 2018; (Bisexual Women) Male > Female Pictures; self",
-      "name": "Safron et al., 2018; (Bisexual Women) Male > Female Pictures; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "(Bisexual Women) Male > Female Pictures",
+          "name": "(Bisexual Women) Male > Female Pictures",
           "conditions": [
             {
               "name": "default",
@@ -8043,19 +7557,10 @@
               76
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Safron et al., 2018; (Bisexual Women) Male > Female Videos; self",
-      "name": "Safron et al., 2018; (Bisexual Women) Male > Female Videos; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "(Bisexual Women) Male > Female Videos",
+          "name": "(Bisexual Women) Male > Female Videos",
           "conditions": [
             {
               "name": "default",
@@ -8137,19 +7642,10 @@
               76
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Safron et al., 2018; (Heterosexual Women) Female > Male Pictures; self",
-      "name": "Safron et al., 2018; (Heterosexual Women) Female > Male Pictures; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "(Heterosexual Women) Female > Male Pictures",
+          "name": "(Heterosexual Women) Female > Male Pictures",
           "conditions": [
             {
               "name": "default",
@@ -8199,19 +7695,10 @@
               76
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Safron et al., 2018; (Heterosexual Women) Female > Male Videos; self",
-      "name": "Safron et al., 2018; (Heterosexual Women) Female > Male Videos; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "(Heterosexual Women) Female > Male Videos",
+          "name": "(Heterosexual Women) Female > Male Videos",
           "conditions": [
             {
               "name": "default",
@@ -8261,19 +7748,10 @@
               76
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Safron et al., 2018; (Heterosexual Women) Male > Female Videos; self",
-      "name": "Safron et al., 2018; (Heterosexual Women) Male > Female Videos; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "(Heterosexual Women) Male > Female Videos",
+          "name": "(Heterosexual Women) Male > Female Videos",
           "conditions": [
             {
               "name": "default",
@@ -8315,19 +7793,10 @@
               76
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Safron et al., 2018; (Homosexual Women) Female > Male Pictures; self",
-      "name": "Safron et al., 2018; (Homosexual Women) Female > Male Pictures; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "(Homosexual Women) Female > Male Pictures",
+          "name": "(Homosexual Women) Female > Male Pictures",
           "conditions": [
             {
               "name": "default",
@@ -8441,19 +7910,10 @@
               76
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Safron et al., 2018; (Homosexual Women) Female > Male Videos; self",
-      "name": "Safron et al., 2018; (Homosexual Women) Female > Male Videos; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "(Homosexual Women) Female > Male Videos",
+          "name": "(Homosexual Women) Female > Male Videos",
           "conditions": [
             {
               "name": "default",
@@ -8523,15 +7983,15 @@
       ]
     },
     {
-      "id": "Scholz et al., 2017;  abstract triasl > reading screen; self",
-      "name": "Scholz et al., 2017;  abstract triasl > reading screen; self",
+      "id": "28242678",
+      "name": "Scholz et al., 2017",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "abstract triasl > reading screen",
+          "name": "abstract triasl > reading screen",
           "conditions": [
             {
               "name": "default",
@@ -8637,19 +8097,10 @@
               39
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Scholz et al., 2017; reading screen > rating screen; self",
-      "name": "Scholz et al., 2017; reading screen > rating screen; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "reading screen > rating screen",
+          "name": "reading screen > rating screen",
           "conditions": [
             {
               "name": "default",
@@ -8775,15 +8226,15 @@
       ]
     },
     {
-      "id": "Schulte-R\u00fcther et al., 2008; Self > high-level baseline; self",
-      "name": "Schulte-R\u00fcther et al., 2008; Self > high-level baseline; self",
+      "id": "18514546",
+      "name": "Schulte-R\u00fcther et al., 2008",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Self > high-level baseline",
+          "name": "Self > high-level baseline",
           "conditions": [
             {
               "name": "default",
@@ -8917,15 +8368,15 @@
       ]
     },
     {
-      "id": "Seehausen et al., 2016;  Cognitive empathic (CE) > high level baseline; self",
-      "name": "Seehausen et al., 2016;  Cognitive empathic (CE) > high level baseline; self",
+      "id": "26812250",
+      "name": "Seehausen et al., 2016",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Cognitive empathic (CE) > high level baseline",
+          "name": "Cognitive empathic (CE) > high level baseline",
           "conditions": [
             {
               "name": "default",
@@ -8959,19 +8410,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Seehausen et al., 2016;  Cognitive unempathic (CN) > cognitive empathic (CE); self",
-      "name": "Seehausen et al., 2016;  Cognitive unempathic (CN) > cognitive empathic (CE); self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Cognitive unempathic (CN) > cognitive empathic (CE)",
+          "name": "Cognitive unempathic (CN) > cognitive empathic (CE)",
           "conditions": [
             {
               "name": "default",
@@ -8997,19 +8439,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Seehausen et al., 2016;  Emotional (EE + EN) > cognitive (CE + CN); self",
-      "name": "Seehausen et al., 2016;  Emotional (EE + EN) > cognitive (CE + CN); self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Emotional (EE + EN) > cognitive (CE + CN)",
+          "name": "Emotional (EE + EN) > cognitive (CE + CN)",
           "conditions": [
             {
               "name": "default",
@@ -9043,19 +8476,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Seehausen et al., 2016;  Emotional empathic (EE) > high level baseline; self",
-      "name": "Seehausen et al., 2016;  Emotional empathic (EE) > high level baseline; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Emotional empathic (EE) > high level baseline",
+          "name": "Emotional empathic (EE) > high level baseline",
           "conditions": [
             {
               "name": "default",
@@ -9105,19 +8529,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Seehausen et al., 2016;  Empathic (EE + CE) > high level baseline; self",
-      "name": "Seehausen et al., 2016;  Empathic (EE + CE) > high level baseline; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Empathic (EE + CE) > high level baseline",
+          "name": "Empathic (EE + CE) > high level baseline",
           "conditions": [
             {
               "name": "default",
@@ -9151,19 +8566,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Seehausen et al., 2016; Cognitive unempathic (CN) > emotional unempathic (EN); self",
-      "name": "Seehausen et al., 2016; Cognitive unempathic (CN) > emotional unempathic (EN); self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Cognitive unempathic (CN) > emotional unempathic (EN)",
+          "name": "Cognitive unempathic (CN) > emotional unempathic (EN)",
           "conditions": [
             {
               "name": "default",
@@ -9189,19 +8595,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Seehausen et al., 2016; Emotional Empathic (EE) > emotional unempathic (EN); self",
-      "name": "Seehausen et al., 2016; Emotional Empathic (EE) > emotional unempathic (EN); self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Emotional Empathic (EE) > emotional unempathic (EN)",
+          "name": "Emotional Empathic (EE) > emotional unempathic (EN)",
           "conditions": [
             {
               "name": "default",
@@ -9235,19 +8632,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Seehausen et al., 2016; Emotional empathic (EE) > cognitive empathic (CE); self",
-      "name": "Seehausen et al., 2016; Emotional empathic (EE) > cognitive empathic (CE); self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Emotional empathic (EE) > cognitive empathic (CE)",
+          "name": "Emotional empathic (EE) > cognitive empathic (CE)",
           "conditions": [
             {
               "name": "default",
@@ -9273,19 +8661,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Seehausen et al., 2016; Emotional unempathic (EN) > cognitive unempathic (CN); self",
-      "name": "Seehausen et al., 2016; Emotional unempathic (EN) > cognitive unempathic (CN); self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Emotional unempathic (EN) > cognitive unempathic (CN)",
+          "name": "Emotional unempathic (EN) > cognitive unempathic (CN)",
           "conditions": [
             {
               "name": "default",
@@ -9319,19 +8698,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Seehausen et al., 2016; Unempathic (EN + CN) > empathic (EE + CE); self",
-      "name": "Seehausen et al., 2016; Unempathic (EN + CN) > empathic (EE + CE); self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Unempathic (EN + CN) > empathic (EE + CE)",
+          "name": "Unempathic (EN + CN) > empathic (EE + CE)",
           "conditions": [
             {
               "name": "default",
@@ -9365,19 +8735,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Seehausen et al., 2016; negative vs positive performance; self",
-      "name": "Seehausen et al., 2016; negative vs positive performance; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "negative vs positive performance",
+          "name": "negative vs positive performance",
           "conditions": [
             {
               "name": "default",
@@ -9423,15 +8784,15 @@
       ]
     },
     {
-      "id": "Silani et al., 2013;  Incongruent > Congruent; self",
-      "name": "Silani et al., 2013;  Incongruent > Congruent; self",
+      "id": "24068815",
+      "name": "Silani et al., 2013",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Incongruent > Congruent",
+          "name": "Incongruent > Congruent",
           "conditions": [
             {
               "name": "default",
@@ -9477,15 +8838,15 @@
       ]
     },
     {
-      "id": "Sugiura et al., 2008; Face (simple effect) [Sf\u2013Ff]; self",
-      "name": "Sugiura et al., 2008; Face (simple effect) [Sf\u2013Ff]; self",
+      "id": "18501639",
+      "name": "Sugiura et al., 2008",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Face (simple effect) [Sf\u2013Ff]",
+          "name": "Face (simple effect) [Sf\u2013Ff]",
           "conditions": [
             {
               "name": "default",
@@ -9535,19 +8896,10 @@
               35
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Sugiura et al., 2008; Face specific (interaction) [(Sf\u2013Ff)\u2013(Sn\u2013Fn) masked by Sf\u2013Ff]; self",
-      "name": "Sugiura et al., 2008; Face specific (interaction) [(Sf\u2013Ff)\u2013(Sn\u2013Fn) masked by Sf\u2013Ff]; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Face specific (interaction) [(Sf\u2013Ff)\u2013(Sn\u2013Fn) masked by Sf\u2013Ff]",
+          "name": "Face specific (interaction) [(Sf\u2013Ff)\u2013(Sn\u2013Fn) masked by Sf\u2013Ff]",
           "conditions": [
             {
               "name": "default",
@@ -9585,15 +8937,15 @@
       ]
     },
     {
-      "id": "Sun et al., 2016; (CC-A)Gain > (CC-A)Loss; self",
-      "name": "Sun et al., 2016; (CC-A)Gain > (CC-A)Loss; self",
+      "id": "27494142",
+      "name": "Sun et al., 2016",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "(CC-A)Gain > (CC-A)Loss",
+          "name": "(CC-A)Gain > (CC-A)Loss",
           "conditions": [
             {
               "name": "default",
@@ -9635,19 +8987,10 @@
               18
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Sun et al., 2016; A > CC; self",
-      "name": "Sun et al., 2016; A > CC; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "A > CC",
+          "name": "A > CC",
           "conditions": [
             {
               "name": "default",
@@ -9681,19 +9024,10 @@
               18
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Sun et al., 2016; CC > A; self",
-      "name": "Sun et al., 2016; CC > A; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "CC > A",
+          "name": "CC > A",
           "conditions": [
             {
               "name": "default",
@@ -9775,19 +9109,10 @@
               18
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Sun et al., 2016; Gain > Loss; self",
-      "name": "Sun et al., 2016; Gain > Loss; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Gain > Loss",
+          "name": "Gain > Loss",
           "conditions": [
             {
               "name": "default",
@@ -9833,15 +9158,15 @@
       ]
     },
     {
-      "id": "Takahashi et al., 2004;  Embarrassment > Neutral; self",
-      "name": "Takahashi et al., 2004;  Embarrassment > Neutral; self",
+      "id": "15528097",
+      "name": "Takahashi et al., 2004",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Embarrassment > Neutral",
+          "name": "Embarrassment > Neutral",
           "conditions": [
             {
               "name": "default",
@@ -9939,19 +9264,10 @@
               19
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Takahashi et al., 2004;  Embarrassment > guilt; self",
-      "name": "Takahashi et al., 2004;  Embarrassment > guilt; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Embarrassment > guilt",
+          "name": "Embarrassment > guilt",
           "conditions": [
             {
               "name": "default",
@@ -10025,19 +9341,10 @@
               19
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Takahashi et al., 2004;  G > N masked E > N; self",
-      "name": "Takahashi et al., 2004;  G > N masked E > N; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "G > N masked E > N",
+          "name": "G > N masked E > N",
           "conditions": [
             {
               "name": "default",
@@ -10095,19 +9402,10 @@
               19
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Takahashi et al., 2004;  Guilt > Embarrassment; self",
-      "name": "Takahashi et al., 2004;  Guilt > Embarrassment; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Guilt > Embarrassment",
+          "name": "Guilt > Embarrassment",
           "conditions": [
             {
               "name": "default",
@@ -10133,19 +9431,10 @@
               19
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Takahashi et al., 2004; Guilt > Neutral; self",
-      "name": "Takahashi et al., 2004; Guilt > Neutral; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Guilt > Neutral",
+          "name": "Guilt > Neutral",
           "conditions": [
             {
               "name": "default",
@@ -10207,15 +9496,15 @@
       ]
     },
     {
-      "id": "Tamir et al., 2010; self\u2013other discrepancy during Other judgments; self",
-      "name": "Tamir et al., 2010; self\u2013other discrepancy during Other judgments; self",
+      "id": "20534459",
+      "name": "Tamir et al., 2010",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "self\u2013other discrepancy during Other judgments",
+          "name": "self\u2013other discrepancy during Other judgments",
           "conditions": [
             {
               "name": "default",
@@ -10265,19 +9554,10 @@
               64
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Tamir et al., 2010; self\u2013other discrepancy during self trials; self",
-      "name": "Tamir et al., 2010; self\u2013other discrepancy during self trials; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "self\u2013other discrepancy during self trials",
+          "name": "self\u2013other discrepancy during self trials",
           "conditions": [
             {
               "name": "default",
@@ -10307,15 +9587,15 @@
       ]
     },
     {
-      "id": "Telzer et al., 2011; Costly-Donation relative to Noncostly-Reward (accept); self",
-      "name": "Telzer et al., 2011; Costly-Donation relative to Noncostly-Reward (accept); self",
+      "id": "21703352",
+      "name": "Telzer et al., 2011",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Costly-Donation relative to Noncostly-Reward (accept)",
+          "name": "Costly-Donation relative to Noncostly-Reward (accept)",
           "conditions": [
             {
               "name": "default",
@@ -10381,19 +9661,10 @@
               25
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Telzer et al., 2011; Costly-Donation versus Noncostly-Reward (Family obligtations); self",
-      "name": "Telzer et al., 2011; Costly-Donation versus Noncostly-Reward (Family obligtations); self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Costly-Donation versus Noncostly-Reward (Family obligtations)",
+          "name": "Costly-Donation versus Noncostly-Reward (Family obligtations)",
           "conditions": [
             {
               "name": "default",
@@ -10455,15 +9726,15 @@
       ]
     },
     {
-      "id": "Trapp et al., 2014;  Self > (other & triad); self",
-      "name": "Trapp et al., 2014;  Self > (other & triad); self",
+      "id": "24825504",
+      "name": "Trapp et al., 2014",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Self > (other & triad)",
+          "name": "Self > (other & triad)",
           "conditions": [
             {
               "name": "default",
@@ -10489,19 +9760,10 @@
               19
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Trapp et al., 2014;  Triad > (self & other); self",
-      "name": "Trapp et al., 2014;  Triad > (self & other); self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Triad > (self & other)",
+          "name": "Triad > (self & other)",
           "conditions": [
             {
               "name": "default",
@@ -10551,19 +9813,10 @@
               19
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Trapp et al., 2014; triad \u2229 self \u2229 other; self",
-      "name": "Trapp et al., 2014; triad \u2229 self \u2229 other; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "triad \u2229 self \u2229 other",
+          "name": "triad \u2229 self \u2229 other",
           "conditions": [
             {
               "name": "default",
@@ -10657,15 +9910,15 @@
       ]
     },
     {
-      "id": "Tyl\u00e9n et al., 2016; Meaning > Physical; self",
-      "name": "Tyl\u00e9n et al., 2016; Meaning > Physical; self",
+      "id": "27039141",
+      "name": "Tyl\u00e9n et al., 2016",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Meaning > Physical",
+          "name": "Meaning > Physical",
           "conditions": [
             {
               "name": "default",
@@ -10715,19 +9968,10 @@
               25
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Tyl\u00e9n et al., 2016; Own > Other (meaning related task); self",
-      "name": "Tyl\u00e9n et al., 2016; Own > Other (meaning related task); self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Own > Other (meaning related task)",
+          "name": "Own > Other (meaning related task)",
           "conditions": [
             {
               "name": "default",
@@ -10769,19 +10013,10 @@
               25
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Tyl\u00e9n et al., 2016; Own > Other \u00d7 Collective > Individual (meaning related task); self",
-      "name": "Tyl\u00e9n et al., 2016; Own > Other \u00d7 Collective > Individual (meaning related task); self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Own > Other \u00d7 Collective > Individual (meaning related task)",
+          "name": "Own > Other \u00d7 Collective > Individual (meaning related task)",
           "conditions": [
             {
               "name": "default",
@@ -10815,19 +10050,10 @@
               25
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Tyl\u00e9n et al., 2016; Physical > Meaning; self",
-      "name": "Tyl\u00e9n et al., 2016; Physical > Meaning; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Physical > Meaning",
+          "name": "Physical > Meaning",
           "conditions": [
             {
               "name": "default",
@@ -10865,15 +10091,15 @@
       ]
     },
     {
-      "id": "Uddin et al., 2005; Self - Other; self",
-      "name": "Uddin et al., 2005; Self - Other; self",
+      "id": "15808992",
+      "name": "Uddin et al., 2005",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Self - Other",
+          "name": "Self - Other",
           "conditions": [
             {
               "name": "default",
@@ -10935,15 +10161,15 @@
       ]
     },
     {
-      "id": "Van Der Heiden et al., 2013; Conjunction of Other and Self; self",
-      "name": "Van Der Heiden et al., 2013; Conjunction of Other and Self; self",
+      "id": "23063451",
+      "name": "Van Der Heiden et al., 2013",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Conjunction of Other and Self",
+          "name": "Conjunction of Other and Self",
           "conditions": [
             {
               "name": "default",
@@ -11081,19 +10307,10 @@
               18
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Van Der Heiden et al., 2013; Self > Other; self",
-      "name": "Van Der Heiden et al., 2013; Self > Other; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Self > Other",
+          "name": "Self > Other",
           "conditions": [
             {
               "name": "default",
@@ -11123,15 +10340,15 @@
       ]
     },
     {
-      "id": "Wade-Bohleber et al., 2019; self-relevant > control; self",
-      "name": "Wade-Bohleber et al., 2019; self-relevant > control; self",
+      "id": "30077577",
+      "name": "Wade-Bohleber et al., 2019",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "self-relevant > control",
+          "name": "self-relevant > control",
           "conditions": [
             {
               "name": "default",
@@ -11209,15 +10426,15 @@
       ]
     },
     {
-      "id": "Weng et al., 2015; SUFFERING vs. NEUTRAL; self",
-      "name": "Weng et al., 2015; SUFFERING vs. NEUTRAL; self",
+      "id": "23696200",
+      "name": "Weng et al., 2015",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "SUFFERING vs. NEUTRAL",
+          "name": "SUFFERING vs. NEUTRAL",
           "conditions": [
             {
               "name": "default",
@@ -11243,19 +10460,10 @@
               41
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Weng et al., 2015; [SUFFERING-NEUTRAL] \u2013 PRE[SUFFERING-NEUTRAL]; self",
-      "name": "Weng et al., 2015; [SUFFERING-NEUTRAL] \u2013 PRE[SUFFERING-NEUTRAL]; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "[SUFFERING-NEUTRAL] \u2013 PRE[SUFFERING-NEUTRAL]",
+          "name": "[SUFFERING-NEUTRAL] \u2013 PRE[SUFFERING-NEUTRAL]",
           "conditions": [
             {
               "name": "default",
@@ -11301,15 +10509,15 @@
       ]
     },
     {
-      "id": "Whitman et al., 2016; O-performance > S - performance; self",
-      "name": "Whitman et al., 2016; O-performance > S - performance; self",
+      "id": "27477020",
+      "name": "Whitman et al., 2016",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "O-performance > S - performance",
+          "name": "O-performance > S - performance",
           "conditions": [
             {
               "name": "default",
@@ -11335,19 +10543,10 @@
               24
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Whitman et al., 2016; S-performance > O - performance; self",
-      "name": "Whitman et al., 2016; S-performance > O - performance; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "S-performance > O - performance",
+          "name": "S-performance > O - performance",
           "conditions": [
             {
               "name": "default",
@@ -11385,15 +10584,15 @@
       ]
     },
     {
-      "id": "Will et al., 2014;  Excluders > Includers; self",
-      "name": "Will et al., 2014;  Excluders > Includers; self",
+      "id": "24652858",
+      "name": "Will et al., 2014",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Excluders > Includers",
+          "name": "Excluders > Includers",
           "conditions": [
             {
               "name": "default",
@@ -11499,19 +10698,10 @@
               26
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Will et al., 2014;  Includers > Excluders; self",
-      "name": "Will et al., 2014;  Includers > Excluders; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Includers > Excluders",
+          "name": "Includers > Excluders",
           "conditions": [
             {
               "name": "default",
@@ -11545,19 +10735,10 @@
               26
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Will et al., 2014; Excluders equality > Includers equality; self",
-      "name": "Will et al., 2014; Excluders equality > Includers equality; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Excluders equality > Includers equality",
+          "name": "Excluders equality > Includers equality",
           "conditions": [
             {
               "name": "default",
@@ -11727,19 +10908,10 @@
               26
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Will et al., 2014; Positive correlation with punishment frequency (percentage inequality for excluders - percentage inequality for includers); self",
-      "name": "Will et al., 2014; Positive correlation with punishment frequency (percentage inequality for excluders - percentage inequality for includers); self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Positive correlation with punishment frequency (percentage inequality for excluders - percentage inequality for includers)",
+          "name": "Positive correlation with punishment frequency (percentage inequality for excluders - percentage inequality for includers)",
           "conditions": [
             {
               "name": "default",
@@ -12025,15 +11197,15 @@
       ]
     },
     {
-      "id": "Xie et al., 2016; Social-Look > Social-Reg; self",
-      "name": "Xie et al., 2016; Social-Look > Social-Reg; self",
+      "id": "27095057",
+      "name": "Xie et al., 2016",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Social-Look > Social-Reg",
+          "name": "Social-Look > Social-Reg",
           "conditions": [
             {
               "name": "default",
@@ -12059,19 +11231,10 @@
               19
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Xie et al., 2016; Social-Reg > Social-Look; self",
-      "name": "Xie et al., 2016; Social-Reg > Social-Look; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Social-Reg > Social-Look",
+          "name": "Social-Reg > Social-Look",
           "conditions": [
             {
               "name": "default",
@@ -12221,15 +11384,15 @@
       ]
     },
     {
-      "id": "Zhou et al., 2014;  HUMAN > COMPUTER; self",
-      "name": "Zhou et al., 2014;  HUMAN > COMPUTER; self",
+      "id": "24834034",
+      "name": "Zhou et al., 2014",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "HUMAN > COMPUTER",
+          "name": "HUMAN > COMPUTER",
           "conditions": [
             {
               "name": "default",
@@ -12279,19 +11442,10 @@
               28
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Zhou et al., 2014; FAIR < UNFAIR; self",
-      "name": "Zhou et al., 2014; FAIR < UNFAIR; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "FAIR < UNFAIR",
+          "name": "FAIR < UNFAIR",
           "conditions": [
             {
               "name": "default",
@@ -12341,19 +11495,10 @@
               28
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Zhou et al., 2014; FAIR > UNFAIR; self",
-      "name": "Zhou et al., 2014; FAIR > UNFAIR; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "FAIR > UNFAIR",
+          "name": "FAIR > UNFAIR",
           "conditions": [
             {
               "name": "default",
@@ -12379,19 +11524,10 @@
               28
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Zhou et al., 2014; HIGH(UNFAIR\u2013FAIR) > LOW(UNFAIR\u2013FAIR) WITHIN HUMAN; self",
-      "name": "Zhou et al., 2014; HIGH(UNFAIR\u2013FAIR) > LOW(UNFAIR\u2013FAIR) WITHIN HUMAN; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "HIGH(UNFAIR\u2013FAIR) > LOW(UNFAIR\u2013FAIR) WITHIN HUMAN",
+          "name": "HIGH(UNFAIR\u2013FAIR) > LOW(UNFAIR\u2013FAIR) WITHIN HUMAN",
           "conditions": [
             {
               "name": "default",
@@ -12449,19 +11585,10 @@
               28
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Zhou et al., 2014; HIGH(UNFAIR\u2013FAIR) > LOW(UNFAIR\u2013FAIR); self",
-      "name": "Zhou et al., 2014; HIGH(UNFAIR\u2013FAIR) > LOW(UNFAIR\u2013FAIR); self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "HIGH(UNFAIR\u2013FAIR) > LOW(UNFAIR\u2013FAIR)",
+          "name": "HIGH(UNFAIR\u2013FAIR) > LOW(UNFAIR\u2013FAIR)",
           "conditions": [
             {
               "name": "default",
@@ -12507,15 +11634,15 @@
       ]
     },
     {
-      "id": "Zimmermann et al., 2018; Touch > Close; self",
-      "name": "Zimmermann et al., 2018; Touch > Close; self",
+      "id": "30658938",
+      "name": "Zimmermann et al., 2018",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Touch > Close",
+          "name": "Touch > Close",
           "conditions": [
             {
               "name": "default",
@@ -12665,15 +11792,15 @@
       ]
     },
     {
-      "id": "van den Bos et al., 2009;  regression defect > reciprocity (Negative corr. avg. reciprocity); self",
-      "name": "van den Bos et al., 2009;  regression defect > reciprocity (Negative corr. avg. reciprocity); self",
+      "id": "19304843",
+      "name": "van den Bos et al., 2009",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "regression defect > reciprocity (Negative corr. avg. reciprocity)",
+          "name": "regression defect > reciprocity (Negative corr. avg. reciprocity)",
           "conditions": [
             {
               "name": "default",
@@ -12699,19 +11826,10 @@
               18
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "van den Bos et al., 2009; defect > reciprocate; self",
-      "name": "van den Bos et al., 2009; defect > reciprocate; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "defect > reciprocate",
+          "name": "defect > reciprocate",
           "conditions": [
             {
               "name": "default",
@@ -12745,19 +11863,10 @@
               18
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "van den Bos et al., 2009; reciprocate > defect; self",
-      "name": "van den Bos et al., 2009; reciprocate > defect; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "reciprocate > defect",
+          "name": "reciprocate > defect",
           "conditions": [
             {
               "name": "default",
@@ -12783,19 +11892,10 @@
               18
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "van den Bos et al., 2009; regression defect > reciprocity (Positive corr. avg. reciprocity); self",
-      "name": "van den Bos et al., 2009; regression defect > reciprocity (Positive corr. avg. reciprocity); self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "regression defect > reciprocity (Positive corr. avg. reciprocity)",
+          "name": "regression defect > reciprocity (Positive corr. avg. reciprocity)",
           "conditions": [
             {
               "name": "default",
@@ -12865,15 +11965,15 @@
       ]
     },
     {
-      "id": "Anderson et al., 2013; Sex \u00d7 Condition; self",
-      "name": "Anderson et al., 2013; Sex \u00d7 Condition; self",
+      "id": "23876243",
+      "name": "Anderson et al., 2013",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Sex \u00d7 Condition",
+          "name": "Sex \u00d7 Condition",
           "conditions": [
             {
               "name": "default",
@@ -12999,15 +12099,15 @@
       ]
     },
     {
-      "id": "Blackwood et al., 2003; External > internal; self",
-      "name": "Blackwood et al., 2003; External > internal; self",
+      "id": "14568477",
+      "name": "Blackwood et al., 2003",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "External > internal",
+          "name": "External > internal",
           "conditions": [
             {
               "name": "default",
@@ -13033,19 +12133,10 @@
               12
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Blackwood et al., 2003; Internal > external; self",
-      "name": "Blackwood et al., 2003; Internal > external; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Internal > external",
+          "name": "Internal > external",
           "conditions": [
             {
               "name": "default",
@@ -13095,19 +12186,10 @@
               12
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Blackwood et al., 2003; Non-self-serving bias > Self-serving bias; self",
-      "name": "Blackwood et al., 2003; Non-self-serving bias > Self-serving bias; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Non-self-serving bias > Self-serving bias",
+          "name": "Non-self-serving bias > Self-serving bias",
           "conditions": [
             {
               "name": "default",
@@ -13149,19 +12231,10 @@
               12
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Blackwood et al., 2003; Self-serving bias > Non-self-serving bias; self",
-      "name": "Blackwood et al., 2003; Self-serving bias > Non-self-serving bias; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Self-serving bias > Non-self-serving bias",
+          "name": "Self-serving bias > Non-self-serving bias",
           "conditions": [
             {
               "name": "default",
@@ -13199,15 +12272,15 @@
       ]
     },
     {
-      "id": "Chauvigne et al., 2018a;  Following > Conjunction; self",
-      "name": "Chauvigne et al., 2018a;  Following > Conjunction; self",
+      "id": "29324862",
+      "name": "Chauvigne et al., 2018a",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Following > Conjunction",
+          "name": "Following > Conjunction",
           "conditions": [
             {
               "name": "default",
@@ -13345,19 +12418,10 @@
               18
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Chauvigne et al., 2018a; Leading + Following + Mutual > Solo + Alone); self",
-      "name": "Chauvigne et al., 2018a; Leading + Following + Mutual > Solo + Alone); self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Leading + Following + Mutual > Solo + Alone)",
+          "name": "Leading + Following + Mutual > Solo + Alone)",
           "conditions": [
             {
               "name": "default",
@@ -13527,19 +12591,10 @@
               18
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Chauvigne et al., 2018a; Leading + Solo > Mutual + Alone; self",
-      "name": "Chauvigne et al., 2018a; Leading + Solo > Mutual + Alone; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Leading + Solo > Mutual + Alone",
+          "name": "Leading + Solo > Mutual + Alone",
           "conditions": [
             {
               "name": "default",
@@ -13685,19 +12740,10 @@
               18
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Chauvigne et al., 2018a; Leading > Conjunction; self",
-      "name": "Chauvigne et al., 2018a; Leading > Conjunction; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Leading > Conjunction",
+          "name": "Leading > Conjunction",
           "conditions": [
             {
               "name": "default",
@@ -13779,19 +12825,10 @@
               18
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Chauvigne et al., 2018a; Leading > Solo; self",
-      "name": "Chauvigne et al., 2018a; Leading > Solo; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Leading > Solo",
+          "name": "Leading > Solo",
           "conditions": [
             {
               "name": "default",
@@ -13841,19 +12878,10 @@
               18
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Chauvigne et al., 2018a; Mutual > Conjunction; self",
-      "name": "Chauvigne et al., 2018a; Mutual > Conjunction; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Mutual > Conjunction",
+          "name": "Mutual > Conjunction",
           "conditions": [
             {
               "name": "default",
@@ -13927,19 +12955,10 @@
               18
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Chauvigne et al., 2018a; [Leading + Solo + Mutual + Alone] > Following; self",
-      "name": "Chauvigne et al., 2018a; [Leading + Solo + Mutual + Alone] > Following; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "[Leading + Solo + Mutual + Alone] > Following",
+          "name": "[Leading + Solo + Mutual + Alone] > Following",
           "conditions": [
             {
               "name": "default",
@@ -13985,15 +13004,15 @@
       ]
     },
     {
-      "id": "Chauvigne et al., 2018b; Activations",
-      "name": "Chauvigne et al., 2018b; Activations",
+      "id": "30349467",
+      "name": "Chauvigne et al., 2018b",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "Leading > Following (Followers only); self",
-          "name": "Leading > Following (Followers only); self",
+          "id": "Activations",
+          "name": "Activations",
           "conditions": [
             {
               "name": "default",
@@ -14021,8 +13040,8 @@
           }
         },
         {
-          "id": "Leading > Following (Leaders only); self",
-          "name": "Leading > Following (Leaders only); self",
+          "id": "Activations__2",
+          "name": "Activations",
           "conditions": [
             {
               "name": "default",
@@ -14114,8 +13133,8 @@
           }
         },
         {
-          "id": "Leading > Following (Whole-group); self",
-          "name": "Leading > Following (Whole-group); self",
+          "id": "Activations__3",
+          "name": "Activations",
           "conditions": [
             {
               "name": "default",
@@ -14189,19 +13208,10 @@
               18
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Chauvigne et al., 2018b; Deactivations",
-      "name": "Chauvigne et al., 2018b; Deactivations",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "Following > Leading (Followers only); self",
-          "name": "Following > Leading (Followers only); self",
+          "id": "Deactivations",
+          "name": "Deactivations",
           "conditions": [
             {
               "name": "default",
@@ -14293,8 +13303,8 @@
           }
         },
         {
-          "id": "Following > Leading (Whole-group); self",
-          "name": "Following > Leading (Whole-group); self",
+          "id": "Deactivations__2",
+          "name": "Deactivations",
           "conditions": [
             {
               "name": "default",
@@ -14352,19 +13362,10 @@
               18
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Chauvigne et al., 2018b; [Leading > Rest] and [Following > Rest] (followers only); self",
-      "name": "Chauvigne et al., 2018b; [Leading > Rest] and [Following > Rest] (followers only); self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "[Leading > Rest] and [Following > Rest] (followers only)",
+          "name": "[Leading > Rest] and [Following > Rest] (followers only)",
           "conditions": [
             {
               "name": "default",
@@ -14486,19 +13487,10 @@
               10
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Chauvigne et al., 2018b; [Leading > Rest] and [Following > Rest] (leaders only); self",
-      "name": "Chauvigne et al., 2018b; [Leading > Rest] and [Following > Rest] (leaders only); self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "[Leading > Rest] and [Following > Rest] (leaders only)",
+          "name": "[Leading > Rest] and [Following > Rest] (leaders only)",
           "conditions": [
             {
               "name": "default",
@@ -14648,15 +13640,15 @@
       ]
     },
     {
-      "id": "Dimenichi et al., 2016; Competition > No Competition; self",
-      "name": "Dimenichi et al., 2016; Competition > No Competition; self",
+      "id": "27622781",
+      "name": "Dimenichi et al., 2016",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Competition > No Competition",
+          "name": "Competition > No Competition",
           "conditions": [
             {
               "name": "default",
@@ -14754,19 +13746,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Dimenichi et al., 2016; No Competition > Competition; self",
-      "name": "Dimenichi et al., 2016; No Competition > Competition; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "No Competition > Competition",
+          "name": "No Competition > Competition",
           "conditions": [
             {
               "name": "default",
@@ -14844,15 +13827,15 @@
       ]
     },
     {
-      "id": "Ebisch et al., 2014; [(hand/human hand > hand/fake hand) \u2212 (object/human hand > object/fake hand)]; self",
-      "name": "Ebisch et al., 2014; [(hand/human hand > hand/fake hand) \u2212 (object/human hand > object/fake hand)]; self",
+      "id": "24666131",
+      "name": "Ebisch et al., 2014",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "[(hand/human hand > hand/fake hand) \u2212 (object/human hand > object/fake hand)]",
+          "name": "[(hand/human hand > hand/fake hand) \u2212 (object/human hand > object/fake hand)]",
           "conditions": [
             {
               "name": "default",
@@ -14886,19 +13869,10 @@
               16
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Ebisch et al., 2014; [(object/human hand > object/fake hand) \u2212 (hand/human hand > hand/fake hand)] \u2212 Target effect [human hand > fake hand] \u2212 Modality effect",
-      "name": "Ebisch et al., 2014; [(object/human hand > object/fake hand) \u2212 (hand/human hand > hand/fake hand)] \u2212 Target effect [human hand > fake hand] \u2212 Modality effect",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "[hand > object]; self",
-          "name": "[hand > object]; self",
+          "id": "[(object/human hand > object/fake hand) \u2212 (hand/human hand > hand/fake hand)] \u2212 Target effect [human hand > fake hand] \u2212 Modality effect",
+          "name": "[(object/human hand > object/fake hand) \u2212 (hand/human hand > hand/fake hand)] \u2212 Target effect [human hand > fake hand] \u2212 Modality effect",
           "conditions": [
             {
               "name": "default",
@@ -14926,8 +13900,8 @@
           }
         },
         {
-          "id": "[object > hand]; self",
-          "name": "[object > hand]; self",
+          "id": "[(object/human hand > object/fake hand) \u2212 (hand/human hand > hand/fake hand)] \u2212 Target effect [human hand > fake hand] \u2212 Modality effect__2",
+          "name": "[(object/human hand > object/fake hand) \u2212 (hand/human hand > hand/fake hand)] \u2212 Target effect [human hand > fake hand] \u2212 Modality effect",
           "conditions": [
             {
               "name": "default",
@@ -14977,19 +13951,10 @@
               16
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Ebisch et al., 2014; [(object/human hand > object/fake hand) \u2212 (hand/human hand > hand/fake hand)]; self",
-      "name": "Ebisch et al., 2014; [(object/human hand > object/fake hand) \u2212 (hand/human hand > hand/fake hand)]; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "[(object/human hand > object/fake hand) \u2212 (hand/human hand > hand/fake hand)]",
+          "name": "[(object/human hand > object/fake hand) \u2212 (hand/human hand > hand/fake hand)]",
           "conditions": [
             {
               "name": "default",
@@ -15023,19 +13988,10 @@
               16
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Ebisch et al., 2014; [human hand > fake hand] \u2212 Modality effect",
-      "name": "Ebisch et al., 2014; [human hand > fake hand] \u2212 Modality effect",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "[object > hand]; self",
-          "name": "[object > hand]; self",
+          "id": "[human hand > fake hand] \u2212 Modality effect",
+          "name": "[human hand > fake hand] \u2212 Modality effect",
           "conditions": [
             {
               "name": "default",
@@ -15081,15 +14037,15 @@
       ]
     },
     {
-      "id": "Emonds et al., 2014; Interaction effect between dispositional trust and social value orientation; self",
-      "name": "Emonds et al., 2014; Interaction effect between dispositional trust and social value orientation; self",
+      "id": "24294906",
+      "name": "Emonds et al., 2014",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Interaction effect between dispositional trust and social value orientation",
+          "name": "Interaction effect between dispositional trust and social value orientation",
           "conditions": [
             {
               "name": "default",
@@ -15147,19 +14103,10 @@
               38
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Emonds et al., 2014; Main effect of social value orientation on decision-making; self",
-      "name": "Emonds et al., 2014; Main effect of social value orientation on decision-making; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Main effect of social value orientation on decision-making",
+          "name": "Main effect of social value orientation on decision-making",
           "conditions": [
             {
               "name": "default",
@@ -15261,15 +14208,15 @@
       ]
     },
     {
-      "id": "Fehr et al., 2014; A&B; self",
-      "name": "Fehr et al., 2014; A&B; self",
+      "id": "24814646",
+      "name": "Fehr et al., 2014",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "A&B",
+          "name": "A&B",
           "conditions": [
             {
               "name": "default",
@@ -15551,19 +14498,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Fehr et al., 2014; D&E; self",
-      "name": "Fehr et al., 2014; D&E; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "D&E",
+          "name": "D&E",
           "conditions": [
             {
               "name": "default",
@@ -15669,19 +14607,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Fehr et al., 2014; a1> n1; self",
-      "name": "Fehr et al., 2014; a1> n1; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "a1> n1",
+          "name": "a1> n1",
           "conditions": [
             {
               "name": "default",
@@ -16067,19 +14996,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Fehr et al., 2014; a1>p1; self",
-      "name": "Fehr et al., 2014; a1>p1; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "a1>p1",
+          "name": "a1>p1",
           "conditions": [
             {
               "name": "default",
@@ -16265,19 +15185,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Fehr et al., 2014; a2> n2; self",
-      "name": "Fehr et al., 2014; a2> n2; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "a2> n2",
+          "name": "a2> n2",
           "conditions": [
             {
               "name": "default",
@@ -16511,19 +15422,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Fehr et al., 2014; a2>p2; self",
-      "name": "Fehr et al., 2014; a2>p2; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "a2>p2",
+          "name": "a2>p2",
           "conditions": [
             {
               "name": "default",
@@ -16965,19 +15867,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Fehr et al., 2014; p1> n1; self",
-      "name": "Fehr et al., 2014; p1> n1; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "p1> n1",
+          "name": "p1> n1",
           "conditions": [
             {
               "name": "default",
@@ -17243,19 +16136,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Fehr et al., 2014; p1>a1; self",
-      "name": "Fehr et al., 2014; p1>a1; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "p1>a1",
+          "name": "p1>a1",
           "conditions": [
             {
               "name": "default",
@@ -17401,19 +16285,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Fehr et al., 2014; p2>a2; self",
-      "name": "Fehr et al., 2014; p2>a2; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "p2>a2",
+          "name": "p2>a2",
           "conditions": [
             {
               "name": "default",
@@ -17535,19 +16410,10 @@
               20
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Fehr et al., 2014; p2>n2; self",
-      "name": "Fehr et al., 2014; p2>n2; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "p2>n2",
+          "name": "p2>n2",
           "conditions": [
             {
               "name": "default",
@@ -17681,15 +16547,15 @@
       ]
     },
     {
-      "id": "Gordon et al., 2011; arm > baseline; self",
-      "name": "Gordon et al., 2011; arm > baseline; self",
+      "id": "22125232",
+      "name": "Gordon et al., 2011",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "arm > baseline",
+          "name": "arm > baseline",
           "conditions": [
             {
               "name": "default",
@@ -17795,19 +16661,10 @@
               22
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Gordon et al., 2011; arm > palm; self",
-      "name": "Gordon et al., 2011; arm > palm; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "arm > palm",
+          "name": "arm > palm",
           "conditions": [
             {
               "name": "default",
@@ -17889,19 +16746,10 @@
               22
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Gordon et al., 2011; palm > baseline; self",
-      "name": "Gordon et al., 2011; palm > baseline; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "palm > baseline",
+          "name": "palm > baseline",
           "conditions": [
             {
               "name": "default",
@@ -17995,15 +16843,15 @@
       ]
     },
     {
-      "id": "Kr\u00e4mer et al., 2010; Emotional > neutral stimuli; self",
-      "name": "Kr\u00e4mer et al., 2010; Emotional > neutral stimuli; self",
+      "id": "19944083",
+      "name": "Kr\u00e4mer et al., 2010",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Emotional > neutral stimuli",
+          "name": "Emotional > neutral stimuli",
           "conditions": [
             {
               "name": "default",
@@ -18069,19 +16917,10 @@
               16
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Kr\u00e4mer et al., 2010; Neutral > emotional stimuli; self",
-      "name": "Kr\u00e4mer et al., 2010; Neutral > emotional stimuli; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Neutral > emotional stimuli",
+          "name": "Neutral > emotional stimuli",
           "conditions": [
             {
               "name": "default",
@@ -18107,19 +16946,10 @@
               16
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Kr\u00e4mer et al., 2010; Social relation > single person; self",
-      "name": "Kr\u00e4mer et al., 2010; Social relation > single person; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Social relation > single person",
+          "name": "Social relation > single person",
           "conditions": [
             {
               "name": "default",
@@ -18205,15 +17035,15 @@
       ]
     },
     {
-      "id": "Reniers et al., 2014; Main effect (ES + TS + SRS) \u2013 (EN + TN + SRN); self",
-      "name": "Reniers et al., 2014; Main effect (ES + TS + SRS) \u2013 (EN + TN + SRN); self",
+      "id": "24294841",
+      "name": "Reniers et al., 2014",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "Main effect (ES + TS + SRS) \u2013 (EN + TN + SRN)",
+          "name": "Main effect (ES + TS + SRS) \u2013 (EN + TN + SRN)",
           "conditions": [
             {
               "name": "default",
@@ -18287,19 +17117,10 @@
               15
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Reniers et al., 2014; Self-reference >  Empathy; self",
-      "name": "Reniers et al., 2014; Self-reference >  Empathy; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Self-reference >  Empathy",
+          "name": "Self-reference >  Empathy",
           "conditions": [
             {
               "name": "default",
@@ -18333,19 +17154,10 @@
               15
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Reniers et al., 2014; Self-reference SRS\u2013SRN; self",
-      "name": "Reniers et al., 2014; Self-reference SRS\u2013SRN; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "Self-reference SRS\u2013SRN",
+          "name": "Self-reference SRS\u2013SRN",
           "conditions": [
             {
               "name": "default",
@@ -18375,15 +17187,15 @@
       ]
     },
     {
-      "id": "Volz et al., 2015; difference between sender and reciever payoff > baseline; self",
-      "name": "Volz et al., 2015; difference between sender and reciever payoff > baseline; self",
+      "id": "25729358",
+      "name": "Volz et al., 2015",
       "authors": "",
       "publication": "",
       "metadata": {},
       "analyses": [
         {
-          "id": "",
-          "name": "",
+          "id": "difference between sender and reciever payoff > baseline",
+          "name": "difference between sender and reciever payoff > baseline",
           "conditions": [
             {
               "name": "default",
@@ -18425,19 +17237,10 @@
               30
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Volz et al., 2015; simple & sophisticated deception > truth; self",
-      "name": "Volz et al., 2015; simple & sophisticated deception > truth; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "simple & sophisticated deception > truth",
+          "name": "simple & sophisticated deception > truth",
           "conditions": [
             {
               "name": "default",
@@ -18519,19 +17322,10 @@
               30
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Volz et al., 2015; simple deception > truth; self",
-      "name": "Volz et al., 2015; simple deception > truth; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "simple deception > truth",
+          "name": "simple deception > truth",
           "conditions": [
             {
               "name": "default",
@@ -18613,19 +17407,10 @@
               30
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Volz et al., 2015; sophisticated deception > simple deception; self",
-      "name": "Volz et al., 2015; sophisticated deception > simple deception; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "sophisticated deception > simple deception",
+          "name": "sophisticated deception > simple deception",
           "conditions": [
             {
               "name": "default",
@@ -18691,19 +17476,10 @@
               30
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Volz et al., 2015; sophisticated deception > truth; self",
-      "name": "Volz et al., 2015; sophisticated deception > truth; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "sophisticated deception > truth",
+          "name": "sophisticated deception > truth",
           "conditions": [
             {
               "name": "default",
@@ -18761,19 +17537,10 @@
               30
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "Volz et al., 2015; truth > simple deception & sophisticated deception; self",
-      "name": "Volz et al., 2015; truth > simple deception & sophisticated deception; self",
-      "authors": "",
-      "publication": "",
-      "metadata": {},
-      "analyses": [
+        },
         {
-          "id": "",
-          "name": "",
+          "id": "truth > simple deception & sophisticated deception",
+          "name": "truth > simple deception & sophisticated deception",
           "conditions": [
             {
               "name": "default",
