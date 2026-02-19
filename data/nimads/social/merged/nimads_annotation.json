@@ -421,11 +421,22 @@
       "note": {
         "all_merged": true,
         "affiliation_merged": false,
-        "others_merged": true,
+        "others_merged": false,
         "self_merged": false,
         "soccomm_merged": false
       },
       "analysis": "15701234_7",
+      "annotation": "annotation_social_merged_studyset"
+    },
+    {
+      "note": {
+        "all_merged": true,
+        "affiliation_merged": false,
+        "others_merged": true,
+        "self_merged": false,
+        "soccomm_merged": false
+      },
+      "analysis": "15701234_8",
       "annotation": "annotation_social_merged_studyset"
     },
     {

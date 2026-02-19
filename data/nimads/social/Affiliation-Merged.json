@@ -10,8 +10,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "Interaction effect Person x Outcome",
-          "name": "Interaction effect Person x Outcome",
+          "id": "Interaction effect Person x Outcome; affiliation",
+          "name": "Interaction effect Person x Outcome; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -79,8 +79,8 @@
           }
         },
         {
-          "id": "Main effect of Person",
-          "name": "Main effect of Person",
+          "id": "Main effect of Person; affiliation",
+          "name": "Main effect of Person; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -124,8 +124,8 @@
           }
         },
         {
-          "id": "Main effect of outcome",
-          "name": "Main effect of outcome",
+          "id": "Main effect of outcome; affiliation",
+          "name": "Main effect of outcome; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -194,8 +194,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "Negative correlation",
-          "name": "Negative correlation",
+          "id": "Negative correlation: perception of syncrhony and feelings of social affiliation; affiliation",
+          "name": "Negative correlation: perception of syncrhony and feelings of social affiliation; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -231,8 +231,8 @@
           }
         },
         {
-          "id": "Positive correlation",
-          "name": "Positive correlation",
+          "id": "Positive correlation: perception of syncrhony and feelings of social affiliation; affiliation",
+          "name": "Positive correlation: perception of syncrhony and feelings of social affiliation; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -292,8 +292,8 @@
           }
         },
         {
-          "id": "Synchrony > asynchrony",
-          "name": "Synchrony > asynchrony",
+          "id": "Synchrony > asynchrony; affiliation",
+          "name": "Synchrony > asynchrony; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -346,8 +346,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "Angry > Happy",
-          "name": "Angry > Happy",
+          "id": "Angry > Happy; affiliation",
+          "name": "Angry > Happy; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -471,8 +471,8 @@
           }
         },
         {
-          "id": "Happy > Angry",
-          "name": "Happy > Angry",
+          "id": "Happy > Angry; affiliation",
+          "name": "Happy > Angry; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -517,8 +517,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "Gender > Preference",
-          "name": "Gender > Preference",
+          "id": "Gender > Preference; affiliation",
+          "name": "Gender > Preference; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -562,8 +562,8 @@
           }
         },
         {
-          "id": "Preference > Gender",
-          "name": "Preference > Gender",
+          "id": "Preference > Gender; affiliation",
+          "name": "Preference > Gender; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -704,8 +704,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "loved one > self",
-          "name": "loved one > self",
+          "id": "loved one > self; affiliation",
+          "name": "loved one > self; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -757,8 +757,8 @@
           }
         },
         {
-          "id": "loved one > stranger",
-          "name": "loved one > stranger",
+          "id": "loved one > stranger; affiliation",
+          "name": "loved one > stranger; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -811,8 +811,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "Match > Unrequited",
-          "name": "Match > Unrequited",
+          "id": "Match > Unrequited; affiliation",
+          "name": "Match > Unrequited; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -896,8 +896,8 @@
           }
         },
         {
-          "id": "Mismatched (Rejection + Unrequited) > matched (Match + Disinterest)",
-          "name": "Mismatched (Rejection + Unrequited) > matched (Match + Disinterest)",
+          "id": "Mismatched (Rejection + Unrequited) > matched (Match + Disinterest); affiliation",
+          "name": "Mismatched (Rejection + Unrequited) > matched (Match + Disinterest); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -933,8 +933,8 @@
           }
         },
         {
-          "id": "Partners who were given a no > those given a yes",
-          "name": "Partners who were given a no > those given a yes",
+          "id": "Partners who were given a no > those given a yes; affiliation",
+          "name": "Partners who were given a no > those given a yes; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -962,8 +962,8 @@
           }
         },
         {
-          "id": "Partners who were given a yes > those given a no",
-          "name": "Partners who were given a yes > those given a no",
+          "id": "Partners who were given a yes > those given a no; affiliation",
+          "name": "Partners who were given a yes > those given a no; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -1095,8 +1095,8 @@
           }
         },
         {
-          "id": "Rejection > Disinterest",
-          "name": "Rejection > Disinterest",
+          "id": "Rejection > Disinterest; affiliation",
+          "name": "Rejection > Disinterest; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -1124,8 +1124,8 @@
           }
         },
         {
-          "id": "Unsigned prediction errors from RL model",
-          "name": "Unsigned prediction errors from RL model",
+          "id": "Unsigned prediction errors from RL model; affiliation",
+          "name": "Unsigned prediction errors from RL model; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -1153,8 +1153,8 @@
           }
         },
         {
-          "id": "Yes (Match + Unrequited) > No (Rejection + Disinterest)",
-          "name": "Yes (Match + Unrequited) > No (Rejection + Disinterest)",
+          "id": "Yes (Match + Unrequited) > No (Rejection + Disinterest); affiliation",
+          "name": "Yes (Match + Unrequited) > No (Rejection + Disinterest); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -1287,8 +1287,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "Competition versus cooperation",
-          "name": "Competition versus cooperation",
+          "id": "Competition versus cooperation; affiliation",
+          "name": "Competition versus cooperation; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -1348,8 +1348,8 @@
           }
         },
         {
-          "id": "Competition versus independent",
-          "name": "Competition versus independent",
+          "id": "Competition versus independent; affiliation",
+          "name": "Competition versus independent; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -1449,8 +1449,8 @@
           }
         },
         {
-          "id": "Cooperation versus competition",
-          "name": "Cooperation versus competition",
+          "id": "Cooperation versus competition; affiliation",
+          "name": "Cooperation versus competition; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -1542,8 +1542,8 @@
           }
         },
         {
-          "id": "Cooperation versus independent",
-          "name": "Cooperation versus independent",
+          "id": "Cooperation versus independent; affiliation",
+          "name": "Cooperation versus independent; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -1636,8 +1636,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "Attitude > Age",
-          "name": "Attitude > Age",
+          "id": "Attitude > Age; affiliation",
+          "name": "Attitude > Age; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -1745,8 +1745,8 @@
           }
         },
         {
-          "id": "Distrust > Age",
-          "name": "Distrust > Age",
+          "id": "Distrust > Age; affiliation",
+          "name": "Distrust > Age; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -1854,8 +1854,8 @@
           }
         },
         {
-          "id": "Trust > Age",
-          "name": "Trust > Age",
+          "id": "Trust > Age; affiliation",
+          "name": "Trust > Age; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -1947,8 +1947,8 @@
           }
         },
         {
-          "id": "Trust > Distrust",
-          "name": "Trust > Distrust",
+          "id": "Trust > Distrust; affiliation",
+          "name": "Trust > Distrust; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -1985,8 +1985,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "(peer vs. celebrity) x (positive vs. non-positive)",
-          "name": "(peer vs. celebrity) x (positive vs. non-positive)",
+          "id": "(peer vs. celebrity) x (positive vs. non-positive); affiliation",
+          "name": "(peer vs. celebrity) x (positive vs. non-positive); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -2159,8 +2159,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "Close Other > Non-Close Other",
-          "name": "Close Other > Non-Close Other",
+          "id": "Close Other > Non-Close Other; affiliation",
+          "name": "Close Other > Non-Close Other; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -2188,8 +2188,8 @@
           }
         },
         {
-          "id": "Negative > Positive",
-          "name": "Negative > Positive",
+          "id": "Negative > Positive; affiliation",
+          "name": "Negative > Positive; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -2217,8 +2217,8 @@
           }
         },
         {
-          "id": "Positive > Negative",
-          "name": "Positive > Negative",
+          "id": "Positive > Negative; affiliation",
+          "name": "Positive > Negative; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -2254,8 +2254,8 @@
           }
         },
         {
-          "id": "Target x Breadth",
-          "name": "Target x Breadth",
+          "id": "Target x Breadth; affiliation",
+          "name": "Target x Breadth; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -2308,8 +2308,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "Conjunction analyses of the beauty and height distance effects",
-          "name": "Conjunction analyses of the beauty and height distance effects",
+          "id": "Conjunction analyses of the beauty and height distance effects; affiliation",
+          "name": "Conjunction analyses of the beauty and height distance effects; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -2361,8 +2361,8 @@
           }
         },
         {
-          "id": "Conjunction analyses of the women and dog distance effects",
-          "name": "Conjunction analyses of the women and dog distance effects",
+          "id": "Conjunction analyses of the women and dog distance effects; affiliation",
+          "name": "Conjunction analyses of the women and dog distance effects; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -2422,8 +2422,8 @@
           }
         },
         {
-          "id": "Distance effect in the beauty condition > height condition",
-          "name": "Distance effect in the beauty condition > height condition",
+          "id": "Distance effect in the beauty condition > height condition; affiliation",
+          "name": "Distance effect in the beauty condition > height condition; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -2515,8 +2515,8 @@
           }
         },
         {
-          "id": "Distance effect in the dog condition > women condition",
-          "name": "Distance effect in the dog condition > women condition",
+          "id": "Distance effect in the dog condition > women condition; affiliation",
+          "name": "Distance effect in the dog condition > women condition; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -2608,8 +2608,8 @@
           }
         },
         {
-          "id": "Distance effect in the height condition > beauty condition",
-          "name": "Distance effect in the height condition > beauty condition",
+          "id": "Distance effect in the height condition > beauty condition; affiliation",
+          "name": "Distance effect in the height condition > beauty condition; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -2701,8 +2701,8 @@
           }
         },
         {
-          "id": "Distance effect in the women condition > dog condition",
-          "name": "Distance effect in the women condition > dog condition",
+          "id": "Distance effect in the women condition > dog condition; affiliation",
+          "name": "Distance effect in the women condition > dog condition; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -2786,8 +2786,8 @@
           }
         },
         {
-          "id": "Main effect of judgment",
-          "name": "Main effect of judgment",
+          "id": "Main effect of judgment: Beauty > height comparisons; affiliation",
+          "name": "Main effect of judgment: Beauty > height comparisons; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -2823,8 +2823,8 @@
           }
         },
         {
-          "id": "Main effect of judgment__2",
-          "name": "Main effect of judgment",
+          "id": "Main effect of judgment: Height > beauty comparisons; affiliation",
+          "name": "Main effect of judgment: Height > beauty comparisons; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -2884,8 +2884,8 @@
           }
         },
         {
-          "id": "Main effect of judgment__3",
-          "name": "Main effect of judgment",
+          "id": "Main effect of judgment: Height > control condition; affiliation",
+          "name": "Main effect of judgment: Height > control condition; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -2929,8 +2929,8 @@
           }
         },
         {
-          "id": "Main effect of target",
-          "name": "Main effect of target",
+          "id": "Main effect of target: Dogs > Women; affiliation",
+          "name": "Main effect of target: Dogs > Women; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -2974,8 +2974,8 @@
           }
         },
         {
-          "id": "Main effect of target__2",
-          "name": "Main effect of target",
+          "id": "Main effect of target: Women > dogs; affiliation",
+          "name": "Main effect of target: Women > dogs; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -3044,8 +3044,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "Conflict > No Conflict",
-          "name": "Conflict > No Conflict",
+          "id": "Conflict > No Conflict; affiliation",
+          "name": "Conflict > No Conflict; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -3225,8 +3225,8 @@
           }
         },
         {
-          "id": "[Human (Conflict > No Conflict)] > [Computer (Conflict > No Conflict)]",
-          "name": "[Human (Conflict > No Conflict)] > [Computer (Conflict > No Conflict)]",
+          "id": "[Human (Conflict > No Conflict)] > [Computer (Conflict > No Conflict)]; affiliation",
+          "name": "[Human (Conflict > No Conflict)] > [Computer (Conflict > No Conflict)]; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -3270,8 +3270,8 @@
           }
         },
         {
-          "id": "[Human (Conflict > No Conflict)] \\ [Computer (Conflict > No Conflict)]",
-          "name": "[Human (Conflict > No Conflict)] \\ [Computer (Conflict > No Conflict)]",
+          "id": "[Human (Conflict > No Conflict)] \\ [Computer (Conflict > No Conflict)]; affiliation",
+          "name": "[Human (Conflict > No Conflict)] \\ [Computer (Conflict > No Conflict)]; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -3340,8 +3340,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "Pavlovian > with social task",
-          "name": "Pavlovian > with social task",
+          "id": "Pavlovian > with social task; affiliation",
+          "name": "Pavlovian > with social task; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -3410,74 +3410,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "interaction of attachment > neutral with dyadic > monadic",
-          "name": "interaction of attachment > neutral with dyadic > monadic",
-          "conditions": [
-            {
-              "name": "default",
-              "description": ""
-            }
-          ],
-          "weights": [
-            1.0
-          ],
-          "images": [],
-          "points": [
-            {
-              "space": "MNI",
-              "coordinates": [
-                -40.0,
-                -80.0,
-                -6.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                48.0,
-                -78.0,
-                6.0
-              ]
-            }
-          ],
-          "metadata": {
-            "sample_sizes": [
-              25
-            ]
-          }
-        },
-        {
-          "id": "interaction of dyadic scenes with attachment > neutral",
-          "name": "interaction of dyadic scenes with attachment > neutral",
-          "conditions": [
-            {
-              "name": "default",
-              "description": ""
-            }
-          ],
-          "weights": [
-            1.0
-          ],
-          "images": [],
-          "points": [
-            {
-              "space": "MNI",
-              "coordinates": [
-                56.0,
-                -52.0,
-                34.0
-              ]
-            }
-          ],
-          "metadata": {
-            "sample_sizes": [
-              25
-            ]
-          }
-        },
-        {
-          "id": "attachment > neutral",
-          "name": "attachment > neutral",
+          "id": "attachment > neutral; affiliation",
+          "name": "attachment > neutral; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -3519,6 +3453,72 @@
               25
             ]
           }
+        },
+        {
+          "id": "interaction of attachment > neutral with dyadic > monadic; affiliation",
+          "name": "interaction of attachment > neutral with dyadic > monadic; affiliation",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -40.0,
+                -80.0,
+                -6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                48.0,
+                -78.0,
+                6.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              25
+            ]
+          }
+        },
+        {
+          "id": "interaction of dyadic scenes with attachment > neutral; affiliation",
+          "name": "interaction of dyadic scenes with attachment > neutral; affiliation",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                56.0,
+                -52.0,
+                34.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              25
+            ]
+          }
         }
       ]
     },
@@ -3530,8 +3530,61 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "Retaliation interaction with low CU > High CU",
-          "name": "Retaliation interaction with low CU > High CU",
+          "id": "Retaliation > Watching opponent; affiliation",
+          "name": "Retaliation > Watching opponent; affiliation",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                9.0,
+                69.0,
+                15.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                18.0,
+                -84.0,
+                18.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -24.0,
+                -90.0,
+                6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                15.0,
+                66.0,
+                27.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              16
+            ]
+          }
+        },
+        {
+          "id": "Retaliation interaction with low CU > High CU; affiliation",
+          "name": "Retaliation interaction with low CU > High CU; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -3559,8 +3612,8 @@
           }
         },
         {
-          "id": "Retaliation > Watching opponent",
-          "name": "Retaliation > Watching opponent",
+          "id": "Watching opponent > Retaliation (conjunction); affiliation",
+          "name": "Watching opponent > Retaliation (conjunction); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -3575,56 +3628,11 @@
             {
               "space": "MNI",
               "coordinates": [
-                15.0,
-                66.0,
-                27.0
+                -18.0,
+                -6.0,
+                -15.0
               ]
             },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -24.0,
-                -90.0,
-                6.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                18.0,
-                -84.0,
-                18.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                9.0,
-                69.0,
-                15.0
-              ]
-            }
-          ],
-          "metadata": {
-            "sample_sizes": [
-              16
-            ]
-          }
-        },
-        {
-          "id": "Watching opponent > Retaliation (conjunction)",
-          "name": "Watching opponent > Retaliation (conjunction)",
-          "conditions": [
-            {
-              "name": "default",
-              "description": ""
-            }
-          ],
-          "weights": [
-            1.0
-          ],
-          "images": [],
-          "points": [
             {
               "space": "MNI",
               "coordinates": [
@@ -3636,17 +3644,17 @@
             {
               "space": "MNI",
               "coordinates": [
-                -48.0,
-                -69.0,
-                6.0
+                15.0,
+                -96.0,
+                9.0
               ]
             },
             {
               "space": "MNI",
               "coordinates": [
-                -18.0,
-                -6.0,
-                -15.0
+                -48.0,
+                -69.0,
+                6.0
               ]
             },
             {
@@ -3692,14 +3700,6 @@
             {
               "space": "MNI",
               "coordinates": [
-                15.0,
-                -96.0,
-                9.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
                 27.0,
                 -24.0,
                 -18.0
@@ -3713,8 +3713,8 @@
           }
         },
         {
-          "id": "Watching opponent > Retaliation",
-          "name": "Watching opponent > Retaliation",
+          "id": "Watching opponent > Retaliation; affiliation",
+          "name": "Watching opponent > Retaliation; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -3895,8 +3895,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "social exclusion > social inclusion",
-          "name": "social exclusion > social inclusion",
+          "id": "social exclusion > social inclusion; affiliation",
+          "name": "social exclusion > social inclusion; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -4053,8 +4053,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "EMS (covariate) + IMS x Perceived status (High vs. Low) (negative correlation with status)",
-          "name": "EMS (covariate) + IMS x Perceived status (High vs. Low) (negative correlation with status)",
+          "id": "EMS (covariate) + IMS x Perceived status (High vs. Low) (negative correlation with status); affiliation",
+          "name": "EMS (covariate) + IMS x Perceived status (High vs. Low) (negative correlation with status); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -4162,8 +4162,8 @@
           }
         },
         {
-          "id": "IMS x Perceived status (High vs. Low) (negative correlation with status",
-          "name": "IMS x Perceived status (High vs. Low) (negative correlation with status",
+          "id": "IMS x Perceived status (High vs. Low) (negative correlation with status; excluded EMS covariate); affiliation",
+          "name": "IMS x Perceived status (High vs. Low) (negative correlation with status; excluded EMS covariate); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -4296,8 +4296,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "Negative > neutral",
-          "name": "Negative > neutral",
+          "id": "Negative > neutral; affiliation",
+          "name": "Negative > neutral; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -4493,8 +4493,8 @@
           }
         },
         {
-          "id": "positive > neutral and negative > neutral (conjunction analysis)",
-          "name": "positive > neutral and negative > neutral (conjunction analysis)",
+          "id": "positive > neutral and negative > neutral (conjunction analysis); affiliation",
+          "name": "positive > neutral and negative > neutral (conjunction analysis); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -4554,8 +4554,8 @@
           }
         },
         {
-          "id": "positive > neutral",
-          "name": "positive > neutral",
+          "id": "positive > neutral; affiliation",
+          "name": "positive > neutral; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -4624,8 +4624,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "affiliative > nonaffiliative",
-          "name": "affiliative > nonaffiliative",
+          "id": "affiliative > nonaffiliative; affiliation",
+          "name": "affiliative > nonaffiliative; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -4686,8 +4686,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "appraisal support group > no support group (run 1 > run 2)",
-          "name": "appraisal support group > no support group (run 1 > run 2)",
+          "id": "appraisal support group > no support group (run 1 > run 2); affiliation",
+          "name": "appraisal support group > no support group (run 1 > run 2); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -4723,8 +4723,8 @@
           }
         },
         {
-          "id": "appraisal support group > no support group (run 2 > run 1)",
-          "name": "appraisal support group > no support group (run 2 > run 1)",
+          "id": "appraisal support group > no support group (run 2 > run 1); affiliation",
+          "name": "appraisal support group > no support group (run 2 > run 1); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -4760,8 +4760,8 @@
           }
         },
         {
-          "id": "emotional support group > no support group (run 1 > run 2)",
-          "name": "emotional support group > no support group (run 1 > run 2)",
+          "id": "emotional support group > no support group (run 1 > run 2); affiliation",
+          "name": "emotional support group > no support group (run 1 > run 2); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -4798,8 +4798,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "affiliation > power",
-          "name": "affiliation > power",
+          "id": "affiliation > power; affiliation",
+          "name": "affiliation > power; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -4827,8 +4827,8 @@
           }
         },
         {
-          "id": "power > affiliation",
-          "name": "power > affiliation",
+          "id": "power > affiliation; affiliation",
+          "name": "power > affiliation; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -4889,8 +4889,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "First (P1\u2013F1)",
-          "name": "First (P1\u2013F1)",
+          "id": "First (P1\u2013F1); affiliation",
+          "name": "First (P1\u2013F1); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -5182,8 +5182,8 @@
           }
         },
         {
-          "id": "Second (P2\u2013F2)",
-          "name": "Second (P2\u2013F2)",
+          "id": "Second (P2\u2013F2); affiliation",
+          "name": "Second (P2\u2013F2); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -5420,8 +5420,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "Coorelation -- attachment avoidance with brain responses to masked sad faces",
-          "name": "Coorelation -- attachment avoidance with brain responses to masked sad faces",
+          "id": "Coorelation -- attachment avoidance with brain responses to masked sad faces; affiliation",
+          "name": "Coorelation -- attachment avoidance with brain responses to masked sad faces; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -5473,8 +5473,8 @@
           }
         },
         {
-          "id": "Masked sad faces > neutral faces",
-          "name": "Masked sad faces > neutral faces",
+          "id": "Masked sad faces > neutral faces; affiliation",
+          "name": "Masked sad faces > neutral faces; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -5686,8 +5686,8 @@
           }
         },
         {
-          "id": "Negative coorelation -- attachment avoidance with brain responsed to masked sad faces",
-          "name": "Negative coorelation -- attachment avoidance with brain responsed to masked sad faces",
+          "id": "Negative coorelation -- attachment avoidance with brain responsed to masked sad faces; affiliation",
+          "name": "Negative coorelation -- attachment avoidance with brain responsed to masked sad faces; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -5763,8 +5763,8 @@
           }
         },
         {
-          "id": "masked happy faces > neutral faces",
-          "name": "masked happy faces > neutral faces",
+          "id": "masked happy faces > neutral faces; affiliation",
+          "name": "masked happy faces > neutral faces; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -5857,8 +5857,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "Incongruent > Congruent",
-          "name": "Incongruent > Congruent",
+          "id": "Incongruent > Congruent; affiliation",
+          "name": "Incongruent > Congruent; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -5919,8 +5919,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "FG EX > FG IN",
-          "name": "FG EX > FG IN",
+          "id": "FG EX > FG IN; affiliation",
+          "name": "FG EX > FG IN; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -6084,8 +6084,8 @@
           }
         },
         {
-          "id": "FG EX > PG EX",
-          "name": "FG EX > PG EX",
+          "id": "FG EX > PG EX; affiliation",
+          "name": "FG EX > PG EX; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -6121,8 +6121,8 @@
           }
         },
         {
-          "id": "PG EX > FG EX",
-          "name": "PG EX > FG EX",
+          "id": "PG EX > FG EX; affiliation",
+          "name": "PG EX > FG EX; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -6286,8 +6286,8 @@
           }
         },
         {
-          "id": "PG EX > FG IN \u2229 FG EX > FG IN (Conjunction)",
-          "name": "PG EX > FG IN \u2229 FG EX > FG IN (Conjunction)",
+          "id": "PG EX > FG IN \u2229 FG EX > FG IN (Conjunction); affiliation",
+          "name": "PG EX > FG IN \u2229 FG EX > FG IN (Conjunction); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -6395,8 +6395,8 @@
           }
         },
         {
-          "id": "PG EX > FG IN",
-          "name": "PG EX > FG IN",
+          "id": "PG EX > FG IN; affiliation",
+          "name": "PG EX > FG IN; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -6633,8 +6633,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "Shared_emo > unshared_emo (masked)",
-          "name": "Shared_emo > unshared_emo (masked)",
+          "id": "Shared_emo > unshared_emo (masked); affiliation with interaction sharing \udbff\udc00 emotion)\"",
+          "name": "Shared_emo > unshared_emo (masked); affiliation with interaction sharing \udbff\udc00 emotion)\"",
           "conditions": [
             {
               "name": "default",
@@ -6710,8 +6710,8 @@
           }
         },
         {
-          "id": "Shared_emo > unshared_emo",
-          "name": "Shared_emo > unshared_emo",
+          "id": "Shared_emo > unshared_emo; affiliation",
+          "name": "Shared_emo > unshared_emo; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -6836,8 +6836,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "Excluders > Includers",
-          "name": "Excluders > Includers",
+          "id": "Excluders > Includers; affiliation",
+          "name": "Excluders > Includers; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -6945,45 +6945,8 @@
           }
         },
         {
-          "id": "Includers > Excluders",
-          "name": "Includers > Excluders",
-          "conditions": [
-            {
-              "name": "default",
-              "description": ""
-            }
-          ],
-          "weights": [
-            1.0
-          ],
-          "images": [],
-          "points": [
-            {
-              "space": "MNI",
-              "coordinates": [
-                -15.0,
-                -96.0,
-                0.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -12.0,
-                -99.0,
-                12.0
-              ]
-            }
-          ],
-          "metadata": {
-            "sample_sizes": [
-              26
-            ]
-          }
-        },
-        {
-          "id": "Excluders equality > Includers equality",
-          "name": "Excluders equality > Includers equality",
+          "id": "Excluders equality > Includers equality; affiliation",
+          "name": "Excluders equality > Includers equality; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -7006,14 +6969,6 @@
             {
               "space": "MNI",
               "coordinates": [
-                48.0,
-                24.0,
-                30.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
                 45.0,
                 12.0,
                 48.0
@@ -7022,9 +6977,9 @@
             {
               "space": "MNI",
               "coordinates": [
-                42.0,
-                24.0,
-                51.0
+                30.0,
+                21.0,
+                -9.0
               ]
             },
             {
@@ -7086,9 +7041,17 @@
             {
               "space": "MNI",
               "coordinates": [
-                30.0,
-                21.0,
-                -9.0
+                42.0,
+                24.0,
+                51.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                48.0,
+                24.0,
+                30.0
               ]
             },
             {
@@ -7155,8 +7118,8 @@
           }
         },
         {
-          "id": "Positive correlation with punishment frequency (percentage inequality for excluders - percentage inequality for includers)",
-          "name": "Positive correlation with punishment frequency (percentage inequality for excluders - percentage inequality for includers)",
+          "id": "Includers > Excluders; affiliation",
+          "name": "Includers > Excluders; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -7171,9 +7134,54 @@
             {
               "space": "MNI",
               "coordinates": [
-                -30.0,
-                -6.0,
-                48.0
+                -12.0,
+                -99.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -15.0,
+                -96.0,
+                0.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              26
+            ]
+          }
+        },
+        {
+          "id": "Positive correlation with punishment frequency (percentage inequality for excluders - percentage inequality for includers); affiliation",
+          "name": "Positive correlation with punishment frequency (percentage inequality for excluders - percentage inequality for includers); affiliation",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                15.0,
+                60.0,
+                24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                24.0,
+                -60.0,
+                42.0
               ]
             },
             {
@@ -7203,6 +7211,46 @@
             {
               "space": "MNI",
               "coordinates": [
+                3.0,
+                -33.0,
+                27.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                33.0,
+                54.0,
+                9.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                9.0,
+                -27.0,
+                30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                9.0,
+                -30.0,
+                24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                57.0,
+                -54.0,
+                42.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
                 -51.0,
                 -48.0,
                 36.0
@@ -7219,49 +7267,17 @@
             {
               "space": "MNI",
               "coordinates": [
-                9.0,
-                -27.0,
-                30.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                33.0,
-                54.0,
-                9.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                24.0,
-                -60.0,
-                42.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                9.0,
-                -30.0,
-                24.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                3.0,
                 -33.0,
-                27.0
+                18.0,
+                54.0
               ]
             },
             {
               "space": "MNI",
               "coordinates": [
-                39.0,
-                -72.0,
-                24.0
+                9.0,
+                36.0,
+                36.0
               ]
             },
             {
@@ -7275,17 +7291,9 @@
             {
               "space": "MNI",
               "coordinates": [
-                57.0,
-                -54.0,
-                42.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
+                -30.0,
                 -6.0,
-                18.0,
-                51.0
+                48.0
               ]
             },
             {
@@ -7331,8 +7339,8 @@
             {
               "space": "MNI",
               "coordinates": [
-                15.0,
-                60.0,
+                39.0,
+                -72.0,
                 24.0
               ]
             },
@@ -7347,17 +7355,17 @@
             {
               "space": "MNI",
               "coordinates": [
-                -33.0,
-                18.0,
-                54.0
+                -9.0,
+                -9.0,
+                3.0
               ]
             },
             {
               "space": "MNI",
               "coordinates": [
-                -9.0,
-                -9.0,
-                3.0
+                -39.0,
+                18.0,
+                27.0
               ]
             },
             {
@@ -7411,17 +7419,9 @@
             {
               "space": "MNI",
               "coordinates": [
-                9.0,
-                36.0,
-                36.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -39.0,
+                -6.0,
                 18.0,
-                27.0
+                51.0
               ]
             },
             {
@@ -7449,8 +7449,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "friend > kin condition",
-          "name": "friend > kin condition",
+          "id": "friend > kin condition; affiliation",
+          "name": "friend > kin condition; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -7567,8 +7567,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "Builder (COO > COM) > Other (COO > COM)",
-          "name": "Builder (COO > COM) > Other (COO > COM)",
+          "id": "Builder (COO > COM) > Other (COO > COM); affiliation",
+          "name": "Builder (COO > COM) > Other (COO > COM); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -7684,8 +7684,8 @@
           }
         },
         {
-          "id": "CN > TB",
-          "name": "CN > TB",
+          "id": "CN > TB; affiliation",
+          "name": "CN > TB; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -7841,8 +7841,8 @@
           }
         },
         {
-          "id": "Competition > Cooperation",
-          "name": "Competition > Cooperation",
+          "id": "Competition > Cooperation; affiliation",
+          "name": "Competition > Cooperation; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -7990,8 +7990,8 @@
           }
         },
         {
-          "id": "Cooperation > competition",
-          "name": "Cooperation > competition",
+          "id": "Cooperation > competition; affiliation",
+          "name": "Cooperation > competition; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -8123,8 +8123,8 @@
           }
         },
         {
-          "id": "Other (COO > COM) > Builder (COO > COM)",
-          "name": "Other (COO > COM) > Builder (COO > COM)",
+          "id": "Other (COO > COM) > Builder (COO > COM); affiliation",
+          "name": "Other (COO > COM) > Builder (COO > COM); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -8264,8 +8264,8 @@
           }
         },
         {
-          "id": "TB (COO > COM) > CN (COO > COM)",
-          "name": "TB (COO > COM) > CN (COO > COM)",
+          "id": "TB (COO > COM) > CN (COO > COM); affiliation",
+          "name": "TB (COO > COM) > CN (COO > COM); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -8398,8 +8398,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "Social alliance vs. \u2018number equal\u2019",
-          "name": "Social alliance vs. \u2018number equal\u2019",
+          "id": "Social alliance vs. \u2018number equal\u2019; affiliation",
+          "name": "Social alliance vs. \u2018number equal\u2019; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -8412,163 +8412,163 @@
           "images": [],
           "points": [
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -15.524410148226181,
-                -103.64693972617792,
-                18.185180430395125
+                -16.0,
+                -100.0,
+                12.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                62.05888045556172,
-                30.824686267321077,
-                16.053615617269063
+                57.0,
+                26.0,
+                21.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                61.93204947483762,
-                37.19858130821296,
-                2.1381360276921573
+                57.0,
+                33.0,
+                9.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -43.70086388973397,
-                21.73158310190018,
-                18.03100685714438
+                -42.0,
+                18.0,
+                21.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -44.02920454778414,
-                31.507931117464445,
-                -20.701902100135104
+                -42.0,
+                30.0,
+                -13.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -35.50654741532493,
-                22.50025565965236,
-                -27.85078820924279
+                -34.0,
+                22.0,
+                -20.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                9.717403940841493,
-                52.68705697099834,
-                28.203796202955562
+                8.0,
+                46.0,
+                33.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -5.226137885346866,
-                54.96922436287326,
-                31.529657129620833
+                -6.0,
+                48.0,
+                36.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                5.488943570142042,
-                56.433307573655256,
-                35.744595909098535
+                4.0,
+                49.0,
+                40.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -13.95958829792517,
-                60.69225972356701,
-                9.9612198374667
+                -14.0,
+                55.0,
+                17.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                1.421923150456834,
-                37.68757014394636,
-                55.20658962498665
+                0.0,
+                30.0,
+                56.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                3.598715583040219,
-                27.126305439489563,
-                56.067285670174044
+                2.0,
+                20.0,
+                56.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                52.44939723294513,
-                28.65224983560028,
-                16.34618269305623
+                48.0,
+                24.0,
+                21.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -5.040942692969818,
-                26.13279450900409,
-                43.982642536701775
+                -6.0,
+                20.0,
+                45.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                24.930445349943625,
-                -99.487214913147,
-                -0.4715568480381016
+                22.0,
+                -95.0,
+                -4.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                43.86714785384039,
-                -54.131005428260536,
-                -21.220787347707553
+                40.0,
+                -51.0,
+                -19.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -24.448585086209647,
-                -51.56932329960316,
-                -9.498903157669101
+                -24.0,
+                -49.0,
+                -9.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                5.71141032770403,
-                -51.10630851540942,
-                21.341437352496303
+                4.0,
+                -51.0,
+                19.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                11.862454935158421,
-                -29.60385923975921,
-                -3.951681801050785
+                10.0,
+                -29.0,
+                -2.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -0.9686656605014332,
-                -27.565875287550988,
-                -3.9752078979290744
+                -2.0,
+                -27.0,
+                -2.0
               ]
             }
           ],
@@ -8579,8 +8579,8 @@
           }
         },
         {
-          "id": "Social hierarchy vs. fame, age, gender and \u2018no. higher / lower\u2019",
-          "name": "Social hierarchy vs. fame, age, gender and \u2018no. higher / lower\u2019",
+          "id": "Social hierarchy vs. fame, age, gender and \u2018no. higher / lower\u2019; affiliation",
+          "name": "Social hierarchy vs. fame, age, gender and \u2018no. higher / lower\u2019; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -8593,107 +8593,107 @@
           "images": [],
           "points": [
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -46.16640491142952,
-                31.49512611941563,
-                -20.67627914976283
+                -44.0,
+                30.0,
+                -13.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -51.48960978607394,
-                26.176078773040782,
-                -20.16906227605231
+                -49.0,
+                25.0,
+                -13.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -43.69690468284016,
-                20.67417613164962,
-                18.119638756700347
+                -42.0,
+                17.0,
+                21.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -43.78209581111812,
-                29.676861988473643,
-                10.674423514354073
+                -42.0,
+                26.0,
+                15.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -32.89977155745155,
-                -86.85762456035428,
-                -10.90324410172812
+                -32.0,
+                -82.0,
+                -13.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -0.7591689923813363,
-                -85.80892146390366,
-                -0.2083747800746254
+                -2.0,
+                -82.0,
+                -3.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -37.06747863573856,
-                -90.17057149916396,
-                1.6896643322016676
+                -36.0,
+                -86.0,
+                -2.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                20.481839519325632,
-                -52.986918218219955,
-                -4.320114527756121
+                18.0,
+                -51.0,
+                -4.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -5.419796932001387,
-                -23.932043871260724,
-                -25.41762729171582
+                -6.0,
+                -22.0,
+                -21.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -0.681896277890983,
-                -92.69679338022658,
-                7.059576663159714
+                -2.0,
+                -89.0,
+                3.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -7.004347033655353,
-                -102.79530120144761,
-                14.670292656178777
+                -8.0,
+                -99.0,
+                9.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -41.540999959595894,
-                -71.39039124907848,
-                -16.561916224473578
+                -40.0,
+                -67.0,
+                -17.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -45.896291311019446,
-                -61.2702456055297,
-                -22.93659610790751
+                -44.0,
+                -57.0,
+                -22.0
               ]
             }
           ],
@@ -8713,8 +8713,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "H(I + C) > M(I + C)",
-          "name": "H(I + C) > M(I + C)",
+          "id": "H(I + C) > M(I + C); affiliation",
+          "name": "H(I + C) > M(I + C); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -8727,83 +8727,83 @@
           "images": [],
           "points": [
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                36.227895710826836,
-                -16.28049761755488,
-                -26.537698120866942
+                33.0,
+                -15.0,
+                -21.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -27.665580657856403,
-                -44.01535637977879,
-                -7.865049313554939
+                -27.0,
+                -42.0,
+                -7.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                33.41091639557644,
-                -88.06150668591108,
-                -4.872763617814123
+                30.0,
+                -84.0,
+                -7.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -30.78926175030871,
-                -72.84154051133267,
-                -8.757317673156688
+                -30.0,
+                -69.0,
+                -10.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -46.895810706274695,
-                11.938724434856395,
-                15.543364305535214
+                -45.0,
+                9.0,
+                18.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -5.469287415119085,
-                55.74288652161351,
-                0.24196341468762306
+                -6.0,
+                51.0,
+                8.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                55.4791498287067,
-                36.73185225120732,
-                -3.3246019098098243
+                51.0,
+                33.0,
+                4.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -5.304093194339931,
-                57.456142773050246,
-                22.40039056916284
+                -6.0,
+                51.0,
+                28.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -5.502326259274916,
-                55.40023527132615,
-                -4.189722016207421
+                -6.0,
+                51.0,
+                4.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                68.65554037875242,
-                -25.436456599527713,
-                17.350473369447233
+                63.0,
+                -27.0,
+                18.0
               ]
             }
           ],
@@ -8814,8 +8814,8 @@
           }
         },
         {
-          "id": "I(H + M) > C(H + M)",
-          "name": "I(H + M) > C(H + M)",
+          "id": "I(H + M) > C(H + M); affiliation",
+          "name": "I(H + M) > C(H + M); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -8828,107 +8828,107 @@
           "images": [],
           "points": [
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                52.349256808723574,
-                21.022865825519357,
-                0.25915372453562036
+                48.0,
+                18.0,
+                6.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                14.431003119208846,
-                13.328923784516004,
-                69.36715244705758
+                12.0,
+                6.0,
+                67.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                36.29731779464563,
-                59.13535167492859,
-                12.86010837600147
+                33.0,
+                53.0,
+                20.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                7.829769971628048,
-                13.520740854290256,
-                44.89248762913974
+                6.0,
+                8.0,
+                45.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -40.20078542212562,
-                5.030361073902915,
-                49.50182328213492
+                -39.0,
+                0.0,
+                48.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -11.051298698626622,
-                -71.90181746815716,
-                56.73396347741861
+                -12.0,
+                -73.0,
+                49.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -1.4965617780205358,
-                -50.5247299467826,
-                57.061864925071546
+                -3.0,
+                -53.0,
+                51.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                40.15304228819335,
-                -57.133451181765075,
-                50.446480643805444
+                36.0,
+                -59.0,
+                45.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                36.33417948557279,
-                30.957467947839305,
-                6.301166902666537
+                33.0,
+                27.0,
+                12.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                14.347519271078042,
-                -99.5806931227796,
-                13.040246096064369
+                12.0,
+                -96.0,
+                8.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                49.33165534777871,
-                -68.21738801607165,
-                -11.180627268064605
+                45.0,
+                -65.0,
+                -11.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                17.137056858316758,
-                34.528420751582665,
-                12.913405903691668
+                15.0,
+                30.0,
+                18.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -27.07620585895067,
-                -45.59213391664778,
-                68.09402630855257
+                -27.0,
+                -49.0,
+                61.0
               ]
             }
           ],
@@ -8939,8 +8939,8 @@
           }
         },
         {
-          "id": "[H(I > C)] > [M(I > C)]",
-          "name": "[H(I > C)] > [M(I > C)]",
+          "id": "[H(I > C)] > [M(I > C)]; affiliation",
+          "name": "[H(I > C)] > [M(I > C)]; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -8953,59 +8953,59 @@
           "images": [],
           "points": [
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                39.44345751646174,
-                20.089407711508084,
-                -10.666322150468343
+                36.0,
+                18.0,
+                -4.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                13.980814579082441,
-                35.02319012994047,
-                19.599368475592648
+                12.0,
+                30.0,
+                24.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                29.90291872029013,
-                63.669215812071734,
-                17.014135059789467
+                27.0,
+                57.0,
+                24.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                59.247703193584385,
-                -3.548217998794824,
-                53.539728616722925
+                54.0,
+                -9.0,
+                52.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                71.74625120405534,
-                -49.67870297944036,
-                -7.416803750806128
+                66.0,
+                -48.0,
+                -6.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                33.153772884608266,
-                -44.59270487367773,
-                -20.782438334126127
+                30.0,
+                -42.0,
+                -18.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -56.516215440934666,
-                -60.64896809519908,
-                -13.94511049425605
+                -54.0,
+                -57.0,
+                -14.0
               ]
             }
           ],
@@ -9025,8 +9025,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "PD \u2013 Gamble",
-          "name": "PD \u2013 Gamble",
+          "id": "PD \u2013 Gamble; affiliation",
+          "name": "PD \u2013 Gamble; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -9039,107 +9039,107 @@
           "images": [],
           "points": [
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                5.636936568230942,
-                -79.34040183568203,
-                0.2908863291965078
+                4.0,
+                -76.0,
+                -2.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -0.46632483625290244,
-                -58.60547874008682,
-                48.80610588498709
+                -2.0,
+                -60.0,
+                43.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -47.522413482003515,
-                -62.57338648334348,
-                42.98817834550246
+                -46.0,
+                -63.0,
+                37.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                50.73235045741649,
-                -53.78208924880896,
-                37.77670335875882
+                46.0,
+                -55.0,
+                34.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -31.135487813332595,
-                60.87626139628051,
-                0.10627932137507656
+                -30.0,
+                56.0,
+                8.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                47.36005828527989,
-                15.87244725869448,
-                44.24119924814073
+                43.0,
+                10.0,
+                45.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -30.47669013671769,
-                1.8006466224105548,
-                61.92818253864493
+                -30.0,
+                -4.0,
+                59.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                26.71725550654243,
-                60.563450216818666,
-                18.426386541739543
+                24.0,
+                54.0,
+                25.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                1.3181648165928286,
-                33.31606985718896,
-                39.9615863155219
+                0.0,
+                27.0,
+                42.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -68.31491495119627,
-                -26.025744410731257,
-                -5.561191475761891
+                -65.0,
+                -25.0,
+                -4.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                3.4762536834676965,
-                -18.082508997975335,
-                21.94323548980487
+                2.0,
+                -20.0,
+                22.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                33.0113777965539,
-                20.937074062468522,
-                -12.89392791435501
+                30.0,
+                19.0,
+                -6.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -32.177533798775215,
-                19.403451839157228,
-                -13.131717386168438
+                -31.0,
+                18.0,
+                -7.0
               ]
             }
           ],
@@ -9159,8 +9159,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "Reward Prediction Error (control) > Reward probability (other)",
-          "name": "Reward Prediction Error (control) > Reward probability (other)",
+          "id": "Reward Prediction Error (control) > Reward probability (other); affiliation",
+          "name": "Reward Prediction Error (control) > Reward probability (other); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -9173,11 +9173,11 @@
           "images": [],
           "points": [
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                7.26339924257599,
-                57.07790232468915,
-                -11.168251663895568
+                6.0,
+                53.0,
+                -2.0
               ]
             }
           ],
@@ -9188,8 +9188,8 @@
           }
         },
         {
-          "id": "Reward probability (other) >  Reward Prediction Error (control)",
-          "name": "Reward probability (other) >  Reward Prediction Error (control)",
+          "id": "Reward probability (other) >  Reward Prediction Error (control); affiliation",
+          "name": "Reward probability (other) >  Reward Prediction Error (control); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -9202,19 +9202,19 @@
           "images": [],
           "points": [
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                49.2863290086837,
-                -14.8625158475011,
-                4.418994092720688
+                45.0,
+                -16.0,
+                7.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -5.546901426860794,
-                60.430281684863445,
-                -7.956645587158541
+                -6.0,
+                56.0,
+                1.0
               ]
             }
           ],
@@ -9225,8 +9225,8 @@
           }
         },
         {
-          "id": "Reward probability (other) > Reward Prediction Error (other)",
-          "name": "Reward probability (other) > Reward Prediction Error (other)",
+          "id": "Reward probability (other) > Reward Prediction Error (other); affiliation",
+          "name": "Reward probability (other) > Reward Prediction Error (other); affiliation",
           "conditions": [
             {
               "name": "default",
@@ -9239,51 +9239,51 @@
           "images": [],
           "points": [
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -40.51274301822035,
-                -12.485093292515216,
-                1.9054982365170217
+                -39.0,
+                -13.0,
+                4.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -11.460257260564658,
-                2.946542201305653,
-                33.73364634353254
+                -12.0,
+                -1.0,
+                34.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                40.077271122830886,
-                -13.980544246024268,
-                57.98041823880435
+                36.0,
+                -19.0,
+                55.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                4.09527934266027,
-                60.744892613798626,
-                -4.748184790662493
+                3.0,
+                56.0,
+                4.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -56.38324110968616,
-                -27.414281580777704,
-                16.72220515033372
+                -54.0,
+                -28.0,
+                16.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                59.02660241891819,
-                -20.121381426922746,
-                18.13053850606639
+                54.0,
+                -22.0,
+                19.0
               ]
             }
           ],
@@ -9294,8 +9294,8 @@
           }
         },
         {
-          "id": "Simulated-other\u2019s action prediction error > Simulated-other\u2019s reward prediction error",
-          "name": "Simulated-other\u2019s action prediction error > Simulated-other\u2019s reward prediction error",
+          "id": "Simulated-other\u2019s action prediction error > Simulated-other\u2019s reward prediction error; affiliation",
+          "name": "Simulated-other\u2019s action prediction error > Simulated-other\u2019s reward prediction error; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -9308,59 +9308,59 @@
           "images": [],
           "points": [
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                49.47678001995356,
-                16.771333601850184,
-                41.911101682764965
+                45.0,
+                11.0,
+                43.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                7.863832707537946,
-                20.464822363796483,
-                52.11614573587026
+                6.0,
+                14.0,
+                52.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                43.27692831777454,
-                -53.5699183042643,
-                41.19014775823307
+                39.0,
+                -55.0,
+                37.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                42.63307993710325,
-                22.137766336510595,
-                -11.989941732862452
+                39.0,
+                20.0,
+                -5.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                7.548462138929661,
-                -19.055399533351235,
-                -4.786754895865911
+                6.0,
+                -19.0,
+                -2.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                14.124302135897295,
-                -76.6309378081661,
-                -6.725029317303058
+                12.0,
+                -73.0,
+                -8.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -46.497364576012636,
-                -50.9355073115629,
-                42.00041597520068
+                -45.0,
+                -52.0,
+                37.0
               ]
             }
           ],
@@ -9371,8 +9371,8 @@
           }
         },
         {
-          "id": "Simulated-other\u2019s reward prediction error > Simulated-other\u2019s action prediction error",
-          "name": "Simulated-other\u2019s reward prediction error > Simulated-other\u2019s action prediction error",
+          "id": "Simulated-other\u2019s reward prediction error > Simulated-other\u2019s action prediction error; affiliation",
+          "name": "Simulated-other\u2019s reward prediction error > Simulated-other\u2019s action prediction error; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -9385,11 +9385,11 @@
           "images": [],
           "points": [
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                0.9013564178736089,
-                57.55346420597372,
-                -4.443854666436179
+                0.0,
+                53.0,
+                4.0
               ]
             }
           ],
@@ -9409,8 +9409,8 @@
       "metadata": {},
       "analyses": [
         {
-          "id": "Familiar faces > Novel faces",
-          "name": "Familiar faces > Novel faces",
+          "id": "Familiar faces > Novel faces; affiliation",
+          "name": "Familiar faces > Novel faces; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -9423,51 +9423,51 @@
           "images": [],
           "points": [
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -48.31493666137605,
-                11.592367531138343,
-                -30.13449558462075
+                -46.0,
+                12.0,
+                -23.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -34.37548745483303,
-                26.449844382574987,
-                -18.15820316358298
+                -33.0,
+                25.0,
+                -11.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                1.4267698889822342,
-                15.768465425788605,
-                47.007935396592146
+                0.0,
+                10.0,
+                47.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                1.5096405135071194,
-                -61.36333696372531,
-                26.71068767969557
+                0.0,
+                -61.0,
+                23.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -39.46680560899998,
-                -52.25859797394774,
-                -17.074992009129506
+                -38.0,
+                -49.0,
+                -16.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                37.451928853261826,
-                -50.91153669908347,
-                -20.301892837534872
+                34.0,
+                -48.0,
+                -18.0
               ]
             }
           ],
@@ -9478,8 +9478,8 @@
           }
         },
         {
-          "id": "Famous faces > Novel faces",
-          "name": "Famous faces > Novel faces",
+          "id": "Famous faces > Novel faces; affiliation",
+          "name": "Famous faces > Novel faces; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -9492,43 +9492,43 @@
           "images": [],
           "points": [
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -33.42388841656117,
-                16.45506049330184,
-                -37.40454388134907
+                -32.0,
+                17.0,
+                -29.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                61.194452545959905,
-                -35.16926245009729,
-                16.021998076306378
+                56.0,
+                -36.0,
+                16.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -1.7461281724524667,
-                -11.37121882812334,
-                40.39879644925965
+                -3.0,
+                -15.0,
+                39.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                1.2656034521033006,
-                -39.72797705707788,
-                3.7102800927128268
+                0.0,
+                -39.0,
+                4.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                17.310101709767466,
-                -46.062044205786954,
-                2.941978004532814
+                15.0,
+                -45.0,
+                3.0
               ]
             }
           ],
@@ -9539,8 +9539,8 @@
           }
         },
         {
-          "id": "Famous faces > Novel landmarks",
-          "name": "Famous faces > Novel landmarks",
+          "id": "Famous faces > Novel landmarks; affiliation",
+          "name": "Famous faces > Novel landmarks; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -9553,123 +9553,123 @@
           "images": [],
           "points": [
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                42.7216162547787,
-                -45.049059257889084,
-                -27.545269757143927
+                39.0,
+                -42.0,
+                -24.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                22.262233605155092,
-                12.528909342180306,
-                -24.332524800563238
+                20.0,
+                12.0,
+                -17.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                46.00496223498206,
-                3.0085323371133734,
-                1.84276486810389
+                42.0,
+                1.0,
+                6.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -8.690719851033464,
-                34.69065565148941,
-                -10.222731003151955
+                -9.0,
+                32.0,
+                -3.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -2.3037615330917434,
-                61.93521021504642,
-                -2.5441051236541155
+                -3.0,
+                57.0,
+                6.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                1.471891290948356,
-                -12.323755488728839,
-                41.556915280980974
+                0.0,
+                -16.0,
+                40.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -31.217675049464404,
-                9.494330762455917,
-                -31.27013674621077
+                -30.0,
+                10.0,
+                -24.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                58.623924361517396,
-                -11.115998724505015,
-                -30.573662670726943
+                54.0,
+                -10.0,
+                -24.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                56.972750337171526,
-                -67.60238405428645,
-                9.86883010193986
+                52.0,
+                -66.0,
+                8.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                1.5296414851050122,
-                -91.91302306903121,
-                17.00524593230129
+                0.0,
+                -89.0,
+                12.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                27.571171778358632,
-                5.616840327796122,
-                -31.620240283224444
+                25.0,
+                6.0,
+                -24.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                1.5304604397301915,
-                -60.048941555759235,
-                29.945819853310883
+                0.0,
+                -60.0,
+                26.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                42.763733764598676,
-                -12.756663681757914,
-                -9.065089047515524
+                39.0,
+                -13.0,
+                -5.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -51.56408354554703,
-                -2.05801454723182,
-                -41.219613299352105
+                -49.0,
+                0.0,
+                -34.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                4.124358979922299,
-                62.14495083433654,
-                -0.405131259323416
+                3.0,
+                57.0,
+                8.0
               ]
             }
           ],
@@ -9680,8 +9680,8 @@
           }
         },
         {
-          "id": "Famous \u2229 Familiar faces",
-          "name": "Famous \u2229 Familiar faces",
+          "id": "Famous \u2229 Familiar faces; affiliation",
+          "name": "Famous \u2229 Familiar faces; affiliation",
           "conditions": [
             {
               "name": "default",
@@ -9694,19 +9694,19 @@
           "images": [],
           "points": [
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -1.9283194726833601,
-                -42.91940546490279,
-                4.01461021693914
+                -3.0,
+                -42.0,
+                4.0
               ]
             },
             {
-              "space": "MNI",
+              "space": "TAL",
               "coordinates": [
-                -39.814328284022864,
-                19.931517660194423,
-                -33.16188529800511
+                -38.0,
+                20.0,
+                -25.0
               ]
             }
           ],
