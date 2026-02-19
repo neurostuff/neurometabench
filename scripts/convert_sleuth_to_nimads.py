@@ -13,6 +13,7 @@ Files with the same base name but different coordinate space suffixes
 import argparse
 import csv
 import copy
+import inspect
 import json
 import math
 import re
@@ -45,6 +46,43 @@ GENERATED_FILENAMES = {
     "fuzzy_merge_diagnostics.json",
     "match_results_all_annotations.json",
 }
+
+
+def ensure_compatible_nimare_build() -> None:
+    """
+    Fail fast if NiMARE would silently convert Talairach coordinates to MNI.
+
+    Expected behavior for this pipeline is that Sleuth -> NiMADS preserves
+    the coordinate space from the Sleuth `//Reference=` header.
+    """
+    fn = getattr(nimare.io, "convert_sleuth_to_nimads_dict", None)
+    if fn is None:
+        raise RuntimeError(
+            "NiMARE does not expose convert_sleuth_to_nimads_dict. "
+            "Install /home/zorro/repos/NiMARE in editable mode."
+        )
+
+    try:
+        sig = inspect.signature(fn)
+        target_param = sig.parameters.get("target")
+        target_default = None if target_param is None else target_param.default
+    except Exception as exc:
+        raise RuntimeError(f"Unable to inspect NiMARE conversion signature: {exc}") from exc
+
+    if target_param is None or target_default is not None:
+        loaded_from = inspect.getsourcefile(fn) or "<unknown>"
+        raise RuntimeError(
+            "Incompatible NiMARE build detected for Sleuth conversion.\n"
+            "This script requires convert_sleuth_to_nimads_dict(..., target=None by default)\n"
+            "to preserve Talairach/MNI spaces from the Sleuth file.\n"
+            f"Detected default target={target_default!r} from: {loaded_from}\n\n"
+            "Fix:\n"
+            "  pip uninstall nimare\n"
+            "  pip install -e /home/zorro/repos/NiMARE"
+        )
+
+    loaded_from = inspect.getsourcefile(fn) or "<unknown>"
+    print(f"NiMARE conversion guard passed: {loaded_from}")
 
 
 def _is_empty(value: Any) -> bool:
@@ -1823,6 +1861,7 @@ Examples:
     )
     
     args = parser.parse_args()
+    ensure_compatible_nimare_build()
     
     # Paths
     base_dir = Path(__file__).parent.parent
