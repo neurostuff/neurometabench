@@ -1,68 +1,18 @@
 #!/usr/bin/env python3
 """
-Run meta-analyses for merged NiMADS datasets.
+Run meta-analyses for merged NiMADS datasets via autonima.meta.
 
 This script discovers merged NiMADS studysets in data/nimads/<project>/merged,
-expects a companion nimads_annotation.json file, and runs one meta-analysis per
-annotation boolean note key by slicing analyses where that key is True.
+expects a companion nimads_annotation.json file, and delegates meta-analysis
+execution to autonima.meta.
 """
 
 import argparse
 import json
 import sys
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
-
-# Try to import NiMARE dependencies
-try:
-    from nimare.correct import FDRCorrector, FWECorrector
-    from nimare.workflows import CBMAWorkflow
-    from nimare.meta.cbma import MKDADensity, ALE, KDA
-    from nimare.nimads import Studyset
-    from nimare.reports.base import run_reports
-
-    NIMARE_AVAILABLE = True
-except ImportError:
-    NIMARE_AVAILABLE = False
-    print(
-        "WARNING: NiMARE is not installed. "
-        "Please install with: pip install nimare",
-        file=sys.stderr,
-    )
-
-
-def create_estimator(estimator_name: str, estimator_args: Dict):
-    """Create an estimator instance based on the name and arguments."""
-    if not NIMARE_AVAILABLE:
-        raise ImportError("NiMARE is required but not installed")
-
-    estimator_map = {
-        "ale": ALE,
-        "mkdadensity": MKDADensity,
-        "kda": KDA,
-    }
-
-    if estimator_name not in estimator_map:
-        raise ValueError(f"Unsupported estimator: {estimator_name}")
-
-    estimator_class = estimator_map[estimator_name]
-    return estimator_class(**estimator_args)
-
-
-def create_corrector(corrector_name: str, corrector_args: Dict):
-    """Create a corrector instance based on the name and arguments."""
-    if not NIMARE_AVAILABLE:
-        raise ImportError("NiMARE is required but not installed")
-
-    if corrector_name == "fdr":
-        return FDRCorrector(**corrector_args)
-    if corrector_name == "montecarlo":
-        return FWECorrector(method="montecarlo", **corrector_args)
-    if corrector_name == "bonferroni":
-        return FWECorrector(method="bonferroni", **corrector_args)
-
-    raise ValueError(f"Unsupported corrector: {corrector_name}")
-
+from typing import Dict, List, Optional
+from autonima import meta as autonima_meta
 
 def find_merged_nimads_files(data_dir: Path) -> Dict[str, Dict[str, Path]]:
     """
@@ -96,172 +46,22 @@ def find_merged_nimads_files(data_dir: Path) -> Dict[str, Dict[str, Path]]:
     return project_files
 
 
-def load_include_ids(include_file: Optional[Path]) -> Optional[set[str]]:
-    """
-    Load PMID/study IDs from a text file (one ID per line).
-
-    The IDs are applied as a post-hoc restriction after annotation slicing.
-    """
-    if include_file is None:
-        return None
-
-    if not include_file.exists():
-        raise FileNotFoundError(f"Include file not found: {include_file}")
-
-    with include_file.open("r") as f:
-        ids = {line.strip() for line in f if line.strip()}
-
-    print(f"Loaded {len(ids)} PMID IDs to include from {include_file}")
-    return ids
-
-
-def maybe_sanitize_nimads_payloads(studyset_data: Dict, annotation_data) -> Tuple[Dict, Dict]:
-    """Sanitize NiMADS payloads using autonima helpers when available."""
-    if isinstance(annotation_data, list):
-        annotation_data = annotation_data[0] if annotation_data else {}
-
-    try:
-        from autonima.coordinates.nimads_models import (
-            sanitize_studyset_dict,
-            sanitize_annotation_dict,
-        )
-    except Exception:
-        print(
-            "Warning: Could not import autonima sanitizers; using raw NiMADS payloads.",
-            file=sys.stderr,
-        )
-        return studyset_data, annotation_data
-
-    return sanitize_studyset_dict(studyset_data), sanitize_annotation_dict(annotation_data)
-
-
-def load_project_payloads(studyset_file: Path, annotation_file: Path) -> Tuple[Dict, Dict]:
-    """Load and sanitize merged studyset/annotation payloads."""
-    with studyset_file.open("r") as f:
-        studyset_data = json.load(f)
-
+def load_boolean_note_keys(annotation_file: Path) -> List[str]:
+    """Read annotation note_keys and return boolean keys only."""
     with annotation_file.open("r") as f:
-        annotation_data = json.load(f)
+        payload = json.load(f)
 
-    studyset_data, annotation_data = maybe_sanitize_nimads_payloads(
-        studyset_data, annotation_data
-    )
+    if isinstance(payload, list):
+        payload = payload[0] if payload else {}
 
-    if not isinstance(annotation_data, dict):
-        raise ValueError(f"Invalid annotation payload in {annotation_file}: expected object")
+    note_keys = payload.get("note_keys", {})
+    if not isinstance(note_keys, dict):
+        return []
 
-    note_keys = annotation_data.get("note_keys", {})
-    notes = annotation_data.get("notes", [])
-
-    if not isinstance(note_keys, dict) or not note_keys:
-        raise ValueError(f"Invalid annotation payload in {annotation_file}: missing note_keys")
-    if not isinstance(notes, list):
-        raise ValueError(f"Invalid annotation payload in {annotation_file}: notes must be a list")
-
-    return studyset_data, annotation_data
-
-
-def get_boolean_note_keys(annotation_data: Dict) -> List[str]:
-    """Return annotation note keys with boolean type."""
-    note_keys = annotation_data.get("note_keys", {})
     return [key for key, key_type in note_keys.items() if key_type == "boolean"]
 
 
-def get_analysis_ids_for_note(annotation_data: Dict, note_key: str) -> List[str]:
-    """Return analysis IDs where annotation note_key evaluates True."""
-    analysis_ids: List[str] = []
-
-    for row in annotation_data.get("notes", []):
-        analysis_id = str(row.get("analysis", "")).strip()
-        note = row.get("note", {})
-        if not analysis_id or not isinstance(note, dict):
-            continue
-        if bool(note.get(note_key, False)):
-            analysis_ids.append(analysis_id)
-
-    return analysis_ids
-
-
-def run_meta_analysis_for_note_key(
-    studyset: Studyset,
-    annotation_data: Dict,
-    note_key: str,
-    output_dir: Path,
-    estimator_name: str = "mkdadensity",
-    estimator_args: Optional[Dict] = None,
-    corrector_name: str = "fdr",
-    corrector_args: Optional[Dict] = None,
-    include_ids: Optional[set[str]] = None,
-):
-    """Run meta-analysis for one annotation boolean note key."""
-    note_type = annotation_data.get("note_keys", {}).get(note_key)
-    if note_type != "boolean":
-        print(f"Skipping note key '{note_key}' (non-boolean type: {note_type})")
-        return None
-
-    analysis_ids = get_analysis_ids_for_note(annotation_data, note_key)
-    if not analysis_ids:
-        print(f"Skipping note key '{note_key}' (0 analyses in annotation slice)")
-        return None
-
-    print(f"\n{'=' * 80}")
-    print(f"Running note key: {note_key}")
-    print(f"Slicing to {len(analysis_ids)} analyses from annotation")
-    print(f"{'=' * 80}")
-
-    sliced_studyset = studyset.slice(analyses=analysis_ids)
-
-    if include_ids is not None:
-        filtered_analysis_ids = [
-            analysis.id
-            for study in sliced_studyset.studies
-            if study.id in include_ids
-            for analysis in study.analyses
-        ]
-        sliced_studyset = sliced_studyset.slice(analyses=filtered_analysis_ids)
-        restricted_studies = len(sliced_studyset.studies)
-        restricted_analyses = sum(len(study.analyses) for study in sliced_studyset.studies)
-        print(
-            "Applied post-hoc PMID filter: "
-            f"{restricted_analyses} analyses across {restricted_studies} studies"
-        )
-
-    for study in sliced_studyset.studies:
-        study.name = study.id
-        for analysis in study.analyses:
-            analysis.name = analysis.id
-
-    dataset = sliced_studyset.to_dataset()
-    if len(dataset.ids) == 0:
-        print(f"Skipping note key '{note_key}' (slice produced 0 analyses in dataset)")
-        return None
-
-    print(f"Dataset contains {len(dataset.ids)} analyses")
-
-    estimator = create_estimator(estimator_name, estimator_args or {})
-    corrector = create_corrector(corrector_name, corrector_args or {})
-
-    print(
-        f"Running meta-analysis with {estimator_name} estimator "
-        f"and {corrector_name} corrector..."
-    )
-    workflow = CBMAWorkflow(
-        estimator=estimator,
-        corrector=corrector,
-        diagnostics="focuscounter",
-        output_dir=str(output_dir),
-    )
-
-    meta_results = workflow.fit(dataset)
-
-    print("Generating reports...")
-    run_reports(meta_results, str(output_dir))
-
-    print(f"✓ Results saved to: {output_dir}")
-    return meta_results
-
-
-def main():
+def main() -> int:
     """Main function to run merged NiMADS annotation-sliced meta-analyses."""
     parser = argparse.ArgumentParser(
         description="Run meta-analyses on merged NiMADS datasets (one run per annotation boolean note key)",
@@ -349,14 +149,6 @@ Examples:
 
     args = parser.parse_args()
 
-    if not NIMARE_AVAILABLE:
-        print(
-            "ERROR: NiMARE is not installed. Please install it first:",
-            file=sys.stderr,
-        )
-        print("  pip install nimare", file=sys.stderr)
-        return 1
-
     try:
         estimator_args = json.loads(args.estimator_args)
         corrector_args = json.loads(args.corrector_args)
@@ -364,8 +156,9 @@ Examples:
         print(f"Error parsing JSON arguments: {e}", file=sys.stderr)
         return 1
 
+    include_ids: Optional[set[str]] = None
     try:
-        include_ids = load_include_ids(args.include_ids)
+        include_ids = autonima_meta.load_include_ids(args.include_ids)
     except FileNotFoundError as e:
         print(f"Error: {e}", file=sys.stderr)
         return 1
@@ -402,14 +195,11 @@ Examples:
 
     print(f"\nFound {len(project_files)} merged project(s):")
     project_note_keys: Dict[str, List[str]] = {}
-    project_payloads: Dict[str, Tuple[Dict, Dict]] = {}
     for project, paths in project_files.items():
-        studyset_data, annotation_data = load_project_payloads(paths["studyset"], paths["annotation"])
-        project_payloads[project] = (studyset_data, annotation_data)
-        bool_keys = get_boolean_note_keys(annotation_data)
-        project_note_keys[project] = bool_keys
+        note_keys = load_boolean_note_keys(paths["annotation"])
+        project_note_keys[project] = note_keys
         print(
-            f"  - {project}: {len(bool_keys)} boolean note key(s) "
+            f"  - {project}: {len(note_keys)} boolean note key(s) "
             f"from {paths['annotation'].relative_to(args.data_dir)}"
         )
 
@@ -421,7 +211,7 @@ Examples:
     for project, paths in project_files.items():
         studyset_file = paths["studyset"]
         annotation_file = paths["annotation"]
-        studyset_data, annotation_data = project_payloads[project]
+        note_keys = project_note_keys[project]
 
         print(f"\n{'#' * 80}")
         print(f"# Project: {project}")
@@ -429,44 +219,29 @@ Examples:
         print(f"# Annotation: {annotation_file}")
         print(f"{'#' * 80}")
 
-        print("Creating studyset...")
-        studyset = Studyset(studyset_data)
+        project_output_dir = args.analysis_dir / project
 
-        for note_key in get_boolean_note_keys(annotation_data):
-            output_dir = args.analysis_dir / project / note_key
+        try:
+            results = autonima_meta.run_meta_analyses_from_files(
+                studyset_file=studyset_file,
+                annotation_file=annotation_file,
+                output_dir=project_output_dir,
+                estimator_name=args.estimator,
+                estimator_args=estimator_args,
+                corrector_name=args.corrector,
+                corrector_args=corrector_args,
+                include_ids=include_ids,
+                skip_existing=args.skip_existing,
+                columns=note_keys,
+            )
+            completed += len(results)
+            skipped += max(0, len(note_keys) - len(results))
+        except Exception as e:
+            print(f"\n✗ Error processing project {project}: {e}", file=sys.stderr)
+            import traceback
 
-            if args.skip_existing and output_dir.exists() and list(output_dir.iterdir()):
-                print(f"\n⊘ Skipping {project}/{note_key} (output already exists)")
-                skipped += 1
-                continue
-
-            output_dir.mkdir(parents=True, exist_ok=True)
-
-            try:
-                result = run_meta_analysis_for_note_key(
-                    studyset,
-                    annotation_data,
-                    note_key,
-                    output_dir,
-                    estimator_name=args.estimator,
-                    estimator_args=estimator_args,
-                    corrector_name=args.corrector,
-                    corrector_args=corrector_args,
-                    include_ids=include_ids,
-                )
-                if result is None:
-                    skipped += 1
-                else:
-                    completed += 1
-            except Exception as e:
-                print(
-                    f"\n✗ Error processing {project}/{note_key}: {e}",
-                    file=sys.stderr,
-                )
-                import traceback
-
-                traceback.print_exc()
-                failed += 1
+            traceback.print_exc()
+            failed += len(note_keys)
 
     print(f"\n{'=' * 80}")
     print("Summary")
