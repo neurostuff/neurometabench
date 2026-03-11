@@ -26,6 +26,7 @@ pydantic = ">=2,<3"
 nilearn = ">=0.10.1,<0.13"
 
 [tool.pixi.pypi-dependencies]
+pubget = { git = "https://github.com/neuroquery/pubget" }
 
 [tool.pixi.tasks]
 install-autonima = "pip install -e ../autonima --no-deps"

@@ -16,7 +16,10 @@ import copy
 import inspect
 import json
 import math
+import os
 import re
+import site
+import sys
 from datetime import datetime, timezone
 from html import escape
 from pathlib import Path
@@ -25,6 +28,27 @@ from urllib.parse import quote_plus
 from collections import defaultdict
 import pandas as pd
 from difflib import SequenceMatcher
+
+
+def _disable_user_site_packages() -> None:
+    """Remove user site-packages so env packages are imported consistently."""
+    os.environ["PYTHONNOUSERSITE"] = "1"
+    user_site = str(Path(site.getusersitepackages()).expanduser())
+    user_base = str(Path(site.getuserbase()).expanduser())
+    sys.path[:] = [
+        path
+        for path in sys.path
+        if not (
+            path
+            and (
+                str(Path(path).expanduser()).startswith(user_site)
+                or str(Path(path).expanduser()).startswith(user_base)
+            )
+        )
+    ]
+
+
+_disable_user_site_packages()
 import nimare.io
 
 try:

@@ -28,6 +28,50 @@ import pandas as pd
 from rapidfuzz import fuzz
 
 
+def strip_reference_index_prefix(name: str) -> str:
+    """
+    Remove leading reference list prefixes like "(2)" and comment markers.
+
+    Examples:
+        >>> strip_reference_index_prefix("(2) Sjoerds, 2014")
+        'Sjoerds, 2014'
+        >>> strip_reference_index_prefix("// (12) Jager, et al. (2007)")
+        'Jager, et al. (2007)'
+    """
+    text = name.strip()
+    text = re.sub(r"^\s*//+\s*", "", text)
+
+    # Some datasets prepend one or more numeric list markers like "(2) ".
+    while True:
+        updated = re.sub(r"^\s*\(\s*\d+\s*\)\s*", "", text)
+        if updated == text:
+            break
+        text = updated
+
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def _extract_first_author(author_text: str) -> Optional[str]:
+    """
+    Normalize an author chunk and return the first-author string.
+    """
+    if not author_text:
+        return None
+
+    author = author_text.strip()
+    author = re.sub(r"^[^\w]+", "", author)
+    author = re.sub(r"\s+", " ", author).strip(" ,;:()[]{}.-")
+    if not author:
+        return None
+
+    # Keep first author when strings include "and"/"&" author lists.
+    author = re.split(r"\s+(?:and|&)\s+", author, maxsplit=1, flags=re.IGNORECASE)[0].strip()
+    if not author:
+        return None
+
+    return author
+
+
 def parse_study_name(name: str) -> Tuple[Optional[str], Optional[str]]:
     """
     Extract author and year from NIMADS study name.
@@ -43,30 +87,39 @@ def parse_study_name(name: str) -> Tuple[Optional[str], Optional[str]]:
         ('Akitsuki', '2009')
         >>> parse_study_name("Alba-Ferrara et al., 2011")
         ('Alba-Ferrara', '2011')
+        >>> parse_study_name("(2) Sjoerds, 2014: A>N")
+        ('Sjoerds', '2014')
     """
     if not name or not isinstance(name, str):
         return None, None
-    
-    # Pattern: "Author et al., Year" or "Author, Year"
-    # Handle hyphenated names, unicode characters
-    pattern = r'^([^\s,]+(?:-[^\s,]+)*)\s+(?:et\s+al\.,?\s*,?\s*|,\s*)(\d{4})'
-    
-    match = re.match(pattern, name.strip())
+
+    cleaned = strip_reference_index_prefix(name)
+
+    # Main pattern:
+    #   "Author et al., 2014"
+    #   "Author, 2014"
+    #   "Author, et al. (2014)"
+    #   "Author, 2014: contrast"
+    match = re.match(
+        r"^(?P<author>.+?)(?:\s*,?\s*et\s+al\.?)?\s*,?\s*\(?\s*(?P<year>(?:19|20)\d{2})\s*\)?",
+        cleaned,
+        flags=re.IGNORECASE,
+    )
     if match:
-        author = match.group(1).strip()
-        year = match.group(2).strip()
-        return author, year
-    
-    # Fallback: try to extract year from end and author from beginning
-    year_match = re.search(r'(\d{4})\s*$', name)
+        author = _extract_first_author(match.group("author"))
+        if author:
+            return author, match.group("year")
+
+    # Fallback: extract first plausible year anywhere and parse author from prefix.
+    year_match = re.search(r"(?<!\d)((?:19|20)\d{2})(?!\d)", cleaned)
     if year_match:
         year = year_match.group(1)
-        # Extract everything before "et al." or the year
-        author_match = re.match(r'^([^\s,]+(?:-[^\s,]+)*)', name)
-        if author_match:
-            author = author_match.group(1).strip()
+        author_prefix = cleaned[: year_match.start()]
+        author_prefix = re.sub(r"(?:,\s*)?et\s+al\.?\s*$", "", author_prefix, flags=re.IGNORECASE)
+        author = _extract_first_author(author_prefix)
+        if author:
             return author, year
-    
+
     return None, None
 
 
