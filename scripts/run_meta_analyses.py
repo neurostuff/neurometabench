@@ -14,6 +14,12 @@ from pathlib import Path
 from typing import Dict, List, Optional
 from autonima import meta as autonima_meta
 
+
+def is_argument_explicitly_set(argv: List[str], flag: str) -> bool:
+    """Return True when a CLI flag is present in argv (supports --flag=value)."""
+    return any(arg == flag or arg.startswith(f"{flag}=") for arg in argv)
+
+
 def find_merged_nimads_files(data_dir: Path) -> Dict[str, Dict[str, Path]]:
     """
     Find merged NiMADS studyset/annotation files organized by project.
@@ -97,7 +103,11 @@ Examples:
         "--analysis-dir",
         type=Path,
         default=Path("analysis"),
-        help="Path to the output analysis directory (default: analysis)",
+        help=(
+            "Path to the output analysis directory (default: analysis). "
+            "When set explicitly with a single --projects value, outputs are "
+            "written directly in this directory (no extra project subdirectory)."
+        ),
     )
 
     parser.add_argument(
@@ -148,6 +158,7 @@ Examples:
     )
 
     args = parser.parse_args()
+    analysis_dir_explicit = is_argument_explicitly_set(sys.argv[1:], "--analysis-dir")
 
     try:
         estimator_args = json.loads(args.estimator_args)
@@ -193,6 +204,13 @@ Examples:
         )
         return 1
 
+    flatten_project_output_dir = (
+        analysis_dir_explicit
+        and args.projects is not None
+        and len(args.projects) == 1
+        and len(project_files) == 1
+    )
+
     print(f"\nFound {len(project_files)} merged project(s):")
     project_note_keys: Dict[str, List[str]] = {}
     for project, paths in project_files.items():
@@ -219,7 +237,10 @@ Examples:
         print(f"# Annotation: {annotation_file}")
         print(f"{'#' * 80}")
 
-        project_output_dir = args.analysis_dir / project
+        if flatten_project_output_dir:
+            project_output_dir = args.analysis_dir
+        else:
+            project_output_dir = args.analysis_dir / project
 
         try:
             results = autonima_meta.run_meta_analyses_from_files(
