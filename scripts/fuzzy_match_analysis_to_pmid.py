@@ -3,8 +3,10 @@
 Fuzzy Match NIMADS Analysis IDs to PMIDs
 
 This script matches study names in a merged NiMADS studyset
-(`data/nimads/<project>/merged/nimads_studyset.json`) to PMIDs from an included
-studies CSV file using fuzzy matching on author names and exact matching on years.
+(`data/nimads/<project>/merged/nimads_studyset.json`) to PMIDs from
+`data/included_studies.csv`, fetching bibliographic metadata (title, year, first
+author) from PubMed and then using fuzzy matching on author names with exact
+matching on years.
 
 Usage:
     python scripts/fuzzy_match_analysis_to_pmid.py \
@@ -26,6 +28,11 @@ import unicodedata
 
 import pandas as pd
 from rapidfuzz import fuzz
+
+try:
+    from fetch_titles import fetch_data_from_pmid
+except ImportError:
+    from scripts.fetch_titles import fetch_data_from_pmid
 
 
 def strip_reference_index_prefix(name: str) -> str:
@@ -202,16 +209,43 @@ def get_meta_pmid_for_project(meta_datasets_df: pd.DataFrame, project_name: str)
     return None
 
 
-def load_included_studies(filepath: str, meta_pmid: int) -> pd.DataFrame:
+def _normalize_pmid(pmid_value) -> Optional[str]:
+    """Return PMID as a digit-only string, or None if invalid/missing."""
+    if pd.isna(pmid_value):
+        return None
+
+    text = str(pmid_value).strip()
+    if not text:
+        return None
+
+    # Avoid float-ish CSV artifacts like "12345.0".
+    if text.endswith(".0"):
+        text = text[:-2]
+
+    digits = re.search(r"\d+", text)
+    return digits.group(0) if digits else None
+
+
+def _normalize_year(year_value: Optional[str]) -> Optional[str]:
+    """Extract a 4-digit year from PubMed metadata."""
+    if year_value is None or pd.isna(year_value):
+        return None
+
+    match = re.search(r"(?<!\d)((?:19|20)\d{2})(?!\d)", str(year_value))
+    return match.group(1) if match else None
+
+
+def load_included_studies(filepath: str, meta_pmid: int, verbose: bool = False) -> pd.DataFrame:
     """
-    Load CSV and filter by meta_pmid.
+    Load included studies and enrich records with PubMed bibliographic metadata.
     
     Args:
         filepath: Path to included_studies CSV
         meta_pmid: Meta-analysis PMID to filter by
+        verbose: Print progress to stderr
     
     Returns:
-        DataFrame with filtered studies
+        DataFrame with filtered and enriched studies
     
     Raises:
         FileNotFoundError: If CSV file doesn't exist
@@ -223,20 +257,64 @@ def load_included_studies(filepath: str, meta_pmid: int) -> pd.DataFrame:
     df = pd.read_csv(filepath)
     
     # Check required columns
-    required_cols = ['meta_pmid', 'study_pmid', 'author', 'year', 'title']
+    required_cols = ['meta_pmid', 'study_pmid']
     missing_cols = set(required_cols) - set(df.columns)
     if missing_cols:
         raise ValueError(f"Missing required columns: {missing_cols}")
     
     # Filter by meta_pmid
     filtered = df[df['meta_pmid'] == meta_pmid].copy()
-    
-    # Ensure year is string for matching (convert to int first to remove decimals)
-    filtered['year'] = filtered['year'].astype(int).astype(str)
-    
+    if filtered.empty:
+        return pd.DataFrame(
+            columns=['meta_pmid', 'study_pmid', 'doi', 'title', 'year', 'author', 'author_normalized']
+        )
+
+    filtered['study_pmid'] = filtered['study_pmid'].apply(_normalize_pmid)
+    filtered = filtered[filtered['study_pmid'].notna()].copy()
+    filtered['study_pmid'] = filtered['study_pmid'].astype(str)
+
+    unique_pmids = filtered['study_pmid'].dropna().unique().tolist()
+    pmid_to_metadata: Dict[str, Tuple[Optional[str], Optional[str], Optional[str]]] = {}
+
+    if verbose:
+        print(
+            f"Fetching bibliographic metadata for {len(unique_pmids)} study PMID(s)...",
+            file=sys.stderr,
+        )
+
+    for idx, pmid in enumerate(unique_pmids, 1):
+        if verbose:
+            print(f"  [{idx}/{len(unique_pmids)}] PMID {pmid}", file=sys.stderr)
+        title, year, first_author = fetch_data_from_pmid(pmid)
+        pmid_to_metadata[pmid] = (title, _normalize_year(year), first_author)
+
+    filtered['title'] = filtered['study_pmid'].apply(
+        lambda pmid: pmid_to_metadata.get(pmid, (None, None, None))[0]
+    )
+    filtered['year'] = filtered['study_pmid'].apply(
+        lambda pmid: pmid_to_metadata.get(pmid, (None, None, None))[1]
+    )
+    filtered['author'] = filtered['study_pmid'].apply(
+        lambda pmid: pmid_to_metadata.get(pmid, (None, None, None))[2]
+    )
+
+    # Drop rows without author/year since they cannot be matched.
+    before_drop = len(filtered)
+    filtered = filtered.dropna(subset=['author', 'year']).copy()
+    filtered['author'] = filtered['author'].astype(str).str.strip()
+    filtered = filtered[filtered['author'] != ''].copy()
+    filtered['year'] = filtered['year'].astype(str)
+
+    dropped = before_drop - len(filtered)
+    if verbose and dropped > 0:
+        print(
+            f"Dropped {dropped} study row(s) due to missing author/year metadata.",
+            file=sys.stderr,
+        )
+
     # Add normalized author column for matching
     filtered['author_normalized'] = filtered['author'].apply(normalize_string)
-    
+
     return filtered
 
 
@@ -634,7 +712,7 @@ def process_project(
     if verbose:
         print(f"Loading included studies from: {included_studies_file}", file=sys.stderr)
     
-    included_studies = load_included_studies(included_studies_file, meta_pmid)
+    included_studies = load_included_studies(included_studies_file, meta_pmid, verbose=verbose)
     
     if verbose:
         print(f"Found {len(included_studies)} studies for meta-PMID {meta_pmid}\n", file=sys.stderr)
@@ -761,8 +839,8 @@ Examples:
     parser.add_argument(
         '--included-studies',
         type=str,
-        default='data/included_studies_wt.csv',
-        help='Path to included studies CSV file (default: data/included_studies_wt.csv)'
+        default='data/included_studies.csv',
+        help='Path to included studies CSV file (default: data/included_studies.csv)'
     )
     
     parser.add_argument(

@@ -279,6 +279,61 @@ def load_pmid_mappings(csv_path: Path) -> Tuple[Dict[str, str], List[str]]:
     return mappings, warnings
 
 
+def resolve_pmid_mapping_csv(
+    fuzzy_map_path: Optional[Path],
+    project_key: str,
+    dataset_stem: str,
+) -> Optional[Path]:
+    """
+    Resolve the mapping CSV path for a dataset.
+
+    Supports either:
+    - a directory containing per-project CSV files
+    - a direct path to a single CSV (e.g., matched_studies_merged.csv)
+    """
+    if fuzzy_map_path is None or not fuzzy_map_path.exists():
+        return None
+
+    if fuzzy_map_path.is_file():
+        return fuzzy_map_path if fuzzy_map_path.suffix.lower() == ".csv" else None
+
+    candidates = [
+        fuzzy_map_path / project_key / f"matched_studies_{dataset_stem}.csv",
+        fuzzy_map_path / project_key / "matched_studies_merged.csv",
+        fuzzy_map_path / f"matched_studies_{dataset_stem}.csv",
+        fuzzy_map_path / "matched_studies_merged.csv",
+    ]
+    for candidate in candidates:
+        if candidate.exists():
+            return candidate
+    return None
+
+
+def project_has_mapping_csv(
+    fuzzy_map_path: Path,
+    project_key: str,
+    allow_project_scoped_root: bool = False,
+) -> bool:
+    """
+    Return True when at least one matching mapping CSV exists for a project.
+    """
+    if not fuzzy_map_path.exists():
+        return False
+
+    if fuzzy_map_path.is_file():
+        return fuzzy_map_path.suffix.lower() == ".csv"
+
+    project_dir = fuzzy_map_path / project_key
+    if project_dir.is_dir() and any(project_dir.glob("matched_studies_*.csv")):
+        return True
+
+    # Support passing an already project-scoped directory for single-project runs.
+    if allow_project_scoped_root and any(fuzzy_map_path.glob("matched_studies_*.csv")):
+        return True
+
+    return False
+
+
 def apply_optional_pmid_mapping(
     nimads_dict: Dict[str, Any],
     project_key: str,
@@ -299,9 +354,26 @@ def apply_optional_pmid_mapping(
     if fuzzy_map_dir is None:
         return nimads_dict, None, total_studies, 0, total_studies, []
 
-    csv_path = fuzzy_map_dir / project_key / f"matched_studies_{dataset_stem}.csv"
-    if not csv_path.exists():
-        return nimads_dict, None, total_studies, 0, total_studies, []
+    if not fuzzy_map_dir.exists():
+        raise FileNotFoundError(f"PMID mapping path does not exist: {fuzzy_map_dir}")
+
+    csv_path = resolve_pmid_mapping_csv(
+        fuzzy_map_path=fuzzy_map_dir,
+        project_key=project_key,
+        dataset_stem=dataset_stem,
+    )
+    if csv_path is None:
+        expected = [
+            fuzzy_map_dir / project_key / f"matched_studies_{dataset_stem}.csv",
+            fuzzy_map_dir / project_key / "matched_studies_merged.csv",
+            fuzzy_map_dir / f"matched_studies_{dataset_stem}.csv",
+            fuzzy_map_dir / "matched_studies_merged.csv",
+        ]
+        expected_text = ", ".join(str(p) for p in expected)
+        raise FileNotFoundError(
+            "No PMID mapping CSV found for "
+            f"project='{project_key}', dataset='{dataset_stem}'. Expected one of: {expected_text}"
+        )
 
     mappings, warnings = load_pmid_mappings(csv_path)
     if not mappings:
@@ -1619,6 +1691,8 @@ def convert_sleuth_files(
                 )
             
         except Exception as e:
+            if isinstance(e, FileNotFoundError):
+                raise
             error_msg = f"Error converting {txt_file.name}: {str(e)}"
             stats['errors'].append(error_msg)
             print(f"  ✗ {error_msg}")
@@ -1737,6 +1811,8 @@ def merge_nimads_files(
         return True
         
     except Exception as e:
+        if isinstance(e, FileNotFoundError):
+            raise
         print(f"  ✗ Error merging files: {str(e)}")
         return False
 
@@ -1844,8 +1920,8 @@ Examples:
     parser.add_argument(
         '--fuzzy-map-dir',
         type=str,
-        default='raw/fuzzy_match_study_to_pmcid',
-        help='Optional directory containing matched_studies_*.csv files. If available, study IDs are replaced with mapped PMIDs.'
+        default=None,
+        help='Optional mapping path: either a directory containing matched_studies_*.csv files or a single CSV file. If available, study IDs are replaced with mapped PMIDs.'
     )
     parser.add_argument(
         '--final-project-merge',
@@ -1892,7 +1968,10 @@ Examples:
     meta_datasets_file = base_dir / 'data' / 'meta_datasets.csv'
     sources_dir = base_dir / 'raw' / 'meta-datasets'
     output_base_dir = base_dir / 'data' / 'nimads'
-    fuzzy_map_dir = base_dir / args.fuzzy_map_dir
+    fuzzy_map_dir: Optional[Path] = None
+    if args.fuzzy_map_dir:
+        fuzzy_map_arg = Path(args.fuzzy_map_dir).expanduser()
+        fuzzy_map_dir = fuzzy_map_arg if fuzzy_map_arg.is_absolute() else (base_dir / fuzzy_map_arg)
     
     # Validate paths
     if not meta_datasets_file.exists():
@@ -1903,10 +1982,13 @@ Examples:
         print(f"Error: sources directory not found: {sources_dir}")
         return 1
 
-    if fuzzy_map_dir.exists():
-        print(f"PMID mapping enabled from: {fuzzy_map_dir}")
+    if fuzzy_map_dir is None:
+        print("PMID mapping disabled (no --fuzzy-map-dir specified)")
     else:
-        print(f"PMID mapping disabled (directory not found): {fuzzy_map_dir}")
+        if not fuzzy_map_dir.exists():
+            raise FileNotFoundError(f"PMID mapping path does not exist: {fuzzy_map_dir}")
+        mapping_path_type = "file" if fuzzy_map_dir.is_file() else "directory"
+        print(f"PMID mapping enabled from {mapping_path_type}: {fuzzy_map_dir}")
     
     # Read meta_datasets.csv
     print(f"Reading meta_datasets.csv...")
@@ -1925,6 +2007,29 @@ Examples:
             return 1
         
         print(f"Filtering to project: {args.project} (normalized: {project_normalized})")
+
+    if fuzzy_map_dir is not None:
+        project_keys = sorted({normalize_folder_name(topic) for topic in df["topic"].astype(str)})
+        if fuzzy_map_dir.is_file() and len(project_keys) > 1:
+            raise FileNotFoundError(
+                "A single mapping CSV was provided, but multiple projects are being processed: "
+                f"{', '.join(project_keys)}. Provide a directory with per-project CSVs."
+            )
+
+        allow_project_scoped_root = len(project_keys) == 1
+        missing_projects = [
+            project_key for project_key in project_keys
+            if not project_has_mapping_csv(
+                fuzzy_map_dir,
+                project_key,
+                allow_project_scoped_root=allow_project_scoped_root,
+            )
+        ]
+        if missing_projects:
+            raise FileNotFoundError(
+                "Missing fuzzy mapping CSV for project(s): "
+                f"{', '.join(missing_projects)}. Expected matched_studies_*.csv under each project mapping path."
+            )
     
     # Get available folders
     available_folders = [
@@ -1973,7 +2078,7 @@ Examples:
                 pmid=pmid,
                 topic=topic,
                 project_key=normalized_topic,
-                fuzzy_map_dir=fuzzy_map_dir if fuzzy_map_dir.exists() else None,
+                fuzzy_map_dir=fuzzy_map_dir,
             )
             
             total_stats['files_converted'] += stats['files_converted']
@@ -2027,7 +2132,7 @@ Examples:
         merge_stats = process_merges(
             output_dir=output_dir,
             project_key=output_dir.name,
-            fuzzy_map_dir=fuzzy_map_dir if fuzzy_map_dir.exists() else None,
+            fuzzy_map_dir=fuzzy_map_dir,
         )
         
         # Accumulate statistics
