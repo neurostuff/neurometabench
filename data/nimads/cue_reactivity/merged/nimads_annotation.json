@@ -1,0 +1,3327 @@
+{
+  "id": "annotation_cue_reactivity_merged_studyset",
+  "name": "cue_reactivity_merged_annotations",
+  "description": "Source-subanalysis membership annotations for merged cue_reactivity NiMADS studyset.",
+  "metadata": {
+    "project": "cue_reactivity",
+    "source_files": [
+      "1. Reward-Neutral_2020.json",
+      "1. Reward-Neutral_2020_WBonly.json",
+      "2. Drug-Neutral_2020.json",
+      "2. Drug-Neutral_2020_WBonly.json",
+      "3. Natural-Neutral_2020.json",
+      "3. Natural-Neutral_2020_WBonly.json"
+    ]
+  },
+  "note_keys": {
+    "1_reward_neutral_2020": "boolean",
+    "1_reward_neutral_2020_wbonly": "boolean",
+    "2_drug_neutral_2020": "boolean",
+    "2_drug_neutral_2020_wbonly": "boolean",
+    "3_natural_neutral_2020": "boolean",
+    "3_natural_neutral_2020_wbonly": "boolean"
+  },
+  "studyset": "cue_reactivity_merged_studyset",
+  "notes": [
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "11058476_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "11296095_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "11296095_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "11515754_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "11549754_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "11549754_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "12381499_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "12860777_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "12948696_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "12948696_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "12948696_3",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "14667419_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "14679386_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "14679386_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "15127179_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "15465974_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "15703257_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "15867274_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "15961048_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "15961048_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "16023086_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "16038771_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "16085533_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "16133128_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "16167185_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "16406379_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "16445991_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "16467858_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "16598192_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "16687507_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "16815041_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "16899037_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "16962339_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "16979350_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "17217932_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "17217932_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "17291784_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "17291784_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "17307790_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "17307790_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "17469913_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "17488322_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "17566768_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "17566768_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "17566768_3",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "17611740_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "17636559_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "17636559_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "18266213_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "18358744_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "18358744_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "18391135_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "18391135_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "18458752_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "18460331_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "18460331_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "18460331_3",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "18460331_4",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "18588532_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "18647397_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "18647397_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "18761592_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "18761592_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "18823721_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "18976696_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "18976696_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "18996508_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "18996508_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "18996508_3",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "18996508_4",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "19015835_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "19107465_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "19365394_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "19365394_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "19420266_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "19632211_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "19636426_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "19650816_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "19651613_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "19907419_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "19968401_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "19968401_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "20147458_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "20172508_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "20331560_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "20571434_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "20571434_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "20576388_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "20576388_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "20604987_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "20604987_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "20670348_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "20670348_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "20678551_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "20688176_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "20703221_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "20729530_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "20823246_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "20840335_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "20840335_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "20881127_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "21045002_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "21185518_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "21185518_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "21199958_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "21248113_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "21292243_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "21299752_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "21316465_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "21466926_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "21672322_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "21672322_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "21677649_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "21677649_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "21718449_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "21718449_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "21764527_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "21790899_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "21790907_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "21859165_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "21883951_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "21952129_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "21952129_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "22006991_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "22006991_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "22028765_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "22097928_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "22114078_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "22264344_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "22329835_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "22332246_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "22332246_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "22332246_3",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "22395731_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "22395731_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "22458561_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "22458561_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "22461323_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "22483100_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "22514316_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "22542509_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "22566584_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "22580204_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "22580204_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "22591950_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "22591950_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "22684096_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "22684096_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "22684096_3",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "22684096_4",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "22684096_5",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "22684096_6",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "22759909_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "22759909_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "22759909_3",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "22759909_4",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "22860092_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "22868938_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "22887826_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "22890475_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "23051899_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "23078363_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "23078363_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "23131612_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "23188041_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "23245948_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "23347356_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "23359677_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "23382517_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "23382517_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "23389755_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "23421466_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "23421466_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "23422198_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "23497788_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "23497788_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "23571420_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "23683790_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "23708507_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "23955492_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "23955492_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "24029699_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "24035535_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "24035535_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "24035535_3",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "24186078_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "24186078_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "24261848_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "24261848_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "24275010_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "24275010_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "24304235_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "24314346_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "24361634_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "24361634_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "24400099_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "24465445_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "24465445_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "24529072_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "24695721_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "24720731_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "24720731_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "24871202_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "24880692_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "24939441_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "24949564_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "25117824_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "25567427_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "25796007_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "26179147_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "26179147_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "26303184_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "26475784_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "26679479_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "26679479_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "26767945_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "26805583_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "26813476_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "27168331_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "28017966_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "28045460_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "28351544_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "28801730_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "28960762_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "29106683_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "29106683_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "29343732_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "29343732_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "29434559_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "29434559_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "29472643_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "29472643_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "29593581_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "29729394_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "29729394_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "29880873_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "29984874_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "30013467_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "30165099_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "30194288_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "30194288_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "30194288_3",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "30194288_4",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "30217552_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "30243035_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "30646204_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "30646204_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "30646331_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "30646331_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "30646331_3",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "30646331_4",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "30734203_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "30734916_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "30734916_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "30748046_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "30788529_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "30806013_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "30886575_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "30886575_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "30991248_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "30991248_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "30991248_3",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "31204249_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": false,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "31394197_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "31394197_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "31730369_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "31972520_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "31972520_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "32125616_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "32125616_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "32125616_3",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": false,
+        "2_drug_neutral_2020_wbonly": false,
+        "3_natural_neutral_2020": true,
+        "3_natural_neutral_2020_wbonly": true
+      },
+      "analysis": "32125616_4",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "32179061_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "32678839_1",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    },
+    {
+      "note": {
+        "1_reward_neutral_2020": true,
+        "1_reward_neutral_2020_wbonly": true,
+        "2_drug_neutral_2020": true,
+        "2_drug_neutral_2020_wbonly": true,
+        "3_natural_neutral_2020": false,
+        "3_natural_neutral_2020_wbonly": false
+      },
+      "analysis": "32678839_2",
+      "annotation": "annotation_cue_reactivity_merged_studyset"
+    }
+  ]
+}
