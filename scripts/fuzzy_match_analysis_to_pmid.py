@@ -624,11 +624,24 @@ def write_results(results: List[Dict], output_file: str):
     
     # Ensure output directory exists
     Path(output_file).parent.mkdir(parents=True, exist_ok=True)
+
+    # Group rows for easier manual review/editing.
+    # Keep exact matches last since they are least likely to need changes.
+    status_order = {
+        'fuzzy_match': 0,
+        'multiple_matches': 1,
+        'no_match': 2,
+        'exact_match': 3,
+    }
+    ordered_results = sorted(
+        results,
+        key=lambda row: status_order.get(row.get('match_status', ''), len(status_order))
+    )
     
     with open(output_file, 'w', newline='', encoding='utf-8') as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
-        writer.writerows(results)
+        writer.writerows(ordered_results)
 
 
 def validate_coverage(nimads_studies: List[Dict], results: List[Dict],
