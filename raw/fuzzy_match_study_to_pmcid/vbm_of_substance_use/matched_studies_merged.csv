@@ -1,0 +1,85 @@
+nimads_study_id,nimads_name,match_status,matched_pmid,matched_author,matched_year,matched_title,match_score,match_count
+"(20) Qiu, 2014","(20) Qiu, 2014",fuzzy_match,23352851,Qiu,2013,The impulsivity behavior is correlated with prefrontal cortex gray matter volume reduction in heroin-dependent individuals.,0.95,1
+"(22) Yip, 2017","(22) Yip, 2017",fuzzy_match,28150390,Yip,2018,Gray-matter relationships to diagnostic and transdiagnostic features of drug and behavioral addictions.,0.95,1
+"(8) Kuhn, 2010","(8) Kuhn, 2010",fuzzy_match,20875635,Kühn,2010,Reduced thickness of medial orbitofrontal cortex in smokers.,0.95,1
+"(9) Kuhn, 2012","(9) Kuhn, 2012",fuzzy_match,21909705,Kühn,2012,Brain grey matter deficits in smokers: focus on the cerebellum.,0.95,1
+"(16) Shen, 2017","(16) Shen, 2017",fuzzy_match,29065207,Shen,2018,Cerebellar Gray Matter Reductions Associate With Decreased Functional Connectivity in Nicotine-Dependent Individuals.,0.95,1
+"(19) Liao, 2011","(19) Liao, 2011",fuzzy_match,20731627,Liao,2012,Differences between smokers and non-smokers in regional gray matter volumes: a voxel-based morphometry study.,0.95,1
+"(1) Asensio, 2015","(1) Asensio, 2015",fuzzy_match,25988724,Asensio,2016,Magnetic resonance imaging structural alterations in brain of alcohol abusers and its association with impulsivity.,0.95,1
+"(6) Galliant, 2006","(6) Galliant, 2006",fuzzy_match,17004938,Gallinat,2006,Smoking and structural brain deficits: a volumetric MR investigation.,0.875,1
+"(12) Stoeckel, 2015","(12) Stoeckel, 2015",fuzzy_match,25990865,Stoeckel,2016,Lower gray matter density and functional connectivity in the anterior insula in smokers compared with never smokers.,0.95,1
+"(5) Matochick, 2005","(5) Matochick, 2005",fuzzy_match,15607838,Matochik,2005,Altered brain tissue composition in heavy marijuana users.,0.941176470588235,1
+"(1) Battisella, 2014","(1) Battisella, 2014",fuzzy_match,24633558,Battistella,2014,Long-term effects of cannabis on brain structure.,0.952380952380952,1
+"(16) Van Wingen, 2013","(16) Van Wingen, 2013",fuzzy_match,23726981,van Wingen,2013,Reduced striatal brain volumes in non-medicated adult ADHD patients with comorbid cocaine dependence.,0.95,1
+"(13) Moreno-Lopez, 2012","(13) Moreno-Lopez, 2012",fuzzy_match,22391134,Moreno-López,2012,Trait impulsivity and prefrontal gray matter reductions in cocaine dependent individuals.,0.95,1
+"(9) Mechtcheriakov, 2006","(9) Mechtcheriakov, 2006",fuzzy_match,17088334,Mechtcheriakov,2007,A widespread distinct pattern of cerebral atrophy in patients with alcohol addiction revealed by voxel-based morphometry.,0.95,1
+"(2) Barros-Loscertales, 2011","(2) Barros-Loscertales, 2011",fuzzy_match,21338692,Barrós-Loscertales,2011,Reduced striatal volume in cocaine-dependent patients.,0.95,1
+"(14) Yu, 2011","(14) Yu, 2011",multiple_matches,22076160,Yu,2011,Regional grey and white matter changes in heavy male smokers.,1,2
+"(12) Wang, 2016","(12) Wang, 2016",multiple_matches,25727574,Wang,2016,Abnormal gray matter volume and resting-state functional connectivity in former heroin-dependent individuals abstinent for multiple years.,1,2
+"(21) Wang, 2016","(21) Wang, 2016",multiple_matches,27575491,Wang,2016,Alterations in Brain Structure and Functional Connectivity in Alcohol Dependent Patients and Possible Association with Impulsivity.,1,2
+"(4) Franklin, 2014","(4) Franklin, 2014",multiple_matches,25090480,Franklin,2014,The effects of chronic cigarette smoking on gray matter volume: influence of sex.,1,2
+"(1) Alia-Klein, 2011","(1) Alia-Klein, 2011",multiple_matches,21383264,Alia-Klein,2011,Gene x disease interaction on orbitofrontal gray matter in cocaine addiction.,1,2
+"(10) Liao, 2010","(10) Liao, 2010",no_match,20731627,,,,0,0
+"(2) Fibley, 2014","(2) Fibley, 2014",no_match,25385625,,,,0,0
+"(7) Hanlon, 2014","(7) Hanlon, 2014",no_match,25125263,,,,0,0
+"(10) Keihani, 2017","(10) Keihani, 2017",no_pmid,,,,,0,0
+"(19) Nurmedov, 2016","(19) Nurmedov, 2016",no_pmid,,,,,0,0
+"(24) Garza-Villarreal, 2018","(24) Garza-Villarreal, 2018",no_pmid,,,,,0,0
+"(2) Li, 2014","(2) Li, 2014",exact_match,24140937,Li,2014,Abnormal cortical thickness in heroin-dependent individuals.,1,1
+"(3) Lin, 2012","(3) Lin, 2012",exact_match,22386968,Lin,2012,"Structural deficits in the emotion circuit and cerebellum are associated with depression, anxiety and cognitive dysfunction in methadone maintenance patients: a voxel-based morphometric study.",1,1
+"(4) Liu, 2009","(4) Liu, 2009",exact_match,19531112,Liu,2009,Frontal and cingulate gray matter volume reduction in heroin dependence: optimized voxel-based morphometry.,1,1
+"(6) Qiu, 2013","(6) Qiu, 2013",exact_match,23352851,Qiu,2013,The impulsivity behavior is correlated with prefrontal cortex gray matter volume reduction in heroin-dependent individuals.,1,1
+"(8) Ide, 2014","(8) Ide, 2014",exact_match,24090712,Ide,2014,Cerebral gray matter volumes and low-frequency fluctuation of BOLD signals in cocaine dependence: duration of use and gender difference.,1,1
+"(9) Jan, 2012","(9) Jan, 2012",exact_match,24961260,Jan,2012,Striatal volume increases in active methamphetamine-dependent individuals and correlation with cognitive performance.,1,1
+"(9) Yip, 2014","(9) Yip, 2014",exact_match,24793365,Yip,2014,Pretreatment measures of brain structure and reward-processing brain function in cannabis dependence: an exploratory study of relationships with abstinence during behavioral treatment.,1,1
+"(10) Kim, 2006","(10) Kim, 2006",exact_match,15982446,Kim,2006,Prefrontal grey-matter changes in short-term and long-term abstinent methamphetamine abusers.,1,1
+"(15) Sim, 2007","(15) Sim, 2007",exact_match,17299505,Sim,2007,Cerebellar gray matter volume correlates with duration of cocaine use in cocaine-dependent subjects.,1,1
+"(5) Lyoo, 2006","(5) Lyoo, 2006",exact_match,16369836,Lyoo,2006,Prefrontal and temporal gray matter density decreases in opiate dependence.,1,1
+"(7) Reid, 2008","(7) Reid, 2008",exact_match,18187528,Reid,2008,Reduced thalamic grey matter volume in opioid dependence is influenced by degree of alcohol use: a voxel-based morphometry study.,1,1
+"(8) Hill, 2016","(8) Hill, 2016",exact_match,27500453,Hill,2016,"Lifetime use of cannabis from longitudinal assessments, cannabinoid receptor (CNR1) variation, and reduced volume of the right anterior cingulate.",1,1
+"(8) Jang, 2007","(8) Jang, 2007",exact_match,17951002,Jang,2007,The relationship between brain morphometry and neuropsychological performance in alcohol dependence.,1,1
+"(8) Wang, 2012","(8) Wang, 2012",exact_match,22717339,Wang,2012,Changes in brain gray matter in abstinent heroin addicts.,1,1
+"(9) Yuan, 2009","(9) Yuan, 2009",exact_match,19775795,Yuan,2009,Gray matter density negatively correlates with duration of heroin use in young lifetime heroin-dependent individuals.,1,1
+"(13) Wang, 2014","(13) Wang, 2014",exact_match,25051341,Wang,2014,The neural mechanisms underlying the acute effect of cigarette smoking on chronic smokers.,1,1
+"(16) Yoon, 2017","(16) Yoon, 2017",exact_match,28720860,Yoon,2017,Altered hippocampal volume and functional connectivity in males with Internet gaming disorder comparing to those with alcohol use disorder.,1,1
+"(17) Peng, 2018","(17) Peng, 2018",exact_match,29881337,Peng,2018,Brain Structure Alterations in Respect to Tobacco Consumption and Nicotine Dependence: A Comparative Voxel-Based Morphometry Study.,1,1
+"(20) Zois, 2017","(20) Zois, 2017",exact_match,28992531,Zois,2017,Orbitofrontal structural markers of negative affect in alcohol dependence and their associations with heavy relapse-risk at 6 months post-treatment.,1,1
+"(23) Yuan, 2017","(23) Yuan, 2017",exact_match,28824470,Yuan,2017,Altered Gray-Matter Volumes Associated With Betel Quid Dependence.,1,1
+"(25) Ruan, 2018","(25) Ruan, 2018",exact_match,28887180,Ruan,2018,Gray matter volume showed dynamic alterations in methamphetamine users at 6 and 12months abstinence: A longitudinal voxel-based morphometry study.,1,1
+"(3) Brody, 2004","(3) Brody, 2004",exact_match,14706428,Brody,2004,Differences between smokers and nonsmokers in regional gray matter volumes and densities.,1,1
+"(5) Fritz, 2014","(5) Fritz, 2014",exact_match,24832823,Fritz,2014,Current smoking and reduced gray matter volume-a voxel-based morphometry study.,1,1
+"(6) Welch, 2013","(6) Welch, 2013",exact_match,23190458,Welch,2013,Tensor-based morphometry of cannabis use on brain structure in individuals at elevated genetic risk of schizophrenia.,1,1
+"(11) Cheng, 2015","(11) Cheng, 2015",exact_match,26364127,Cheng,2015,Neurobiological underpinnings of sensation seeking trait in heroin abusers.,1,1
+"(11) Rando, 2011","(11) Rando, 2011",exact_match,21078704,Rando,2011,Association of frontal and posterior cortical gray matter volume with time to alcohol relapse: a prospective study.,1,1
+"(13) Trick, 2014","(13) Trick, 2014",exact_match,25123156,Trick,2014,Impaired fear recognition and attentional set-shifting is associated with brain structural changes in alcoholic patients.,1,1
+"(15) Zhang, 2011","(15) Zhang, 2011",exact_match,20699124,Zhang,2011,Factors underlying prefrontal and insula structural alterations in smokers.,1,1
+"(17) Wiers, 2015","(17) Wiers, 2015",exact_match,26078198,Wiers,2015,Decreased gray matter volume in inferior frontal gyrus is related to stop-signal task performance in alcohol-dependent patients.,1,1
+"(18) Bouso, 2015","(18) Bouso, 2015",exact_match,25637267,Bouso,2015,Long-term use of psychedelic drugs is associated with differences in brain structure and personality in humans.,1,1
+"(2) Brooks, 2014","(2) Brooks, 2014",exact_match,24496784,Brooks,2014,Childhood adversity is linked to differential brain volumes in adolescents with alcohol use disorder: a voxel-based morphometry study.,1,1
+"(3) Gilman, 2014","(3) Gilman, 2014",exact_match,24741043,Gilman,2014,Cannabis use is quantitatively associated with nucleus accumbens and amygdala abnormalities in young adult recreational users.,1,1
+"(6) Grodin, 2013","(6) Grodin, 2013",exact_match,24179800,Grodin,2013,"Deficits in cortical, diencephalic and midbrain gray matter in alcoholism measured by VBM: Effects of co-morbid substance abuse.",1,1
+"(7) Hanlon, 2011","(7) Hanlon, 2011",exact_match,21691942,Hanlon,2011,Elevated gray and white matter densities in cocaine abstainers compared to current users.,1,1
+"(7) Howell, 2013","(7) Howell, 2013",exact_match,24086317,Howell,2013,Increased ventral striatal volume in college-aged binge drinkers.,1,1
+"(1) Almeida, 2008","(1) Almeida, 2008",exact_match,18165464,Almeida,2008,Smoking is associated with reduced cortical regional gray matter density in brain regions associated with incipient Alzheimer disease.,1,1
+"(1) Gardini, 2012","(1) Gardini, 2012",exact_match,22178355,Gardini,2012,Reduced grey matter in the posterior insula as a structural vulnerability or diathesis to addiction.,1,1
+"(11) Mackey, 2014","(11) Mackey, 2014",exact_match,24342420,Mackey,2014,A voxel-based morphometry study of young occasional users of amphetamine-type stimulants and cocaine.,1,1
+"(17) Tanabe, 2009","(17) Tanabe, 2009",exact_match,18801475,Tanabe,2009,Medial orbitofrontal cortex gray matter is reduced in abstinent substance-dependent individuals.,1,1
+"(2) Almeida, 2011","(2) Almeida, 2011",exact_match,21281718,Almeida,2011,24-month effect of smoking cessation on cognitive function and brain structure in later life.,1,1
+"(21) Parvaz, 2017","(21) Parvaz, 2017",exact_match,27126701,Parvaz,2017,Prefrontal gray matter volume recovery in treatment-seeking cocaine-addicted individuals: a longitudinal study.,1,1
+"(4) Dalwani, 2011","(4) Dalwani, 2011",exact_match,21592680,Dalwani,2011,Reduced cortical gray matter volume in male adolescents with substance and conduct problems.,1,1
+"(4) Daumann, 2011","(4) Daumann, 2011",exact_match,20817105,Daumann,2011,Medial prefrontal gray matter volume reductions in users of amphetamine-type stimulants revealed by combined tract-based spatial statistics and voxel-based morphometry.,1,1
+"(6) Gardini, 2012","(6) Gardini, 2012",exact_match,22178355,Gardini,2012,Reduced grey matter in the posterior insula as a structural vulnerability or diathesis to addiction.,1,1
+"(10) Momenan, 2012","(10) Momenan, 2012",exact_match,23149031,Momenan,2012,Effects of alcohol dependence on cortical thickness as determined by magnetic resonance imaging.,1,1
+"(11) Morales, 2012","(11) Morales, 2012",exact_match,22445480,Morales,2012,Gray-matter volume in methamphetamine dependence: cigarette smoking and changes with abstinence from methamphetamine.,1,1
+"(12) Morales, 2012","(12) Morales, 2012",exact_match,22445480,Morales,2012,Gray-matter volume in methamphetamine dependence: cigarette smoking and changes with abstinence from methamphetamine.,1,1
+"(12) Segobin, 2014","(12) Segobin, 2014",exact_match,24483366,Segobin,2014,Relationship between brain volumetric changes and interim drinking at six months in alcohol-dependent patients.,1,1
+"(3) Chanraud, 2009","(3) Chanraud, 2009",exact_match,19707568,Chanraud,2009,Episodic memory in detoxified alcoholics: contribution of grey matter microstructure alteration.,1,1
+"(3) Crunelle, 2014","(3) Crunelle, 2014",exact_match,24478673,Crunelle,2014,"Reduced frontal brain volume in non-treatment-seeking cocaine-dependent individuals: exploring the role of impulsivity, depression, and smoking.",1,1
+"(5) Franklin, 2002","(5) Franklin, 2002",exact_match,11822992,Franklin,2002,"Decreased gray matter concentration in the insular, orbitofrontal, cingulate, and temporal cortices of cocaine patients.",1,1
+"(14) Schwartz, 2010","(14) Schwartz, 2010",exact_match,20096794,Schwartz,2010,Global and local morphometric differences in recently abstinent methamphetamine-dependent individuals.,1,1
+"(14) van Eijk, 2013","(14) van Eijk, 2013",exact_match,23072363,van Eijk,2013,Rapid partial regeneration of brain volume during the first 14 days of abstinence from alcohol.,1,1
+"(18) Chanraud, 2007","(18) Chanraud, 2007",exact_match,17047671,Chanraud,2007,Brain morphometry and cognitive performance in detoxified alcohol-dependents with preserved psychosocial functioning.,1,1
+"(5) Demirakca, 2011","(5) Demirakca, 2011",exact_match,21599718,Demirakca,2011,Effects of alcoholism and continued abstinence on brain volumes in both genders.,1,1
+"(7) Wetherill, 2015","(7) Wetherill, 2015",exact_match,26094186,Wetherill,2015,"Cannabis, cigarettes, and their co-occurring use: Disentangling differences in default mode network functional connectivity.",1,1
+"(15) van Holst, 2012","(15) van Holst, 2012",exact_match,22270405,van Holst,2012,"A voxel-based morphometry study comparing problem gamblers, alcohol abusers, and healthy controls.",1,1
+"(4) Lopez-Larson, 2011","(4) Lopez-Larson, 2011",exact_match,21310189,Lopez-Larson,2011,Altered prefrontal and insular cortical thickness in adolescent marijuana users.,1,1

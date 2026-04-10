@@ -1,0 +1,5060 @@
+{
+  "config": {
+    "timestamp_utc": "2026-04-10T17:40:40.543188+00:00",
+    "project": "vbm_of_substance_use",
+    "threshold": 0.9,
+    "exact_coord_override": true,
+    "name_weight": 0.3,
+    "coord_weight": 0.7,
+    "assignment_backends_used": [],
+    "dedup_scope": "same_pmid_only",
+    "coordinate_space_policy": "ignored_raw_xyz"
+  },
+  "summary": {
+    "input_files": 1,
+    "input_studies_total": 84,
+    "input_unique_studies": 81,
+    "input_analyses_total": 87,
+    "merged_studies": 81,
+    "merged_analyses": 87,
+    "dedup_rate": 0.0,
+    "accepted_fuzzy_merges": 0,
+    "exact_override_merges": 0,
+    "mean_combined_score": 0.0,
+    "median_combined_score": 0.0,
+    "p25_combined_score": 0.0,
+    "p75_combined_score": 0.0,
+    "id_reassignment_count": 87,
+    "study_metadata_conflict_count": 3,
+    "duplicate_analysis_ids_global": 0,
+    "unique_additions_total": 87,
+    "unique_additions_subsequent_total": 0,
+    "unique_additions_subsequent_by_source": {}
+  },
+  "source_files": {
+    "vbm_subst.json": {
+      "source_key": "vbm_subst",
+      "source_order": 0,
+      "is_primary_source": true,
+      "studies_present": 81,
+      "analyses_contributed": 87,
+      "analyses_retained_unique": 87,
+      "analyses_retained_unique_subsequent": 0,
+      "analyses_merged_into_existing": 0
+    }
+  },
+  "studies": {
+    "11822992": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "11822992"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "11822992"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "11822992",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "Cocaine-dependent group < control group",
+          "source_analysis_name": "Cocaine-dependent group < control group",
+          "source_study_id": "11822992",
+          "source_study_name": "(5) Franklin, 2002",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "Cocaine-dependent group < control group",
+          "new_id": "11822992_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "11822992_1",
+          "name": "Cocaine-dependent group < control group",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "14706428": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "14706428"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "14706428"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "14706428",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "NS > S (all smokers)",
+          "source_analysis_name": "NS > S (all smokers)",
+          "source_study_id": "14706428",
+          "source_study_name": "(3) Brody, 2004",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "NS > S (all smokers)",
+          "new_id": "14706428_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "14706428_1",
+          "name": "NS > S (all smokers)",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "15607838": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "15607838"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "15607838"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "15607838",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "marijuana users < controls",
+          "source_analysis_name": "marijuana users < controls",
+          "source_study_id": "15607838",
+          "source_study_name": "(5) Matochick, 2005",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "marijuana users < controls",
+          "new_id": "15607838_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "15607838_1",
+          "name": "marijuana users < controls",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "15982446": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "15982446"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "15982446"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "15982446",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "methamphetamine users < controls",
+          "source_analysis_name": "methamphetamine users < controls",
+          "source_study_id": "15982446",
+          "source_study_name": "(10) Kim, 2006",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "methamphetamine users < controls",
+          "new_id": "15982446_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "15982446_1",
+          "name": "methamphetamine users < controls",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "16369836": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "16369836"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "16369836"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "16369836",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "Opiate-dependent subjects vs healthy controls",
+          "source_analysis_name": "Opiate-dependent subjects vs healthy controls",
+          "source_study_id": "16369836",
+          "source_study_name": "(5) Lyoo, 2006",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "Opiate-dependent subjects vs healthy controls",
+          "new_id": "16369836_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "16369836_1",
+          "name": "Opiate-dependent subjects vs healthy controls",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "17004938": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "17004938"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "17004938"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "17004938",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "NS > S (all smokers)",
+          "source_analysis_name": "NS > S (all smokers)",
+          "source_study_id": "17004938",
+          "source_study_name": "(6) Galliant, 2006",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "NS > S (all smokers)",
+          "new_id": "17004938_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "17004938_1",
+          "name": "NS > S (all smokers)",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "17047671": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "17047671"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "17047671"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "17047671",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "AD < control",
+          "source_analysis_name": "AD < control",
+          "source_study_id": "17047671",
+          "source_study_name": "(18) Chanraud, 2007",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "AD < control",
+          "new_id": "17047671_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "17047671_1",
+          "name": "AD < control",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "17088334": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "17088334"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "17088334"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "17088334",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "Controls > Alcohol Addiction Patients",
+          "source_analysis_name": "Controls > Alcohol Addiction Patients",
+          "source_study_id": "17088334",
+          "source_study_name": "(9) Mechtcheriakov, 2006",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "Controls > Alcohol Addiction Patients",
+          "new_id": "17088334_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "17088334_1",
+          "name": "Controls > Alcohol Addiction Patients",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "17299505": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "17299505"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "17299505"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "17299505",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "Cocaine-dependent subjects < healthy controls",
+          "source_analysis_name": "Cocaine-dependent subjects < healthy controls",
+          "source_study_id": "17299505",
+          "source_study_name": "(15) Sim, 2007",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "Cocaine-dependent subjects < healthy controls",
+          "new_id": "17299505_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "17299505_1",
+          "name": "Cocaine-dependent subjects < healthy controls",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "17951002": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "17951002"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "17951002"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "17951002",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "Controls > Alcohol-Dependent Patients",
+          "source_analysis_name": "Controls > Alcohol-Dependent Patients",
+          "source_study_id": "17951002",
+          "source_study_name": "(8) Jang, 2007",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "Controls > Alcohol-Dependent Patients",
+          "new_id": "17951002_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "17951002_1",
+          "name": "Controls > Alcohol-Dependent Patients",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "18165464": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "18165464"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "18165464"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "18165464",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "NS > S (all smokers)",
+          "source_analysis_name": "NS > S (all smokers)",
+          "source_study_id": "18165464",
+          "source_study_name": "(1) Almeida, 2008",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "NS > S (all smokers)",
+          "new_id": "18165464_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "18165464_1",
+          "name": "NS > S (all smokers)",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "18187528": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "18187528"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "18187528"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "18187528",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "Opiate-dependent subjects vs controls",
+          "source_analysis_name": "Opiate-dependent subjects vs controls",
+          "source_study_id": "18187528",
+          "source_study_name": "(7) Reid, 2008",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "Opiate-dependent subjects vs controls",
+          "new_id": "18187528_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "18187528_1",
+          "name": "Opiate-dependent subjects vs controls",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "18801475": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "18801475"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "18801475"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "18801475",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "Controls > SDI",
+          "source_analysis_name": "Controls > SDI",
+          "source_study_id": "18801475",
+          "source_study_name": "(17) Tanabe, 2009",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "Controls > SDI",
+          "new_id": "18801475_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "18801475_1",
+          "name": "Controls > SDI",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "19531112": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "19531112"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "19531112"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "19531112",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "Heroin-dependent subjects vs healthy subjects",
+          "source_analysis_name": "Heroin-dependent subjects vs healthy subjects",
+          "source_study_id": "19531112",
+          "source_study_name": "(4) Liu, 2009",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "Heroin-dependent subjects vs healthy subjects",
+          "new_id": "19531112_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "19531112_1",
+          "name": "Heroin-dependent subjects vs healthy subjects",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "19707568": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "19707568"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "19707568"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "19707568",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "Controls > Alcohol-Dependent Subjects",
+          "source_analysis_name": "Controls > Alcohol-Dependent Subjects",
+          "source_study_id": "19707568",
+          "source_study_name": "(3) Chanraud, 2009",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "Controls > Alcohol-Dependent Subjects",
+          "new_id": "19707568_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "19707568_1",
+          "name": "Controls > Alcohol-Dependent Subjects",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "19775795": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "19775795"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "19775795"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "19775795",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "opiate addiction vs Healthy Group",
+          "source_analysis_name": "opiate addiction vs Healthy Group",
+          "source_study_id": "19775795",
+          "source_study_name": "(9) Yuan, 2009",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "opiate addiction vs Healthy Group",
+          "new_id": "19775795_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "19775795_1",
+          "name": "opiate addiction vs Healthy Group",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "20096794": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "20096794"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "20096794"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "20096794",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "meth users < controls",
+          "source_analysis_name": "meth users < controls",
+          "source_study_id": "20096794",
+          "source_study_name": "(14) Schwartz, 2010",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "meth users < controls",
+          "new_id": "20096794_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "20096794_1",
+          "name": "meth users < controls",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "20699124": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "20699124"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "20699124"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "20699124",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "NS > S (high pack year smokers)",
+          "source_analysis_name": "NS > S (high pack year smokers)",
+          "source_study_id": "20699124",
+          "source_study_name": "(15) Zhang, 2011",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "NS > S (high pack year smokers)",
+          "new_id": "20699124_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "20699124_1",
+          "name": "NS > S (high pack year smokers)",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "20731627": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "20731627"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "20731627"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "20731627",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "Ketamine < Controls",
+          "source_analysis_name": "Ketamine < Controls",
+          "source_study_id": "20731627",
+          "source_study_name": "(19) Liao, 2011",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "Ketamine < Controls",
+          "new_id": "20731627_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "20731627_1",
+          "name": "Ketamine < Controls",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "20817105": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "20817105"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "20817105"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "20817105",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "Amphetamine < Drug-na\u00efve",
+          "source_analysis_name": "Amphetamine < Drug-na\u00efve",
+          "source_study_id": "20817105",
+          "source_study_name": "(4) Daumann, 2011",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "Amphetamine < Drug-na\u00efve",
+          "new_id": "20817105_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "20817105_1",
+          "name": "Amphetamine < Drug-na\u00efve",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "20875635": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "20875635"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "20875635"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "20875635",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "NS > S (all smokers)",
+          "source_analysis_name": "NS > S (all smokers)",
+          "source_study_id": "20875635",
+          "source_study_name": "(8) Kuhn, 2010",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "NS > S (all smokers)",
+          "new_id": "20875635_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "20875635_1",
+          "name": "NS > S (all smokers)",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "21078704": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "21078704"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "21078704"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "21078704",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "Healthy Comparison Subjects > Alcohol-Dependent Patients",
+          "source_analysis_name": "Healthy Comparison Subjects > Alcohol-Dependent Patients",
+          "source_study_id": "21078704",
+          "source_study_name": "(11) Rando, 2011",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "Healthy Comparison Subjects > Alcohol-Dependent Patients",
+          "new_id": "21078704_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "21078704_1",
+          "name": "Healthy Comparison Subjects > Alcohol-Dependent Patients",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "21281718": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "21281718"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "21281718"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "21281718",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "NS > S (unsuccessful quiters)",
+          "source_analysis_name": "NS > S (unsuccessful quiters)",
+          "source_study_id": "21281718",
+          "source_study_name": "(2) Almeida, 2011",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "NS > S (unsuccessful quiters)",
+          "new_id": "21281718_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "21281718_1",
+          "name": "NS > S (unsuccessful quiters)",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "21310189": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "21310189"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "21310189"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "21310189",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "controls > marijuana users",
+          "source_analysis_name": "controls > marijuana users",
+          "source_study_id": "21310189",
+          "source_study_name": "(4) Lopez-Larson, 2011",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "controls > marijuana users",
+          "new_id": "21310189_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "21310189_1",
+          "name": "controls > marijuana users",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "21338692": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "21338692"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "21338692"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "21338692",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "Cocaine-dependent patients and healthy controls",
+          "source_analysis_name": "Cocaine-dependent patients and healthy controls",
+          "source_study_id": "21338692",
+          "source_study_name": "(2) Barros-Loscertales, 2011",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "Cocaine-dependent patients and healthy controls",
+          "new_id": "21338692_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "21338692_1",
+          "name": "Cocaine-dependent patients and healthy controls",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "21383264": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "21383264"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "21383264"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "21383264",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "cocaine use disorders vs. controls",
+          "source_analysis_name": "cocaine use disorders vs. controls",
+          "source_study_id": "21383264",
+          "source_study_name": "(1) Alia-Klein, 2011",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "cocaine use disorders vs. controls",
+          "new_id": "21383264_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "21383264_1",
+          "name": "cocaine use disorders vs. controls",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "21592680": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "21592680"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "21592680"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "21592680",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "Controls > Alcohol Patients",
+          "source_analysis_name": "Controls > Alcohol Patients",
+          "source_study_id": "21592680",
+          "source_study_name": "(4) Dalwani, 2011",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "Controls > Alcohol Patients",
+          "new_id": "21592680_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "21592680_1",
+          "name": "Controls > Alcohol Patients",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "21599718": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "21599718"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "21599718"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "21599718",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "Controls > Alcohol-Dependent Patients",
+          "source_analysis_name": "Controls > Alcohol-Dependent Patients",
+          "source_study_id": "21599718",
+          "source_study_name": "(5) Demirakca, 2011",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "Controls > Alcohol-Dependent Patients",
+          "new_id": "21599718_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "21599718_1",
+          "name": "Controls > Alcohol-Dependent Patients",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "21691942": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "21691942"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "21691942"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "21691942",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "cocaine users < current users",
+          "source_analysis_name": "cocaine users < current users",
+          "source_study_id": "21691942",
+          "source_study_name": "(7) Hanlon, 2011",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "cocaine users < current users",
+          "new_id": "21691942_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "21691942_1",
+          "name": "cocaine users < current users",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "21909705": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "21909705"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "21909705"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "21909705",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "NS > S (all smokers)",
+          "source_analysis_name": "NS > S (all smokers)",
+          "source_study_id": "21909705",
+          "source_study_name": "(9) Kuhn, 2012",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "NS > S (all smokers)",
+          "new_id": "21909705_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "21909705_1",
+          "name": "NS > S (all smokers)",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "22076160": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "22076160"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "22076160"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "22076160",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "NS > S (GM, univariate results)",
+          "source_analysis_name": "NS > S (GM, univariate results)",
+          "source_study_id": "22076160",
+          "source_study_name": "(14) Yu, 2011",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "NS > S (GM, univariate results)",
+          "new_id": "22076160_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "22076160_1",
+          "name": "NS > S (GM, univariate results)",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "22178355": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "22178355"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "22178355"
+        ]
+      },
+      "source_analyses_count": 2,
+      "canonical_analyses_count": 2,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [
+        {
+          "field": "name",
+          "kept": "(1) Gardini, 2012",
+          "incoming": "(6) Gardini, 2012",
+          "source_file": "vbm_subst.json"
+        }
+      ],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "22178355",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "Heroin abusers < controls",
+          "source_analysis_name": "Heroin abusers < controls",
+          "source_study_id": "22178355",
+          "source_study_name": "(1) Gardini, 2012",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        },
+        {
+          "study_id": "22178355",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 1,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "controls vs. cocaine users",
+          "source_analysis_name": "controls vs. cocaine users",
+          "source_study_id": "22178355",
+          "source_study_name": "(6) Gardini, 2012",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "Heroin abusers < controls",
+          "new_id": "22178355_1"
+        },
+        {
+          "old_id": "controls vs. cocaine users",
+          "new_id": "22178355_2"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "22178355_1",
+          "name": "Heroin abusers < controls",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        },
+        {
+          "id": "22178355_2",
+          "name": "controls vs. cocaine users",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "22270405": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "22270405"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "22270405"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "22270405",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "AUDs < HCs",
+          "source_analysis_name": "AUDs < HCs",
+          "source_study_id": "22270405",
+          "source_study_name": "(15) van Holst, 2012",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "AUDs < HCs",
+          "new_id": "22270405_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "22270405_1",
+          "name": "AUDs < HCs",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "22386968": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "22386968"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "22386968"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "22386968",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "heroin users on methadone vs control",
+          "source_analysis_name": "heroin users on methadone vs control",
+          "source_study_id": "22386968",
+          "source_study_name": "(3) Lin, 2012",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "heroin users on methadone vs control",
+          "new_id": "22386968_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "22386968_1",
+          "name": "heroin users on methadone vs control",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "22391134": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "22391134"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "22391134"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "22391134",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "prefrontal gray matter reductions in cocaine dependent",
+          "source_analysis_name": "prefrontal gray matter reductions in cocaine dependent",
+          "source_study_id": "22391134",
+          "source_study_name": "(13) Moreno-Lopez, 2012",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "prefrontal gray matter reductions in cocaine dependent",
+          "new_id": "22391134_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "22391134_1",
+          "name": "prefrontal gray matter reductions in cocaine dependent",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "22445480": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "22445480"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "22445480"
+        ]
+      },
+      "source_analyses_count": 2,
+      "canonical_analyses_count": 2,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [
+        {
+          "field": "name",
+          "kept": "(11) Morales, 2012",
+          "incoming": "(12) Morales, 2012",
+          "source_file": "vbm_subst.json"
+        }
+      ],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "22445480",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "NS > S (all smokers)",
+          "source_analysis_name": "NS > S (all smokers)",
+          "source_study_id": "22445480",
+          "source_study_name": "(11) Morales, 2012",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        },
+        {
+          "study_id": "22445480",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 1,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "Control non-smoker > Methamphetamine-dependent smoker",
+          "source_analysis_name": "Control non-smoker > Methamphetamine-dependent smoker",
+          "source_study_id": "22445480",
+          "source_study_name": "(12) Morales, 2012",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "NS > S (all smokers)",
+          "new_id": "22445480_1"
+        },
+        {
+          "old_id": "Control non-smoker > Methamphetamine-dependent smoker",
+          "new_id": "22445480_2"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "22445480_1",
+          "name": "NS > S (all smokers)",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        },
+        {
+          "id": "22445480_2",
+          "name": "Control non-smoker > Methamphetamine-dependent smoker",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "22717339": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "22717339"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "22717339"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "22717339",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "Heroin-dependent patients and normal subjects",
+          "source_analysis_name": "Heroin-dependent patients and normal subjects",
+          "source_study_id": "22717339",
+          "source_study_name": "(8) Wang, 2012",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "Heroin-dependent patients and normal subjects",
+          "new_id": "22717339_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "22717339_1",
+          "name": "Heroin-dependent patients and normal subjects",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "23072363": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "23072363"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "23072363"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "23072363",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "Healthy Controls > Alcohol-Dependent Patients",
+          "source_analysis_name": "Healthy Controls > Alcohol-Dependent Patients",
+          "source_study_id": "23072363",
+          "source_study_name": "(14) van Eijk, 2013",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "Healthy Controls > Alcohol-Dependent Patients",
+          "new_id": "23072363_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "23072363_1",
+          "name": "Healthy Controls > Alcohol-Dependent Patients",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "23149031": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "23149031"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "23149031"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "23149031",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "Healthy Controls > Alcoholics",
+          "source_analysis_name": "Healthy Controls > Alcoholics",
+          "source_study_id": "23149031",
+          "source_study_name": "(10) Momenan, 2012",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "Healthy Controls > Alcoholics",
+          "new_id": "23149031_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "23149031_1",
+          "name": "Healthy Controls > Alcoholics",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "23190458": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "23190458"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "23190458"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "23190458",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "cannabis consumers < cannabis non-consumers",
+          "source_analysis_name": "cannabis consumers < cannabis non-consumers",
+          "source_study_id": "23190458",
+          "source_study_name": "(6) Welch, 2013",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "cannabis consumers < cannabis non-consumers",
+          "new_id": "23190458_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "23190458_1",
+          "name": "cannabis consumers < cannabis non-consumers",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "23352851": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "23352851"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "23352851"
+        ]
+      },
+      "source_analyses_count": 2,
+      "canonical_analyses_count": 2,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [
+        {
+          "field": "name",
+          "kept": "(20) Qiu, 2014",
+          "incoming": "(6) Qiu, 2013",
+          "source_file": "vbm_subst.json"
+        }
+      ],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "23352851",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "codeine users < Controls",
+          "source_analysis_name": "codeine users < Controls",
+          "source_study_id": "23352851",
+          "source_study_name": "(20) Qiu, 2014",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        },
+        {
+          "study_id": "23352851",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 1,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "Heroin-dependent individuals vs matching controls",
+          "source_analysis_name": "Heroin-dependent individuals vs matching controls",
+          "source_study_id": "23352851",
+          "source_study_name": "(6) Qiu, 2013",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "codeine users < Controls",
+          "new_id": "23352851_1"
+        },
+        {
+          "old_id": "Heroin-dependent individuals vs matching controls",
+          "new_id": "23352851_2"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "23352851_1",
+          "name": "codeine users < Controls",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        },
+        {
+          "id": "23352851_2",
+          "name": "Heroin-dependent individuals vs matching controls",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "23726981": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "23726981"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "23726981"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "23726981",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "healthy controls vs.  ADHD plus cocaine dependence",
+          "source_analysis_name": "healthy controls vs.  ADHD plus cocaine dependence",
+          "source_study_id": "23726981",
+          "source_study_name": "(16) Van Wingen, 2013",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "healthy controls vs.  ADHD plus cocaine dependence",
+          "new_id": "23726981_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "23726981_1",
+          "name": "healthy controls vs.  ADHD plus cocaine dependence",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "24086317": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "24086317"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "24086317"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "24086317",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "Healthy Volunteers > Binge Drinkers",
+          "source_analysis_name": "Healthy Volunteers > Binge Drinkers",
+          "source_study_id": "24086317",
+          "source_study_name": "(7) Howell, 2013",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "Healthy Volunteers > Binge Drinkers",
+          "new_id": "24086317_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "24086317_1",
+          "name": "Healthy Volunteers > Binge Drinkers",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "24090712": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "24090712"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "24090712"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "24090712",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "healthy controls vs. cocaine dependent",
+          "source_analysis_name": "healthy controls vs. cocaine dependent",
+          "source_study_id": "24090712",
+          "source_study_name": "(8) Ide, 2014",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "healthy controls vs. cocaine dependent",
+          "new_id": "24090712_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "24090712_1",
+          "name": "healthy controls vs. cocaine dependent",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "24140937": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "24140937"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "24140937"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "24140937",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "Heroin dependent individuals vs healthy controls",
+          "source_analysis_name": "Heroin dependent individuals vs healthy controls",
+          "source_study_id": "24140937",
+          "source_study_name": "(2) Li, 2014",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "Heroin dependent individuals vs healthy controls",
+          "new_id": "24140937_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "24140937_1",
+          "name": "Heroin dependent individuals vs healthy controls",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "24179800": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "24179800"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "24179800"
+        ]
+      },
+      "source_analyses_count": 2,
+      "canonical_analyses_count": 2,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "24179800",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "HC > Polysubstance Abusing Alcoholics",
+          "source_analysis_name": "HC > Polysubstance Abusing Alcoholics",
+          "source_study_id": "24179800",
+          "source_study_name": "(6) Grodin, 2013",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        },
+        {
+          "study_id": "24179800",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 1,
+          "source_analysis_index_in_study": 1,
+          "source_analysis_id": "HC > Pure Alcoholics",
+          "source_analysis_name": "HC > Pure Alcoholics",
+          "source_study_id": "24179800",
+          "source_study_name": "(6) Grodin, 2013",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "HC > Polysubstance Abusing Alcoholics",
+          "new_id": "24179800_1"
+        },
+        {
+          "old_id": "HC > Pure Alcoholics",
+          "new_id": "24179800_2"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "24179800_1",
+          "name": "HC > Polysubstance Abusing Alcoholics",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        },
+        {
+          "id": "24179800_2",
+          "name": "HC > Pure Alcoholics",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "24342420": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "24342420"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "24342420"
+        ]
+      },
+      "source_analyses_count": 2,
+      "canonical_analyses_count": 2,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "24342420",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "Amphetamine use over lifetime",
+          "source_analysis_name": "Amphetamine use over lifetime",
+          "source_study_id": "24342420",
+          "source_study_name": "(11) Mackey, 2014",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        },
+        {
+          "study_id": "24342420",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 1,
+          "source_analysis_index_in_study": 1,
+          "source_analysis_id": "Amphetamine-type/cocaine < controls",
+          "source_analysis_name": "Amphetamine-type/cocaine < controls",
+          "source_study_id": "24342420",
+          "source_study_name": "(11) Mackey, 2014",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "Amphetamine use over lifetime",
+          "new_id": "24342420_1"
+        },
+        {
+          "old_id": "Amphetamine-type/cocaine < controls",
+          "new_id": "24342420_2"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "24342420_1",
+          "name": "Amphetamine use over lifetime",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        },
+        {
+          "id": "24342420_2",
+          "name": "Amphetamine-type/cocaine < controls",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "24478673": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "24478673"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "24478673"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "24478673",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "cocaine users < controls",
+          "source_analysis_name": "cocaine users < controls",
+          "source_study_id": "24478673",
+          "source_study_name": "(3) Crunelle, 2014",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "cocaine users < controls",
+          "new_id": "24478673_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "24478673_1",
+          "name": "cocaine users < controls",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "24483366": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "24483366"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "24483366"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "24483366",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "Controls > Alcohol-Dependent Patients",
+          "source_analysis_name": "Controls > Alcohol-Dependent Patients",
+          "source_study_id": "24483366",
+          "source_study_name": "(12) Segobin, 2014",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "Controls > Alcohol-Dependent Patients",
+          "new_id": "24483366_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "24483366_1",
+          "name": "Controls > Alcohol-Dependent Patients",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "24496784": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "24496784"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "24496784"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "24496784",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "Healthy > Alcohol (without CTQ)",
+          "source_analysis_name": "Healthy > Alcohol (without CTQ)",
+          "source_study_id": "24496784",
+          "source_study_name": "(2) Brooks, 2014",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "Healthy > Alcohol (without CTQ)",
+          "new_id": "24496784_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "24496784_1",
+          "name": "Healthy > Alcohol (without CTQ)",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "24633558": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "24633558"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "24633558"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "24633558",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "cannabis users < controls",
+          "source_analysis_name": "cannabis users < controls",
+          "source_study_id": "24633558",
+          "source_study_name": "(1) Battisella, 2014",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "cannabis users < controls",
+          "new_id": "24633558_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "24633558_1",
+          "name": "cannabis users < controls",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "24741043": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "24741043"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "24741043"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "24741043",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "controls > marijuana users",
+          "source_analysis_name": "controls > marijuana users",
+          "source_study_id": "24741043",
+          "source_study_name": "(3) Gilman, 2014",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "controls > marijuana users",
+          "new_id": "24741043_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "24741043_1",
+          "name": "controls > marijuana users",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "24793365": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "24793365"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "24793365"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "24793365",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "cannabis < healthy",
+          "source_analysis_name": "cannabis < healthy",
+          "source_study_id": "24793365",
+          "source_study_name": "(9) Yip, 2014",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "cannabis < healthy",
+          "new_id": "24793365_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "24793365_1",
+          "name": "cannabis < healthy",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "24832823": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "24832823"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "24832823"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "24832823",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "NS > S (all smokers)",
+          "source_analysis_name": "NS > S (all smokers)",
+          "source_study_id": "24832823",
+          "source_study_name": "(5) Fritz, 2014",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "NS > S (all smokers)",
+          "new_id": "24832823_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "24832823_1",
+          "name": "NS > S (all smokers)",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "24961260": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "24961260"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "24961260"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "24961260",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "controls > methamphetamine users",
+          "source_analysis_name": "controls > methamphetamine users",
+          "source_study_id": "24961260",
+          "source_study_name": "(9) Jan, 2012",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "controls > methamphetamine users",
+          "new_id": "24961260_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "24961260_1",
+          "name": "controls > methamphetamine users",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "25051341": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "25051341"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "25051341"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "25051341",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "NS > S (all smokers)",
+          "source_analysis_name": "NS > S (all smokers)",
+          "source_study_id": "25051341",
+          "source_study_name": "(13) Wang, 2014",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "NS > S (all smokers)",
+          "new_id": "25051341_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "25051341_1",
+          "name": "NS > S (all smokers)",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "25090480": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "25090480"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "25090480"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "25090480",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "NS > S (all smokers)",
+          "source_analysis_name": "NS > S (all smokers)",
+          "source_study_id": "25090480",
+          "source_study_name": "(4) Franklin, 2014",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "NS > S (all smokers)",
+          "new_id": "25090480_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "25090480_1",
+          "name": "NS > S (all smokers)",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "25123156": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "25123156"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "25123156"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "25123156",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "C>P, alcohol",
+          "source_analysis_name": "C>P, alcohol",
+          "source_study_id": "25123156",
+          "source_study_name": "(13) Trick, 2014",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "C>P, alcohol",
+          "new_id": "25123156_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "25123156_1",
+          "name": "C>P, alcohol",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "25637267": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "25637267"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "25637267"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "25637267",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "DMT users < Controls",
+          "source_analysis_name": "DMT users < Controls",
+          "source_study_id": "25637267",
+          "source_study_name": "(18) Bouso, 2015",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "DMT users < Controls",
+          "new_id": "25637267_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "25637267_1",
+          "name": "DMT users < Controls",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "25727574": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "25727574"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "25727574"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "25727574",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "FHD < control",
+          "source_analysis_name": "FHD < control",
+          "source_study_id": "25727574",
+          "source_study_name": "(12) Wang, 2016",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "FHD < control",
+          "new_id": "25727574_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "25727574_1",
+          "name": "FHD < control",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "25988724": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "25988724"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "25988724"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "25988724",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "controls > alcohol patients, GM",
+          "source_analysis_name": "controls > alcohol patients, GM",
+          "source_study_id": "25988724",
+          "source_study_name": "(1) Asensio, 2015",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "controls > alcohol patients, GM",
+          "new_id": "25988724_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "25988724_1",
+          "name": "controls > alcohol patients, GM",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "25990865": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "25990865"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "25990865"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "25990865",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "NS > S (all smokers)",
+          "source_analysis_name": "NS > S (all smokers)",
+          "source_study_id": "25990865",
+          "source_study_name": "(12) Stoeckel, 2015",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "NS > S (all smokers)",
+          "new_id": "25990865_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "25990865_1",
+          "name": "NS > S (all smokers)",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "26078198": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "26078198"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "26078198"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "26078198",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "ADP < control",
+          "source_analysis_name": "ADP < control",
+          "source_study_id": "26078198",
+          "source_study_name": "(17) Wiers, 2015",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "ADP < control",
+          "new_id": "26078198_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "26078198_1",
+          "name": "ADP < control",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "26094186": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "26094186"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "26094186"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "26094186",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "healthy controls > cannabis users",
+          "source_analysis_name": "healthy controls > cannabis users",
+          "source_study_id": "26094186",
+          "source_study_name": "(7) Wetherill, 2015",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "healthy controls > cannabis users",
+          "new_id": "26094186_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "26094186_1",
+          "name": "healthy controls > cannabis users",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "26364127": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "26364127"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "26364127"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "26364127",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "controls > heroin",
+          "source_analysis_name": "controls > heroin",
+          "source_study_id": "26364127",
+          "source_study_name": "(11) Cheng, 2015",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "controls > heroin",
+          "new_id": "26364127_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "26364127_1",
+          "name": "controls > heroin",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "27126701": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "27126701"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "27126701"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "27126701",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "control > CUD",
+          "source_analysis_name": "control > CUD",
+          "source_study_id": "27126701",
+          "source_study_name": "(21) Parvaz, 2017",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "control > CUD",
+          "new_id": "27126701_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "27126701_1",
+          "name": "control > CUD",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "27500453": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "27500453"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "27500453"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "27500453",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "controls > cannabis",
+          "source_analysis_name": "controls > cannabis",
+          "source_study_id": "27500453",
+          "source_study_name": "(8) Hill, 2016",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "controls > cannabis",
+          "new_id": "27500453_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "27500453_1",
+          "name": "controls > cannabis",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "27575491": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "27575491"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "27575491"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "27575491",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "ADP < control",
+          "source_analysis_name": "ADP < control",
+          "source_study_id": "27575491",
+          "source_study_name": "(21) Wang, 2016",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "ADP < control",
+          "new_id": "27575491_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "27575491_1",
+          "name": "ADP < control",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "28150390": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "28150390"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "28150390"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "28150390",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "CUD < control",
+          "source_analysis_name": "CUD < control",
+          "source_study_id": "28150390",
+          "source_study_name": "(22) Yip, 2017",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "CUD < control",
+          "new_id": "28150390_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "28150390_1",
+          "name": "CUD < control",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "28720860": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "28720860"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "28720860"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "28720860",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "AUD < control",
+          "source_analysis_name": "AUD < control",
+          "source_study_id": "28720860",
+          "source_study_name": "(16) Yoon, 2017",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "AUD < control",
+          "new_id": "28720860_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "28720860_1",
+          "name": "AUD < control",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "28824470": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "28824470"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "28824470"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "28824470",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "control > betel quid",
+          "source_analysis_name": "control > betel quid",
+          "source_study_id": "28824470",
+          "source_study_name": "(23) Yuan, 2017",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "control > betel quid",
+          "new_id": "28824470_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "28824470_1",
+          "name": "control > betel quid",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "28887180": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "28887180"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "28887180"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "28887180",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "6 month abs meth < control",
+          "source_analysis_name": "6 month abs meth < control",
+          "source_study_id": "28887180",
+          "source_study_name": "(25) Ruan, 2018",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "6 month abs meth < control",
+          "new_id": "28887180_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "28887180_1",
+          "name": "6 month abs meth < control",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "28992531": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "28992531"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "28992531"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "28992531",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "ADP < control",
+          "source_analysis_name": "ADP < control",
+          "source_study_id": "28992531",
+          "source_study_name": "(20) Zois, 2017",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "ADP < control",
+          "new_id": "28992531_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "28992531_1",
+          "name": "ADP < control",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "29065207": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "29065207"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "29065207"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "29065207",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "nicotine smoker < nonsmoker",
+          "source_analysis_name": "nicotine smoker < nonsmoker",
+          "source_study_id": "29065207",
+          "source_study_name": "(16) Shen, 2017",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "nicotine smoker < nonsmoker",
+          "new_id": "29065207_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "29065207_1",
+          "name": "nicotine smoker < nonsmoker",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "29881337": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "29881337"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "29881337"
+        ]
+      },
+      "source_analyses_count": 2,
+      "canonical_analyses_count": 2,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "29881337",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "mild/moderate smoker < nonsmoker",
+          "source_analysis_name": "mild/moderate smoker < nonsmoker",
+          "source_study_id": "29881337",
+          "source_study_name": "(17) Peng, 2018",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        },
+        {
+          "study_id": "29881337",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 1,
+          "source_analysis_index_in_study": 1,
+          "source_analysis_id": "severe smoker < nonsmoker",
+          "source_analysis_name": "severe smoker < nonsmoker",
+          "source_study_id": "29881337",
+          "source_study_name": "(17) Peng, 2018",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "mild/moderate smoker < nonsmoker",
+          "new_id": "29881337_1"
+        },
+        {
+          "old_id": "severe smoker < nonsmoker",
+          "new_id": "29881337_2"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "29881337_1",
+          "name": "mild/moderate smoker < nonsmoker",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        },
+        {
+          "id": "29881337_2",
+          "name": "severe smoker < nonsmoker",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "(10) Liao, 2010": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "(10) Liao, 2010"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "(10) Liao, 2010"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "(10) Liao, 2010",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "NS > S (all smokers)",
+          "source_analysis_name": "NS > S (all smokers)",
+          "source_study_id": "(10) Liao, 2010",
+          "source_study_name": "(10) Liao, 2010",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "NS > S (all smokers)",
+          "new_id": "10_Liao_2010_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "10_Liao_2010_1",
+          "name": "NS > S (all smokers)",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "(2) Fibley, 2014": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "(2) Fibley, 2014"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "(2) Fibley, 2014"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "(2) Fibley, 2014",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "marijuana users < controls",
+          "source_analysis_name": "marijuana users < controls",
+          "source_study_id": "(2) Fibley, 2014",
+          "source_study_name": "(2) Fibley, 2014",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "marijuana users < controls",
+          "new_id": "2_Fibley_2014_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "2_Fibley_2014_1",
+          "name": "marijuana users < controls",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "(7) Hanlon, 2014": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "(7) Hanlon, 2014"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "(7) Hanlon, 2014"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "(7) Hanlon, 2014",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "NS > S (all smokers)",
+          "source_analysis_name": "NS > S (all smokers)",
+          "source_study_id": "(7) Hanlon, 2014",
+          "source_study_name": "(7) Hanlon, 2014",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "NS > S (all smokers)",
+          "new_id": "7_Hanlon_2014_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "7_Hanlon_2014_1",
+          "name": "NS > S (all smokers)",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "(10) Keihani, 2017": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "(10) Keihani, 2017"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "(10) Keihani, 2017"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "(10) Keihani, 2017",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "heroin < control",
+          "source_analysis_name": "heroin < control",
+          "source_study_id": "(10) Keihani, 2017",
+          "source_study_name": "(10) Keihani, 2017",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "heroin < control",
+          "new_id": "10_Keihani_2017_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "10_Keihani_2017_1",
+          "name": "heroin < control",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "(19) Nurmedov, 2016": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "(19) Nurmedov, 2016"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "(19) Nurmedov, 2016"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "(19) Nurmedov, 2016",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "AUD < control",
+          "source_analysis_name": "AUD < control",
+          "source_study_id": "(19) Nurmedov, 2016",
+          "source_study_name": "(19) Nurmedov, 2016",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "AUD < control",
+          "new_id": "19_Nurmedov_2016_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "19_Nurmedov_2016_1",
+          "name": "AUD < control",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "(24) Garza-Villarreal, 2018": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "(24) Garza-Villarreal, 2018"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "(24) Garza-Villarreal, 2018"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "(24) Garza-Villarreal, 2018",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "CA < HC",
+          "source_analysis_name": "CA < HC",
+          "source_study_id": "(24) Garza-Villarreal, 2018",
+          "source_study_name": "(24) Garza-Villarreal, 2018",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "CA < HC",
+          "new_id": "24_Garza_Villarreal_2018_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "24_Garza_Villarreal_2018_1",
+          "name": "CA < HC",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    }
+  },
+  "top_low_confidence_merges": [],
+  "unique_additions_subsequent": []
+}
