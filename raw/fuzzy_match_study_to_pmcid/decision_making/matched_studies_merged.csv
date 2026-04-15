@@ -1,0 +1,93 @@
+nimads_study_id,nimads_name,match_status,matched_pmid,matched_author,matched_year,matched_title,match_score,match_count
+"(60)lei,2016","(60)lei,2016",fuzzy_match,27975159,Lei,2017,Neural correlates of increased risk-taking propensity in sleep-deprived people along with a changing risk level.,0.9,1
+"(1)Banko, 2011","(1)Banko, 2011",fuzzy_match,21325535,Bankó,2011,Dissociating the effect of noise on sensory processing and overall decision difficulty.,0.95,1
+"(12)bach, 2011","(12)bach, 2011",fuzzy_match,21451019,Bach,2011,"The known unknowns: neural representation of second-order uncertainty, and ambiguity.",0.95,1
+"(14)krug, 2014","(14)krug, 2014",fuzzy_match,24355752,Krug,2014,Investigation of decision-making under uncertainty in healthy subjects: a multi-centric fMRI study.,0.95,1
+"(42)shao,2014","(42)shao,2014",fuzzy_match,25498405,Shao,2015,The neural basis of social risky decision making in females with major depressive disorder.,0.9,1
+"(17)dreher, 2006","(17)dreher, 2006",fuzzy_match,16033924,Dreher,2006,Neural coding of distinct statistical properties of reward information in humans.,0.95,1
+(2)Clausse(2013),(2)Clausse(2013),fuzzy_match,23313780,Causse,2013,Affective decision making under uncertainty during a plausible aviation task: an fMRI study.,0.923076923076923,1
+"(32)tanaka, 2015","(32)tanaka, 2015",fuzzy_match,25698984,Tanaka,2014,Are ambiguity aversion and ambiguity intolerance identical? A neuroeconomics investigation.,0.9,1
+"(9)Noppeny, 2011","(9)Noppeny, 2011",fuzzy_match,20505110,Noppeney,2010,Perceptual decisions formed by accumulation of audiovisual evidence in prefrontal cortex.,0.883333333333333,1
+"(16)koester, 2013","(16)koester, 2013",fuzzy_match,23392532,Koester,2013,Decision-making in polydrug amphetamine-type stimulant users: an fMRI study.,0.95,1
+"(20)filimon, 2013","(20)filimon, 2013",fuzzy_match,23365248,Filimon,2013,How embodied is perceptual decision making? Evidence for separate processing of perceptual and motor decisions.,0.95,1
+"(21)yarkoni,2005","(21)yarkoni,2005",fuzzy_match,15795135,Yarkoni,2005,Sustained neural activity associated with cognitive control during temporally extended decision making.,0.95,1
+(34)Kononen 2003,(34)Kononen 2003,fuzzy_match,14700259,Könönen,2003,Visual processing of coherent rotation in the central visual field: an fMRI study.,0.95,1
+"(1)O’doherty,2003","(1)O’doherty,2003",fuzzy_match,12944524,O'Doherty,2003,Dissociating valence of outcome from behavioral control in human orbital and ventral prefrontal cortices.,0.888888888888889,1
+(33)Frostman 2008,(33)Frostman 2008,fuzzy_match,18981414,Forstmann,2008,Striatum and pre-SMA facilitate decision-making under time pressure.,0.875,1
+"(47)Rogalsky,2011","(47)Rogalsky,2011",fuzzy_match,21864197,Rogalsky,2012,Risky decision-making in older adults without cognitive deficits: an fMRI study of VMPFC using the Iowa Gambling Task.,0.95,1
+(27)Lamichanne 2016,(27)Lamichanne 2016,fuzzy_match,27177981,Lamichhane,2016,Salience Network Activity in Perceptual Decisions.,0.9,1
+"(39)bytristsky,2008","(39)bytristsky,2008",fuzzy_match,18572984,Bystritsky,2008,A preliminary study of fMRI-guided rTMS in the treatment of generalized anxiety disorder.,0.9,1
+"(34)Blankestein, 2017","(34)Blankestein, 2017",fuzzy_match,28686139,Blankenstein,2017,Neural Mechanisms Underlying Risk and Ambiguity Attitudes.,0.956521739130435,1
+"(34)Blankestein, 2018","(34)Blankestein, 2018",fuzzy_match,29408323,Blankenstein,2018,Individual differences in risk-taking tendencies modulate the neural processing of risky and ambiguous decision-making in adolescence.,0.956521739130435,1
+"(33)Barkley-levenson, 2015","(33)Barkley-levenson, 2015",fuzzy_match,24474790,Barkley-Levenson,2014,Neural representation of expected value in the adolescent brain.,0.9,1
+"(29)Paulus, 2003","(29)Paulus, 2003",manual_override,12655327,Paulus,2003,Schizophrenia subjects show intact success-related neural activation but impaired uncertainty processing during decision-making.,1,3
+"(7)Kayser,2010a","(7)Kayser,2010a",manual_override,20032247,Kayser,2010,The functional anatomy of a perceptual decision in the human brain.,1,2
+(8)Kayser 2010b,(8)Kayser 2010b,manual_override,21106817,Kayser,2010,Neural representations of relevant and irrelevant features in perceptual decision making.,1,2
+"(27)Paulus, 2002a","(27)Paulus, 2002a",manual_override,11751032,Paulus,2002,Behavioral and functional neuroimaging evidence for prefrontal dysfunction in methamphetamine-dependent subjects.,1,3
+"(28)Paulus, 2002b","(28)Paulus, 2002b",manual_override,11906224,Paulus,2002,Error rate and outcome predictability affect neural activation in prefrontal cortex and anterior cingulate during decision-making.,1,3
+"(36)Paulus, 2002c","(36)Paulus, 2002c",manual_override,12062884,Paulus,2002,Parietal dysfunction is associated with increased outcome-related decision-making in schizophrenia patients.,1,3
+(3)Guo,(3)Guo,manual_override,25206656,,,,0,0
+(8)Daw,(8)Daw,manual_override,16778890,,,,0,0
+(9)Diuk,(9)Diuk,manual_override,23536092,,,,0,0
+(10)morris,(10)morris,manual_override,25055179,,,,0,0
+(7)Boorman,(7)Boorman,manual_override,19524531,,,,0,0
+"(3)Bolla, 2003","(3)Bolla, 2003",no_match,,,,,0,0
+"(15)Lewis, 2000","(15)Lewis, 2000",manual_override,10982748,,,,0,0
+(21)Georgie 2018,(21)Georgie 2018,no_match,,,,,0,0
+(32)Yeon and Rahnev 2018,(32)Yeon and Rahnev 2018,no_match,,,,,0,0
+"(6)Ho, 2009","(6)Ho, 2009",exact_match,19587274,Ho,2009,Domain general mechanisms of perceptual decision making in human cortex.,1,1
+(3)Guo(2013),(3)Guo(2013),exact_match,25206656,Guo,2013,Brain areas activated by uncertain reward-based decision-making in healthy volunteers.,1,1
+(11)Jung2014,(11)Jung2014,exact_match,23355606,Jung,2014,Synchrony of anterior cingulate cortex and insular-striatal activation predicts ambiguity aversion in individuals with low impulsivity.,1,1
+"(2)Bode, 2012","(2)Bode, 2012",exact_match,21933719,Bode,2012,The neural encoding of guesses in the human brain.,1,1
+"(35)Hsu, 2005","(35)Hsu, 2005",exact_match,16339445,Hsu,2005,Neural systems responding to degrees of uncertainty in human decision-making.,1,1
+(5)Bach(2009),(5)Bach(2009),exact_match,19211872,Bach,2009,Neural activity associated with the passive prediction of ambiguity and risk for aversive events.,1,1
+"(1)Bjork,2007","(1)Bjork,2007",exact_match,17475792,Bjork,2007,Developmental differences in posterior mesofrontal cortex recruitment by risky rewards.,1,1
+"(11)Jung, 2014","(11)Jung, 2014",exact_match,23355606,Jung,2014,Synchrony of anterior cingulate cortex and insular-striatal activation predicts ambiguity aversion in individuals with low impulsivity.,1,1
+(19)Chen 2015,(19)Chen 2015,exact_match,25798082,Chen,2015,Multiple brain networks contribute to the acquisition of bias in perceptual decision-making.,1,1
+"(2)Bjork, 2008","(2)Bjork, 2008",exact_match,18295984,Bjork,2008,Reduced posterior mesofrontal cortex activation by risky rewards in substance-dependent patients.,1,1
+"(24)Levy, 2010","(24)Levy, 2010",exact_match,20032238,Levy,2010,Neural representation of subjective value under risk and ambiguity.,1,1
+(25)Bode 2013,(25)Bode 2013,exact_match,23041528,Bode,2013,Similar neural mechanisms for perceptual guesses and free decisions.,1,1
+(26)Bode 2018,(26)Bode 2018,exact_match,29408524,Bode,2018,Dissociating neural variability related to stimulus quality and response times in perceptual decision-making.,1,1
+(4)Gluth(2014),(4)Gluth(2014),exact_match,23476024,Gluth,2014,Neural evidence for adaptive strategy selection in value-based decision-making.,1,1
+"(14)Kahnt, 2011","(14)Kahnt, 2011",exact_match,21555079,Kahnt,2011,Perceptual learning and decision-making in human medial frontal cortex.,1,1
+"(17)Singh, 2008","(17)Singh, 2008",exact_match,18375149,Singh,2008,Transient and linearly graded deactivation of the human default-mode network by a visual detection task.,1,1
+"(35)Claus,2012","(35)Claus,2012",exact_match,22309791,Claus,2012,Neural mechanisms of risk taking and relationships with hazardous drinking.,1,1
+"(70)Miedl,2010","(70)Miedl,2010",exact_match,20138482,Miedl,2010,Neurobiological correlates of problem gambling in a quasi-realistic blackjack scenario as revealed by fMRI.,1,1
+(12)Tosoni 2008,(12)Tosoni 2008,exact_match,18997791,Tosoni,2008,Sensory-motor mechanisms in human parietal cortex underlie arbitrary visual decisions.,1,1
+"(13)Fujino, 2016","(13)Fujino, 2016",exact_match,27623361,Fujino,2016,Ambiguity aversion in schizophrenia: An fMRI study of decision-making under risk and ambiguity.,1,1
+(18)Snyder 2011,(18)Snyder 2011,exact_match,21534685,Snyder,2011,Psychometrically matched tasks evaluating differential fMRI activation during form and motion processing.,1,1
+"(19)Paulus,2005","(19)Paulus,2005",exact_match,15784440,Paulus,2005,Superior temporal gyrus and insula provide response and outcome-dependent information during assessment and action selection in a decision-making situation.,1,1
+"(20)Verney,2003","(20)Verney,2003",exact_match,12802176,Verney,2003,Error-rate-related caudate and parietal cortex activation during decision making.,1,1
+(22)Hebart 2016,(22)Hebart 2016,exact_match,25112281,Hebart,2016,The Relationship between Perceptual Decision Variables and Confidence in the Human Brain.,1,1
+"(22)Paulus,2008","(22)Paulus,2008",exact_match,17949691,Paulus,2008,Reduced behavioral and neural activation in stimulant users to different error rates during decision making.,1,1
+"(26)Paulus, 2001","(26)Paulus, 2001",exact_match,11133312,Paulus,2001,"Prefrontal, parietal, and temporal cortex networks underlie decision-making in the presence of uncertainty.",1,1
+"(3)Fleming, 2010","(3)Fleming, 2010",exact_match,20357071,Fleming,2010,Effects of category-specific costs on neural systems for perceptual decision-making.,1,1
+"(30)Paulus, 2004","(30)Paulus, 2004",exact_match,15184037,Paulus,2004,Anterior cingulate activation in high trait anxious subjects is related to altered error processing during decision making.,1,1
+(31)Hebart 2012,(31)Hebart 2012,exact_match,22922368,Hebart,2012,Human visual and parietal cortex encode visual choices independent of motor plans.,1,1
+"(37)Leland, 2006","(37)Leland, 2006",exact_match,16959497,Leland,2006,Young adult stimulant users' increased striatal activation during uncertainty is related to impulsivity.,1,1
+"(6)Huettel et al., 2006","(6)Huettel et al., 2006",exact_match,16504951,Huettel,2006,Neural signatures of economic preferences for risk and ambiguity.,1,1
+"(63)Yaxley,2011","(63)Yaxley,2011",exact_match,22194728,Yaxley,2011,Behavioral risk elicits selective activation of the executive system in adolescents: clinical implications.,1,1
+"(11)Sunaert, 2000","(11)Sunaert, 2000",exact_match,10860790,Sunaert,2000,"Attention to speed of motion, speed discrimination, and task difficulty: an fMRI study.",1,1
+"(13)Ivanoff, 2008","(13)Ivanoff, 2008",exact_match,18612380,Ivanoff,2008,fMRI evidence for a dual process account of the speed-accuracy tradeoff in decision-making.,1,1
+"(15)Huettel et al., 2005","(15)Huettel et al., 2005",exact_match,15800185,Huettel,2005,Decisions under uncertainty: probabilistic context influences activation of prefrontal and parietal cortices.,1,1
+(23)Krueger 2017,(23)Krueger 2017,exact_match,28131862,Krueger,2017,Evidence accumulation detected in BOLD signal using slow perceptual decision making.,1,1
+"(23)Stewart,2013","(23)Stewart,2013",exact_match,24298242,Stewart,2013,Altered frontocingulate activation during aversive interoceptive processing in young adults transitioning to problem stimulant use.,1,1
+(24)Baumann 2014,(24)Baumann 2014,exact_match,23982589,Baumann,2014,Effects of attention and perceptual uncertainty on cerebellar activity during visual motion perception.,1,1
+(28)Shankar 2017,(28)Shankar 2017,exact_match,28250149,Shankar,2017,Perceptual and categorical decision making: goal-relevant representation of two domains at different levels of abstraction.,1,1
+"(4)Heekeren, 2004","(4)Heekeren, 2004",exact_match,15483614,Heekeren,2004,A general mechanism for perceptual decision-making in the human brain.,1,1
+"(5)Heekeren, 2006","(5)Heekeren, 2006",exact_match,16785427,Heekeren,2006,Involvement of human left dorsolateral prefrontal cortex in perceptual decision making is independent of response modality.,1,1
+"(58)Crowley,2015","(58)Crowley,2015",exact_match,26176860,Crowley,2015,Adolescents' Neural Processing of Risky Decisions: Effects of Sex and Behavioral Disinhibition.,1,1
+"(16)Lundblad, 2011","(16)Lundblad, 2011",exact_match,21741443,Lundblad,2011,Cortical processing of tactile direction discrimination based on spatiotemporal cues in man.,1,1
+"(16)Yacubian, 2006","(16)Yacubian, 2006",exact_match,16971537,Yacubian,2006,Dissociable systems for gain- and loss-related value predictions and errors of prediction in the human brain.,1,1
+"(18)Lawrence, 2009","(18)Lawrence, 2009",exact_match,18787233,Lawrence,2009,Distinct roles of prefrontal cortical subregions in the Iowa Gambling Task.,1,1
+(30)Pedersen 2015,(30)Pedersen 2015,exact_match,26510176,Pedersen,2015,Evidence Accumulation and Choice Maintenance Are Dissociated in Human Perceptual Decision Making.,1,1
+"(31)Hosseini, 2010","(31)Hosseini, 2010",exact_match,20472072,Hosseini,2010,Aging and decision making under uncertainty: behavioral and neural evidence for the preservation of decision making in the absence of learning in old age.,1,1
+"(18)Blackwood,2004","(18)Blackwood,2004",exact_match,15130588,Blackwood,2004,The cerebellum and decision making under uncertainty.,1,1
+(29)Wendelken 2009,(29)Wendelken 2009,exact_match,19897796,Wendelken,2009,Stimulus and response conflict processing during perceptual decision making.,1,1
+"(37)Bednarski,2012","(37)Bednarski,2012",exact_match,22339607,Bednarski,2012,Neural processes of an indirect analog of risk taking in young nondependent adult alcohol drinkers-an FMRI study of the stop signal task.,1,1
+"(39)Cservenka, 2012","(39)Cservenka, 2012",exact_match,22250647,Cservenka,2012,Risky decision-making: an FMRI study of youth at high risk for alcoholism.,1,1
+"(46)Leijenhorst,2010","(46)Leijenhorst,2010",exact_match,20188198,Van Leijenhorst,2010,Adolescent risky decision-making: neurocognitive development of reward and control regions.,1,1
+"(10)Philiastides, 2007","(10)Philiastides, 2007",exact_match,18045902,Philiastides,2007,EEG-informed fMRI reveals spatiotemporal characteristics of perceptual decision making.,1,1
+"(38)Pushkarskaya, 2010","(38)Pushkarskaya, 2010",exact_match,20805539,Pushkarskaya,2010,Beyond risk and ambiguity: deciding under ignorance.,1,1
+"(38)Pushkarskaya, 2015","(38)Pushkarskaya, 2015",exact_match,26640434,Pushkarskaya,2015,Neural Correlates of Decision-Making Under Ambiguity and Conflict.,1,1
+"(25)Lopez-Paniagua and seger, 2013","(25)Lopez-Paniagua and seger, 2013",exact_match,24367286,Lopez-Paniagua,2013,Coding of level of ambiguity within neural systems mediating choice.,1,1
