@@ -1,0 +1,3127 @@
+{
+  "id": "annotation_problem_solving_merged_studyset",
+  "name": "problem_solving_merged_annotations",
+  "description": "Source-subanalysis membership annotations for merged problem_solving NiMADS studyset.",
+  "metadata": {
+    "project": "problem_solving",
+    "source_files": [
+      "Calculation_MNI_final.json",
+      "Demand_MNI_final.json",
+      "Global_CalculationAndVisuospatialAndWord_MNI_final.json",
+      "VisuospatialReasoning_MNI_final.json",
+      "WordProblems_MNI_final.json"
+    ]
+  },
+  "note_keys": {
+    "calculation_mni_final": "boolean",
+    "demand_mni_final": "boolean",
+    "global_calculationandvisuospatialandword_mni_final": "boolean",
+    "visuospatialreasoning_mni_final": "boolean",
+    "wordproblems_mni_final": "boolean"
+  },
+  "studyset": "problem_solving_merged_studyset",
+  "notes": [
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Lu_2010_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Wu_2003_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Wu_2003_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Wu_2003_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Cho_2010_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Hao_2013_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Luo_2003_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Luo_2006_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Qiu_2010_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Chen_2003_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Chen_2003_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Goel_1997_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Goel_1997_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Goel_1997_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Goel_1998_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Goel_1998_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Goel_1998_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Goel_2000_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Goel_2000_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Goel_2000_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Goel_2000_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Goel_2000_5",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Goel_2000_6",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Goel_2000_7",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Goel_2001_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Goel_2001_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Goel_2001_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Goel_2001_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Goel_2004_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Goel_2004_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Goel_2004_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Goel_2004_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Goel_2004_5",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Goel_2009_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Ruff_2003_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Ruff_2003_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Tian_2011_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Xu_J_2010_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Xu_J_2010_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Xu_J_2010_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Xu_J_2010_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Xu_J_2010_5",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Zhao_2013_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Zhao_2013_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Zhao_2014_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Zhao_2014_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Acuna_2002_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Bagga_2014_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Baker_1996_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Desco_2011_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Desco_2011_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Gaeke_2005_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Houde_2000_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Kuo_B_2008_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Kuo_B_2008_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Kuo_B_2008_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Kuo_B_2008_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Kuo_B_2008_5",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Luo_J_2003_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Luo_J_2013_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Luo_J_2013_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Monti_2007_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Monti_2007_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Monti_2007_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Monti_2007_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Monti_2009_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Monti_2009_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Prado_2007_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Prado_2007_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Duncan_2000_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Duncan_2000_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Duncan_2000_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Ebisch_2012_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Ebisch_2012_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Fehr_T_2007_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Fehr_T_2007_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Fehr_T_2007_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Fehr_T_2007_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Gron_G_2000_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Knauff_2002_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Knauff_2003_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Knauff_2003_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Knauff_2003_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Knauff_2003_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Knauff_2003_5",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Kong_J_2005_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Kong_J_2005_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Kong_J_2005_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Kong_J_2005_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Kong_J_2005_5",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Kong_J_2005_6",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Kroger_2002_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Kroger_2008_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Newman_2011_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Newman_2011_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Newman_2011_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Noveck_2004_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Noveck_2004_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Noveck_2004_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Wagner_2001_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Wagner_2001_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Wood_G_2008_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Wood_G_2008_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Wood_G_2008_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Wood_G_2008_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Wu_S_S_2009_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Wu_S_S_2009_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Wu_S_S_2009_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Wu_S_S_2009_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Zago_L_2001_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Zago_L_2008_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Zhou_X_2007_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Zhou_X_2007_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Zhou_X_2007_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Zhou_X_2007_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Barra_J_2012_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Barra_J_2012_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Barra_J_2012_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Barra_J_2012_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Barra_J_2012_5",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Barra_J_2012_6",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Brown_T_2014_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Brown_T_2014_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Canessa_2005_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Canessa_2005_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Heckers_2004_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Iaria_G_2003_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Iaria_G_2008_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Iaria_G_2008_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Iaria_G_2008_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Iaria_G_2008_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Lee_K_M_2000_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Lee_K_M_2000_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Marsh_R_2010_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Melrose_2007_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Melrose_2007_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Menon_V_2000_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Menon_V_2000_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Menon_V_2000_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Menon_V_2000_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Molko_N_2003_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Molko_N_2003_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Parsons_2001_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Preusse_2010_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Preusse_2010_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Simon_O_2002_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Simon_O_2002_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Simon_O_2004_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Andres_M_2011_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Atherton_2003_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Audoin_B_2005_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Eslinger_2009_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Gagnon_L_2012_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Gruber_O_2001_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Gruber_O_2001_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Masunaga_2008_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Osherson_1998_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Osherson_1998_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Osherson_1998_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Perfetti_2009_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Rauchs_G_2008_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Rauchs_G_2008_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Rauchs_G_2008_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Wagner_G_2006_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Wagner_G_2006_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Watson_C_2012_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Blackwood_2004_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Blackwood_2004_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Chochon_F_1999_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Chochon_F_1999_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Chochon_F_1999_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Chochon_F_1999_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Chochon_F_1999_5",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Chochon_F_1999_6",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Chochon_F_1999_7",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Christoff_2001_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Christoff_2009_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Christoff_2009_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Christoff_2009_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Dehaene_S_1999_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Delazer_M_2003_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Delazer_M_2005_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Delazer_M_2005_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Elliott_R_1997_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Hampshire_2011_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Hampshire_2011_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Hampshire_2011_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Hampshire_2011_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Hampshire_2011_5",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Hampshire_2011_6",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Hartley_E_2003_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Hartley_E_2003_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Hugdahl_K_2004_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Krueger_F_2008_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Mainero_C_2004_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Pesenti_M_2000_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Pesenti_M_2000_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Pesenti_M_2000_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Reverberi_2007_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Reverberi_2010_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Reverberi_2010_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Rickard_T_2000_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Wendelken_2008_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Wendelken_2008_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Wendelken_2008_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Wendelken_2008_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Wendelken_2010_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Wendelken_2010_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Weniger_G_2010_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Weniger_G_2013_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Wharton_C_2000_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Yoshida_S_2006_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Zarnhofer_2013_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Zarnhofer_2013_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Aziz_Zadeh_2009_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Campbell_Z_2009_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Campbell_Z_2009_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Cowell_S_F_2000_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "De_Pisapia_2006_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Hanakawa_M_2003_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Maruishi_M_2007_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Newman_S_D_2011_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Newman_S_D_2011_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Newman_S_D_2011_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Rivera_S_M_2002_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Rivera_S_M_2002_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Sherrill_U_2013_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Sherrill_U_2013_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Sherrill_U_2013_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Sherrill_U_2013_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Van_Horn_J_1998_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Van_Horn_J_1998_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Fangmeier_T_2006_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Fangmeier_T_2006_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Fangmeier_T_2006_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Fangmeier_T_2006_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Fangmeier_T_2006_5",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Fangmeier_T_2009_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Fangmeier_T_2009_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Fincham_J_M_2002_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Grabner_R_H_2007_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": false,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Grabner_R_H_2009_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Hirshhorn_M_2012_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Ischebeck_A_2006_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Ischebeck_A_2006_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Ischebeck_A_2006_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Ischebeck_A_2008_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Kalbfleisch_2007_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Kawashima_M_2004_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Kawashima_M_2004_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Kawashima_M_2004_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Montojo_C_A_2008_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Montojo_C_A_2008_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Montojo_C_A_2008_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Montojo_C_A_2008_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Montojo_C_A_2008_5",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Montojo_C_A_2008_6",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Siemerkus_J_2012_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Unterrainer_2005_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Beauchamp_M_H_2003_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Beauchamp_M_H_2003_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Jung_Beeman_M_2004_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Lazeron_R_H_C_2003_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Lazeron_R_H_C_2003_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Venkatraman_V_2006_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Venkatraman_V_2006_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Christodoulou_C_2001_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Rosenberg_Lee_M_2011_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Rosenberg_Lee_M_2011_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Rosenberg_Lee_M_2011_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Rosenberg_Lee_M_2011_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Rosenberg_Lee_M_2011_5",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Rosenberg_Lee_M_2011_6",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Rosenberg_Lee_M_2011_7",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Rodriguez_Moreno_2009_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Rodriguez_Moreno_2009_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Stanescu_Cosson_R_2000_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Stanescu_Cosson_R_2000_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Stanescu_Cosson_R_2000_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "van_den_Huevel_O_A_2005_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "van_den_Huevel_O_A_2005_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Reference_TAL_Van_Horn_J_1998_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    }
+  ]
+}
