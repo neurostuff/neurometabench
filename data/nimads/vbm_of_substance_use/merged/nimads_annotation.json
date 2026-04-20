@@ -9,615 +9,1055 @@
     ]
   },
   "note_keys": {
-    "vbm_subst": "boolean"
+    "all_drug_classes": "boolean",
+    "alcohol": "boolean",
+    "nicotine": "boolean",
+    "opioids": "boolean",
+    "stimulants": "boolean",
+    "cannabis": "boolean"
   },
   "studyset": "vbm_of_substance_use_merged_studyset",
   "notes": [
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": true,
+        "cannabis": false
       },
       "analysis": "11822992_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": true,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "14706428_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": true
       },
       "analysis": "15607838_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": true,
+        "cannabis": false
       },
       "analysis": "15982446_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": true,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "16369836_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": true,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "17004938_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": true,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "17047671_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": true,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "17088334_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": true,
+        "cannabis": false
       },
       "analysis": "17299505_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": true,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "17951002_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": true,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "18165464_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": true,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "18187528_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "18801475_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": true,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "19531112_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": true,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "19707568_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": true,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "19775795_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": true,
+        "cannabis": false
       },
       "analysis": "20096794_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": true,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "20699124_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "20731627_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "20731627_2",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": true,
+        "cannabis": false
       },
       "analysis": "20817105_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": true,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "20875635_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": true,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "21078704_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": true,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "21281718_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": true
       },
       "analysis": "21310189_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": true,
+        "cannabis": false
       },
       "analysis": "21338692_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": true,
+        "cannabis": false
       },
       "analysis": "21383264_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": true,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "21592680_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": true,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "21599718_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": true,
+        "cannabis": false
       },
       "analysis": "21691942_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": true,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "21909705_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": true,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "22076160_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": true,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "22178355_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": true,
+        "cannabis": false
       },
       "analysis": "22178355_2",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": true,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "22270405_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": true,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "22386968_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": true,
+        "cannabis": false
       },
       "analysis": "22391134_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": true,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "22445480_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": true,
+        "cannabis": false
       },
       "analysis": "22445480_2",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": true,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "22717339_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": true,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "23072363_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": true,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "23149031_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": true
       },
       "analysis": "23190458_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": true,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "23352851_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": true,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "23352851_2",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": true,
+        "cannabis": false
       },
       "analysis": "23726981_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": true,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "24086317_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": true,
+        "cannabis": false
       },
       "analysis": "24090712_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": true,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "24140937_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": true,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "24179800_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": true,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "24179800_2",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": true,
+        "cannabis": false
       },
       "analysis": "24342420_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": true,
+        "cannabis": false
       },
       "analysis": "24342420_2",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": true,
+        "cannabis": false
       },
       "analysis": "24478673_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": true,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "24483366_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": true,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "24496784_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": true
       },
       "analysis": "24633558_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": true
       },
       "analysis": "24741043_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": true
       },
       "analysis": "24793365_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": true,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "24832823_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": true,
+        "cannabis": false
       },
       "analysis": "24961260_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": true,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "25051341_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": true,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "25090480_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": true,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "25123156_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": true,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "25125263_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": true
       },
       "analysis": "25385625_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "25637267_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "25727574_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": true,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "25988724_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": true,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "25990865_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": true,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "26078198_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": true
       },
       "analysis": "26094186_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": true,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "26364127_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": true
       },
       "analysis": "27126701_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": true
       },
       "analysis": "27500453_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": true,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "27575491_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": true
       },
       "analysis": "28150390_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": true,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "28720860_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "28824470_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": true,
+        "cannabis": false
       },
       "analysis": "28887180_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": true,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "28992531_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": true,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "29065207_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": true,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "29881337_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": true,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "29881337_2",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": true,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "10_Keihani_2017_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": true,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
       },
       "analysis": "19_Nurmedov_2016_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {
       "note": {
-        "vbm_subst": true
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": true
       },
       "analysis": "24_Garza_Villarreal_2018_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
