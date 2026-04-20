@@ -1,6 +1,6 @@
 {
   "config": {
-    "timestamp_utc": "2026-04-10T17:40:40.543188+00:00",
+    "timestamp_utc": "2026-04-20T21:25:23.152363+00:00",
     "project": "vbm_of_substance_use",
     "threshold": 0.9,
     "exact_coord_override": true,
@@ -13,9 +13,9 @@
   "summary": {
     "input_files": 1,
     "input_studies_total": 84,
-    "input_unique_studies": 81,
+    "input_unique_studies": 80,
     "input_analyses_total": 87,
-    "merged_studies": 81,
+    "merged_studies": 80,
     "merged_analyses": 87,
     "dedup_rate": 0.0,
     "accepted_fuzzy_merges": 0,
@@ -25,7 +25,7 @@
     "p25_combined_score": 0.0,
     "p75_combined_score": 0.0,
     "id_reassignment_count": 87,
-    "study_metadata_conflict_count": 3,
+    "study_metadata_conflict_count": 4,
     "duplicate_analysis_ids_global": 0,
     "unique_additions_total": 87,
     "unique_additions_subsequent_total": 0,
@@ -36,7 +36,7 @@
       "source_key": "vbm_subst",
       "source_order": 0,
       "is_primary_source": true,
-      "studies_present": 81,
+      "studies_present": 80,
       "analyses_contributed": 87,
       "analyses_retained_unique": 87,
       "analyses_retained_unique_subsequent": 0,
@@ -1118,10 +1118,17 @@
           "20731627"
         ]
       },
-      "source_analyses_count": 1,
-      "canonical_analyses_count": 1,
+      "source_analyses_count": 2,
+      "canonical_analyses_count": 2,
       "dedup_percent": 0.0,
-      "metadata_conflicts": [],
+      "metadata_conflicts": [
+        {
+          "field": "name",
+          "kept": "(10) Liao, 2010",
+          "incoming": "(19) Liao, 2011",
+          "source_file": "vbm_subst.json"
+        }
+      ],
       "merge_events": [],
       "unique_additions": [
         {
@@ -1131,6 +1138,29 @@
           "source_order": 0,
           "is_primary_source": true,
           "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "NS > S (all smokers)",
+          "source_analysis_name": "NS > S (all smokers)",
+          "source_study_id": "20731627",
+          "source_study_name": "(10) Liao, 2010",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        },
+        {
+          "study_id": "20731627",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 1,
           "source_analysis_index_in_study": 0,
           "source_analysis_id": "Ketamine < Controls",
           "source_analysis_name": "Ketamine < Controls",
@@ -1150,13 +1180,25 @@
       ],
       "id_reassignment_operations": [
         {
-          "old_id": "Ketamine < Controls",
+          "old_id": "NS > S (all smokers)",
           "new_id": "20731627_1"
+        },
+        {
+          "old_id": "Ketamine < Controls",
+          "new_id": "20731627_2"
         }
       ],
       "canonical_analyses": [
         {
           "id": "20731627_1",
+          "name": "NS > S (all smokers)",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        },
+        {
+          "id": "20731627_2",
           "name": "Ketamine < Controls",
           "merged_sources": [
             "vbm_subst"
@@ -3662,6 +3704,124 @@
         }
       ]
     },
+    "25125263": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "25125263"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "25125263"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "25125263",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "NS > S (all smokers)",
+          "source_analysis_name": "NS > S (all smokers)",
+          "source_study_id": "25125263",
+          "source_study_name": "(7) Hanlon, 2014",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "NS > S (all smokers)",
+          "new_id": "25125263_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "25125263_1",
+          "name": "NS > S (all smokers)",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "25385625": {
+      "source_files_present": [
+        "vbm_subst.json"
+      ],
+      "original_study_ids": [
+        "25385625"
+      ],
+      "original_study_ids_by_source": {
+        "vbm_subst": [
+          "25385625"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "25385625",
+          "source_file": "vbm_subst.json",
+          "source_key": "vbm_subst",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "marijuana users < controls",
+          "source_analysis_name": "marijuana users < controls",
+          "source_study_id": "25385625",
+          "source_study_name": "(2) Fibley, 2014",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "marijuana users < controls",
+          "new_id": "25385625_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "25385625_1",
+          "name": "marijuana users < controls",
+          "merged_sources": [
+            "vbm_subst"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
     "25637267": {
       "source_files_present": [
         "vbm_subst.json"
@@ -4693,183 +4853,6 @@
         {
           "id": "29881337_2",
           "name": "severe smoker < nonsmoker",
-          "merged_sources": [
-            "vbm_subst"
-          ],
-          "merged_member_count": 1
-        }
-      ]
-    },
-    "(10) Liao, 2010": {
-      "source_files_present": [
-        "vbm_subst.json"
-      ],
-      "original_study_ids": [
-        "(10) Liao, 2010"
-      ],
-      "original_study_ids_by_source": {
-        "vbm_subst": [
-          "(10) Liao, 2010"
-        ]
-      },
-      "source_analyses_count": 1,
-      "canonical_analyses_count": 1,
-      "dedup_percent": 0.0,
-      "metadata_conflicts": [],
-      "merge_events": [],
-      "unique_additions": [
-        {
-          "study_id": "(10) Liao, 2010",
-          "source_file": "vbm_subst.json",
-          "source_key": "vbm_subst",
-          "source_order": 0,
-          "is_primary_source": true,
-          "source_analysis_index": 0,
-          "source_analysis_index_in_study": 0,
-          "source_analysis_id": "NS > S (all smokers)",
-          "source_analysis_name": "NS > S (all smokers)",
-          "source_study_id": "(10) Liao, 2010",
-          "source_study_name": "(10) Liao, 2010",
-          "best_target_representative_id": null,
-          "best_target_representative_name": null,
-          "best_target_source_study_id": null,
-          "best_name_score": null,
-          "best_coord_score": null,
-          "best_combined_score": null,
-          "best_exact_coord_set": null,
-          "reason_codes": [
-            "seed_from_first_source"
-          ]
-        }
-      ],
-      "id_reassignment_operations": [
-        {
-          "old_id": "NS > S (all smokers)",
-          "new_id": "10_Liao_2010_1"
-        }
-      ],
-      "canonical_analyses": [
-        {
-          "id": "10_Liao_2010_1",
-          "name": "NS > S (all smokers)",
-          "merged_sources": [
-            "vbm_subst"
-          ],
-          "merged_member_count": 1
-        }
-      ]
-    },
-    "(2) Fibley, 2014": {
-      "source_files_present": [
-        "vbm_subst.json"
-      ],
-      "original_study_ids": [
-        "(2) Fibley, 2014"
-      ],
-      "original_study_ids_by_source": {
-        "vbm_subst": [
-          "(2) Fibley, 2014"
-        ]
-      },
-      "source_analyses_count": 1,
-      "canonical_analyses_count": 1,
-      "dedup_percent": 0.0,
-      "metadata_conflicts": [],
-      "merge_events": [],
-      "unique_additions": [
-        {
-          "study_id": "(2) Fibley, 2014",
-          "source_file": "vbm_subst.json",
-          "source_key": "vbm_subst",
-          "source_order": 0,
-          "is_primary_source": true,
-          "source_analysis_index": 0,
-          "source_analysis_index_in_study": 0,
-          "source_analysis_id": "marijuana users < controls",
-          "source_analysis_name": "marijuana users < controls",
-          "source_study_id": "(2) Fibley, 2014",
-          "source_study_name": "(2) Fibley, 2014",
-          "best_target_representative_id": null,
-          "best_target_representative_name": null,
-          "best_target_source_study_id": null,
-          "best_name_score": null,
-          "best_coord_score": null,
-          "best_combined_score": null,
-          "best_exact_coord_set": null,
-          "reason_codes": [
-            "seed_from_first_source"
-          ]
-        }
-      ],
-      "id_reassignment_operations": [
-        {
-          "old_id": "marijuana users < controls",
-          "new_id": "2_Fibley_2014_1"
-        }
-      ],
-      "canonical_analyses": [
-        {
-          "id": "2_Fibley_2014_1",
-          "name": "marijuana users < controls",
-          "merged_sources": [
-            "vbm_subst"
-          ],
-          "merged_member_count": 1
-        }
-      ]
-    },
-    "(7) Hanlon, 2014": {
-      "source_files_present": [
-        "vbm_subst.json"
-      ],
-      "original_study_ids": [
-        "(7) Hanlon, 2014"
-      ],
-      "original_study_ids_by_source": {
-        "vbm_subst": [
-          "(7) Hanlon, 2014"
-        ]
-      },
-      "source_analyses_count": 1,
-      "canonical_analyses_count": 1,
-      "dedup_percent": 0.0,
-      "metadata_conflicts": [],
-      "merge_events": [],
-      "unique_additions": [
-        {
-          "study_id": "(7) Hanlon, 2014",
-          "source_file": "vbm_subst.json",
-          "source_key": "vbm_subst",
-          "source_order": 0,
-          "is_primary_source": true,
-          "source_analysis_index": 0,
-          "source_analysis_index_in_study": 0,
-          "source_analysis_id": "NS > S (all smokers)",
-          "source_analysis_name": "NS > S (all smokers)",
-          "source_study_id": "(7) Hanlon, 2014",
-          "source_study_name": "(7) Hanlon, 2014",
-          "best_target_representative_id": null,
-          "best_target_representative_name": null,
-          "best_target_source_study_id": null,
-          "best_name_score": null,
-          "best_coord_score": null,
-          "best_combined_score": null,
-          "best_exact_coord_set": null,
-          "reason_codes": [
-            "seed_from_first_source"
-          ]
-        }
-      ],
-      "id_reassignment_operations": [
-        {
-          "old_id": "NS > S (all smokers)",
-          "new_id": "7_Hanlon_2014_1"
-        }
-      ],
-      "canonical_analyses": [
-        {
-          "id": "7_Hanlon_2014_1",
-          "name": "NS > S (all smokers)",
           "merged_sources": [
             "vbm_subst"
           ],

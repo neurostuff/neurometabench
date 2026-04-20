@@ -70,6 +70,7 @@ GENERATED_FILENAMES = {
     "fuzzy_merge_diagnostics.json",
     "match_results_all_annotations.json",
 }
+FUZZY_MAP_INCLUDED_PMID_DIFF_FILENAME = "fuzzy_map_included_studies_pmid_diff.json"
 
 
 def ensure_compatible_nimare_build() -> None:
@@ -332,6 +333,155 @@ def project_has_mapping_csv(
         return True
 
     return False
+
+
+def normalize_pmid_value(value: Any) -> Optional[str]:
+    """Normalize PMID-like values to a digit-only string."""
+    if value is None or pd.isna(value):
+        return None
+
+    text = str(value).strip()
+    if not text:
+        return None
+
+    if text.endswith(".0"):
+        text = text[:-2]
+
+    match = re.search(r"\d+", text)
+    if not match:
+        return None
+
+    normalized = match.group(0).lstrip("0")
+    return normalized if normalized else "0"
+
+
+def resolve_project_mapping_csvs(
+    fuzzy_map_path: Optional[Path],
+    project_key: str,
+) -> List[Path]:
+    """
+    Resolve all mapping CSVs relevant to a project.
+
+    Supports:
+    - a single CSV path
+    - a root directory with <project_key>/matched_studies_*.csv
+    - a project-scoped directory containing matched_studies_*.csv
+    """
+    if fuzzy_map_path is None or not fuzzy_map_path.exists():
+        return []
+
+    if fuzzy_map_path.is_file():
+        return [fuzzy_map_path] if fuzzy_map_path.suffix.lower() == ".csv" else []
+
+    resolved: List[Path] = []
+    project_dir = fuzzy_map_path / project_key
+    if project_dir.is_dir():
+        resolved.extend(sorted(project_dir.glob("matched_studies_*.csv")))
+
+    # Support project-scoped roots used for single-project runs.
+    if not resolved:
+        resolved.extend(sorted(fuzzy_map_path.glob("matched_studies_*.csv")))
+
+    return resolved
+
+
+def load_included_study_pmids(
+    included_studies_csv: Path,
+    meta_pmid: str,
+) -> set[str]:
+    """
+    Load study PMIDs from included_studies.csv for one meta-analysis PMID.
+    """
+    if not included_studies_csv.exists():
+        raise FileNotFoundError(f"Included studies file not found: {included_studies_csv}")
+
+    df = pd.read_csv(included_studies_csv)
+    required_cols = {"meta_pmid", "study_pmid"}
+    if not required_cols.issubset(set(df.columns)):
+        raise ValueError(
+            f"Included studies file missing required columns: {required_cols}"
+        )
+
+    meta_norm = normalize_pmid_value(meta_pmid)
+    if meta_norm is None:
+        return set()
+
+    meta_col = df["meta_pmid"].apply(normalize_pmid_value)
+    study_col = df["study_pmid"].apply(normalize_pmid_value)
+    matched = study_col[meta_col == meta_norm].dropna().tolist()
+    return {pmid for pmid in matched if pmid}
+
+
+def load_mapped_pmids_from_csv(csv_path: Path) -> Tuple[set[str], List[str]]:
+    """
+    Load mapped PMIDs from one fuzzy mapping CSV using mapping inclusion rules.
+    """
+    mappings, warnings = load_pmid_mappings(csv_path)
+    pmids = {
+        normalized
+        for normalized in (normalize_pmid_value(pmid) for pmid in mappings.values())
+        if normalized is not None
+    }
+    return pmids, warnings
+
+
+def write_fuzzy_map_included_pmid_diff_report(
+    output_dir: Path,
+    project_key: str,
+    meta_pmid: str,
+    fuzzy_map_dir: Path,
+    included_studies_csv: Path,
+) -> Tuple[Path, Dict[str, Any]]:
+    """
+    Compare included-study PMIDs vs fuzzy-map PMIDs and write a JSON report.
+    """
+    mapping_csvs = resolve_project_mapping_csvs(fuzzy_map_dir, project_key)
+    if not mapping_csvs:
+        raise FileNotFoundError(
+            f"No matched_studies_*.csv files found for project '{project_key}' in {fuzzy_map_dir}"
+        )
+
+    included_pmids = load_included_study_pmids(
+        included_studies_csv=included_studies_csv,
+        meta_pmid=meta_pmid,
+    )
+
+    mapped_pmids: set[str] = set()
+    mapping_warnings: List[str] = []
+    per_csv_counts: Dict[str, int] = {}
+    for csv_path in mapping_csvs:
+        csv_pmids, csv_warnings = load_mapped_pmids_from_csv(csv_path)
+        mapped_pmids.update(csv_pmids)
+        per_csv_counts[csv_path.name] = len(csv_pmids)
+        mapping_warnings.extend([f"{csv_path.name}: {warning}" for warning in csv_warnings])
+
+    included_not_in_fuzzy_map = sorted(included_pmids - mapped_pmids, key=lambda x: (len(x), x))
+    fuzzy_map_not_in_included = sorted(mapped_pmids - included_pmids, key=lambda x: (len(x), x))
+    overlap = sorted(included_pmids & mapped_pmids, key=lambda x: (len(x), x))
+
+    report = {
+        "timestamp_utc": datetime.now(timezone.utc).isoformat(),
+        "project": project_key,
+        "meta_pmid": normalize_pmid_value(meta_pmid),
+        "included_studies_csv": str(included_studies_csv),
+        "fuzzy_map_dir": str(fuzzy_map_dir),
+        "mapping_csvs": [str(path) for path in mapping_csvs],
+        "mapping_pmid_counts_by_csv": per_csv_counts,
+        "included_pmids_count": len(included_pmids),
+        "fuzzy_map_pmids_count": len(mapped_pmids),
+        "overlap_count": len(overlap),
+        "included_pmids_not_in_fuzzy_map_count": len(included_not_in_fuzzy_map),
+        "fuzzy_map_pmids_not_in_included_studies_count": len(fuzzy_map_not_in_included),
+        "included_pmids_not_in_fuzzy_map": included_not_in_fuzzy_map,
+        "fuzzy_map_pmids_not_in_included_studies": fuzzy_map_not_in_included,
+        "overlap_pmids": overlap,
+        "mapping_warnings": mapping_warnings,
+    }
+
+    output_dir.mkdir(parents=True, exist_ok=True)
+    report_path = output_dir / FUZZY_MAP_INCLUDED_PMID_DIFF_FILENAME
+    report_path.write_text(json.dumps(report, indent=2), encoding="utf-8")
+    return report_path, report
 
 
 def apply_optional_pmid_mapping(
@@ -1966,6 +2116,7 @@ Examples:
     # Paths
     base_dir = Path(__file__).parent.parent
     meta_datasets_file = base_dir / 'data' / 'meta_datasets.csv'
+    included_studies_file = base_dir / 'data' / 'included_studies.csv'
     sources_dir = base_dir / 'raw' / 'meta-datasets'
     output_base_dir = base_dir / 'data' / 'nimads'
     fuzzy_map_dir: Optional[Path] = None
@@ -1987,6 +2138,8 @@ Examples:
     else:
         if not fuzzy_map_dir.exists():
             raise FileNotFoundError(f"PMID mapping path does not exist: {fuzzy_map_dir}")
+        if not included_studies_file.exists():
+            raise FileNotFoundError(f"Included studies file not found: {included_studies_file}")
         mapping_path_type = "file" if fuzzy_map_dir.is_file() else "directory"
         print(f"PMID mapping enabled from {mapping_path_type}: {fuzzy_map_dir}")
     
@@ -2049,6 +2202,7 @@ Examples:
         'errors': []
     }
     processed_projects: List[str] = []
+    project_meta_pmids: Dict[str, str] = {}
     
     # Process each row
     for idx, row in df.iterrows():
@@ -2071,6 +2225,16 @@ Examples:
             output_dir = output_base_dir / normalized_topic
             if normalized_topic not in processed_projects:
                 processed_projects.append(normalized_topic)
+            meta_pmid_normalized = normalize_pmid_value(pmid) or pmid.strip()
+            previous_meta_pmid = project_meta_pmids.get(normalized_topic)
+            if previous_meta_pmid and previous_meta_pmid != meta_pmid_normalized:
+                print(
+                    "  ⚠ Conflicting meta PMID values for project "
+                    f"{normalized_topic}: {previous_meta_pmid} vs {meta_pmid_normalized}. "
+                    "Keeping first."
+                )
+            elif not previous_meta_pmid:
+                project_meta_pmids[normalized_topic] = meta_pmid_normalized
             
             stats = convert_sleuth_files(
                 sleuth_dir=sleuth_dir,
@@ -2176,6 +2340,28 @@ Examples:
                     f"analyses_in={summary['input_analyses_total']} analyses_out={summary['merged_analyses']} "
                     f"dedup_rate={summary['dedup_rate']:.3f}"
                 )
+                if fuzzy_map_dir is not None:
+                    meta_pmid = project_meta_pmids.get(project_key)
+                    if not meta_pmid:
+                        msg = (
+                            f"{project_key}: unable to determine meta PMID for fuzzy-map "
+                            "comparison report"
+                        )
+                        final_merge_errors.append(msg)
+                        print(f"  ✗ Fuzzy-map PMID diff report failed: {msg}")
+                    else:
+                        report_path, diff_report = write_fuzzy_map_included_pmid_diff_report(
+                            output_dir=output_dir,
+                            project_key=project_key,
+                            meta_pmid=meta_pmid,
+                            fuzzy_map_dir=fuzzy_map_dir,
+                            included_studies_csv=included_studies_file,
+                        )
+                        print(
+                            f"  ✓ Wrote fuzzy-map PMID diff report: {report_path.name} | "
+                            f"included_not_in_map={diff_report['included_pmids_not_in_fuzzy_map_count']} "
+                            f"map_not_in_included={diff_report['fuzzy_map_pmids_not_in_included_studies_count']}"
+                        )
             except Exception as exc:
                 msg = f"{project_key}: {exc}"
                 final_merge_errors.append(msg)

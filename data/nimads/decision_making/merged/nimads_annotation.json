@@ -19,47 +19,11 @@
   "notes": [
     {
       "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
         "rdm_july2019": false
       },
-      "analysis": "3_Guo_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "8_Daw_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "9_Diuk_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "10_morris_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "7_Boorman_1",
+      "analysis": "10860790_1",
       "annotation": "annotation_decision_making_merged_studyset"
     },
     {
@@ -68,7 +32,7 @@
         "perceptual_dm_july2019": true,
         "rdm_july2019": false
       },
-      "analysis": "6_Ho_2009_1",
+      "analysis": "10982748_1",
       "annotation": "annotation_decision_making_merged_studyset"
     },
     {
@@ -77,7 +41,7 @@
         "perceptual_dm_july2019": false,
         "rdm_july2019": false
       },
-      "analysis": "11_Jung2014_1",
+      "analysis": "11133312_1",
       "annotation": "annotation_decision_making_merged_studyset"
     },
     {
@@ -86,7 +50,7 @@
         "perceptual_dm_july2019": false,
         "rdm_july2019": false
       },
-      "analysis": "3_Guo_2013_1",
+      "analysis": "11751032_1",
       "annotation": "annotation_decision_making_merged_studyset"
     },
     {
@@ -95,7 +59,196 @@
         "perceptual_dm_july2019": false,
         "rdm_july2019": false
       },
-      "analysis": "3_Guo_2013_2",
+      "analysis": "11751032_2",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "11751032_3",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "11906224_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "12062884_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "12655327_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "12802176_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "12944524_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "14700259_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "15130588_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "15184037_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "15483614_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "15784440_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "15795135_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "15800185_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "16033924_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "16339445_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "16339445_2",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "16504951_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "16778890_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "16785427_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "16959497_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "16971537_1",
       "annotation": "annotation_decision_making_merged_studyset"
     },
     {
@@ -104,7 +257,25 @@
         "perceptual_dm_july2019": false,
         "rdm_july2019": true
       },
-      "analysis": "60_lei_2016_1",
+      "analysis": "17475792_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "17949691_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "18045902_1",
       "annotation": "annotation_decision_making_merged_studyset"
     },
     {
@@ -113,169 +284,7 @@
         "perceptual_dm_july2019": false,
         "rdm_july2019": true
       },
-      "analysis": "1_Bjork_2007_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "19_Chen_2015_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "2_Bode_2012_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "2_Bode_2012_2",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "25_Bode_2013_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "25_Bode_2013_2",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "25_Bode_2013_3",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "25_Bode_2013_4",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "25_Bode_2013_5",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "25_Bode_2013_6",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "26_Bode_2018_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "26_Bode_2018_2",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "26_Bode_2018_3",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "26_Bode_2018_4",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "26_Bode_2018_5",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "26_Bode_2018_6",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "26_Bode_2018_7",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "35_Hsu_2005_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "35_Hsu_2005_2",
+      "analysis": "18295984_1",
       "annotation": "annotation_decision_making_merged_studyset"
     },
     {
@@ -284,7 +293,7 @@
         "perceptual_dm_july2019": false,
         "rdm_july2019": true
       },
-      "analysis": "42_shao_2014_1",
+      "analysis": "18295984_2",
       "annotation": "annotation_decision_making_merged_studyset"
     },
     {
@@ -293,25 +302,7 @@
         "perceptual_dm_july2019": false,
         "rdm_july2019": true
       },
-      "analysis": "42_shao_2014_2",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "5_Bach_2009_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "5_Bach_2009_2",
+      "analysis": "18295984_3",
       "annotation": "annotation_decision_making_merged_studyset"
     },
     {
@@ -320,7 +311,16 @@
         "perceptual_dm_july2019": true,
         "rdm_july2019": false
       },
-      "analysis": "1_Banko_2011_1",
+      "analysis": "18375149_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": true
+      },
+      "analysis": "18572984_1",
       "annotation": "annotation_decision_making_merged_studyset"
     },
     {
@@ -329,52 +329,7 @@
         "perceptual_dm_july2019": true,
         "rdm_july2019": false
       },
-      "analysis": "1_Banko_2011_2",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "11_Jung_2014_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "12_bach_2011_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "12_bach_2011_2",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "12_bach_2011_3",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "14_krug_2014_1",
+      "analysis": "18612380_1",
       "annotation": "annotation_decision_making_merged_studyset"
     },
     {
@@ -383,25 +338,52 @@
         "perceptual_dm_july2019": false,
         "rdm_july2019": true
       },
-      "analysis": "2_Bjork_2008_1",
+      "analysis": "18787233_1",
       "annotation": "annotation_decision_making_merged_studyset"
     },
     {
       "note": {
         "adm_july2019": false,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": true
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
       },
-      "analysis": "2_Bjork_2008_2",
+      "analysis": "18981414_1",
       "annotation": "annotation_decision_making_merged_studyset"
     },
     {
       "note": {
         "adm_july2019": false,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": true
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
       },
-      "analysis": "2_Bjork_2008_3",
+      "analysis": "18981414_2",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "18981414_3",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "18981414_4",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "18997791_1",
       "annotation": "annotation_decision_making_merged_studyset"
     },
     {
@@ -410,7 +392,7 @@
         "perceptual_dm_july2019": false,
         "rdm_july2019": false
       },
-      "analysis": "24_Levy_2010_1",
+      "analysis": "19211872_1",
       "annotation": "annotation_decision_making_merged_studyset"
     },
     {
@@ -419,7 +401,853 @@
         "perceptual_dm_july2019": false,
         "rdm_july2019": false
       },
-      "analysis": "24_Levy_2010_2",
+      "analysis": "19211872_2",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "19524531_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "19587274_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "19897796_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "20032238_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "20032238_2",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "20032247_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": true
+      },
+      "analysis": "20138482_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": true
+      },
+      "analysis": "20188198_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "20357071_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "20472072_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "20505110_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "20805539_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "21106817_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "21325535_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "21325535_2",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "21451019_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "21451019_2",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "21451019_3",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "21534685_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "21555079_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "21741443_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": true
+      },
+      "analysis": "21864197_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "21933719_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "21933719_2",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": true
+      },
+      "analysis": "22194728_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "22250647_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": true
+      },
+      "analysis": "22309791_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": true
+      },
+      "analysis": "22309791_2",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": true
+      },
+      "analysis": "22339607_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "22922368_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "22922368_2",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "23041528_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "23041528_2",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "23041528_3",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "23041528_4",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "23041528_5",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "23041528_6",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "23313780_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "23313780_2",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "23313780_3",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "23313780_4",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "23313780_5",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "23355606_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "23355606_2",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "23365248_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": true
+      },
+      "analysis": "23392532_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": true
+      },
+      "analysis": "23392532_2",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "23476024_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "23536092_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "23982589_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "23982589_2",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "24298242_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "24298242_2",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "24355752_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "24367286_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "24367286_2",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "24367286_3",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "24474790_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "25055179_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "25112281_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "25112281_2",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "25206656_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "25206656_2",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "25206656_3",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": true
+      },
+      "analysis": "25498405_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": true
+      },
+      "analysis": "25498405_2",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "25698984_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "25798082_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": true
+      },
+      "analysis": "26176860_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": true
+      },
+      "analysis": "26176860_2",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "26510176_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "26510176_2",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "26510176_3",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "26510176_4",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "26640434_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "27177981_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "27177981_2",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "27177981_3",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "27177981_4",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "27623361_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": true
+      },
+      "analysis": "27975159_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "28131862_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "28250149_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "28250149_2",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "28250149_3",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "28686139_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": true,
+        "perceptual_dm_july2019": false,
+        "rdm_july2019": false
+      },
+      "analysis": "29408323_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "29408524_1",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "29408524_2",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "29408524_3",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "29408524_4",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "29408524_5",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "29408524_6",
+      "annotation": "annotation_decision_making_merged_studyset"
+    },
+    {
+      "note": {
+        "adm_july2019": false,
+        "perceptual_dm_july2019": true,
+        "rdm_july2019": false
+      },
+      "analysis": "29408524_7",
       "annotation": "annotation_decision_making_merged_studyset"
     },
     {
@@ -429,78 +1257,6 @@
         "rdm_july2019": true
       },
       "analysis": "3_Bolla_2003_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": true
-      },
-      "analysis": "35_Claus_2012_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": true
-      },
-      "analysis": "35_Claus_2012_2",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "4_Gluth_2014_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": true
-      },
-      "analysis": "70_Miedl_2010_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "12_Tosoni_2008_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "14_Kahnt_2011_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "15_Lewis_2000_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "17_Singh_2008_1",
       "annotation": "annotation_decision_making_merged_studyset"
     },
     {
@@ -518,25 +1274,7 @@
         "perceptual_dm_july2019": true,
         "rdm_july2019": false
       },
-      "analysis": "18_Snyder_2011_2",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "19_Paulus_2005_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "20_Verney_2003_1",
+      "analysis": "21_Georgie_2018_1",
       "annotation": "annotation_decision_making_merged_studyset"
     },
     {
@@ -554,709 +1292,7 @@
         "perceptual_dm_july2019": true,
         "rdm_july2019": false
       },
-      "analysis": "22_Hebart_2016_2",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "22_Hebart_2016_3",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "22_Paulus_2008_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "31_Hebart_2012_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "31_Hebart_2012_2",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": true
-      },
-      "analysis": "63_Yaxley_2011_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "7_Kayser_2010a_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
       "analysis": "8_Kayser_2010b_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "8_Kayser_2010b_2",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "13_Fujino_2016_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "17_dreher_2006_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "2_Clausse_2013_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "2_Clausse_2013_2",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "2_Clausse_2013_3",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "2_Clausse_2013_4",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "2_Clausse_2013_5",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "21_Georgie_2018_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "21_yarkoni_2005_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "23_Krueger_2017_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "23_Stewart_2013_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "23_Stewart_2013_2",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "24_Baumann_2014_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "24_Baumann_2014_2",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "26_Paulus_2001_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "28_Shankar_2017_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "28_Shankar_2017_2",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "28_Shankar_2017_3",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "29_Paulus_2003_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "3_Fleming_2010_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "30_Paulus_2004_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "32_tanaka_2015_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "34_Kononen_2003_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "37_Leland_2006_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": true
-      },
-      "analysis": "58_Crowley_2015_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": true
-      },
-      "analysis": "58_Crowley_2015_2",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "9_Noppeny_2011_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "1_O_doherty_2003_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "11_Sunaert_2000_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "13_Ivanoff_2008_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": true
-      },
-      "analysis": "16_koester_2013_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": true
-      },
-      "analysis": "16_koester_2013_2",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "20_filimon_2013_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "27_Paulus_2002a_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "27_Paulus_2002a_2",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "27_Paulus_2002a_3",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "28_Paulus_2002b_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "30_Pedersen_2015_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "30_Pedersen_2015_2",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "30_Pedersen_2015_3",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "30_Pedersen_2015_4",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "33_Frostman_2008_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "33_Frostman_2008_2",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "33_Frostman_2008_3",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "33_Frostman_2008_4",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "36_Paulus_2002c_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "4_Heekeren_2004_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": true
-      },
-      "analysis": "47_Rogalsky_2011_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "5_Heekeren_2006_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "16_Lundblad_2011_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "16_Yacubian_2006_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "18_Blackwood_2004_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": true
-      },
-      "analysis": "18_Lawrence_2009_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "29_Wendelken_2009_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "31_Hosseini_2010_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": true
-      },
-      "analysis": "37_Bednarski_2012_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "27_Lamichanne_2016_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "27_Lamichanne_2016_2",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "27_Lamichanne_2016_3",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "27_Lamichanne_2016_4",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "39_Cservenka_2012_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": true
-      },
-      "analysis": "39_bytristsky_2008_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": true
-      },
-      "analysis": "46_Leijenhorst_2010_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "34_Blankestein_2017_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "34_Blankestein_2018_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": false,
-        "perceptual_dm_july2019": true,
-        "rdm_july2019": false
-      },
-      "analysis": "10_Philiastides_2007_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "38_Pushkarskaya_2010_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "38_Pushkarskaya_2015_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "6_Huettel_et_al_2006_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "15_Huettel_et_al_2005_1",
       "annotation": "annotation_decision_making_merged_studyset"
     },
     {
@@ -1275,42 +1311,6 @@
         "rdm_july2019": false
       },
       "analysis": "32_Yeon_and_Rahnev_2018_2",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "33_Barkley_levenson_2015_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "25_Lopez_Paniagua_and_seger_2013_1",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "25_Lopez_Paniagua_and_seger_2013_2",
-      "annotation": "annotation_decision_making_merged_studyset"
-    },
-    {
-      "note": {
-        "adm_july2019": true,
-        "perceptual_dm_july2019": false,
-        "rdm_july2019": false
-      },
-      "analysis": "25_Lopez_Paniagua_and_seger_2013_3",
       "annotation": "annotation_decision_making_merged_studyset"
     }
   ]

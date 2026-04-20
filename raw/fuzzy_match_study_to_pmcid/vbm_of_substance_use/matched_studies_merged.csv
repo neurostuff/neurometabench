@@ -19,9 +19,9 @@ nimads_study_id,nimads_name,match_status,matched_pmid,matched_author,matched_yea
 "(21) Wang, 2016","(21) Wang, 2016",multiple_matches,27575491,Wang,2016,Alterations in Brain Structure and Functional Connectivity in Alcohol Dependent Patients and Possible Association with Impulsivity.,1,2
 "(4) Franklin, 2014","(4) Franklin, 2014",multiple_matches,25090480,Franklin,2014,The effects of chronic cigarette smoking on gray matter volume: influence of sex.,1,2
 "(1) Alia-Klein, 2011","(1) Alia-Klein, 2011",multiple_matches,21383264,Alia-Klein,2011,Gene x disease interaction on orbitofrontal gray matter in cocaine addiction.,1,2
-"(10) Liao, 2010","(10) Liao, 2010",no_match,20731627,,,,0,0
-"(2) Fibley, 2014","(2) Fibley, 2014",no_match,25385625,,,,0,0
-"(7) Hanlon, 2014","(7) Hanlon, 2014",no_match,25125263,,,,0,0
+"(10) Liao, 2010","(10) Liao, 2010",manual_override,20731627,,,,0,0
+"(2) Fibley, 2014","(2) Fibley, 2014",manual_override,25385625,,,,0,0
+"(7) Hanlon, 2014","(7) Hanlon, 2014",manual_override,25125263,,,,0,0
 "(10) Keihani, 2017","(10) Keihani, 2017",no_pmid,,,,,0,0
 "(19) Nurmedov, 2016","(19) Nurmedov, 2016",no_pmid,,,,,0,0
 "(24) Garza-Villarreal, 2018","(24) Garza-Villarreal, 2018",no_pmid,,,,,0,0

@@ -24855,7 +24855,7 @@
     },
     {
       "id": "22759909",
-      "name": "(3) Li 2013(b)",
+      "name": "(4) Li 2012",
       "authors": "",
       "publication": "",
       "metadata": {
@@ -24881,298 +24881,6 @@
       "analyses": [
         {
           "id": "22759909_1",
-          "name": "H>C",
-          "conditions": [
-            {
-              "name": "default",
-              "description": ""
-            }
-          ],
-          "weights": [
-            1.0
-          ],
-          "images": [],
-          "points": [
-            {
-              "space": "MNI",
-              "coordinates": [
-                -27.0,
-                -59.0,
-                51.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                66.0,
-                -27.0,
-                30.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                24.0,
-                3.0,
-                -24.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                44.0,
-                -69.0,
-                7.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                51.0,
-                -57.0,
-                0.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -40.0,
-                -47.0,
-                -27.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -21.0,
-                -3.0,
-                -24.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -42.0,
-                -49.0,
-                -24.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -48.0,
-                -66.0,
-                0.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -51.0,
-                -66.0,
-                0.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                44.0,
-                -53.0,
-                -27.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                42.0,
-                -51.0,
-                -24.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -45.0,
-                -66.0,
-                -3.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -27.0,
-                -57.0,
-                45.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                30.0,
-                -56.0,
-                48.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -51.0,
-                -58.0,
-                -7.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                47.0,
-                -69.0,
-                -6.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                30.0,
-                -54.0,
-                48.0
-              ]
-            }
-          ],
-          "metadata": {
-            "sample_sizes": [
-              37
-            ],
-            "merged_sources": [
-              "1_reward_neutral_2020",
-              "1_reward_neutral_2020_wbonly",
-              "2_drug_neutral_2020",
-              "2_drug_neutral_2020_wbonly"
-            ],
-            "merged_member_count": 4,
-            "merged_member_ids": [
-              "H>C",
-              "H>C",
-              "H>C",
-              "H>C"
-            ],
-            "merged_member_names": [
-              "H>C",
-              "H>C",
-              "H>C",
-              "H>C"
-            ],
-            "representative_source": "1_reward_neutral_2020"
-          },
-          "study_id": "22759909"
-        },
-        {
-          "id": "22759909_2",
-          "name": "H>C, LA>SA",
-          "conditions": [
-            {
-              "name": "default",
-              "description": ""
-            }
-          ],
-          "weights": [
-            1.0
-          ],
-          "images": [],
-          "points": [
-            {
-              "space": "MNI",
-              "coordinates": [
-                6.0,
-                -56.0,
-                18.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -28.0,
-                -84.0,
-                40.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -57.0,
-                -48.0,
-                45.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -9.0,
-                -72.0,
-                -42.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -6.0,
-                45.0,
-                21.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                5.0,
-                46.0,
-                7.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -6.0,
-                46.0,
-                16.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -6.0,
-                15.0,
-                6.0
-              ]
-            }
-          ],
-          "metadata": {
-            "sample_sizes": [
-              37
-            ],
-            "merged_sources": [
-              "1_reward_neutral_2020",
-              "1_reward_neutral_2020_wbonly",
-              "2_drug_neutral_2020",
-              "2_drug_neutral_2020_wbonly"
-            ],
-            "merged_member_count": 4,
-            "merged_member_ids": [
-              "H>C, LA>SA",
-              "H>C, LA>SA",
-              "H>C, LA>SA",
-              "H>C, LA>SA"
-            ],
-            "merged_member_names": [
-              "H>C, LA>SA",
-              "H>C, LA>SA",
-              "H>C, LA>SA",
-              "H>C, LA>SA"
-            ],
-            "representative_source": "1_reward_neutral_2020"
-          },
-          "study_id": "22759909"
-        },
-        {
-          "id": "22759909_3",
           "name": "H>C",
           "conditions": [
             {
@@ -25646,7 +25354,7 @@
           "study_id": "22759909"
         },
         {
-          "id": "22759909_4",
+          "id": "22759909_2",
           "name": "H>C, heroin vs control",
           "conditions": [
             {
@@ -29132,6 +28840,326 @@
       ]
     },
     {
+      "id": "23667541",
+      "name": "(3) Li 2013(b)",
+      "authors": "",
+      "publication": "",
+      "metadata": {
+        "original_study_ids_by_source": {
+          "1_reward_neutral_2020": [
+            "23667541"
+          ],
+          "1_reward_neutral_2020_wbonly": [
+            "23667541"
+          ],
+          "2_drug_neutral_2020": [
+            "23667541"
+          ],
+          "2_drug_neutral_2020_wbonly": [
+            "23667541"
+          ]
+        },
+        "original_study_ids": [
+          "23667541"
+        ],
+        "study_match_key": "23667541"
+      },
+      "analyses": [
+        {
+          "id": "23667541_1",
+          "name": "H>C",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -27.0,
+                -59.0,
+                51.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                66.0,
+                -27.0,
+                30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                24.0,
+                3.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                44.0,
+                -69.0,
+                7.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                51.0,
+                -57.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -40.0,
+                -47.0,
+                -27.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -21.0,
+                -3.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.0,
+                -49.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -48.0,
+                -66.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -51.0,
+                -66.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                44.0,
+                -53.0,
+                -27.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                42.0,
+                -51.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -45.0,
+                -66.0,
+                -3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -27.0,
+                -57.0,
+                45.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                -56.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -51.0,
+                -58.0,
+                -7.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                47.0,
+                -69.0,
+                -6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                -54.0,
+                48.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              37
+            ],
+            "merged_sources": [
+              "1_reward_neutral_2020",
+              "1_reward_neutral_2020_wbonly",
+              "2_drug_neutral_2020",
+              "2_drug_neutral_2020_wbonly"
+            ],
+            "merged_member_count": 4,
+            "merged_member_ids": [
+              "H>C",
+              "H>C",
+              "H>C",
+              "H>C"
+            ],
+            "merged_member_names": [
+              "H>C",
+              "H>C",
+              "H>C",
+              "H>C"
+            ],
+            "representative_source": "1_reward_neutral_2020"
+          },
+          "study_id": "23667541"
+        },
+        {
+          "id": "23667541_2",
+          "name": "H>C, LA>SA",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                -56.0,
+                18.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -28.0,
+                -84.0,
+                40.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -57.0,
+                -48.0,
+                45.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -9.0,
+                -72.0,
+                -42.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.0,
+                45.0,
+                21.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                5.0,
+                46.0,
+                7.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.0,
+                46.0,
+                16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.0,
+                15.0,
+                6.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              37
+            ],
+            "merged_sources": [
+              "1_reward_neutral_2020",
+              "1_reward_neutral_2020_wbonly",
+              "2_drug_neutral_2020",
+              "2_drug_neutral_2020_wbonly"
+            ],
+            "merged_member_count": 4,
+            "merged_member_ids": [
+              "H>C, LA>SA",
+              "H>C, LA>SA",
+              "H>C, LA>SA",
+              "H>C, LA>SA"
+            ],
+            "merged_member_names": [
+              "H>C, LA>SA",
+              "H>C, LA>SA",
+              "H>C, LA>SA",
+              "H>C, LA>SA"
+            ],
+            "representative_source": "1_reward_neutral_2020"
+          },
+          "study_id": "23667541"
+        }
+      ]
+    },
+    {
       "id": "23683790",
       "name": "(2) Prisciandaro, 2013 (a)",
       "authors": "",
@@ -30911,7 +30939,7 @@
     },
     {
       "id": "24361634",
-      "name": "(13) Li, 2014",
+      "name": "(45) Dinh-Williams, 2014",
       "authors": "",
       "publication": "",
       "metadata": {
@@ -30937,304 +30965,6 @@
       "analyses": [
         {
           "id": "24361634_1",
-          "name": "H>N",
-          "conditions": [
-            {
-              "name": "default",
-              "description": ""
-            }
-          ],
-          "weights": [
-            1.0
-          ],
-          "images": [],
-          "points": [
-            {
-              "space": "MNI",
-              "coordinates": [
-                -9.0,
-                45.0,
-                0.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                12.0,
-                -3.0,
-                -12.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -9.0,
-                -27.0,
-                -12.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -18.0,
-                10.0,
-                -2.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                18.0,
-                19.0,
-                9.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -12.0,
-                9.0,
-                5.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                12.0,
-                -87.0,
-                -27.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                0.0,
-                -60.0,
-                -36.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -3.0,
-                15.0,
-                -12.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                30.0,
-                -6.0,
-                6.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -34.0,
-                6.0,
-                -19.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                6.0,
-                -9.0,
-                33.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -57.0,
-                -63.0,
-                -9.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -15.0,
-                -96.0,
-                21.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                33.0,
-                -81.0,
-                -15.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -18.0,
-                -93.0,
-                -12.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                0.0,
-                -33.0,
-                -27.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                33.0,
-                -33.0,
-                -24.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                9.0,
-                -51.0,
-                12.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -6.0,
-                -54.0,
-                12.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                42.0,
-                -48.0,
-                48.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -42.0,
-                -51.0,
-                54.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -24.0,
-                -72.0,
-                48.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -11.0,
-                -1.0,
-                -20.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                51.0,
-                24.0,
-                0.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -15.0,
-                15.0,
-                -21.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -9.0,
-                30.0,
-                39.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                45.0,
-                9.0,
-                21.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -42.0,
-                9.0,
-                24.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                60.0,
-                -63.0,
-                -9.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -6.0,
-                0.0,
-                -12.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                14.0,
-                -1.0,
-                -18.0
-              ]
-            }
-          ],
-          "metadata": {
-            "sample_sizes": [
-              44
-            ],
-            "merged_sources": [
-              "1_reward_neutral_2020",
-              "1_reward_neutral_2020_wbonly",
-              "2_drug_neutral_2020",
-              "2_drug_neutral_2020_wbonly"
-            ],
-            "merged_member_count": 4,
-            "merged_member_ids": [
-              "H>N",
-              "H>N",
-              "H>N",
-              "H>N"
-            ],
-            "merged_member_names": [
-              "H>N",
-              "H>N",
-              "H>N",
-              "H>N"
-            ],
-            "representative_source": "1_reward_neutral_2020"
-          },
-          "study_id": "24361634"
-        },
-        {
-          "id": "24361634_2",
           "name": "NI>N",
           "conditions": [
             {
@@ -32958,6 +32688,332 @@
             "representative_source": "1_reward_neutral_2020"
           },
           "study_id": "25117824"
+        }
+      ]
+    },
+    {
+      "id": "25214465",
+      "name": "(13) Li, 2014",
+      "authors": "",
+      "publication": "",
+      "metadata": {
+        "original_study_ids_by_source": {
+          "1_reward_neutral_2020": [
+            "25214465"
+          ],
+          "1_reward_neutral_2020_wbonly": [
+            "25214465"
+          ],
+          "2_drug_neutral_2020": [
+            "25214465"
+          ],
+          "2_drug_neutral_2020_wbonly": [
+            "25214465"
+          ]
+        },
+        "original_study_ids": [
+          "25214465"
+        ],
+        "study_match_key": "25214465"
+      },
+      "analyses": [
+        {
+          "id": "25214465_1",
+          "name": "H>N",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -9.0,
+                45.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                12.0,
+                -3.0,
+                -12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -9.0,
+                -27.0,
+                -12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -18.0,
+                10.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                18.0,
+                19.0,
+                9.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -12.0,
+                9.0,
+                5.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                12.0,
+                -87.0,
+                -27.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                0.0,
+                -60.0,
+                -36.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -3.0,
+                15.0,
+                -12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                -6.0,
+                6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -34.0,
+                6.0,
+                -19.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                -9.0,
+                33.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -57.0,
+                -63.0,
+                -9.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -15.0,
+                -96.0,
+                21.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                33.0,
+                -81.0,
+                -15.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -18.0,
+                -93.0,
+                -12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                0.0,
+                -33.0,
+                -27.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                33.0,
+                -33.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                9.0,
+                -51.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.0,
+                -54.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                42.0,
+                -48.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.0,
+                -51.0,
+                54.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -24.0,
+                -72.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -11.0,
+                -1.0,
+                -20.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                51.0,
+                24.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -15.0,
+                15.0,
+                -21.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -9.0,
+                30.0,
+                39.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                45.0,
+                9.0,
+                21.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.0,
+                9.0,
+                24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                60.0,
+                -63.0,
+                -9.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.0,
+                0.0,
+                -12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                14.0,
+                -1.0,
+                -18.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              44
+            ],
+            "merged_sources": [
+              "1_reward_neutral_2020",
+              "1_reward_neutral_2020_wbonly",
+              "2_drug_neutral_2020",
+              "2_drug_neutral_2020_wbonly"
+            ],
+            "merged_member_count": 4,
+            "merged_member_ids": [
+              "H>N",
+              "H>N",
+              "H>N",
+              "H>N"
+            ],
+            "merged_member_names": [
+              "H>N",
+              "H>N",
+              "H>N",
+              "H>N"
+            ],
+            "representative_source": "1_reward_neutral_2020"
+          },
+          "study_id": "25214465"
         }
       ]
     },
@@ -36145,7 +36201,7 @@
     },
     {
       "id": "29343732",
-      "name": "(14) Zhang, 2018",
+      "name": "(38) Huang, 2018",
       "authors": "",
       "publication": "",
       "metadata": {
@@ -36171,104 +36227,6 @@
       "analyses": [
         {
           "id": "29343732_1",
-          "name": "analysis_1",
-          "conditions": [
-            {
-              "name": "default",
-              "description": ""
-            }
-          ],
-          "weights": [
-            1.0
-          ],
-          "images": [],
-          "points": [
-            {
-              "space": "MNI",
-              "coordinates": [
-                -30.0,
-                -61.0,
-                55.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                33.0,
-                -46.0,
-                49.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -54.0,
-                2.0,
-                28.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                51.0,
-                8.0,
-                25.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                3.0,
-                -4.0,
-                -14.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -39.0,
-                -58.0,
-                -14.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                42.0,
-                -82.0,
-                -8.0
-              ]
-            }
-          ],
-          "metadata": {
-            "sample_sizes": [
-              23
-            ],
-            "merged_sources": [
-              "1_reward_neutral_2020",
-              "1_reward_neutral_2020_wbonly",
-              "2_drug_neutral_2020",
-              "2_drug_neutral_2020_wbonly"
-            ],
-            "merged_member_count": 4,
-            "merged_member_ids": [
-              "analysis_1",
-              "analysis_1",
-              "analysis_1",
-              "analysis_1"
-            ],
-            "merged_member_names": [
-              "analysis_1",
-              "analysis_1",
-              "analysis_1",
-              "analysis_1"
-            ],
-            "representative_source": "1_reward_neutral_2020"
-          },
-          "study_id": "29343732"
-        },
-        {
-          "id": "29343732_2",
           "name": "A>N",
           "conditions": [
             {
@@ -38544,6 +38502,132 @@
             "representative_source": "1_reward_neutral_2020"
           },
           "study_id": "30243035"
+        }
+      ]
+    },
+    {
+      "id": "30295396",
+      "name": "(14) Zhang, 2018",
+      "authors": "",
+      "publication": "",
+      "metadata": {
+        "original_study_ids_by_source": {
+          "1_reward_neutral_2020": [
+            "30295396"
+          ],
+          "1_reward_neutral_2020_wbonly": [
+            "30295396"
+          ],
+          "2_drug_neutral_2020": [
+            "30295396"
+          ],
+          "2_drug_neutral_2020_wbonly": [
+            "30295396"
+          ]
+        },
+        "original_study_ids": [
+          "30295396"
+        ],
+        "study_match_key": "30295396"
+      },
+      "analyses": [
+        {
+          "id": "30295396_1",
+          "name": "analysis_1",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -30.0,
+                -61.0,
+                55.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                33.0,
+                -46.0,
+                49.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -54.0,
+                2.0,
+                28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                51.0,
+                8.0,
+                25.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                3.0,
+                -4.0,
+                -14.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -39.0,
+                -58.0,
+                -14.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                42.0,
+                -82.0,
+                -8.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              23
+            ],
+            "merged_sources": [
+              "1_reward_neutral_2020",
+              "1_reward_neutral_2020_wbonly",
+              "2_drug_neutral_2020",
+              "2_drug_neutral_2020_wbonly"
+            ],
+            "merged_member_count": 4,
+            "merged_member_ids": [
+              "analysis_1",
+              "analysis_1",
+              "analysis_1",
+              "analysis_1"
+            ],
+            "merged_member_names": [
+              "analysis_1",
+              "analysis_1",
+              "analysis_1",
+              "analysis_1"
+            ],
+            "representative_source": "1_reward_neutral_2020"
+          },
+          "study_id": "30295396"
         }
       ]
     },
