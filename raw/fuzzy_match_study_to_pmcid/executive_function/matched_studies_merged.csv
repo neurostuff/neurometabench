@@ -1,0 +1,173 @@
+nimads_study_id,nimads_name,match_status,matched_pmid,matched_author,matched_year,matched_title,match_score,match_count
+10051756,"Owen, 1998",fuzzy_match,10051756,Owen,1999,Redefining the functional organization of working memory processes within human lateral prefrontal cortex.,0.95,1
+11002353,"Garavan, 1999",fuzzy_match,11002353,Garavan,2000,Practice-related functional activation changes in a working memory task.,0.95,1
+17679639,"Yucel, 2007",fuzzy_match,17679639,Yücel,2007,Functional and biochemical alterations of the medial frontal cortex in obsessive-compulsive disorder.,0.95,1
+18363509,"Sanchez-Carrion, 2008",fuzzy_match,18363509,Sánchez-Carrión,2008,Frontal hypoactivation on functional magnetic resonance imaging in working memory after severe diffuse traumatic brain injury.,0.95,1
+10865104,"de, 2000",multiple_matches,10865104,de Zubicaray,2000,Motor response suppression and the prepotent tendency to respond: a parametric fMRI study.,1,2
+11668653,"de, 2001",multiple_matches,11668653,de Zubicaray,2001,The semantic interference effect in the picture-word paradigm: an event-related fMRI study employing overt responses.,1,2
+10356991,"Carter, 1995",no_match,9343611,,,,0,0
+"Awh, 1996","Awh, 1996",no_match,,,,,0,0
+1679944,"Frith, 1991",exact_match,1679944,Frith,1991,Willed action and the prefrontal cortex in man: a study with PET.,1,1
+3277066,"Petersen, 1988",exact_match,3277066,Petersen,1988,Positron emission tomographic studies of the cortical anatomy of single-word processing.,1,1
+7708745,"Klein, 1995",exact_match,7708745,Klein,1995,The neural substrates underlying word generation: a bilingual functional-imaging study.,1,1
+7846080,"O'Driscoll, 1995",exact_match,7846080,O'Driscoll,1995,Functional neuroanatomy of antisaccade eye movements investigated with positron emission tomography.,1,1
+8232848,"Bench, 1993",exact_match,8232848,Bench,1993,Investigations of the functional anatomy of attention using the Stroop test.,1,1
+8410148,"Paus, 1993",exact_match,8410148,Paus,1993,"Role of the human anterior cingulate cortex in the control of oculomotor, manual, and speech responses: a positron emission tomography study.",1,1
+8430101,"Petrides, 1993",exact_match,8430101,Petrides,1993,Functional activation of the human frontal cortex during the performance of verbal working memory tasks.,1,1
+8524452,"Berman, 1995",exact_match,8524452,Berman,1995,Physiological activation of a cortical network during performance of the Wisconsin Card Sorting Test: a positron emission tomography study.,1,1
+8670634,"Smith, 1996",exact_match,8670634,Smith,1996,Dissociating verbal and spatial working memory using PET.,1,1
+8822570,"Sweeney, 1996",exact_match,8822570,Sweeney,1996,Positron emission tomography study of voluntary saccadic eye movements and spatial working memory.,1,1
+8931588,"Nagahama, 1996",exact_match,8931588,Nagahama,1996,Cerebral activation during performance of a card sorting test.,1,1
+9038284,"Braver, 1997",exact_match,9038284,Braver,1997,A parametric study of prefrontal cortex involvement in human working memory.,1,1
+9121583,"Cohen, 1997",exact_match,9121583,Cohen,1997,Temporal dynamics of brain activation during a working memory task.,1,1
+9187292,"Nagahama, 1997",exact_match,9187292,Nagahama,1997,Age-related changes in cerebral blood flow activation during a Card Sorting Test.,1,1
+9223090,"Rao, 1997",exact_match,9223090,Rao,1997,Functional MRI evidence for subcortical participation in conceptual reasoning skills.,1,1
+9299382,"Taylor, 1997",exact_match,9299382,Taylor,1997,Isolation of specific interference processing in the Stroop task: PET activation studies.,1,1
+9305814,"Doricchi, 1997",exact_match,9305814,Doricchi,1997,Neural control of fast-regular saccades and antisaccades: an investigation using positron emission tomography.,1,1
+9343594,"Ghatan, 1995",exact_match,9343594,Ghatan,1995,Brain activation induced by the perceptual maze test: a PET study of cognitive performance.,1,1
+9345478,"Schumacher, 1996",exact_match,9345478,Schumacher,1996,PET evidence for an amodal verbal working memory system.,1,1
+9500831,"Ghatan, 1998",exact_match,9500831,Ghatan,1998,Coexistence of attention-based facilitation and inhibition in the human cortex.,1,1
+9626670,"Goldberg, 1998",exact_match,9626670,Goldberg,1998,Uncoupling cognitive workload and prefrontal cortical physiology: a PET rCBF study.,1,1
+9704265,"Bush, 1998",exact_match,9704265,Bush,1998,The counting Stroop: an interference task specialized for functional neuroimaging--validation study with functional MRI.,1,1
+9758739,"Casey, 1998",exact_match,9758739,Casey,1998,Reproducibility of fMRI results across four institutions using a spatial working memory task.,1,1
+9801381,"Petit, 1998",exact_match,9801381,Petit,1998,Sustained activity in the medial wall during working memory delays.,1,1
+9863701,"Carlson, 1998",exact_match,9863701,Carlson,1998,Distribution of cortical activation during visuospatial n-back tasks as revealed by functional magnetic resonance imaging.,1,1
+9927550,"Rypma, 1999",exact_match,9927550,Rypma,1999,Load-dependent roles of frontal brain regions in the maintenance of working memory.,1,1
+10022492,"Callicott, 1999",exact_match,10022492,Callicott,1999,Physiological characteristics of capacity constraints in working memory as revealed by functional MRI.,1,1
+10195114,"Konishi, 1998",exact_match,10195114,Konishi,1998,Transient activation of inferior prefrontal cortex during cognitive set shifting.,1,1
+10349294,"Brown, 1999",exact_match,10349294,Brown,1999,Brain activation and pupil response during covert performance of the Stroop Color Word task.,1,1
+10355680,"Konishi, 1999",exact_match,10355680,Konishi,1999,Common inhibitory mechanism in human inferior prefrontal cortex revealed by event-related functional MRI.,1,1
+10511450,"Klein, 1999",exact_match,10511450,Klein,1999,Cerebral organization in bilinguals: a PET study of Chinese-English verb generation.,1,1
+10574350,"Crosson, 1999",exact_match,10574350,Crosson,1999,Left-hemisphere processing of emotional connotation during word generation.,1,1
+10600415,"LaBar, 1999",exact_match,10600415,LaBar,1999,Neuroanatomic overlap of working memory and spatial attention networks: a functional MRI comparison within subjects.,1,1
+10643729,"Clark, 2000",exact_match,10643729,Clark,2000,Updating working memory for words: a PET activation study.,1,1
+10666562,"Dove, 2000",exact_match,10666562,Dove,2000,Prefrontal cortex activation in task switching: an event-related fMRI study.,1,1
+10769312,"Rogers, 2000",exact_match,10769312,Rogers,2000,Contrasting cortical and subcortical activations produced by attentional-set shifting and reversal learning in humans.,1,1
+10806026,"Stern, 2000",exact_match,10806026,Stern,2000,Activity in ventrolateral and mid-dorsolateral prefrontal cortex during nonspatial visual working memory processing: evidence from functional magnetic resonance imaging.,1,1
+10834847,"Rowe, 2000",exact_match,10834847,Rowe,2000,The prefrontal cortex: response selection or maintenance within working memory?,1,1
+10846167,"MacDonald, 2000",exact_match,10846167,MacDonald,2000,Dissociating the role of the dorsolateral prefrontal and anterior cingulate cortex in cognitive control.,1,1
+10859133,"Leung, 2000",exact_match,10859133,Leung,2000,An event-related functional MRI study of the stroop color word interference task.,1,1
+10903406,"Manoach, 2000",exact_match,10903406,Manoach,2000,Schizophrenic subjects show aberrant fMRI activation of dorsolateral prefrontal cortex and basal ganglia during working memory performance.,1,1
+10978687,"Banich, 2000",exact_match,10978687,Banich,2000,Prefrontal regions play a predominant role in imposing an attentional 'set': evidence from fMRI.,1,1
+10978708,"Kimberg, 2000",exact_match,10978708,Kimberg,2000,Modulation of task-related neural activity in task-switching: an fMRI study.,1,1
+10982749,"Martinkauppi, 2000",exact_match,10982749,Martinkauppi,2000,Working memory of auditory localization.,1,1
+11069306,"Sohn, 2000",exact_match,11069306,Sohn,2000,The role of prefrontal cortex and posterior parietal cortex in task switching.,1,1
+11113037,"Nagahama, 2001",exact_match,11113037,Nagahama,2001,Dissociable mechanisms of attentional control within the human prefrontal cortex.,1,1
+11133306,"Zysset, 2001",exact_match,11133306,Zysset,2001,Color-word matching stroop task: separating interference and response conflict.,1,1
+11162266,"Rubia, 2001",exact_match,11162266,Rubia,2001,Mapping motor inhibition: conjunctive brain activations across different versions of go/no-go and stop tasks.,1,1
+11162272,"Zago, 2001",exact_match,11162272,Zago,2001,Neural correlates of simple and complex mental calculation.,1,1
+11167061,"Druzgal, 2001",exact_match,11167061,Druzgal,2001,Activity in fusiform face area modulated as a function of working memory load.,1,1
+11169874,"Liddle, 2001",exact_match,11169874,Liddle,2001,Event-related fMRI study of response inhibition.,1,1
+11170809,"Menon, 2001",exact_match,11170809,Menon,2001,Functional neuroanatomy of auditory working memory in schizophrenia: relation to positive and negative symptoms.,1,1
+11189943,"Audenaert, 2000",exact_match,11189943,Audenaert,2000,Verbal fluency as a prefrontal activation probe: a validation study using 99mTc-ECD brain SPET.,1,1
+11230097,"Pochon, 2001",exact_match,11230097,Pochon,2001,The role of dorsolateral prefrontal cortex in the preparation of forthcoming actions: an fMRI study.,1,1
+11231835,"Barch, 2001",exact_match,11231835,Barch,2001,Selective deficits in prefrontal cortex function in medication-naive patients with schizophrenia.,1,1
+11241873,"Crespo-Facorro, 2001",exact_match,11241873,Crespo-Facorro,2001,Neural basis of novel and well-learned recognition memory in schizophrenia: a positron emission tomography study.,1,1
+11506538,"Dade, 2001",exact_match,11506538,Dade,2001,Working memory in another dimension: functional imaging of human olfactory working memory.,1,1
+11554517,"Rypma, 2001",exact_match,11554517,Rypma,2001,Age differences in prefrontal cortical activity in working memory.,1,1
+11567063,"Monchi, 2001",exact_match,11567063,Monchi,2001,Wisconsin Card Sorting revisited: distinct neural circuits participating in different stages of the task identified by event-related functional magnetic resonance imaging.,1,1
+11571223,"Bunge, 2001",exact_match,11571223,Bunge,2001,Prefrontal regions involved in keeping information in and out of mind.,1,1
+11689307,"Milham, 2001",exact_match,11689307,Milham,2001,The relative involvement of anterior cingulate and prefrontal cortex in attentional control depends on nature of conflict.,1,1
+11697946,"Ruff, 2001",exact_match,11697946,Ruff,2001,The role of the anterior cingulate cortex in conflict processing: evidence from reverse stroop interference.,1,1
+11702561,"Banich, 2001",exact_match,11702561,Banich,2001,Attentional selection and the processing of task-irrelevant information: insights from fMRI examinations of the Stroop task.,1,1
+11707086,"van, 2001",exact_match,11707086,van Veen,2001,"Anterior cingulate cortex, conflict monitoring, and levels of processing.",1,1
+11707094,"Ullsperger, 2001",exact_match,11707094,Ullsperger,2001,Subprocesses of performance monitoring: a dissociation of error processing and response competition revealed by event-related fMRI and ERPs.,1,1
+11713630,"Kimmig, 2001",exact_match,11713630,Kimmig,2001,Relationship between saccadic eye movements and cortical activity as measured by fMRI: quantitative and qualitative aspects.,1,1
+11733725,"Maclin, 2001",exact_match,11733725,Maclin,2001,Visual spatial localization conflict: an fMRI study.,1,1
+11771973,"Zurowski, 2002",exact_match,11771973,Zurowski,2002,Dissociating a common working memory network from different neural substrates of phonological and spatial stimulus processing.,1,1
+11848715,"Norris, 2002",exact_match,11848715,Norris,2002,An investigation of the value of spin-echo-based fMRI using a Stroop color-word matching task and EPI at 3 T.,1,1
+11880658,"Fincham, 2002",exact_match,11880658,Fincham,2002,Neural mechanisms of planning: a computational analysis using event-related fMRI.,1,1
+11906228,"Kim, 2002",exact_match,11906228,Kim,2002,Dissociation of working memory processing associated with native and second languages: PET investigation.,1,1
+11919006,"Peterson, 2002",exact_match,11919006,Peterson,2002,An event-related functional MRI study comparing interference effects in the Simon and Stroop tasks.,1,1
+11976394,"Rushworth, 2002",exact_match,11976394,Rushworth,2002,Role of the human medial frontal cortex in task switching: a combined fMRI and TMS study.,1,1
+12126506,"Leung, 2002",exact_match,12126506,Leung,2002,Sustained mnemonic response in the human middle frontal gyrus during on-line storage of spatial memoranda.,1,1
+12139955,"Milham, 2002",exact_match,12139955,Milham,2002,Attentional control in the aging brain: insights from an fMRI study of the stroop task.,1,1
+12146684,"Ragland, 2002",exact_match,12146684,Ragland,2002,Working memory for complex figures: an fMRI comparison of letter and fractal n-back tasks.,1,1
+12240737,"Mead, 2002",exact_match,12240737,Mead,2002,Neural basis of the Stroop interference task: response competition or selective attention?,1,1
+12377154,"Luks, 2002",exact_match,12377154,Luks,2002,Evidence for anterior cingulate cortex involvement in monitoring preparatory attentional set.,1,1
+12377161,"Fu, 2002",exact_match,12377161,Fu,2002,A functional magnetic resonance imaging study of overt letter verbal fluency using a clustered acquisition sequence: greater anterior cingulate activation with increased task demand.,1,1
+12414261,"Watanabe, 2002",exact_match,12414261,Watanabe,2002,The human prefrontal and parietal association cortices are involved in NO-GO performances: an event-related fMRI study.,1,1
+12498755,"Garavan, 2002",exact_match,12498755,Garavan,2002,"Dissociable executive functions in the dynamic control of behavior: inhibition, error detection, and correction.",1,1
+12507442,"Fan, 2003",exact_match,12507442,Fan,2003,Cognitive and brain consequences of conflict.,1,1
+12513942,"Perlstein, 2003",exact_match,12513942,Perlstein,2003,Prefrontal cortex dysfunction mediates deficits in working memory and prepotent responding in schizophrenia.,1,1
+12595179,"Veltman, 2003",exact_match,12595179,Veltman,2003,Maintenance versus manipulation in verbal working memory revisited: an fMRI study.,1,1
+12631562,"Dreher, 2003",exact_match,12631562,Dreher,2003,Dissociating the roles of the rostral anterior cingulate and the lateral prefrontal cortices in performing two tasks simultaneously or successively.,1,1
+12727696,"Kim, 2003",exact_match,12727696,Kim,2003,Functional disconnection between the prefrontal and parietal cortices during working memory processing in schizophrenia: a[15(O)]H2O PET study.,1,1
+12753960,"Hazeltine, 2003",exact_match,12753960,Hazeltine,2003,Material-dependent and material-independent selection processes in the frontal and parietal lobes: an event-related fMRI investigation of response competition.,1,1
+12873752,"Lazeron, 2003",exact_match,12873752,Lazeron,2003,A paced visual serial addition test for fMRI.,1,1
+12880912,"Mostofsky, 2003",exact_match,12880912,Mostofsky,2003,fMRI evidence that the neural basis of response inhibition is task-dependent.,1,1
+12925284,"Braver, 2003",exact_match,12925284,Braver,2003,Neural mechanisms of transient and sustained cognitive control during task switching.,1,1
+12946085,"Honey, 2003",exact_match,12946085,Honey,2003,The functional neuroanatomy of schizophrenic subsyndromes.,1,1
+14568502,"Maguire, 2003",exact_match,14568502,Maguire,2003,Evidence of enhancement of spatial attention during inhibition of a visuo-motor response.,1,1
+14572528,"Horn, 2003",exact_match,14572528,Horn,2003,Response inhibition and impulsivity: an fMRI study.,1,1
+14642464,"Linden, 2003",exact_match,14642464,Linden,2003,Cortical capacity constraints for visual working memory: dissociation of fMRI load effects in a fronto-parietal network.,1,1
+14659499,"Delazer, 2003",exact_match,14659499,Delazer,2003,Learning complex arithmetic--an fMRI study.,1,1
+14674880,"MacDonald, 2003",exact_match,14674880,MacDonald,2003,Event-related FMRI study of context processing in dorsolateral prefrontal cortex of patients with schizophrenia.,1,1
+14683717,"Durston, 2003",exact_match,14683717,Durston,2003,Parametric manipulation of conflict and response competition using rapid mixed-trial event-related fMRI.,1,1
+14683728,"van, 2003",exact_match,14683728,van der Wee,2003,Spatial working memory deficits in obsessive compulsive disorder are associated with excessive engagement of the medial frontal cortex.,1,1
+14754778,"Hugdahl, 2004",exact_match,14754778,Hugdahl,2004,Brain activation measured with fMRI during a mental arithmetic task in schizophrenia and major depression.,1,1
+14762131,"Cools, 2004",exact_match,14762131,Cools,2004,Differential responses in human striatum and prefrontal cortex to changes in object and rule relevance.,1,1
+15038006,"Smith, 2004",exact_match,15038006,Smith,2004,"Neural correlates of switching set as measured in fast, event-related functional magnetic resonance imaging.",1,1
+15056518,"Heckers, 2004",exact_match,15056518,Heckers,2004,Anterior cingulate cortex activation during cognitive interference in schizophrenia.,1,1
+15109998,"Chen, 2004",exact_match,15109998,Chen,2004,Functional abnormalities in symptomatic concussed athletes: an fMRI study.,1,1
+15110011,"Landau, 2004",exact_match,15110011,Landau,2004,A functional MRI study of the influence of practice on component processes of working memory.,1,1
+15165351,"Brass, 2004",exact_match,15165351,Brass,2004,Decomposing components of task preparation with functional magnetic resonance imaging.,1,1
+15182319,"Kelly, 2004",exact_match,15182319,Kelly,2004,Prefrontal-subcortical dissociations underlying inhibitory control revealed by event-related fMRI.,1,1
+15183386,"Fassbender, 2004",exact_match,15183386,Fassbender,2004,A topography of executive functions and their interactions revealed by functional magnetic resonance imaging.,1,1
+15200705,"Hester, 2004",exact_match,15200705,Hester,2004,Predicting success: patterns of cortical activation and deactivation prior to response inhibition.,1,1
+15219581,"Liu, 2004",exact_match,15219581,Liu,2004,Common and distinct neural substrates of attentional control in an integrated Simon and spatial Stroop task as assessed by event-related fMRI.,1,1
+15309395,"Asahi, 2004",exact_match,15309395,Asahi,2004,Negative correlation between right prefrontal activity during response inhibition and impulsiveness: a fMRI study.,1,1
+15313521,"Matsuda, 2004",exact_match,15313521,Matsuda,2004,Functional MRI mapping of brain activation during visually guided saccades and antisaccades: cortical and subcortical networks.,1,1
+15381021,"Bellgrove, 2004",exact_match,15381021,Bellgrove,2004,The functional neuroanatomical correlates of response variability: evidence from a response inhibition task.,1,1
+15511653,"Cairo, 2004",exact_match,15511653,Cairo,2004,The influence of working memory load on phase specific patterns of cortical activity.,1,1
+15541071,"Monks, 2004",exact_match,15541071,Monks,2004,A functional MRI study of working memory task in euthymic bipolar disorder: evidence for task-specific dysfunction.,1,1
+15543553,"Audoin, 2005",exact_match,15543553,Audoin,2005,Magnetic resonance study of the influence of tissue damage and cortical reorganization on PASAT performance at the earliest stage of multiple sclerosis.,1,1
+15563726,"Volle, 2005",exact_match,15563726,Volle,2005,Specific cerebral networks for maintenance and response organization within working memory as evidenced by the 'double delay/double response' paradigm.,1,1
+15627588,"Kirschen, 2005",exact_match,15627588,Kirschen,2005,Load- and practice-dependent increases in cerebro-cerebellar activation in verbal working memory: an fMRI study.,1,1
+15627591,"Maltby, 2005",exact_match,15627591,Maltby,2005,Dysfunctional action monitoring hyperactivates frontal-striatal circuits in obsessive-compulsive disorder: an event-related fMRI study.,1,1
+15691530,"Fitzgerald, 2005",exact_match,15691530,Fitzgerald,2005,Error-related hyperactivity of the anterior cingulate cortex in obsessive-compulsive disorder.,1,1
+15728770,"Ford, 2005",exact_match,15728770,Ford,2005,Neural processes associated with antisaccade task performance investigated with event-related FMRI.,1,1
+15741464,"MacDonald, 2005",exact_match,15741464,MacDonald,2005,Specificity of prefrontal dysfunction and context processing deficits to schizophrenia in never-medicated patients with first-episode psychosis.,1,1
+15753243,"van, 2005",exact_match,15753243,van den Heuvel,2005,Frontal-striatal dysfunction during planning in obsessive-compulsive disorder.,1,1
+15804721,"Yoo, 2005",exact_match,15804721,Yoo,2005,Working memory processing of facial images in schizophrenia: fMRI investigation.,1,1
+15834861,"Milham, 2005",exact_match,15834861,Milham,2005,Anterior cingulate cortex: an fMRI analysis of conflict specificity and functional differentiation.,1,1
+15841676,"Mendrek, 2005",exact_match,15841676,Mendrek,2005,Dysfunction of a distributed neural circuitry in schizophrenia patients during a working-memory performance.,1,1
+15852388,"Vink, 2005",exact_match,15852388,Vink,2005,Function of striatum beyond inhibition and execution of motor responses.,1,1
+15885507,"Laurens, 2005",exact_match,15885507,Laurens,2005,Attention orienting dysfunction during salient novel stimulus processing in schizophrenia.,1,1
+15907308,"Lange, 2005",exact_match,15907308,Lange,2005,Objective evidence of cognitive complaints in Chronic Fatigue Syndrome: a BOLD fMRI study of verbal working memory.,1,1
+15955496,"Harvey, 2005",exact_match,15955496,Harvey,2005,Cognitive control and brain resources in major depression: an fMRI study using the n-back task.,1,1
+16051547,"Bedwell, 2005",exact_match,16051547,Bedwell,2005,Functional neuroanatomy of subcomponent cognitive processes involved in verbal working memory.,1,1
+16199829,"Kerns, 2005",exact_match,16199829,Kerns,2005,Decreased conflict- and error-related activity in the anterior cingulate cortex in subjects with schizophrenia.,1,1
+16310510,"Altshuler, 2005",exact_match,16310510,Altshuler,2005,Blunted activation in orbitofrontal cortex during mania: a functional magnetic resonance imaging study.,1,1
+16411978,"Kronhaus, 2006",exact_match,16411978,Kronhaus,2006,Stroop performance in bipolar disorder: further evidence for abnormalities in the ventral prefrontal cortex.,1,1
+16413795,"Ischebeck, 2006",exact_match,16413795,Ischebeck,2006,How specifically do we learn? Imaging the learning of multiplication and subtraction.,1,1
+16481440,"Dolcos, 2006",exact_match,16481440,Dolcos,2006,Brain systems mediating cognitive interference by emotional distraction.,1,1
+16503328,"Johnson, 2006",exact_match,16503328,Johnson,2006,A functional magnetic resonance imaging study of working memory abnormalities in schizophrenia.,1,1
+16616832,"Kumari, 2006",exact_match,16616832,Kumari,2006,Neural dysfunction and violence in schizophrenia: an fMRI investigation.,1,1
+16677831,"Wittfoth, 2006",exact_match,16677831,Wittfoth,2006,Comparison of two Simon tasks: neuronal correlates of conflict resolution based on coherent motion perception.,1,1
+16683265,"Rubia, 2006",exact_match,16683265,Rubia,2006,Progressive increase of frontostriatal brain activation from childhood to adulthood during event-related tasks of cognitive control.,1,1
+16837832,"Roth, 2006",exact_match,16837832,Roth,2006,Functional magnetic resonance imaging of executive control in bipolar disorder.,1,1
+16949303,"Brown, 2006",exact_match,16949303,Brown,2006,"Inhibition and generation of saccades: rapid event-related fMRI of prosaccades, antisaccades, and nogo trials.",1,1
+16983390,"Matsuo, 2007",exact_match,16983390,Matsuo,2007,Prefrontal hyperactivation during working memory task in untreated individuals with major depressive disorder.,1,1
+17129190,"Tang, 2006",exact_match,17129190,Tang,2006,Imaging informational conflict: a functional magnetic resonance imaging study of numerical stroop.,1,1
+17133387,"Gur, 2007",exact_match,17133387,Gur,2007,Hemodynamic responses in neural circuitries for detection of visual target and novelty: An event-related fMRI study.,1,1
+17197035,"Walter, 2007",exact_match,17197035,Walter,2007,"Increased left prefrontal activation in patients with unipolar depression: an event-related, parametric, performance-controlled fMRI study.",1,1
+17214564,"Chikazoe, 2007",exact_match,17214564,Chikazoe,2007,Activation of right inferior frontal gyrus during response inhibition across response modalities.,1,1
+17292926,"Basho, 2007",exact_match,17292926,Basho,2007,Effects of generation mode in fMRI adaptations of semantic fluency: paced production and overt speech.,1,1
+17321151,"Dichter, 2007",exact_match,17321151,Dichter,2007,Social stimuli interfere with cognitive control in autism.,1,1
+17462914,"Mayer, 2007",exact_match,17462914,Mayer,2007,Common neural substrates for visual working memory and attention.,1,1
+17476364,"Lagopoulos, 2007",exact_match,17476364,Lagopoulos,2007,An event-related functional MRI study of working memory in euthymic bipolar disorder.,1,1
+17483530,"Lee, 2008",exact_match,17483530,Lee,2008,Controlling emotional expression: behavioral and neural correlates of nonimitative emotional responses.,1,1
+17525987,"Fitzgerald, 2008",exact_match,17525987,Fitzgerald,2008,An fMRI study of prefrontal brain activation during multiple tasks in patients with major depressive disorder.,1,1
+17596416,"Brown, 2007",exact_match,17596416,Brown,2007,Frontoparietal activation with preparation for antisaccades.,1,1
+17728263,"Ettinger, 2008",exact_match,17728263,Ettinger,2008,Decomposing the neural correlates of antisaccade eye movements using event-related FMRI.,1,1
+17822681,"Fehr, 2007",exact_match,17822681,Fehr,2007,Common brain regions underlying different arithmetic operations as revealed by conjunct fMRI-BOLD activation.,1,1
+17885578,"Sheridan, 2007",exact_match,17885578,Sheridan,2007,Efficiency of the prefrontal cortex during working memory in attention-deficit/hyperactivity disorder.,1,1
+18177843,"Wittfoth, 2008",exact_match,18177843,Wittfoth,2008,The influence of response conflict on error processing: evidence from event-related fMRI.,1,1
+18325582,"Coderre, 2008",exact_match,18325582,Coderre,2008,The Stroop effect in kana and kanji scripts in native Japanese speakers: an fMRI study.,1,1
+18370596,"Forstmann, 2008",exact_match,18370596,Forstmann,2008,"Neural mechanisms, temporal dynamics, and individual differences in interference control.",1,1
+18511955,"Sommer, 2008",exact_match,18511955,Sommer,2008,Emotion-dependent modulation of interference processes: an fMRI study.,1,1
+23968211,"Jonides, 1997",exact_match,23968211,Jonides,1997,Verbal Working Memory Load Affects Regional Brain Activation as Measured by PET.,1,1
+23968463,"Petersen, 1989",exact_match,23968463,Petersen,1989,Positron emission tomographic studies of the processing of singe words.,1,1
+24578040,"George, 1994",exact_match,24578040,George,1994,Regional brain activity when selecting a response despite interference: An H2 (15) O PET study of the stroop and an emotional stroop.,1,1
+24591198,"Cohen, 1994",exact_match,24591198,Cohen,1994,Activation of the prefrontal cortex in a nonspatial working memory task with functional MRI.,1,1
