@@ -1,0 +1,192 @@
+{
+  "id": "annotation_vbm_of_ptsd_merged_studyset",
+  "name": "vbm_of_ptsd_merged_annotations",
+  "description": "Source-subanalysis membership annotations for merged vbm_of_ptsd NiMADS studyset.",
+  "metadata": {
+    "project": "vbm_of_ptsd",
+    "source_files": [
+      "nonPTSDgtPTSD-Merged.json"
+    ]
+  },
+  "note_keys": {
+    "nonptsdgtptsd_merged": "boolean"
+  },
+  "studyset": "vbm_of_ptsd_merged_studyset",
+  "notes": [
+    {
+      "note": {
+        "nonptsdgtptsd_merged": true
+      },
+      "analysis": "12853571_1",
+      "annotation": "annotation_vbm_of_ptsd_merged_studyset"
+    },
+    {
+      "note": {
+        "nonptsdgtptsd_merged": true
+      },
+      "analysis": "16038682_1",
+      "annotation": "annotation_vbm_of_ptsd_merged_studyset"
+    },
+    {
+      "note": {
+        "nonptsdgtptsd_merged": true
+      },
+      "analysis": "16838824_1",
+      "annotation": "annotation_vbm_of_ptsd_merged_studyset"
+    },
+    {
+      "note": {
+        "nonptsdgtptsd_merged": true
+      },
+      "analysis": "17825801_1",
+      "annotation": "annotation_vbm_of_ptsd_merged_studyset"
+    },
+    {
+      "note": {
+        "nonptsdgtptsd_merged": true
+      },
+      "analysis": "17923164_1",
+      "annotation": "annotation_vbm_of_ptsd_merged_studyset"
+    },
+    {
+      "note": {
+        "nonptsdgtptsd_merged": true
+      },
+      "analysis": "17923164_2",
+      "annotation": "annotation_vbm_of_ptsd_merged_studyset"
+    },
+    {
+      "note": {
+        "nonptsdgtptsd_merged": true
+      },
+      "analysis": "19538748_1",
+      "annotation": "annotation_vbm_of_ptsd_merged_studyset"
+    },
+    {
+      "note": {
+        "nonptsdgtptsd_merged": true
+      },
+      "analysis": "19794316_1",
+      "annotation": "annotation_vbm_of_ptsd_merged_studyset"
+    },
+    {
+      "note": {
+        "nonptsdgtptsd_merged": true
+      },
+      "analysis": "19942229_1",
+      "annotation": "annotation_vbm_of_ptsd_merged_studyset"
+    },
+    {
+      "note": {
+        "nonptsdgtptsd_merged": true
+      },
+      "analysis": "21118656_1",
+      "annotation": "annotation_vbm_of_ptsd_merged_studyset"
+    },
+    {
+      "note": {
+        "nonptsdgtptsd_merged": true
+      },
+      "analysis": "21418787_1",
+      "annotation": "annotation_vbm_of_ptsd_merged_studyset"
+    },
+    {
+      "note": {
+        "nonptsdgtptsd_merged": true
+      },
+      "analysis": "21498053_1",
+      "annotation": "annotation_vbm_of_ptsd_merged_studyset"
+    },
+    {
+      "note": {
+        "nonptsdgtptsd_merged": true
+      },
+      "analysis": "21710131_1",
+      "annotation": "annotation_vbm_of_ptsd_merged_studyset"
+    },
+    {
+      "note": {
+        "nonptsdgtptsd_merged": true
+      },
+      "analysis": "22453299_1",
+      "annotation": "annotation_vbm_of_ptsd_merged_studyset"
+    },
+    {
+      "note": {
+        "nonptsdgtptsd_merged": true
+      },
+      "analysis": "22952599_1",
+      "annotation": "annotation_vbm_of_ptsd_merged_studyset"
+    },
+    {
+      "note": {
+        "nonptsdgtptsd_merged": true
+      },
+      "analysis": "23021615_1",
+      "annotation": "annotation_vbm_of_ptsd_merged_studyset"
+    },
+    {
+      "note": {
+        "nonptsdgtptsd_merged": true
+      },
+      "analysis": "23155380_1",
+      "annotation": "annotation_vbm_of_ptsd_merged_studyset"
+    },
+    {
+      "note": {
+        "nonptsdgtptsd_merged": true
+      },
+      "analysis": "26347628_1",
+      "annotation": "annotation_vbm_of_ptsd_merged_studyset"
+    },
+    {
+      "note": {
+        "nonptsdgtptsd_merged": true
+      },
+      "analysis": "26952803_1",
+      "annotation": "annotation_vbm_of_ptsd_merged_studyset"
+    },
+    {
+      "note": {
+        "nonptsdgtptsd_merged": true
+      },
+      "analysis": "26952803_2",
+      "annotation": "annotation_vbm_of_ptsd_merged_studyset"
+    },
+    {
+      "note": {
+        "nonptsdgtptsd_merged": true
+      },
+      "analysis": "28287194_1",
+      "annotation": "annotation_vbm_of_ptsd_merged_studyset"
+    },
+    {
+      "note": {
+        "nonptsdgtptsd_merged": true
+      },
+      "analysis": "28549317_1",
+      "annotation": "annotation_vbm_of_ptsd_merged_studyset"
+    },
+    {
+      "note": {
+        "nonptsdgtptsd_merged": true
+      },
+      "analysis": "28549317_2",
+      "annotation": "annotation_vbm_of_ptsd_merged_studyset"
+    },
+    {
+      "note": {
+        "nonptsdgtptsd_merged": true
+      },
+      "analysis": "29740753_1",
+      "annotation": "annotation_vbm_of_ptsd_merged_studyset"
+    },
+    {
+      "note": {
+        "nonptsdgtptsd_merged": true
+      },
+      "analysis": "32490056_1",
+      "annotation": "annotation_vbm_of_ptsd_merged_studyset"
+    }
+  ]
+}

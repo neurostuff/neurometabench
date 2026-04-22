@@ -1,0 +1,23 @@
+nimads_study_id,nimads_name,match_status,matched_pmid,matched_author,matched_year,matched_title,match_score,match_count
+"Li et al., 2006","Li et al., 2006",exact_match,16838824,Li,2006,Magnetic resonance imaging and magnetic resonance spectroscopy study of deficits in hippocampal structure in fire victims with recent-onset posttraumatic stress disorder.,1.0,1
+"Qi et al., 2020","Qi et al., 2020",exact_match,32490056,Qi,2020,Social support modulates the association between PTSD diagnosis and medial frontal volume in Chinese adults who lost their only child.,1.0,1
+"Sui et al., 2010","Sui et al., 2010",exact_match,26952803,Sui,2010,Abnormal grey matter in victims of rape with PTSD in Mainland China: a voxel-based morphometry study.,1.0,1
+"Chao et al., 2012","Chao et al., 2012",exact_match,22453299,Chao,2012,Effects of post-traumatic stress disorder on occipital lobe function and structure.,1.0,1
+"Chen et al., 2009","Chen et al., 2009",exact_match,19538748,Chen,2009,Insular cortex involvement in declarative memory deficits in patients with post-traumatic stress disorder.,1.0,1
+"Chen et al., 2012","Chen et al., 2012",exact_match,23155380,Chen,2012,Different regional gray matter loss in recent onset PTSD and non PTSD after a single prolonged trauma exposure.,1.0,1
+"Cheng et al., 2015","Cheng et al., 2015",exact_match,26347628,Cheng,2015,"Gray Matter Alterations in Post-Traumatic Stress Disorder, Obsessive-Compulsive Disorder, and Social Anxiety Disorder.",1.0,1
+"Corbo et al., 2005","Corbo et al., 2005",exact_match,16038682,Corbo,2005,Size versus shape differences: contrasting voxel-based and volumetric analyses of the anterior cingulate cortex in individuals with acute posttraumatic stress disorder.,1.0,1
+"Kasai et al., 2008","Kasai et al., 2008",exact_match,17825801,Kasai,2008,Evidence for acquired pregenual anterior cingulate gray matter loss from a twin study of combat-related posttraumatic stress disorder.,1.0,1
+"Kroes et al., 2011","Kroes et al., 2011",exact_match,21418787,Kroes,2011,Structural brain abnormalities common to posttraumatic stress disorder and depression.,1.0,1
+"Nardo et al., 2010","Nardo et al., 2010",exact_match,19942229,Nardo,2010,Gray matter density in limbic and paralimbic cortices is associated with trauma load and EMDR outcome in PTSD patients.,1.0,1
+"Zhang et al., 2011","Zhang et al., 2011",exact_match,21498053,Zhang,2011,Decreased gray matter volume in the left hippocampus and bilateral calcarine cortex in coal mine flood disaster survivors with recent onset PTSD.,1.0,1
+"Zhang et al., 2018","Zhang et al., 2018",exact_match,29740753,Zhang,2018,Facial Expression Enhances Emotion Perception Compared to Vocal Prosody: Behavioral and fMRI Studies.,1.0,1
+"Eckart et al., 2011","Eckart et al., 2011",exact_match,21118656,Eckart,2011,"Structural alterations in lateral prefrontal, parietal and posterior midline regions of men with chronic posttraumatic stress disorder.",1.0,1
+"Bossini et al., 2017","Bossini et al., 2017",exact_match,28287194,Bossini,2017,Morphovolumetric changes after EMDR treatment in drug-naïve PTSD patients.,1.0,1
+"Tavanti et al., 2012","Tavanti et al., 2012",exact_match,21710131,Tavanti,2012,Evidence of diffuse damage in frontal and occipital cortex in the brain of patients with post-traumatic stress disorder.,1.0,1
+"Yamasue et al., 2003","Yamasue et al., 2003",exact_match,12853571,Yamasue,2003,Voxel-based analysis of MRI reveals anterior cingulate gray-matter volume reduction in posttraumatic stress disorder due to terrorism.,1.0,1
+"Hakamata et al., 2007","Hakamata et al., 2007",exact_match,17923164,Hakamata,2007,Structure of orbitofrontal cortex and its longitudinal course in cancer-related post-traumatic stress disorder.,1.0,1
+"Herringa et al., 2012","Herringa et al., 2012",exact_match,23021615,Herringa,2012,"Post-traumatic stress symptoms correlate with smaller subgenual cingulate, caudate, and insula volumes in unmedicated combat veterans.",1.0,1
+"O'Doherty et al., 2017","O'Doherty et al., 2017",exact_match,28549317,O'Doherty,2017,Frontal and subcortical grey matter reductions in PTSD.,1.0,1
+"Felmingham et al., 2009","Felmingham et al., 2009",exact_match,19794316,Felmingham,2009,Duration of posttraumatic stress disorder predicts hippocampal grey matter loss.,1.0,1
+"Rocha-Rego et al., 2012","Rocha-Rego et al., 2012",exact_match,22952599,Rocha-Rego,2012,Decreased premotor cortex volume in victims of urban violence with posttraumatic stress disorder.,1.0,1
