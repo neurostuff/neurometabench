@@ -1,0 +1,3127 @@
+{
+  "id": "annotation_problem_solving_merged_studyset",
+  "name": "problem_solving_merged_annotations",
+  "description": "Source-subanalysis membership annotations for merged problem_solving NiMADS studyset.",
+  "metadata": {
+    "project": "problem_solving",
+    "source_files": [
+      "Calculation_MNI_final.json",
+      "Demand_MNI_final.json",
+      "Global_CalculationAndVisuospatialAndWord_MNI_final.json",
+      "VisuospatialReasoning_MNI_final.json",
+      "WordProblems_MNI_final.json"
+    ]
+  },
+  "note_keys": {
+    "calculation_mni_final": "boolean",
+    "demand_mni_final": "boolean",
+    "global_calculationandvisuospatialandword_mni_final": "boolean",
+    "visuospatialreasoning_mni_final": "boolean",
+    "wordproblems_mni_final": "boolean"
+  },
+  "studyset": "problem_solving_merged_studyset",
+  "notes": [
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "8736565_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "9175134_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "9175134_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "9175134_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "9175134_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "9175134_5",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "9175134_6",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "9630492_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "9630492_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "9630492_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "9665648_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "9665648_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "9665648_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "10320379_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "10601743_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "10601743_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "10601743_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "10601743_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "10601743_5",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "10601743_6",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "10601743_7",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "10678698_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "10725932_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "10769309_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "10769309_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "10790322_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "10903207_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "10903207_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "10903207_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "10931772_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "10931772_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "10931772_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "10988030_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "10988030_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "10988030_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "10988030_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "11026450_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "11026450_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "11034858_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "11034858_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "11034858_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "11034858_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "11034858_5",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "11034863_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "11050024_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "11050024_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "11050024_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "11054915_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "11162272_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "11502262_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "11502262_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "11516443_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "11516443_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "11516443_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "11516443_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "11671913_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "11697945_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "11697945_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "11832233_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "11832233_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "11880658_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "11950765_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "12061757_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "12112763_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "12112763_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "12427681_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "12589885_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "12589886_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "12589886_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "12722972_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "12753963_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "12753963_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "12803967_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "12803967_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "12803967_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "12803967_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "12803967_5",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "12843299_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "12873752_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "12873752_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "12875920_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "14561442_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "14622587_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "14622587_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "14659499_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "14741309_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "14741309_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "14741309_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "14754778_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "15006652_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "15094802_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "15098721_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "15130588_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "15130588_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "15165354_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "15165354_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "15165354_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "15165354_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "15165354_5",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "15470553_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "15470553_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "15505971_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "15505971_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "15505971_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "15528119_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "15543553_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "15627602_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "15722210_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "15722210_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "15722210_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "15722210_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "15722210_5",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "15722210_6",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "15753243_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "15753243_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "15808984_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "15808984_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "15852469_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "15852469_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "15907312_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "16010908_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "16413795_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "16413795_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "16413795_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "16417683_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "16417683_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "16512999_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "16512999_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "16512999_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "16512999_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "16512999_5",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "16731515_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "16769743_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "16806311_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "16806311_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "16952916_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "17027779_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "17292628_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "17292628_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "17292628_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "17292628_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "17320049_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "17320049_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "17381255_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "17381255_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "17627851_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "17627851_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "17627851_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "17627851_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "17822681_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "17822681_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "17822681_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "17822681_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "17851092_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "17904384_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18022606_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18022606_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18022606_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18022606_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "18052787_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "18052787_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "18052787_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "18052787_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18095280_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18240326_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18240326_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18240326_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18279364_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18279364_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18279364_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18279364_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18291350_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18291350_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18291350_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18291350_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18291350_5",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "18344174_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18406434_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18429245_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18429245_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18596607_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18614038_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18614038_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18614038_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18614038_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18614038_5",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18614038_6",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18642473_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18642473_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "18760263_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "18835075_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "18835284_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "18835284_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "18996100_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "18996100_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "19003497_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "19027075_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "19320546_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "19320546_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "19406903_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "19406903_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "19406903_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "19406903_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "19505444_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "19505444_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "19505444_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "19523967_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "19549622_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "19617569_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "19617569_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "19656506_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "19683063_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "20112243_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "20112243_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "20183185_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "20183185_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "20483908_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "20483908_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "20483908_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "20483908_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "20483908_5",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "20483908_6",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "20570684_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "20677377_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "20677377_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "20677377_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "20677377_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "20677377_5",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "20837067_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "21073958_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "21463696_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "21463696_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "21584904_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "21616086_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "21616086_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "21616086_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "21616086_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "21616086_5",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "21616086_6",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "21616086_7",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "21782157_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "21782157_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": true,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "21782157_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "21782157_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "21782157_5",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "21782157_6",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "21982934_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "22483742_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "22565203_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "22565203_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "23209583_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "23209583_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "23209583_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "23209583_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "23209583_5",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "23209583_6",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "23372641_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "23372641_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "23448868_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "23448868_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "23522878_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "23555020_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "23555020_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "23883107_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "23883107_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "23994216_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "24161281_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "24161281_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "24179748_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "24221533_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "24305826_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "24305826_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "24305826_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "24305826_4",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Lu_2010_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Wu_2003_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Wu_2003_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": true
+      },
+      "analysis": "Wu_2003_3",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Preusse_2010_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Preusse_2010_2",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": false,
+        "global_calculationandvisuospatialandword_mni_final": true,
+        "visuospatialreasoning_mni_final": true,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Masunaga_2008_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    },
+    {
+      "note": {
+        "calculation_mni_final": false,
+        "demand_mni_final": true,
+        "global_calculationandvisuospatialandword_mni_final": false,
+        "visuospatialreasoning_mni_final": false,
+        "wordproblems_mni_final": false
+      },
+      "analysis": "Grabner_R_H_2009_1",
+      "annotation": "annotation_problem_solving_merged_studyset"
+    }
+  ]
+}

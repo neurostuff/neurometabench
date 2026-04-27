@@ -1,0 +1,135 @@
+nimads_study_id,nimads_name,match_status,matched_pmid,matched_author,matched_year,matched_title,match_score,match_count
+"Zhou X, 2007","Zhou X, 2007",exact_match,17292628,Zhou,2007,Dissociated brain organization for single-digit addition and multiplication.,1,1
+"Zhao, 2014","Zhao, 2014",exact_match,24161281,Zhao,2014,Neural pathway in the right hemisphere underlies verbal insight problem solving.,1,1
+"Zhao, 2013","Zhao, 2013",exact_match,23555020,Zhao,2013,Dynamic neural network of insight: a functional magnetic resonance imaging study on solving Chinese 'chengyu' riddles.,1,1
+"Zarnhofer, 2013","Zarnhofer, 2013",exact_match,23883107,Zarnhofer,2013,Individual differences in solving arithmetic word problems.,1,1
+"Zago L, 2008","Zago L, 2008",exact_match,18406434,Zago,2008,How verbal and spatial manipulation networks contribute to calculation: an fMRI study.,1,1
+"Zago L, 2001","Zago L, 2001",exact_match,11162272,Zago,2001,Neural correlates of simple and complex mental calculation.,1,1
+"Yoshida S, 2006","Yoshida S, 2006",exact_match,16731515,Yoshida,2006,Resolution of uncertainty in prefrontal cortex.,1,1
+"Xu J, 2010","Xu J, 2010",exact_match,20677377,Xu,2010,Persistent posterior and transient anterior medial temporal lobe activity during navigation.,1,1
+"Wu, 2013","Wu, 2013",manual_override,22328466,,,,0,0
+"Wu S S, 2009","Wu S S, 2009",exact_match,19406903,Wu,2009,Functional heterogeneity of inferior parietal cortex during mathematical cognition assessed with cytoarchitectonic probability maps.,1,1
+"Wood G, 2008","Wood G, 2008",exact_match,18022606,Wood,2008,All for one but not one for all: how multiple number representations are recruited in one numerical task.,1,1
+"Wharton C, 2000","Wharton C, 2000",exact_match,10790322,Wharton,2000,Toward neuroanatomical models of analogy: a positron emission tomography study of analogical mapping.,1,1
+"Weniger G, 2013","Weniger G, 2013",exact_match,23522878,Weniger,2013,Egocentric virtual maze learning in adult survivors of childhood abuse with dissociative disorders: evidence from functional magnetic resonance imaging.,1,1
+"Weniger G, 2010","Weniger G, 2010",exact_match,19683063,Weniger,2010,The human parahippocampal cortex subserves egocentric spatial learning during navigation in a virtual maze.,1,1
+"Wendelken, 2010","Wendelken, 2010",exact_match,19320546,Wendelken,2010,Transitive inference: distinct contributions of rostrolateral prefrontal cortex and the hippocampus.,1,1
+"Wendelken, 2008","Wendelken, 2008",exact_match,18052787,Wendelken,2008,"""Brain is to thought as stomach is to ??"": investigating the role of rostrolateral prefrontal cortex in relational reasoning.",1,1
+"Watson C, 2012","Watson C, 2012",exact_match,21982934,Watson,2012,A bilateral frontoparietal network underlies visuospatial analogical reasoning.,1,1
+"Wagner, 2001","Wagner, 2001",manual_override,11502262,,,,0,0
+"Wagner G, 2006","Wagner G, 2006",exact_match,16806311,Wagner,2006,The special involvement of the rostrolateral prefrontal cortex in planning abilities: an event-related fMRI study with the Tower of London paradigm.,1,1
+"Venkatraman V, 2006","Venkatraman V, 2006",exact_match,16417683,Venkatraman,2006,Effect of language switching on arithmetic: a bilingual FMRI study.,1,1
+"Van Horn J, 1998","Van Horn J, 1998",exact_match,9630492,Van Horn,1998,Changing patterns of brain activation during maze learning.,1,1
+"van den Huevel O A, 2005","van den Huevel O A, 2005",manual_override,15753243,van den Heuvel,2005,Frontal-striatal dysfunction during planning in obsessive-compulsive disorder.,0.928571429,1
+"Unterrainer, 2005","Unterrainer, 2005",exact_match,15627602,Unterrainer,2005,The influence of sex differences and individual task performance on brain activation during planning.,1,1
+"Tian, 2011","Tian, 2011",exact_match,20837067,Tian,2011,Neural correlates of mental preparation for successful insight problem solving.,1,1
+"Stanescu-Cosson R, 2000","Stanescu-Cosson R, 2000",exact_match,11050024,Stanescu-Cosson,2000,Understanding dissociations in dyscalculia: a brain imaging study of the impact of number size on the cerebral networks for exact and approximate calculation.,1,1
+"Simon O, 2004","Simon O, 2004",exact_match,15528119,Simon,2004,"Automatized clustering and functional geometry of human parietofrontal networks for language, space, and number.",1,1
+"Simon O, 2002","Simon O, 2002",exact_match,11832233,Simon,2002,"Topographical layout of hand, eye, calculation, and language-related areas in the human parietal lobe.",1,1
+"Siemerkus J, 2012","Siemerkus J, 2012",exact_match,24179748,Siemerkus,2012,Egocentric spatial learning in schizophrenia investigated with functional magnetic resonance imaging.,1,1
+"Sherrill U, 2013","Sherrill U, 2013",exact_match,24305826,Sherrill,2013,Hippocampus and retrosplenial cortex combine path integration signals for successful navigation.,1,1
+"Ruff, 2003","Ruff, 2003",exact_match,12753963,Ruff,2003,Reasoning and working memory: common and distinct neuronal processes.,1,1
+"Rosenberg-Lee M, 2011","Rosenberg-Lee M, 2011",exact_match,21616086,Rosenberg-Lee,2011,Functional dissociations between four basic arithmetic operations in the human posterior parietal cortex: a cytoarchitectonic mapping study.,1,1
+"Rodriguez-Moreno, 2009","Rodriguez-Moreno, 2009",exact_match,18835284,Rodriguez-Moreno,2009,The dynamics of deductive reasoning: an fMRI investigation.,1,1
+"Rivera S M, 2002","Rivera S M, 2002",exact_match,12112763,Rivera,2002,Functional brain activation during arithmetic processing in females with fragile X Syndrome is related to FMR1 protein expression.,1,1
+"Rickard T, 2000","Rickard T, 2000",manual_override,10678698,,,,0,0
+"Reverberi, 2010","Reverberi, 2010",exact_match,20112243,Reverberi,2010,Conditional and syllogistic deductive tasks dissociate functionally during premise integration.,1,1
+"Reverberi, 2007","Reverberi, 2007",exact_match,17904384,Reverberi,2007,Neural basis of generation of conclusions in elementary deduction.,1,1
+"Reference=TAL Van Horn J, 1998","Reference=TAL Van Horn J, 1998",exact_match,9630492,Van Horn,1998,Changing patterns of brain activation during maze learning.,1,1
+"Rauchs G, 2008","Rauchs G, 2008",exact_match,18240326,Rauchs,2008,Partially segregated neural networks for spatial and contextual memory in virtual navigation.,1,1
+"Qiu, 2010","Qiu, 2010",exact_match,19656506,Qiu,2010,"Neural correlates of the ""Aha"" experiences: evidence from an fMRI study of insight problem solving.",1,1
+"Preusse, 2010","Preusse, 2010",no_pmid,,,,,0,0
+"Prado, 2007","Prado, 2007",exact_match,17381255,Prado,2007,Overcoming perceptual features in logical reasoning: a parametric functional magnetic resonance imaging study.,1,1
+"Pesenti M, 2000","Pesenti M, 2000",exact_match,10931772,Pesenti,2000,"Neuroanatomical substrates of arabic number processing, numerical comparison, and simple addition: a PET study.",1,1
+"Perfetti, 2009","Perfetti, 2009",exact_match,18095280,Perfetti,2009,Differential patterns of cortical activation as a function of fluid reasoning complexity.,1,1
+"Parsons, 2001","Parsons, 2001",exact_match,16010908,Parsons,2001,The teaching of health care ethics to students of nursing in the UK: a pilot study.,1,1
+"Osherson, 1998","Osherson, 1998",exact_match,9665648,Osherson,1998,Distinct brain loci in deductive versus probabilistic reasoning.,1,1
+"Noveck, 2004","Noveck, 2004",manual_override,15505971,,,,0,0
+"Newman, 2011","Newman, 2011",exact_match,21782157,Newman,2011,The effect of problem structure on problem-solving: an fMRI study of word versus number problems.,1,1
+"Newman S D, 2011","Newman S D, 2011",exact_match,21782157,Newman,2011,The effect of problem structure on problem-solving: an fMRI study of word versus number problems.,1,1
+"Montojo C A, 2008","Montojo C A, 2008",exact_match,18614038,Montojo,2008,Differential neural activation for updating rule versus stimulus information in working memory.,1,1
+"Monti, 2009","Monti, 2009",exact_match,19617569,Monti,2009,The boundaries of language and thought in deductive inference.,1,1
+"Monti, 2007","Monti, 2007",exact_match,17627851,Monti,2007,Functional neuroanatomy of deductive inference: a language-independent distributed network.,1,1
+"Molko N, 2003","Molko N, 2003",exact_match,14622587,Molko,2003,Functional and structural alterations of the intraparietal sulcus in a developmental dyscalculia of genetic origin.,1,1
+"Menon V, 2000","Menon V, 2000",exact_match,10988030,Menon,2000,Dissociating prefrontal and parietal cortex activation during arithmetic processing.,1,1
+"Melrose, 2007","Melrose, 2007",exact_match,17320049,Melrose,2007,An fMRI investigation of the role of the basal ganglia in reasoning.,1,1
+"Masunaga, 2008","Masunaga, 2008",no_pmid,,,,,0,0
+"Maruishi M, 2007","Maruishi M, 2007",exact_match,16952916,Maruishi,2007,Compensatory cortical activation during performance of an attention task by patients with diffuse axonal injury: a functional magnetic resonance imaging study.,1,1
+"Marsh R, 2010","Marsh R, 2010",exact_match,20570684,Marsh,2010,A virtual reality-based FMRI study of reward-based spatial learning.,1,1
+"Mainero C, 2004","Mainero C, 2004",exact_match,15006652,Mainero,2004,fMRI evidence of brain reorganization during attention and memory tasks in multiple sclerosis.,1,1
+"Luo, 2006","Luo, 2006",exact_match,17027779,Luo,2006,Perceptual contributions to problem solving: Chunk decomposition of Chinese characters.,1,1
+"Luo, 2003","Luo, 2003",exact_match,14561442,Luo,2003,,1,1
+"Luo J, 2013","Luo J, 2013",exact_match,23372641,Luo,2013,Neural basis of scientific innovation induced by heuristic prototype.,1,1
+"Luo J, 2003","Luo J, 2003",exact_match,12722972,Luo,2003,"Function of hippocampus in ""insight"" of problem solving.",1,1
+"Lu, 2010","Lu, 2010",no_pmid,,,,,0,0
+"Lee K M, 2000","Lee K M, 2000",manual_override,11026450,,,,0,0
+"Lazeron R H C, 2003","Lazeron R H C, 2003",exact_match,12873752,Lazeron,2003,A paced visual serial addition test for fMRI.,1,1
+"Kuo B, 2008","Kuo B, 2008",exact_match,18291350,Kuo,2008,The capacity constraint in the prefrontal and parietal regions for coordinating dual arithmetic tasks.,1,1
+"Krueger F, 2008","Krueger F, 2008",exact_match,18596607,Krueger,2008,Integral calculus problem solving: an fMRI investigation.,1,1
+"Kroger, 2008","Kroger, 2008",exact_match,18760263,Kroger,2008,Distinct neural substrates for deductive and mathematical processing.,1,1
+"Kroger, 2002","Kroger, 2002",exact_match,11950765,Kroger,2002,Recruitment of anterior dorsolateral prefrontal cortex in human reasoning: a parametric study of relational complexity.,1,1
+"Kong J, 2005","Kong J, 2005",exact_match,15722210,Kong,2005,The neural substrate of arithmetic operations and procedure complexity.,1,1
+"Knauff, 2003","Knauff, 2003",exact_match,12803967,Knauff,2003,"Reasoning, models, and images: behavioral measures and cortical activity.",1,1
+"Knauff, 2002","Knauff, 2002",exact_match,12061757,Knauff,2002,Visual imagery can impede reasoning.,1,1
+"Kawashima M, 2004","Kawashima M, 2004",manual_override,14741309,,,,0,0
+"Kalbfleisch, 2007","Kalbfleisch, 2007",exact_match,19003497,Kalbfleisch,2007,The influences of task difficulty and response correctness on neural systems supporting fluid reasoning.,1,1
+"Jung-Beeman M, 2004","Jung-Beeman M, 2004",exact_match,15094802,Jung-Beeman,2004,Neural activity when people solve verbal problems with insight.,1,1
+"Ischebeck A, 2008","Ischebeck A, 2008",manual_override,19027075,Ischebeck,2009,Flexible transfer of knowledge in mental arithmetic--an fMRI study.,0.95,1
+"Ischebeck A, 2006","Ischebeck A, 2006",exact_match,16413795,Ischebeck,2006,How specifically do we learn? Imaging the learning of multiplication and subtraction.,1,1
+"Iaria G, 2008","Iaria G, 2008",exact_match,18279364,Iaria,2008,Detection of unexpected events during spatial navigation in humans: bottom-up attentional system and neural mechanisms.,1,1
+"Iaria G, 2003","Iaria G, 2003",manual_override,12843299,,,,0,0
+"Hugdahl K, 2004","Hugdahl K, 2004",exact_match,14754778,Hugdahl,2004,Brain activation measured with fMRI during a mental arithmetic task in schizophrenia and major depression.,1,1
+"Houde, 2000","Houde, 2000",manual_override,11054915,,,,0,0
+"Hirshhorn M, 2012","Hirshhorn M, 2012",exact_match,21584904,Hirshhorn,2012,"The hippocampus is involved in mental navigation for a recently learned, but not a highly familiar environment: a longitudinal fMRI study.",1,1
+"Heckers, 2004","Heckers, 2004",exact_match,15098721,Heckers,2004,Hippocampal activation during transitive inference in humans.,1,1
+"Hartley E, 2003","Hartley E, 2003",exact_match,18429245,Hartley,2003,Use of the gateway system for protein expression in multiple hosts.,1,1
+"Hao, 2013","Hao, 2013",exact_match,23994216,Hao,2013,Enhancing insight in scientific problem solving by highlighting the functional features of prototypes: an fMRI study.,1,1
+"Hanakawa M, 2003","Hanakawa M, 2003",manual_override,12875920,,,,0,0
+"Hampshire, 2011","Hampshire, 2011",exact_match,20483908,Hampshire,2011,Lateral prefrontal cortex subregions make dissociable contributions during fluid reasoning.,1,1
+"Gruber O, 2001","Gruber O, 2001",exact_match,18642473,Gruber,2001,"Black '47 and beyond: the great Irish famine in history, economy, and memory.",1,1
+"Gron G, 2000","Gron G, 2000",exact_match,10725932,Grön,2000,Brain activation during human navigation: gender-different neural networks as substrate of performance.,1,1
+"Grabner R H, 2009","Grabner R H, 2009",no_pmid,,,,,0,0
+"Grabner R H, 2007","Grabner R H, 2007",exact_match,17851092,Grabner,2007,Individual differences in mathematical competence predict parietal brain activation during mental calculation.,1,1
+"Goel, 2009","Goel, 2009",exact_match,19523967,Goel,2009,A role for right ventrolateral prefrontal cortex in reasoning about indeterminate relations.,1,1
+"Goel, 2004","Goel, 2004",manual_override,15165354,Goel,2004,The hippocampal system mediates logical reasoning about familiar spatial environments.,1,2
+"Goel, 2001","Goel, 2001",exact_match,11516443,Goel,2001,Functional neuroanatomy of three-term relational reasoning.,1,1
+"Goel, 2000","Goel, 2000",exact_match,11034858,Goel,2000,Dissociation of mechanisms underlying syllogistic reasoning.,1,1
+"Goel, 1998","Goel, 1998",manual_override,9175134,Goel,1997,The seats of reason? An imaging study of deductive and inductive reasoning.,0.95,1
+"Goel, 1997","Goel, 1997",exact_match,9175134,Goel,1997,The seats of reason? An imaging study of deductive and inductive reasoning.,1,1
+"Goel and Dolan, 2004","Goel and Dolan, 2004",manual_override,15178381,Goel,2004,Differential involvement of left prefrontal cortex in inductive and deductive reasoning.,1,2
+"Gagnon L, 2012","Gagnon L, 2012",exact_match,22483742,Gagnon,2012,Activation of the hippocampal complex during tactile maze solving in congenitally blind subjects.,1,1
+"Gaeke, 2005","Gaeke, 2005",manual_override,15907312,,,,0,0
+"Fincham J M, 2002","Fincham J M, 2002",exact_match,11880658,Fincham,2002,Neural mechanisms of planning: a computational analysis using event-related fMRI.,1,1
+"Fehr T, 2007","Fehr T, 2007",exact_match,17822681,Fehr,2007,Common brain regions underlying different arithmetic operations as revealed by conjunct fMRI-BOLD activation.,1,1
+"Fangmeier T, 2009","Fangmeier T, 2009",exact_match,18996100,Fangmeier,2009,Neural correlates of acoustic reasoning.,1,1
+"Fangmeier T, 2006","Fangmeier T, 2006",exact_match,16512999,Fangmeier,2006,FMRI evidence for a three-stage model of deductive reasoning.,1,1
+"Eslinger, 2009","Eslinger, 2009",exact_match,18835075,Eslinger,2009,Developmental shifts in fMRI activations during visuospatial relational reasoning.,1,1
+"Elliott R, 1997","Elliott R, 1997",exact_match,11671913,Elliott,1997,"An Improved Synthesis of 7-Substituted Pyrrolo[3,2-d]pyrimidines.",1,1
+"Ebisch, 2012","Ebisch, 2012",exact_match,22565203,Ebisch,2012,"Common and unique neuro-functional basis of induction, visualization, and spatial relationships as cognitive components of fluid intelligence.",1,1
+"Duncan, 2000","Duncan, 2000",exact_match,10903207,Duncan,2000,A neural basis for general intelligence.,1,1
+"Desco, 2011","Desco, 2011",exact_match,21463696,Desco,2011,Mathematically gifted adolescents use more extensive and more bilateral areas of the fronto-parietal network than controls during executive functioning and fluid reasoning tasks.,1,1
+"Delazer M, 2005","Delazer M, 2005",exact_match,15808984,Delazer,2005,Learning by strategies and learning by drill--evidence from an fMRI study.,1,1
+"Delazer M, 2003","Delazer M, 2003",exact_match,14659499,Delazer,2003,Learning complex arithmetic--an fMRI study.,1,1
+"Dehaene S, 1999","Dehaene S, 1999",manual_override,10320379,,,,0,0
+"De Pisapia, 2006","De Pisapia, 2006",manual_override,16769743,De Pisapia,2007,Functional specializations in lateral prefrontal cortex associated with the integration and segregation of information in working memory.,0.95,1
+"Cowell S F, 2000","Cowell S F, 2000",exact_match,11034863,Cowell,2000,The functional neuroanatomy of simple calculation and number repetition: A parametric PET activation study.,1,1
+"Christoff, 2009","Christoff, 2009",exact_match,19505444,Christoff,2009,Prefrontal organization of cognitive control according to levels of abstraction.,1,1
+"Christoff, 2001","Christoff, 2001",exact_match,11697945,Christoff,2001,Rostrolateral prefrontal cortex involvement in relational integration during reasoning.,1,1
+"Christodoulou C, 2001","Christodoulou C, 2001",manual_override,11697945,Christoff,2001,Rostrolateral prefrontal cortex involvement in relational integration during reasoning.,0.875,1
+"Chochon F, 1999","Chochon F, 1999",manual_override,10601743,Chochon,1999,Differential contributions of the left and right inferior parietal lobules to number processing.,1,2
+"Cho, 2010","Cho, 2010",exact_match,19549622,Cho,2010,Common and dissociable prefrontal loci associated with component mechanisms of analogical reasoning.,1,1
+"Chen, 2003","Chen, 2003",exact_match,12589886,Chen,2003,A functional MRI study of high-level cognition. II. The game of GO.,1,1
+"Canessa, 2005","Canessa, 2005",exact_match,15852469,Canessa,2005,The effect of social content on deductive reasoning: an fMRI study.,1,1
+"Campbell Z, 2009","Campbell Z, 2009",exact_match,20183185,Campbell,2009,Utilizing virtual reality to improve the ecological validity of clinical neuropsychology: an FMRI case study elucidating the neural basis of planning by comparing the Tower of London with a three-dimensional navigation task.,1,1
+"Brown T, 2014","Brown T, 2014",exact_match,23448868,Brown,2014,Contributions of medial temporal lobe and striatal memory systems to learning and retrieving overlapping spatial memories.,1,1
+"Blackwood, 2004","Blackwood, 2004",exact_match,15130588,Blackwood,2004,The cerebellum and decision making under uncertainty.,1,1
+"Beauchamp M H, 2003","Beauchamp M H, 2003",exact_match,15470553,Beauchamp,2003,[Rational motivation of drug injection and prostitution].,1,1
+"Barra J, 2012","Barra J, 2012",exact_match,23209583,Barra,2012,Does an oblique/slanted perspective during virtual navigation engage both egocentric and allocentric brain strategies?,1,1
+"Baker, 1996","Baker, 1996",exact_match,8736565,Baker,1996,Neural systems engaged by planning: a PET study of the Tower of London task.,1,1
+"Bagga, 2014","Bagga, 2014",exact_match,24221533,Bagga,2014,Assessment of abstract reasoning abilities in alcohol-dependent subjects: an fMRI study.,1,1
+"Aziz-Zadeh, 2009","Aziz-Zadeh, 2009",exact_match,18344174,Aziz-Zadeh,2009,"""Aha!"": The neural correlates of verbal insight solutions.",1,1
+"Audoin B, 2005","Audoin B, 2005",exact_match,15543553,Audoin,2005,Magnetic resonance study of the influence of tissue damage and cortical reorganization on PASAT performance at the earliest stage of multiple sclerosis.,1,1
+"Atherton, 2003","Atherton, 2003",manual_override,12589885,,,,0,0
+"Andres M, 2011","Andres M, 2011",exact_match,21073958,Andres,2011,Role of distinct parietal areas in arithmetic: an fMRI-guided TMS study.,1,1
+"Acuna, 2002","Acuna, 2002",exact_match,12427681,Acuna,2002,Frontal and parietal lobe activation during transitive inference in humans.,1,1
+"Goel and Dolan, 2000","Goel and Dolan, 2000",manual_override,10769309,,,,,

@@ -10,7 +10,9 @@
 42	6	-40
 -6	-20	-26
 
-// Canessa, 2005: DES vs. baseline		// Subjects=12-10	32	32
+// Canessa, 2005: DES vs. baseline		
+// Subjects=12
+-10	32	32
 2	36	32
 -4	28	44
 10	26	40
@@ -29,7 +31,9 @@
 2	-68	36
 -4	-80	36
 
-// Canessa, 2005: SE vs. baseline		// Subjects=12-4	28	32
+// Canessa, 2005: SE vs. baseline		
+// Subjects=12
+-4	28	32
 4	36	32
 -4	40	36
 4	42	44
@@ -53,13 +57,19 @@
 46	-68	40
 -14	8	12
 
-// Christoff, 2009: Concrete		// Subjects=16		-34	36	-16
+// Christoff, 2009: Concrete		
+// Subjects=16		
+-34	36	-16
 -50	-82	12
 
-// Christoff, 2009: Abstract		// Subjects=16		-46	42	24
+// Christoff, 2009: Abstract		
+// Subjects=16		
+-46	42	24
 -6	-90	-8
 
-// Christoff, 2009: Highly Abstract// Subjects=16		-38	48	0
+// Christoff, 2009: Highly Abstract
+// Subjects=16		
+-38	48	0
 -12	-86	20
 -16	-60	0
 12	-90	16
@@ -89,20 +99,36 @@
 -16	-92	-18
 -20	-86	-10
 
-// Goel, 2000: Main Effect of Reasoning// Subjects=11-16	8	-414	10	-4
+// Goel, 2000: Main Effect of Reasoning
+// Subjects=11
+-16	8	-4
+14	10	-4
 0	-22	-4
 10	-76	-34
--6	-74	-3042	-74	-16-20	-92	-12
+-6	-74	-30
+42	-74	-16
+-20	-92	-12
 -52	16	18
 -42	10	28
 -46	24	20
 -52	-42	0
 -18	-64	46
-52	20	22// Goel, 2000: Content - preparation// Subjects=1114	12	-4-16	10	-420	-84	-30
+52	20	22
+
+// Goel, 2000: Content - preparation
+// Subjects=11
+14	12	-4
+-16	10	-4
+20	-84	-30
 32	-62	-32
 40	-72	-32
 -52	14	20
--50	-42	2// Goel, 2000: No-Content - preparation// Subjects=1110	-74	-34-8	-72	-28
+-50	-42	2
+
+// Goel, 2000: No-Content - preparation
+// Subjects=11
+10	-74	-34
+-8	-72	-28
 42	-76	-14
 -16	4	-6
 14	10	-4
@@ -111,7 +137,13 @@
 -44	24	20
 -42	14	26
 -18	-70	52
-46	20	22// Goel, 2000: Conjunction: Content and No-Content// Subjects=1116	-82	-30-16	8	-414	10	-4
+46	20	22
+
+// Goel, 2000: Conjunction: Content and No-Content
+// Subjects=11
+16	-82	-30
+-16	8	-4
+14	10	-4
 -52	14	20
 -20	-88	-12
 48	-66	-18
@@ -121,7 +153,10 @@
 12	-76	-10
 -8	-72	6
 
-// Goel, 2000: No-Content - Content// Subjects=11-48	-72	-250	-70	-6
+// Goel, 2000: No-Content - Content
+// Subjects=11
+-48	-72	-2
+50	-70	-6
 -20	-62	42
 -42	-34	40
 26	-66	50
@@ -129,13 +164,61 @@
 -28	2	54
 26	6	56
 -56	6	18
-56	8	26
+56	8	26
 
-// Goel, 2001: ((Abstract Reasoning + Concrete Reasoning) - (Abstract Baseline + Concrete Baseline))		// Subjects=149	-75	2733	-66	-5130	-60	-3333	-48	-45-6	-75	-33-33	-54	-39-42	-60	-3315	-99	6-30	-81	3036	-75	330	-60	48-42	-51	4836	-48	4815	6	0-18	0	-330	9	51-27	3	513	12	51-42	30	33		// Goel, 2001: Concrete Reasoning - Concrete Baseline	// Subjects=14		33	-66	-51-9	-75	-366	-87	-39	-96	933	-87	9-42	-51	4836	-48	48-18	-66	5712	-63	570	-60	4815	6	-6-18	0	-3		// Goel, 2001: Abstract Reasoning - Abstract Baseline	// Subjects=14		9	-78	-24-6	-75	-3318	-99	330	-60	48-27	-60	51
 
-// Goel, 2001: Conjunction (Abstract Reasoning - Abstract Baseline) (Concrete Reasoning - Concrete Baseline)// Subjects=14		-6	-75	-33
--33	-54	-3930	-57	-33
-33	-63	-51
+// Goel, 2001: ((Abstract Reasoning + Concrete Reasoning) - (Abstract Baseline + Concrete Baseline))		
+// Subjects=14
+9	-75	27
+33	-66	-51
+30	-60	-33
+33	-48	-45
+-6	-75	-33
+-33	-54	-39
+-42	-60	-33
+15	-99	6
+-30	-81	30
+36	-75	33
+0	-60	48
+-42	-51	48
+36	-48	48
+15	6	0
+-18	0	-3
+30	9	51
+-27	3	51
+3	12	51
+-42	30	33
+		
+// Goel, 2001: Concrete Reasoning - Concrete Baseline	
+// Subjects=14		
+33	-66	-51
+-9	-75	-36
+6	-87	-3
+9	-96	9
+33	-87	9
+-42	-51	48
+36	-48	48
+-18	-66	57
+12	-63	57
+0	-60	48
+15	6	-6
+-18	0	-3
+		
+// Goel, 2001: Abstract Reasoning - Abstract Baseline	
+// Subjects=14		
+9	-78	-24
+-6	-75	-33
+18	-99	3
+30	-60	48
+-27	-60	51
+
+// Goel, 2001: Conjunction (Abstract Reasoning - Abstract Baseline) (Concrete Reasoning - Concrete Baseline)
+// Subjects=14		
+-6	-75	-33
+-33	-54	-39
+30	-57	-33
+33	-63	-51
+
 36	-51	-51
 -12	-81	-15
 15	-99	9
@@ -720,17 +803,35 @@
 27	-31	13
 9	2	-14
 
-// Zhao, 2014: Insight solution > Rest	// Subjects=17		-33	30	3-48	9	24-24	-27	-9-33	-18	-921	-33	-324	-27	-936	27	348	15	24-60	-42	0-54	-45	945	-69	945	-63	-3
+// Zhao, 2014: Insight solution > Rest	
+// Subjects=17		
+-33	30	3
+-48	9	24
+-24	-27	-9
+-33	-18	-9
+21	-33	-3
+24	-27	-9
+36	27	3
+48	15	24
+-60	-42	0
+-54	-45	9
+45	-69	9
+45	-63	-3
 
-// Zhao, 2014: Insight solution > Noninsight solution	// Subjects=17		-27	-9	-18
+// Zhao, 2014: Insight solution > Noninsight solution	
+// Subjects=17		
+-27	-9	-18
 54	-30	0
 54	-54	12
 -57	-36	3
 -54	-48	6
 -54	-6	-24
 30	-9	-12
-
-// Zhao, 2013: Early stage: Insight solution > Noninsight solution// Subjects=17-28	10	-28
+
+
+// Zhao, 2013: Early stage: Insight solution > Noninsight solution
+// Subjects=17
+-28	10	-28
 -42	0	-38
 -10	42	8
 -44	20	48
@@ -742,7 +843,9 @@
 24	14	-20
 24	4	-32
 
-// Zhao, 2013: Late stage: Insight solution > Noninsight solution// Subjects=1768	-44	-6
+// Zhao, 2013: Late stage: Insight solution > Noninsight solution
+// Subjects=17
+68	-44	-6
 56	-56	8
 -24	6	-18
 -54	-8	-26
@@ -1281,7 +1384,7 @@
 25	2	10
 23	27	0
 
-// Goel, 2000: Induction - Perceptual Baseline
+// Goel and Dolan, 2000: Induction - Perceptual Baseline
 // Subjects=10
 -38	-76	-16
 -32	-90	-12
@@ -1296,7 +1399,7 @@
 -22	-68	58
 -44	10	28
 
-// Goel, 2000: Rule Application - Perceptual Baseline
+// Goel and Dolan, 2000: Rule Application - Perceptual Baseline
 // Subjects=10
 -28	-92	-12
 -38	-76	-16
