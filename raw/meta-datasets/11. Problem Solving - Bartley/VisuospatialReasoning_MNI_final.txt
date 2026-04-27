@@ -86,7 +86,7 @@
 25	2	10
 23	27	0
 
-// Goel, 2000: Induction - Perceptual Baseline
+// Goel and Dolan, 2000: Induction - Perceptual Baseline
 // Subjects=10
 -38	-76	-16
 -32	-90	-12
@@ -101,7 +101,7 @@
 -22	-68	58
 -44	10	28
 
-// Goel, 2000: Rule Application - Perceptual Baseline
+// Goel and Dolan, 2000: Rule Application - Perceptual Baseline
 // Subjects=10
 -28	-92	-12
 -38	-76	-16
