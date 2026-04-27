@@ -3,7 +3,7 @@ authors = [{name = "Alejandro de la Vega", email = "aleph4@gmail.com"}]
 name = "neurometabench"
 version = "0.1.0"
 requires-python = ">= 3.11"
-dependencies = ["autonima @ file:///home/zorro/repos/autonima"]
+dependencies = []
 
 [build-system]
 build-backend = "hatchling.build"
@@ -11,7 +11,7 @@ requires = ["hatchling"]
 
 [tool.pixi.workspace]
 channels = ["conda-forge"]
-platforms = ["linux-64"]
+platforms = ["linux-64", "win-64"]
 
 [tool.pixi.dependencies]
 python = ">=3.10,<3.13"
@@ -26,6 +26,7 @@ pydantic = ">=2,<3"
 nilearn = ">=0.10.1,<0.13"
 
 [tool.pixi.pypi-dependencies]
+autonima = { path = "../autonima", editable = true }
 pubget = { git = "https://github.com/neuroquery/pubget" }
 
 [tool.pixi.activation.env]
