@@ -1,0 +1,49 @@
+{
+  "timestamp_utc": "2026-04-22T19:17:34.175742+00:00",
+  "project": "vbm_of_ptsd",
+  "meta_pmid": "36100907",
+  "included_studies_csv": "/home/zorro/repos/neurometabench/data/included_studies.csv",
+  "fuzzy_map_dir": "/home/zorro/repos/neurometabench/raw/fuzzy_match_study_to_pmcid",
+  "mapping_csvs": [
+    "/home/zorro/repos/neurometabench/raw/fuzzy_match_study_to_pmcid/vbm_of_ptsd/matched_studies_merged.csv"
+  ],
+  "mapping_pmid_counts_by_csv": {
+    "matched_studies_merged.csv": 22
+  },
+  "included_pmids_count": 25,
+  "fuzzy_map_pmids_count": 22,
+  "overlap_count": 22,
+  "included_pmids_not_in_fuzzy_map_count": 3,
+  "fuzzy_map_pmids_not_in_included_studies_count": 0,
+  "included_pmids_not_in_fuzzy_map": [
+    "23776553",
+    "29432769",
+    "29723244"
+  ],
+  "fuzzy_map_pmids_not_in_included_studies": [],
+  "overlap_pmids": [
+    "12853571",
+    "16038682",
+    "16838824",
+    "17825801",
+    "17923164",
+    "19538748",
+    "19794316",
+    "19942229",
+    "21118656",
+    "21418787",
+    "21498053",
+    "21710131",
+    "22453299",
+    "22952599",
+    "23021615",
+    "23155380",
+    "26347628",
+    "26952803",
+    "28287194",
+    "28549317",
+    "29740753",
+    "32490056"
+  ],
+  "mapping_warnings": []
+}

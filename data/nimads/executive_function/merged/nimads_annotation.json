@@ -1,0 +1,2733 @@
+{
+  "id": "annotation_executive_function_merged_studyset",
+  "name": "executive_function_merged_annotations",
+  "description": "Source-subanalysis membership annotations for merged executive_function NiMADS studyset.",
+  "metadata": {
+    "project": "executive_function",
+    "source_files": [
+      "All.json",
+      "Flexibility.json",
+      "Inhibition.json",
+      "Working Memory.json"
+    ]
+  },
+  "note_keys": {
+    "all": "boolean",
+    "flexibility": "boolean",
+    "inhibition": "boolean",
+    "working_memory": "boolean"
+  },
+  "studyset": "executive_function_merged_studyset",
+  "notes": [
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Fu_2002_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Fu_2002_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "de_2000_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "de_2000_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "de_2001_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Awh_1996_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": false,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Awh_1996_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Fan_2003_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": false,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Fan_2003_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Gur_2007_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Kim_2002_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Kim_2002_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Kim_2003_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Lee_2008_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Liu_2004_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": false,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Liu_2004_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": true,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Rao_1997_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Yoo_2005_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "van_2001_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "van_2001_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "van_2003_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "van_2005_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "van_2005_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Bush_1998_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Chen_2004_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Chen_2004_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Dade_2001_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Dade_2001_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": true,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Dove_2000_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Fehr_2007_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Fehr_2007_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Fehr_2007_3",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Fehr_2007_4",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Fehr_2007_5",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Ford_2005_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Horn_2003_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": true,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Luks_2002_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Mead_2002_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Mead_2002_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Owen_1998_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Owen_1998_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Owen_1999_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Paus_1993_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Roth_2006_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Roth_2007_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Rowe_2000_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Rowe_2000_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": true,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Ruff_2001_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": true,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Ruff_2001_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": true,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Sohn_2000_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": true,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Sohn_2000_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Tang_2006_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Tang_2006_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Vink_2005_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Vink_2005_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Zago_2001_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Asahi_2004_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Barch_2001_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Basho_2007_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Bench_1993_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Bench_1993_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Bench_1993_3",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": true,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Brass_2004_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Brown_1999_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Brown_1999_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": false,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Brown_2006_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Brown_2007_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Brown_2007_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Bunge_2001_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Bunge_2002_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Cairo_2004_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Cairo_2004_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Casey_1998_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Clark_2000_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Cohen_1994_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Cohen_1997_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Cohen_1997_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": true,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Cools_2004_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Frith_1991_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Honey_2003_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Kelly_2004_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Kerns_2005_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Kerns_2006_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Klein_1995_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Klein_1999_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "LaBar_1999_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Lange_2005_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Leung_2000_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Leung_2002_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Leung_2002_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Leung_2002_3",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Leung_2002_4",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Mayer_2007_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Menon_2001_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Menon_2001_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Monks_2004_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": false,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Monks_2004_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Petit_1998_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Petit_1998_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Rubia_2001_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Rubia_2001_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": true,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Rubia_2006_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": false,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Rubia_2006_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Rypma_1999_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Rypma_1999_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Rypma_2001_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Smith_1996_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Smith_1996_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": false,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Smith_1996_3",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": false,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Smith_1996_4",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": false,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Smith_1996_5",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": true,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Smith_2004_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Stern_2000_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Stern_2000_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Stern_2000_3",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Volle_2005_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Volle_2005_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Volle_2005_3",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Yucel_2007_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Audoin_2005_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Banich_2000_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Banich_2001_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Banich_2001_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": true,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Berman_1995_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Braver_1997_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": true,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Braver_2003_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Carter_1995_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Carter_1995_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Dolcos_2006_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": true,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Dreher_2003_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "George_1994_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Ghatan_1995_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Ghatan_1998_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Harvey_2005_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Hester_2004_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Kimmig_2001_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Kumari_2006_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Kumari_2006_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Landau_2004_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Landau_2004_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Liddle_2001_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Linden_2003_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Maclin_2001_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Maltby_2005_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Matsuo_2007_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Matsuo_2007_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Matsuo_2007_3",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Milham_2001_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Milham_2002_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Milham_2005_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": true,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Monchi_2001_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Norris_2002_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Pochon_2001_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Pochon_2001_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": true,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Rogers_2000_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Sommer_2008_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Taylor_1997_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Walter_2007_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Walter_2007_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Walter_2007_3",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Zysset_2001_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Zysset_2001_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Bedwell_2005_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Bedwell_2005_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Carlson_1998_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Carlson_1998_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Carlson_1998_3",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Coderre_2008_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Coderre_2008_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Coderre_2008_3",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Coderre_2008_4",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Crosson_1999_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Delazer_2003_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Delazer_2003_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Dichter_2007_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Dichter_2007_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Druzgal_2001_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Druzgal_2001_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Durston_2003_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Fincham_2002_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Garavan_1999_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Garavan_2000_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": false,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Garavan_2000_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Garavan_2002_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Garavan_2003_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Heckers_2004_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Hugdahl_2004_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Johnson_2006_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Johnson_2006_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Johnson_2006_3",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Johnson_2006_4",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Jonides_1997_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Jonides_1997_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Jonides_1997_3",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Jonides_1997_4",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": true,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Kimberg_2000_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Konishi_1998_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": true,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Konishi_1998_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Konishi_1999_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Laurens_2005_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Lazeron_2003_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Maguire_2003_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Manoach_2000_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Matsuda_2004_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Mendrek_2005_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Ragland_2002_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Ragland_2002_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Ragland_2002_3",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Ragland_2002_4",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Ragland_2002_5",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Ragland_2002_6",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Sweeney_1996_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Sweeney_1996_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Veltman_2003_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": false,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Veltman_2003_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Chikazoe_2007_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Doricchi_1997_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Ettinger_2008_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": true,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Goldberg_1998_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Kirschen_2005_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Kronhaus_2006_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": true,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Nagahama_1996_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": true,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Nagahama_1997_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": true,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Nagahama_2001_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Petersen_1988_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Petersen_1988_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Petersen_1989_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Petersen_1989_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Peterson_2002_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": false,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Peterson_2002_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Petrides_1993_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Petrides_1993_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Sheridan_2007_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Watanabe_2002_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Wittfoth_2006_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Wittfoth_2006_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Wittfoth_2008_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Zurowski_2002_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Altshuler_2005_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Audenaert_2000_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Audenaert_2000_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Bellgrove_2004_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Callicott_1999_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Forstmann_2008_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Hazeltine_2003_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Ischebeck_2006_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Ischebeck_2006_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "MacDonald_2000_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "MacDonald_2003_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "MacDonald_2005_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "MacDonald_2005_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Mostofsky_2003_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Mostofsky_2003_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Perlstein_2003_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Perlstein_2003_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": true,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Rushworth_2002_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Fassbender_2004_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Fitzgerald_2005_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Fitzgerald_2005_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": false
+      },
+      "analysis": "Fitzgerald_2008_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Lagopoulos_2007_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Lagopoulos_2007_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "O_Driscoll_1995_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Schumacher_1996_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Schumacher_1996_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": true,
+        "working_memory": false
+      },
+      "analysis": "Ullsperger_2001_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Martinkauppi_2000_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Martinkauppi_2000_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Crespo_Facorro_2001_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Sanchez_Carrion_2008_1",
+      "annotation": "annotation_executive_function_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "flexibility": false,
+        "inhibition": false,
+        "working_memory": true
+      },
+      "analysis": "Sanchez_Carrion_2008_2",
+      "annotation": "annotation_executive_function_merged_studyset"
+    }
+  ]
+}

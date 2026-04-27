@@ -1,0 +1,1453 @@
+{
+  "config": {
+    "timestamp_utc": "2026-04-22T19:17:34.162235+00:00",
+    "project": "vbm_of_ptsd",
+    "threshold": 0.9,
+    "exact_coord_override": true,
+    "name_weight": 0.3,
+    "coord_weight": 0.7,
+    "assignment_backends_used": [],
+    "dedup_scope": "same_pmid_only",
+    "coordinate_space_policy": "ignored_raw_xyz"
+  },
+  "summary": {
+    "input_files": 1,
+    "input_studies_total": 22,
+    "input_unique_studies": 22,
+    "input_analyses_total": 25,
+    "merged_studies": 22,
+    "merged_analyses": 25,
+    "dedup_rate": 0.0,
+    "accepted_fuzzy_merges": 0,
+    "exact_override_merges": 0,
+    "mean_combined_score": 0.0,
+    "median_combined_score": 0.0,
+    "p25_combined_score": 0.0,
+    "p75_combined_score": 0.0,
+    "id_reassignment_count": 25,
+    "study_metadata_conflict_count": 0,
+    "duplicate_analysis_ids_global": 0,
+    "unique_additions_total": 25,
+    "unique_additions_subsequent_total": 0,
+    "unique_additions_subsequent_by_source": {}
+  },
+  "source_files": {
+    "nonPTSDgtPTSD-Merged.json": {
+      "source_key": "nonptsdgtptsd_merged",
+      "source_order": 0,
+      "is_primary_source": true,
+      "studies_present": 22,
+      "analyses_contributed": 25,
+      "analyses_retained_unique": 25,
+      "analyses_retained_unique_subsequent": 0,
+      "analyses_merged_into_existing": 0
+    }
+  },
+  "studies": {
+    "12853571": {
+      "source_files_present": [
+        "nonPTSDgtPTSD-Merged.json"
+      ],
+      "original_study_ids": [
+        "12853571"
+      ],
+      "original_study_ids_by_source": {
+        "nonptsdgtptsd_merged": [
+          "12853571"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "12853571",
+          "source_file": "nonPTSDgtPTSD-Merged.json",
+          "source_key": "nonptsdgtptsd_merged",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "TrauE > PTSD",
+          "source_analysis_name": "TrauE > PTSD",
+          "source_study_id": "12853571",
+          "source_study_name": "12853571",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "TrauE > PTSD",
+          "new_id": "12853571_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "12853571_1",
+          "name": "TrauE > PTSD",
+          "merged_sources": [
+            "nonptsdgtptsd_merged"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "16038682": {
+      "source_files_present": [
+        "nonPTSDgtPTSD-Merged.json"
+      ],
+      "original_study_ids": [
+        "16038682"
+      ],
+      "original_study_ids_by_source": {
+        "nonptsdgtptsd_merged": [
+          "16038682"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "16038682",
+          "source_file": "nonPTSDgtPTSD-Merged.json",
+          "source_key": "nonptsdgtptsd_merged",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "HCs > PTSD",
+          "source_analysis_name": "HCs > PTSD",
+          "source_study_id": "16038682",
+          "source_study_name": "16038682",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "HCs > PTSD",
+          "new_id": "16038682_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "16038682_1",
+          "name": "HCs > PTSD",
+          "merged_sources": [
+            "nonptsdgtptsd_merged"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "16838824": {
+      "source_files_present": [
+        "nonPTSDgtPTSD-Merged.json"
+      ],
+      "original_study_ids": [
+        "16838824"
+      ],
+      "original_study_ids_by_source": {
+        "nonptsdgtptsd_merged": [
+          "16838824"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "16838824",
+          "source_file": "nonPTSDgtPTSD-Merged.json",
+          "source_key": "nonptsdgtptsd_merged",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "TrauE > PTSD",
+          "source_analysis_name": "TrauE > PTSD",
+          "source_study_id": "16838824",
+          "source_study_name": "16838824",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "TrauE > PTSD",
+          "new_id": "16838824_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "16838824_1",
+          "name": "TrauE > PTSD",
+          "merged_sources": [
+            "nonptsdgtptsd_merged"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "17825801": {
+      "source_files_present": [
+        "nonPTSDgtPTSD-Merged.json"
+      ],
+      "original_study_ids": [
+        "17825801"
+      ],
+      "original_study_ids_by_source": {
+        "nonptsdgtptsd_merged": [
+          "17825801"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "17825801",
+          "source_file": "nonPTSDgtPTSD-Merged.json",
+          "source_key": "nonptsdgtptsd_merged",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "TrauE > PTSD",
+          "source_analysis_name": "TrauE > PTSD",
+          "source_study_id": "17825801",
+          "source_study_name": "17825801",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "TrauE > PTSD",
+          "new_id": "17825801_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "17825801_1",
+          "name": "TrauE > PTSD",
+          "merged_sources": [
+            "nonptsdgtptsd_merged"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "17923164": {
+      "source_files_present": [
+        "nonPTSDgtPTSD-Merged.json"
+      ],
+      "original_study_ids": [
+        "17923164"
+      ],
+      "original_study_ids_by_source": {
+        "nonptsdgtptsd_merged": [
+          "17923164"
+        ]
+      },
+      "source_analyses_count": 2,
+      "canonical_analyses_count": 2,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "17923164",
+          "source_file": "nonPTSDgtPTSD-Merged.json",
+          "source_key": "nonptsdgtptsd_merged",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "HCs > PTSD",
+          "source_analysis_name": "HCs > PTSD",
+          "source_study_id": "17923164",
+          "source_study_name": "17923164",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        },
+        {
+          "study_id": "17923164",
+          "source_file": "nonPTSDgtPTSD-Merged.json",
+          "source_key": "nonptsdgtptsd_merged",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 1,
+          "source_analysis_index_in_study": 1,
+          "source_analysis_id": "TrauE > PTSD",
+          "source_analysis_name": "TrauE > PTSD",
+          "source_study_id": "17923164",
+          "source_study_name": "17923164",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "HCs > PTSD",
+          "new_id": "17923164_1"
+        },
+        {
+          "old_id": "TrauE > PTSD",
+          "new_id": "17923164_2"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "17923164_1",
+          "name": "HCs > PTSD",
+          "merged_sources": [
+            "nonptsdgtptsd_merged"
+          ],
+          "merged_member_count": 1
+        },
+        {
+          "id": "17923164_2",
+          "name": "TrauE > PTSD",
+          "merged_sources": [
+            "nonptsdgtptsd_merged"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "19538748": {
+      "source_files_present": [
+        "nonPTSDgtPTSD-Merged.json"
+      ],
+      "original_study_ids": [
+        "19538748"
+      ],
+      "original_study_ids_by_source": {
+        "nonptsdgtptsd_merged": [
+          "19538748"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "19538748",
+          "source_file": "nonPTSDgtPTSD-Merged.json",
+          "source_key": "nonptsdgtptsd_merged",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "TrauE > PTSD",
+          "source_analysis_name": "TrauE > PTSD",
+          "source_study_id": "19538748",
+          "source_study_name": "19538748",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "TrauE > PTSD",
+          "new_id": "19538748_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "19538748_1",
+          "name": "TrauE > PTSD",
+          "merged_sources": [
+            "nonptsdgtptsd_merged"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "19794316": {
+      "source_files_present": [
+        "nonPTSDgtPTSD-Merged.json"
+      ],
+      "original_study_ids": [
+        "19794316"
+      ],
+      "original_study_ids_by_source": {
+        "nonptsdgtptsd_merged": [
+          "19794316"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "19794316",
+          "source_file": "nonPTSDgtPTSD-Merged.json",
+          "source_key": "nonptsdgtptsd_merged",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "TrauE > PTSD",
+          "source_analysis_name": "TrauE > PTSD",
+          "source_study_id": "19794316",
+          "source_study_name": "19794316",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "TrauE > PTSD",
+          "new_id": "19794316_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "19794316_1",
+          "name": "TrauE > PTSD",
+          "merged_sources": [
+            "nonptsdgtptsd_merged"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "19942229": {
+      "source_files_present": [
+        "nonPTSDgtPTSD-Merged.json"
+      ],
+      "original_study_ids": [
+        "19942229"
+      ],
+      "original_study_ids_by_source": {
+        "nonptsdgtptsd_merged": [
+          "19942229"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "19942229",
+          "source_file": "nonPTSDgtPTSD-Merged.json",
+          "source_key": "nonptsdgtptsd_merged",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "TrauE > PTSD",
+          "source_analysis_name": "TrauE > PTSD",
+          "source_study_id": "19942229",
+          "source_study_name": "19942229",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "TrauE > PTSD",
+          "new_id": "19942229_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "19942229_1",
+          "name": "TrauE > PTSD",
+          "merged_sources": [
+            "nonptsdgtptsd_merged"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "21118656": {
+      "source_files_present": [
+        "nonPTSDgtPTSD-Merged.json"
+      ],
+      "original_study_ids": [
+        "21118656"
+      ],
+      "original_study_ids_by_source": {
+        "nonptsdgtptsd_merged": [
+          "21118656"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "21118656",
+          "source_file": "nonPTSDgtPTSD-Merged.json",
+          "source_key": "nonptsdgtptsd_merged",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "HCs > PTSD",
+          "source_analysis_name": "HCs > PTSD",
+          "source_study_id": "21118656",
+          "source_study_name": "21118656",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "HCs > PTSD",
+          "new_id": "21118656_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "21118656_1",
+          "name": "HCs > PTSD",
+          "merged_sources": [
+            "nonptsdgtptsd_merged"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "21418787": {
+      "source_files_present": [
+        "nonPTSDgtPTSD-Merged.json"
+      ],
+      "original_study_ids": [
+        "21418787"
+      ],
+      "original_study_ids_by_source": {
+        "nonptsdgtptsd_merged": [
+          "21418787"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "21418787",
+          "source_file": "nonPTSDgtPTSD-Merged.json",
+          "source_key": "nonptsdgtptsd_merged",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "TrauE > PTSD",
+          "source_analysis_name": "TrauE > PTSD",
+          "source_study_id": "21418787",
+          "source_study_name": "21418787",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "TrauE > PTSD",
+          "new_id": "21418787_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "21418787_1",
+          "name": "TrauE > PTSD",
+          "merged_sources": [
+            "nonptsdgtptsd_merged"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "21498053": {
+      "source_files_present": [
+        "nonPTSDgtPTSD-Merged.json"
+      ],
+      "original_study_ids": [
+        "21498053"
+      ],
+      "original_study_ids_by_source": {
+        "nonptsdgtptsd_merged": [
+          "21498053"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "21498053",
+          "source_file": "nonPTSDgtPTSD-Merged.json",
+          "source_key": "nonptsdgtptsd_merged",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "TrauE > PTSD",
+          "source_analysis_name": "TrauE > PTSD",
+          "source_study_id": "21498053",
+          "source_study_name": "21498053",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "TrauE > PTSD",
+          "new_id": "21498053_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "21498053_1",
+          "name": "TrauE > PTSD",
+          "merged_sources": [
+            "nonptsdgtptsd_merged"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "21710131": {
+      "source_files_present": [
+        "nonPTSDgtPTSD-Merged.json"
+      ],
+      "original_study_ids": [
+        "21710131"
+      ],
+      "original_study_ids_by_source": {
+        "nonptsdgtptsd_merged": [
+          "21710131"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "21710131",
+          "source_file": "nonPTSDgtPTSD-Merged.json",
+          "source_key": "nonptsdgtptsd_merged",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "HCs > PTSD",
+          "source_analysis_name": "HCs > PTSD",
+          "source_study_id": "21710131",
+          "source_study_name": "21710131",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "HCs > PTSD",
+          "new_id": "21710131_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "21710131_1",
+          "name": "HCs > PTSD",
+          "merged_sources": [
+            "nonptsdgtptsd_merged"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "22453299": {
+      "source_files_present": [
+        "nonPTSDgtPTSD-Merged.json"
+      ],
+      "original_study_ids": [
+        "22453299"
+      ],
+      "original_study_ids_by_source": {
+        "nonptsdgtptsd_merged": [
+          "22453299"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "22453299",
+          "source_file": "nonPTSDgtPTSD-Merged.json",
+          "source_key": "nonptsdgtptsd_merged",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "TrauE > PTSD",
+          "source_analysis_name": "TrauE > PTSD",
+          "source_study_id": "22453299",
+          "source_study_name": "22453299",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "TrauE > PTSD",
+          "new_id": "22453299_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "22453299_1",
+          "name": "TrauE > PTSD",
+          "merged_sources": [
+            "nonptsdgtptsd_merged"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "22952599": {
+      "source_files_present": [
+        "nonPTSDgtPTSD-Merged.json"
+      ],
+      "original_study_ids": [
+        "22952599"
+      ],
+      "original_study_ids_by_source": {
+        "nonptsdgtptsd_merged": [
+          "22952599"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "22952599",
+          "source_file": "nonPTSDgtPTSD-Merged.json",
+          "source_key": "nonptsdgtptsd_merged",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "TrauE > PTSD",
+          "source_analysis_name": "TrauE > PTSD",
+          "source_study_id": "22952599",
+          "source_study_name": "22952599",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "TrauE > PTSD",
+          "new_id": "22952599_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "22952599_1",
+          "name": "TrauE > PTSD",
+          "merged_sources": [
+            "nonptsdgtptsd_merged"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "23021615": {
+      "source_files_present": [
+        "nonPTSDgtPTSD-Merged.json"
+      ],
+      "original_study_ids": [
+        "23021615"
+      ],
+      "original_study_ids_by_source": {
+        "nonptsdgtptsd_merged": [
+          "23021615"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "23021615",
+          "source_file": "nonPTSDgtPTSD-Merged.json",
+          "source_key": "nonptsdgtptsd_merged",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "TrauE > PTSD",
+          "source_analysis_name": "TrauE > PTSD",
+          "source_study_id": "23021615",
+          "source_study_name": "23021615",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "TrauE > PTSD",
+          "new_id": "23021615_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "23021615_1",
+          "name": "TrauE > PTSD",
+          "merged_sources": [
+            "nonptsdgtptsd_merged"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "23155380": {
+      "source_files_present": [
+        "nonPTSDgtPTSD-Merged.json"
+      ],
+      "original_study_ids": [
+        "23155380"
+      ],
+      "original_study_ids_by_source": {
+        "nonptsdgtptsd_merged": [
+          "23155380"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "23155380",
+          "source_file": "nonPTSDgtPTSD-Merged.json",
+          "source_key": "nonptsdgtptsd_merged",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "HCs > PTSD",
+          "source_analysis_name": "HCs > PTSD",
+          "source_study_id": "23155380",
+          "source_study_name": "23155380",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "HCs > PTSD",
+          "new_id": "23155380_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "23155380_1",
+          "name": "HCs > PTSD",
+          "merged_sources": [
+            "nonptsdgtptsd_merged"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "26347628": {
+      "source_files_present": [
+        "nonPTSDgtPTSD-Merged.json"
+      ],
+      "original_study_ids": [
+        "26347628"
+      ],
+      "original_study_ids_by_source": {
+        "nonptsdgtptsd_merged": [
+          "26347628"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "26347628",
+          "source_file": "nonPTSDgtPTSD-Merged.json",
+          "source_key": "nonptsdgtptsd_merged",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "HCs > PTSD",
+          "source_analysis_name": "HCs > PTSD",
+          "source_study_id": "26347628",
+          "source_study_name": "26347628",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "HCs > PTSD",
+          "new_id": "26347628_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "26347628_1",
+          "name": "HCs > PTSD",
+          "merged_sources": [
+            "nonptsdgtptsd_merged"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "26952803": {
+      "source_files_present": [
+        "nonPTSDgtPTSD-Merged.json"
+      ],
+      "original_study_ids": [
+        "26952803"
+      ],
+      "original_study_ids_by_source": {
+        "nonptsdgtptsd_merged": [
+          "26952803"
+        ]
+      },
+      "source_analyses_count": 2,
+      "canonical_analyses_count": 2,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "26952803",
+          "source_file": "nonPTSDgtPTSD-Merged.json",
+          "source_key": "nonptsdgtptsd_merged",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "HCs > PTSD",
+          "source_analysis_name": "HCs > PTSD",
+          "source_study_id": "26952803",
+          "source_study_name": "26952803",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        },
+        {
+          "study_id": "26952803",
+          "source_file": "nonPTSDgtPTSD-Merged.json",
+          "source_key": "nonptsdgtptsd_merged",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 1,
+          "source_analysis_index_in_study": 1,
+          "source_analysis_id": "TrauE > PTSD",
+          "source_analysis_name": "TrauE > PTSD",
+          "source_study_id": "26952803",
+          "source_study_name": "26952803",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "HCs > PTSD",
+          "new_id": "26952803_1"
+        },
+        {
+          "old_id": "TrauE > PTSD",
+          "new_id": "26952803_2"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "26952803_1",
+          "name": "HCs > PTSD",
+          "merged_sources": [
+            "nonptsdgtptsd_merged"
+          ],
+          "merged_member_count": 1
+        },
+        {
+          "id": "26952803_2",
+          "name": "TrauE > PTSD",
+          "merged_sources": [
+            "nonptsdgtptsd_merged"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "28287194": {
+      "source_files_present": [
+        "nonPTSDgtPTSD-Merged.json"
+      ],
+      "original_study_ids": [
+        "28287194"
+      ],
+      "original_study_ids_by_source": {
+        "nonptsdgtptsd_merged": [
+          "28287194"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "28287194",
+          "source_file": "nonPTSDgtPTSD-Merged.json",
+          "source_key": "nonptsdgtptsd_merged",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "HCs > PTSD",
+          "source_analysis_name": "HCs > PTSD",
+          "source_study_id": "28287194",
+          "source_study_name": "28287194",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "HCs > PTSD",
+          "new_id": "28287194_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "28287194_1",
+          "name": "HCs > PTSD",
+          "merged_sources": [
+            "nonptsdgtptsd_merged"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "28549317": {
+      "source_files_present": [
+        "nonPTSDgtPTSD-Merged.json"
+      ],
+      "original_study_ids": [
+        "28549317"
+      ],
+      "original_study_ids_by_source": {
+        "nonptsdgtptsd_merged": [
+          "28549317"
+        ]
+      },
+      "source_analyses_count": 2,
+      "canonical_analyses_count": 2,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "28549317",
+          "source_file": "nonPTSDgtPTSD-Merged.json",
+          "source_key": "nonptsdgtptsd_merged",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "HCs > PTSD",
+          "source_analysis_name": "HCs > PTSD",
+          "source_study_id": "28549317",
+          "source_study_name": "28549317",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        },
+        {
+          "study_id": "28549317",
+          "source_file": "nonPTSDgtPTSD-Merged.json",
+          "source_key": "nonptsdgtptsd_merged",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 1,
+          "source_analysis_index_in_study": 1,
+          "source_analysis_id": "TrauE > PTSD",
+          "source_analysis_name": "TrauE > PTSD",
+          "source_study_id": "28549317",
+          "source_study_name": "28549317",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "HCs > PTSD",
+          "new_id": "28549317_1"
+        },
+        {
+          "old_id": "TrauE > PTSD",
+          "new_id": "28549317_2"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "28549317_1",
+          "name": "HCs > PTSD",
+          "merged_sources": [
+            "nonptsdgtptsd_merged"
+          ],
+          "merged_member_count": 1
+        },
+        {
+          "id": "28549317_2",
+          "name": "TrauE > PTSD",
+          "merged_sources": [
+            "nonptsdgtptsd_merged"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "29740753": {
+      "source_files_present": [
+        "nonPTSDgtPTSD-Merged.json"
+      ],
+      "original_study_ids": [
+        "29740753"
+      ],
+      "original_study_ids_by_source": {
+        "nonptsdgtptsd_merged": [
+          "29740753"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "29740753",
+          "source_file": "nonPTSDgtPTSD-Merged.json",
+          "source_key": "nonptsdgtptsd_merged",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "TrauE > PTSD",
+          "source_analysis_name": "TrauE > PTSD",
+          "source_study_id": "29740753",
+          "source_study_name": "29740753",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "TrauE > PTSD",
+          "new_id": "29740753_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "29740753_1",
+          "name": "TrauE > PTSD",
+          "merged_sources": [
+            "nonptsdgtptsd_merged"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    },
+    "32490056": {
+      "source_files_present": [
+        "nonPTSDgtPTSD-Merged.json"
+      ],
+      "original_study_ids": [
+        "32490056"
+      ],
+      "original_study_ids_by_source": {
+        "nonptsdgtptsd_merged": [
+          "32490056"
+        ]
+      },
+      "source_analyses_count": 1,
+      "canonical_analyses_count": 1,
+      "dedup_percent": 0.0,
+      "metadata_conflicts": [],
+      "merge_events": [],
+      "unique_additions": [
+        {
+          "study_id": "32490056",
+          "source_file": "nonPTSDgtPTSD-Merged.json",
+          "source_key": "nonptsdgtptsd_merged",
+          "source_order": 0,
+          "is_primary_source": true,
+          "source_analysis_index": 0,
+          "source_analysis_index_in_study": 0,
+          "source_analysis_id": "TrauE > PTSD",
+          "source_analysis_name": "TrauE > PTSD",
+          "source_study_id": "32490056",
+          "source_study_name": "32490056",
+          "best_target_representative_id": null,
+          "best_target_representative_name": null,
+          "best_target_source_study_id": null,
+          "best_name_score": null,
+          "best_coord_score": null,
+          "best_combined_score": null,
+          "best_exact_coord_set": null,
+          "reason_codes": [
+            "seed_from_first_source"
+          ]
+        }
+      ],
+      "id_reassignment_operations": [
+        {
+          "old_id": "TrauE > PTSD",
+          "new_id": "32490056_1"
+        }
+      ],
+      "canonical_analyses": [
+        {
+          "id": "32490056_1",
+          "name": "TrauE > PTSD",
+          "merged_sources": [
+            "nonptsdgtptsd_merged"
+          ],
+          "merged_member_count": 1
+        }
+      ]
+    }
+  },
+  "top_low_confidence_merges": [],
+  "unique_additions_subsequent": []
+}

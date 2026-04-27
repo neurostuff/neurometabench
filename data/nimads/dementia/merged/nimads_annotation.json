@@ -1,0 +1,331 @@
+{
+  "id": "annotation_dementia_merged_studyset",
+  "name": "dementia_merged_annotations",
+  "description": "Manual boolean annotations for Tahmasian dementia studyset.",
+  "metadata": {
+    "project": "dementia",
+    "source_files": [
+      "bvFTD_ALL.xlsx",
+      "dementia_analysis_manual_annotation.xlsx"
+    ]
+  },
+  "note_keys": {
+    "all": "boolean",
+    "decrease": "boolean",
+    "structural": "boolean",
+    "functional": "boolean"
+  },
+  "studyset": "dementia_merged_studyset",
+  "notes": [
+    {
+      "note": {
+        "all": true,
+        "decrease": false,
+        "structural": true,
+        "functional": false
+      },
+      "analysis": "Lee_2014_Seeley_2008_Mandelli_2016_Agosta_2009_Chiong_2013_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": true,
+        "structural": true,
+        "functional": false
+      },
+      "analysis": "Lagarde_2013_Lagarde_2016_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": true,
+        "structural": true,
+        "functional": false
+      },
+      "analysis": "Kumfor_2018a_Kamminga_2015_Kumfor_2014_Kumfor_2015_Kumfor_2018b_Kumfor_2017_Hutchings_2015_kumfor_2013_Ahmed_2016_Devenney_2015_Ahmed_2019_Donnelly_2019_Kumfor_2018c_Wei_2019_Wilson_2019_Irish_2013a_Irish_2014a_Irish_2016_Dermody_2016_Hornberger_2011_Chen_2018a_Kumfor_2013_Chen_2018b_Irish_2013b_Irish_2014b_OCallaghan_2019_Tu_2015_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": true,
+        "structural": true,
+        "functional": false
+      },
+      "analysis": "Baez_2017a_Baez_2016a_Baez_2017b_Baez_2016b_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": true,
+        "structural": true,
+        "functional": false
+      },
+      "analysis": "Cousins_2016_McMillan_2013_Grossman_2004_Morgan_2011_Libon_2009_Nevler_2017_Massimo_2012_Ash_2016_Healy_2015_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": true,
+        "structural": true,
+        "functional": true
+      },
+      "analysis": "Kanda_2008_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": true,
+        "structural": false,
+        "functional": true
+      },
+      "analysis": "Franceschi_2005_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": true,
+        "structural": false,
+        "functional": true
+      },
+      "analysis": "Franceschi_2005_2",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": true,
+        "structural": false,
+        "functional": true
+      },
+      "analysis": "Salmon_2003_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": true,
+        "structural": true,
+        "functional": true
+      },
+      "analysis": "Tuovinen_2017_Rytty_2013_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": true,
+        "structural": true,
+        "functional": true
+      },
+      "analysis": "Melloni_2016_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": true,
+        "structural": false,
+        "functional": true
+      },
+      "analysis": "Fernandez_2017_Matias_2018_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": true,
+        "structural": true,
+        "functional": true
+      },
+      "analysis": "Hafkemeijer_2016_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": true,
+        "structural": true,
+        "functional": false
+      },
+      "analysis": "Farb_2013_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": true,
+        "structural": true,
+        "functional": false
+      },
+      "analysis": "Bertoux_2018_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": true,
+        "structural": true,
+        "functional": false
+      },
+      "analysis": "Santamaria-Garcia_2016_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": true,
+        "structural": true,
+        "functional": false
+      },
+      "analysis": "Santamaria-Garcia_2016_2",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": true,
+        "structural": true,
+        "functional": false
+      },
+      "analysis": "Boccardi_2005_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": true,
+        "structural": true,
+        "functional": true
+      },
+      "analysis": "Devencchio_2018_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": true,
+        "structural": false,
+        "functional": true
+      },
+      "analysis": "Jeong _2005a_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": true,
+        "structural": false,
+        "functional": true
+      },
+      "analysis": "Diehl_2004_Laws_2007_Perneczhy _2007_Grimmer_2004_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": true,
+        "structural": false,
+        "functional": true
+      },
+      "analysis": "Peters_2006_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": true,
+        "structural": false,
+        "functional": true
+      },
+      "analysis": "Raczka_2010_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": true,
+        "structural": true,
+        "functional": false
+      },
+      "analysis": "Sheelakumari_2019_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": true,
+        "structural": false,
+        "functional": true
+      },
+      "analysis": "Caminiti_2015_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": true,
+        "structural": false,
+        "functional": true
+      },
+      "analysis": "Verfaillie_2015_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": false,
+        "structural": true,
+        "functional": false
+      },
+      "analysis": "Meyer _2017_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": false,
+        "structural": true,
+        "functional": false
+      },
+      "analysis": "Garci-Cordero_2015_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": false,
+        "structural": false,
+        "functional": true
+      },
+      "analysis": "Kipps_2009_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": true,
+        "structural": true,
+        "functional": true
+      },
+      "analysis": "Morbelli_2016_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    },
+    {
+      "note": {
+        "all": true,
+        "decrease": false,
+        "structural": false,
+        "functional": true
+      },
+      "analysis": "Agustus_2015_1",
+      "annotation": "annotation_dementia_merged_studyset"
+    }
+  ]
+}

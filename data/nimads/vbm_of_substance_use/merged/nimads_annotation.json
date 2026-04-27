@@ -252,6 +252,18 @@
         "alcohol": false,
         "nicotine": false,
         "opioids": false,
+        "stimulants": false,
+        "cannabis": false
+      },
+      "analysis": "20731627_2",
+      "annotation": "annotation_vbm_of_substance_use_merged_studyset"
+    },
+    {
+      "note": {
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
         "stimulants": true,
         "cannabis": false
       },
@@ -778,6 +790,30 @@
       "note": {
         "all_drug_classes": true,
         "alcohol": false,
+        "nicotine": true,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": false
+      },
+      "analysis": "25125263_1",
+      "annotation": "annotation_vbm_of_substance_use_merged_studyset"
+    },
+    {
+      "note": {
+        "all_drug_classes": true,
+        "alcohol": false,
+        "nicotine": false,
+        "opioids": false,
+        "stimulants": false,
+        "cannabis": true
+      },
+      "analysis": "25385625_1",
+      "annotation": "annotation_vbm_of_substance_use_merged_studyset"
+    },
+    {
+      "note": {
+        "all_drug_classes": true,
+        "alcohol": false,
         "nicotine": false,
         "opioids": false,
         "stimulants": false,
@@ -803,7 +839,7 @@
         "all_drug_classes": true,
         "alcohol": true,
         "nicotine": false,
-        "opioids": true,
+        "opioids": false,
         "stimulants": false,
         "cannabis": false
       },
@@ -988,42 +1024,6 @@
         "cannabis": false
       },
       "analysis": "29881337_2",
-      "annotation": "annotation_vbm_of_substance_use_merged_studyset"
-    },
-    {
-      "note": {
-        "all_drug_classes": true,
-        "alcohol": false,
-        "nicotine": true,
-        "opioids": false,
-        "stimulants": false,
-        "cannabis": false
-      },
-      "analysis": "10_Liao_2010_1",
-      "annotation": "annotation_vbm_of_substance_use_merged_studyset"
-    },
-    {
-      "note": {
-        "all_drug_classes": true,
-        "alcohol": false,
-        "nicotine": false,
-        "opioids": false,
-        "stimulants": false,
-        "cannabis": true
-      },
-      "analysis": "2_Fibley_2014_1",
-      "annotation": "annotation_vbm_of_substance_use_merged_studyset"
-    },
-    {
-      "note": {
-        "all_drug_classes": true,
-        "alcohol": false,
-        "nicotine": true,
-        "opioids": false,
-        "stimulants": false,
-        "cannabis": false
-      },
-      "analysis": "7_Hanlon_2014_1",
       "annotation": "annotation_vbm_of_substance_use_merged_studyset"
     },
     {

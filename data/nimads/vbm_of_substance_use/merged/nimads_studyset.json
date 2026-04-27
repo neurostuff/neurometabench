@@ -2029,7 +2029,7 @@
     },
     {
       "id": "20731627",
-      "name": "(19) Liao, 2011",
+      "name": "(10) Liao, 2010",
       "authors": "",
       "publication": "",
       "metadata": {
@@ -2046,6 +2046,63 @@
       "analyses": [
         {
           "id": "20731627_1",
+          "name": "NS > S (all smokers)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -22.58,
+                -34.68,
+                0.35
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -10.04,
+                43.13,
+                -17.65
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -3.21,
+                31.51,
+                6.92
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              44
+            ],
+            "merged_sources": [
+              "vbm_subst"
+            ],
+            "merged_member_count": 1,
+            "merged_member_ids": [
+              "NS > S (all smokers)"
+            ],
+            "merged_member_names": [
+              "NS > S (all smokers)"
+            ],
+            "representative_source": "vbm_subst"
+          },
+          "study_id": "20731627"
+        },
+        {
+          "id": "20731627_2",
           "name": "Ketamine < Controls",
           "conditions": [
             {
@@ -6305,6 +6362,174 @@
       ]
     },
     {
+      "id": "25125263",
+      "name": "(7) Hanlon, 2014",
+      "authors": "",
+      "publication": "",
+      "metadata": {
+        "original_study_ids_by_source": {
+          "vbm_subst": [
+            "25125263"
+          ]
+        },
+        "original_study_ids": [
+          "25125263"
+        ],
+        "study_match_key": "25125263"
+      },
+      "analyses": [
+        {
+          "id": "25125263_1",
+          "name": "NS > S (all smokers)",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -22.0,
+                2.0,
+                -20.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -10.0,
+                56.0,
+                -15.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                51.0,
+                -11.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -7.0,
+                -25.0,
+                1.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                33.0,
+                5.0,
+                -20.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                33.0,
+                -15.0,
+                -5.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              58
+            ],
+            "merged_sources": [
+              "vbm_subst"
+            ],
+            "merged_member_count": 1,
+            "merged_member_ids": [
+              "NS > S (all smokers)"
+            ],
+            "merged_member_names": [
+              "NS > S (all smokers)"
+            ],
+            "representative_source": "vbm_subst"
+          },
+          "study_id": "25125263"
+        }
+      ]
+    },
+    {
+      "id": "25385625",
+      "name": "(2) Fibley, 2014",
+      "authors": "",
+      "publication": "",
+      "metadata": {
+        "original_study_ids_by_source": {
+          "vbm_subst": [
+            "25385625"
+          ]
+        },
+        "original_study_ids": [
+          "25385625"
+        ],
+        "study_match_key": "25385625"
+      },
+      "analyses": [
+        {
+          "id": "25385625_1",
+          "name": "marijuana users < controls",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                26.0,
+                54.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -16.0,
+                58.0,
+                -10.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              75
+            ],
+            "merged_sources": [
+              "vbm_subst"
+            ],
+            "merged_member_count": 1,
+            "merged_member_ids": [
+              "marijuana users < controls"
+            ],
+            "merged_member_names": [
+              "marijuana users < controls"
+            ],
+            "representative_source": "vbm_subst"
+          },
+          "study_id": "25385625"
+        }
+      ]
+    },
+    {
       "id": "25637267",
       "name": "(18) Bouso, 2015",
       "authors": "",
@@ -8170,250 +8395,6 @@
             "representative_source": "vbm_subst"
           },
           "study_id": "29881337"
-        }
-      ]
-    },
-    {
-      "id": "(10) Liao, 2010",
-      "name": "(10) Liao, 2010",
-      "authors": "",
-      "publication": "",
-      "metadata": {
-        "original_study_ids_by_source": {
-          "vbm_subst": [
-            "(10) Liao, 2010"
-          ]
-        },
-        "original_study_ids": [
-          "(10) Liao, 2010"
-        ],
-        "study_match_key": "10 liao 2010"
-      },
-      "analyses": [
-        {
-          "id": "10_Liao_2010_1",
-          "name": "NS > S (all smokers)",
-          "conditions": [
-            {
-              "name": "default",
-              "description": ""
-            }
-          ],
-          "weights": [
-            1.0
-          ],
-          "images": [],
-          "points": [
-            {
-              "space": "MNI",
-              "coordinates": [
-                -22.58,
-                -34.68,
-                0.35
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -10.04,
-                43.13,
-                -17.65
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -3.21,
-                31.51,
-                6.92
-              ]
-            }
-          ],
-          "metadata": {
-            "sample_sizes": [
-              44
-            ],
-            "merged_sources": [
-              "vbm_subst"
-            ],
-            "merged_member_count": 1,
-            "merged_member_ids": [
-              "NS > S (all smokers)"
-            ],
-            "merged_member_names": [
-              "NS > S (all smokers)"
-            ],
-            "representative_source": "vbm_subst"
-          },
-          "study_id": "(10) Liao, 2010"
-        }
-      ]
-    },
-    {
-      "id": "(2) Fibley, 2014",
-      "name": "(2) Fibley, 2014",
-      "authors": "",
-      "publication": "",
-      "metadata": {
-        "original_study_ids_by_source": {
-          "vbm_subst": [
-            "(2) Fibley, 2014"
-          ]
-        },
-        "original_study_ids": [
-          "(2) Fibley, 2014"
-        ],
-        "study_match_key": "2 fibley 2014"
-      },
-      "analyses": [
-        {
-          "id": "2_Fibley_2014_1",
-          "name": "marijuana users < controls",
-          "conditions": [
-            {
-              "name": "default",
-              "description": ""
-            }
-          ],
-          "weights": [
-            1.0
-          ],
-          "images": [],
-          "points": [
-            {
-              "space": "MNI",
-              "coordinates": [
-                26.0,
-                54.0,
-                -8.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -16.0,
-                58.0,
-                -10.0
-              ]
-            }
-          ],
-          "metadata": {
-            "sample_sizes": [
-              75
-            ],
-            "merged_sources": [
-              "vbm_subst"
-            ],
-            "merged_member_count": 1,
-            "merged_member_ids": [
-              "marijuana users < controls"
-            ],
-            "merged_member_names": [
-              "marijuana users < controls"
-            ],
-            "representative_source": "vbm_subst"
-          },
-          "study_id": "(2) Fibley, 2014"
-        }
-      ]
-    },
-    {
-      "id": "(7) Hanlon, 2014",
-      "name": "(7) Hanlon, 2014",
-      "authors": "",
-      "publication": "",
-      "metadata": {
-        "original_study_ids_by_source": {
-          "vbm_subst": [
-            "(7) Hanlon, 2014"
-          ]
-        },
-        "original_study_ids": [
-          "(7) Hanlon, 2014"
-        ],
-        "study_match_key": "7 hanlon 2014"
-      },
-      "analyses": [
-        {
-          "id": "7_Hanlon_2014_1",
-          "name": "NS > S (all smokers)",
-          "conditions": [
-            {
-              "name": "default",
-              "description": ""
-            }
-          ],
-          "weights": [
-            1.0
-          ],
-          "images": [],
-          "points": [
-            {
-              "space": "MNI",
-              "coordinates": [
-                -22.0,
-                2.0,
-                -20.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -10.0,
-                56.0,
-                -15.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                30.0,
-                51.0,
-                -11.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                -7.0,
-                -25.0,
-                1.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                33.0,
-                5.0,
-                -20.0
-              ]
-            },
-            {
-              "space": "MNI",
-              "coordinates": [
-                33.0,
-                -15.0,
-                -5.0
-              ]
-            }
-          ],
-          "metadata": {
-            "sample_sizes": [
-              58
-            ],
-            "merged_sources": [
-              "vbm_subst"
-            ],
-            "merged_member_count": 1,
-            "merged_member_ids": [
-              "NS > S (all smokers)"
-            ],
-            "merged_member_names": [
-              "NS > S (all smokers)"
-            ],
-            "representative_source": "vbm_subst"
-          },
-          "study_id": "(7) Hanlon, 2014"
         }
       ]
     },

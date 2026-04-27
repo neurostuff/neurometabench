@@ -157,6 +157,12 @@ Examples:
         help="Path to text file with PMID/study IDs to include (one per line), applied after annotation slicing.",
     )
 
+    parser.add_argument(
+        "--generate-reports",
+        action="store_true",
+        help="Generate reports for each meta-analysis",
+    )
+
     args = parser.parse_args()
     analysis_dir_explicit = is_argument_explicitly_set(sys.argv[1:], "--analysis-dir")
 
@@ -166,6 +172,7 @@ Examples:
     except json.JSONDecodeError as e:
         print(f"Error parsing JSON arguments: {e}", file=sys.stderr)
         return 1
+    
 
     include_ids: Optional[set[str]] = None
     try:
@@ -254,6 +261,7 @@ Examples:
                 include_ids=include_ids,
                 skip_existing=args.skip_existing,
                 columns=note_keys,
+                generate_reports=args.generate_reports,
             )
             completed += len(results)
             skipped += max(0, len(note_keys) - len(results))

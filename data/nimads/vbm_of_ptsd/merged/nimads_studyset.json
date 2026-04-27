@@ -1,0 +1,2522 @@
+{
+  "id": "vbm_of_ptsd_merged_studyset",
+  "name": "vbm_of_ptsd merged studyset",
+  "description": "Merged from 1 NiMADS source files with coordinate-first fuzzy deduplication.",
+  "studies": [
+    {
+      "id": "12853571",
+      "name": "12853571",
+      "authors": "",
+      "publication": "",
+      "metadata": {
+        "original_study_ids_by_source": {
+          "nonptsdgtptsd_merged": [
+            "12853571"
+          ]
+        },
+        "original_study_ids": [
+          "12853571"
+        ],
+        "study_match_key": "12853571"
+      },
+      "analyses": [
+        {
+          "id": "12853571_1",
+          "name": "TrauE > PTSD",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -8.0,
+                12.0,
+                32.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              9
+            ],
+            "merged_sources": [
+              "nonptsdgtptsd_merged"
+            ],
+            "merged_member_count": 1,
+            "merged_member_ids": [
+              "TrauE > PTSD"
+            ],
+            "merged_member_names": [
+              "TrauE > PTSD"
+            ],
+            "representative_source": "nonptsdgtptsd_merged"
+          },
+          "study_id": "12853571"
+        }
+      ]
+    },
+    {
+      "id": "16038682",
+      "name": "16038682",
+      "authors": "",
+      "publication": "",
+      "metadata": {
+        "original_study_ids_by_source": {
+          "nonptsdgtptsd_merged": [
+            "16038682"
+          ]
+        },
+        "original_study_ids": [
+          "16038682"
+        ],
+        "study_match_key": "16038682"
+      },
+      "analyses": [
+        {
+          "id": "16038682_1",
+          "name": "HCs > PTSD",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                1.0,
+                35.0,
+                1.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                9.0,
+                1.0,
+                34.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -8.0,
+                -36.0,
+                18.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                10.0,
+                -22.0,
+                29.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -33.0,
+                -29.0,
+                3.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              14
+            ],
+            "merged_sources": [
+              "nonptsdgtptsd_merged"
+            ],
+            "merged_member_count": 1,
+            "merged_member_ids": [
+              "HCs > PTSD"
+            ],
+            "merged_member_names": [
+              "HCs > PTSD"
+            ],
+            "representative_source": "nonptsdgtptsd_merged"
+          },
+          "study_id": "16038682"
+        }
+      ]
+    },
+    {
+      "id": "16838824",
+      "name": "16838824",
+      "authors": "",
+      "publication": "",
+      "metadata": {
+        "original_study_ids_by_source": {
+          "nonptsdgtptsd_merged": [
+            "16838824"
+          ]
+        },
+        "original_study_ids": [
+          "16838824"
+        ],
+        "study_match_key": "16838824"
+      },
+      "analyses": [
+        {
+          "id": "16838824_1",
+          "name": "TrauE > PTSD",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -30.0,
+                -15.0,
+                -14.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -2.0,
+                40.0,
+                17.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                6.0,
+                2.0,
+                0.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                34.0,
+                4.0,
+                6.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              12
+            ],
+            "merged_sources": [
+              "nonptsdgtptsd_merged"
+            ],
+            "merged_member_count": 1,
+            "merged_member_ids": [
+              "TrauE > PTSD"
+            ],
+            "merged_member_names": [
+              "TrauE > PTSD"
+            ],
+            "representative_source": "nonptsdgtptsd_merged"
+          },
+          "study_id": "16838824"
+        }
+      ]
+    },
+    {
+      "id": "17825801",
+      "name": "17825801",
+      "authors": "",
+      "publication": "",
+      "metadata": {
+        "original_study_ids_by_source": {
+          "nonptsdgtptsd_merged": [
+            "17825801"
+          ]
+        },
+        "original_study_ids": [
+          "17825801"
+        ],
+        "study_match_key": "17825801"
+      },
+      "analyses": [
+        {
+          "id": "17825801_1",
+          "name": "TrauE > PTSD",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -64.0,
+                -44.0,
+                10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                44.0,
+                -2.0,
+                -14.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -62.0,
+                -56.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                34.0,
+                -28.0,
+                -16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -36.0,
+                10.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                0.0,
+                46.0,
+                10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -46.0,
+                42.0,
+                -14.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              18
+            ],
+            "merged_sources": [
+              "nonptsdgtptsd_merged"
+            ],
+            "merged_member_count": 1,
+            "merged_member_ids": [
+              "TrauE > PTSD"
+            ],
+            "merged_member_names": [
+              "TrauE > PTSD"
+            ],
+            "representative_source": "nonptsdgtptsd_merged"
+          },
+          "study_id": "17825801"
+        }
+      ]
+    },
+    {
+      "id": "17923164",
+      "name": "17923164",
+      "authors": "",
+      "publication": "",
+      "metadata": {
+        "original_study_ids_by_source": {
+          "nonptsdgtptsd_merged": [
+            "17923164"
+          ]
+        },
+        "original_study_ids": [
+          "17923164"
+        ],
+        "study_match_key": "17923164"
+      },
+      "analyses": [
+        {
+          "id": "17923164_1",
+          "name": "HCs > PTSD",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                14.0,
+                51.0,
+                -27.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              14
+            ],
+            "merged_sources": [
+              "nonptsdgtptsd_merged"
+            ],
+            "merged_member_count": 1,
+            "merged_member_ids": [
+              "HCs > PTSD"
+            ],
+            "merged_member_names": [
+              "HCs > PTSD"
+            ],
+            "representative_source": "nonptsdgtptsd_merged"
+          },
+          "study_id": "17923164"
+        },
+        {
+          "id": "17923164_2",
+          "name": "TrauE > PTSD",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                17.0,
+                48.0,
+                -38.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              14
+            ],
+            "merged_sources": [
+              "nonptsdgtptsd_merged"
+            ],
+            "merged_member_count": 1,
+            "merged_member_ids": [
+              "TrauE > PTSD"
+            ],
+            "merged_member_names": [
+              "TrauE > PTSD"
+            ],
+            "representative_source": "nonptsdgtptsd_merged"
+          },
+          "study_id": "17923164"
+        }
+      ]
+    },
+    {
+      "id": "19538748",
+      "name": "19538748",
+      "authors": "",
+      "publication": "",
+      "metadata": {
+        "original_study_ids_by_source": {
+          "nonptsdgtptsd_merged": [
+            "19538748"
+          ]
+        },
+        "original_study_ids": [
+          "19538748"
+        ],
+        "study_match_key": "19538748"
+      },
+      "analyses": [
+        {
+          "id": "19538748_1",
+          "name": "TrauE > PTSD",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "TAL",
+              "coordinates": [
+                -1.0,
+                41.0,
+                21.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                -36.0,
+                2.0,
+                0.0
+              ]
+            },
+            {
+              "space": "TAL",
+              "coordinates": [
+                34.0,
+                4.0,
+                6.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              12
+            ],
+            "merged_sources": [
+              "nonptsdgtptsd_merged"
+            ],
+            "merged_member_count": 1,
+            "merged_member_ids": [
+              "TrauE > PTSD"
+            ],
+            "merged_member_names": [
+              "TrauE > PTSD"
+            ],
+            "representative_source": "nonptsdgtptsd_merged"
+          },
+          "study_id": "19538748"
+        }
+      ]
+    },
+    {
+      "id": "19794316",
+      "name": "19794316",
+      "authors": "",
+      "publication": "",
+      "metadata": {
+        "original_study_ids_by_source": {
+          "nonptsdgtptsd_merged": [
+            "19794316"
+          ]
+        },
+        "original_study_ids": [
+          "19794316"
+        ],
+        "study_match_key": "19794316"
+      },
+      "analyses": [
+        {
+          "id": "19794316_1",
+          "name": "TrauE > PTSD",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -2.0,
+                50.0,
+                8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                0.0,
+                46.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -34.0,
+                -14.0,
+                -12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                34.0,
+                -14.0,
+                -12.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              17
+            ],
+            "merged_sources": [
+              "nonptsdgtptsd_merged"
+            ],
+            "merged_member_count": 1,
+            "merged_member_ids": [
+              "TrauE > PTSD"
+            ],
+            "merged_member_names": [
+              "TrauE > PTSD"
+            ],
+            "representative_source": "nonptsdgtptsd_merged"
+          },
+          "study_id": "19794316"
+        }
+      ]
+    },
+    {
+      "id": "19942229",
+      "name": "19942229",
+      "authors": "",
+      "publication": "",
+      "metadata": {
+        "original_study_ids_by_source": {
+          "nonptsdgtptsd_merged": [
+            "19942229"
+          ]
+        },
+        "original_study_ids": [
+          "19942229"
+        ],
+        "study_match_key": "19942229"
+      },
+      "analyses": [
+        {
+          "id": "19942229_1",
+          "name": "TrauE > PTSD",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -10.0,
+                -60.0,
+                3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -23.0,
+                -57.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -17.0,
+                -55.0,
+                32.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -3.0,
+                -61.0,
+                33.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                7.0,
+                -50.0,
+                2.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              21
+            ],
+            "merged_sources": [
+              "nonptsdgtptsd_merged"
+            ],
+            "merged_member_count": 1,
+            "merged_member_ids": [
+              "TrauE > PTSD"
+            ],
+            "merged_member_names": [
+              "TrauE > PTSD"
+            ],
+            "representative_source": "nonptsdgtptsd_merged"
+          },
+          "study_id": "19942229"
+        }
+      ]
+    },
+    {
+      "id": "21118656",
+      "name": "21118656",
+      "authors": "",
+      "publication": "",
+      "metadata": {
+        "original_study_ids_by_source": {
+          "nonptsdgtptsd_merged": [
+            "21118656"
+          ]
+        },
+        "original_study_ids": [
+          "21118656"
+        ],
+        "study_match_key": "21118656"
+      },
+      "analyses": [
+        {
+          "id": "21118656_1",
+          "name": "HCs > PTSD",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                16.0,
+                40.0,
+                16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -10.0,
+                -48.0,
+                28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                30.0,
+                -80.0,
+                32.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                34.0,
+                -80.0,
+                20.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -14.0,
+                44.0,
+                14.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              13
+            ],
+            "merged_sources": [
+              "nonptsdgtptsd_merged"
+            ],
+            "merged_member_count": 1,
+            "merged_member_ids": [
+              "HCs > PTSD"
+            ],
+            "merged_member_names": [
+              "HCs > PTSD"
+            ],
+            "representative_source": "nonptsdgtptsd_merged"
+          },
+          "study_id": "21118656"
+        }
+      ]
+    },
+    {
+      "id": "21418787",
+      "name": "21418787",
+      "authors": "",
+      "publication": "",
+      "metadata": {
+        "original_study_ids_by_source": {
+          "nonptsdgtptsd_merged": [
+            "21418787"
+          ]
+        },
+        "original_study_ids": [
+          "21418787"
+        ],
+        "study_match_key": "21418787"
+      },
+      "analyses": [
+        {
+          "id": "21418787_1",
+          "name": "TrauE > PTSD",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.0,
+                46.0,
+                7.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -66.0,
+                -3.0,
+                -6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                45.0,
+                -38.0,
+                32.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -35.0,
+                24.0,
+                -26.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -19.0,
+                -21.0,
+                63.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -21.0,
+                -70.0,
+                50.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                50.0,
+                -32.0,
+                58.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                -7.0,
+                77.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                2.0,
+                -7.0,
+                41.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                3.0,
+                54.0,
+                30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                34.0,
+                25.0,
+                52.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                55.0,
+                -55.0,
+                37.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              24
+            ],
+            "merged_sources": [
+              "nonptsdgtptsd_merged"
+            ],
+            "merged_member_count": 1,
+            "merged_member_ids": [
+              "TrauE > PTSD"
+            ],
+            "merged_member_names": [
+              "TrauE > PTSD"
+            ],
+            "representative_source": "nonptsdgtptsd_merged"
+          },
+          "study_id": "21418787"
+        }
+      ]
+    },
+    {
+      "id": "21498053",
+      "name": "21498053",
+      "authors": "",
+      "publication": "",
+      "metadata": {
+        "original_study_ids_by_source": {
+          "nonptsdgtptsd_merged": [
+            "21498053"
+          ]
+        },
+        "original_study_ids": [
+          "21498053"
+        ],
+        "study_match_key": "21498053"
+      },
+      "analyses": [
+        {
+          "id": "21498053_1",
+          "name": "TrauE > PTSD",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -12.0,
+                -67.0,
+                17.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                5.0,
+                -81.0,
+                15.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -17.0,
+                -9.0,
+                -26.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              10
+            ],
+            "merged_sources": [
+              "nonptsdgtptsd_merged"
+            ],
+            "merged_member_count": 1,
+            "merged_member_ids": [
+              "TrauE > PTSD"
+            ],
+            "merged_member_names": [
+              "TrauE > PTSD"
+            ],
+            "representative_source": "nonptsdgtptsd_merged"
+          },
+          "study_id": "21498053"
+        }
+      ]
+    },
+    {
+      "id": "21710131",
+      "name": "21710131",
+      "authors": "",
+      "publication": "",
+      "metadata": {
+        "original_study_ids_by_source": {
+          "nonptsdgtptsd_merged": [
+            "21710131"
+          ]
+        },
+        "original_study_ids": [
+          "21710131"
+        ],
+        "study_match_key": "21710131"
+      },
+      "analyses": [
+        {
+          "id": "21710131_1",
+          "name": "HCs > PTSD",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                18.57,
+                -92.38,
+                -4.96
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                38.91,
+                -56.86,
+                -17.29
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -32.07,
+                -58.09,
+                -14.22
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                1.57,
+                -82.69,
+                8.57
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -2.0,
+                -84.0,
+                8.95
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -3.87,
+                52.25,
+                31.53
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                14.28,
+                -54.83,
+                6.88
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -12.46,
+                -56.51,
+                6.56
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -51.06,
+                -6.51,
+                40.61
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -11.03,
+                -49.19,
+                2.7
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                14.71,
+                -47.38,
+                2.74
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -19.16,
+                54.88,
+                21.64
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.98,
+                29.5,
+                19.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -4.05,
+                47.48,
+                28.52
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                49.65,
+                -57.88,
+                -19.42
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                7.05,
+                -73.84,
+                7.42
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -39.31,
+                -82.2,
+                -16.05
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -53.02,
+                -14.79,
+                40.35
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                43.67,
+                -75.51,
+                -12.75
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -10.53,
+                -65.65,
+                -4.75
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                10.97,
+                -62.72,
+                -1.83
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.48,
+                23.45,
+                35.33
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -26.16,
+                -77.03,
+                -14.81
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                33.74,
+                -72.01,
+                -14.16
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -15.42,
+                -95.25,
+                -9.08
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.38,
+                -75.69,
+                6.67
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              25
+            ],
+            "merged_sources": [
+              "nonptsdgtptsd_merged"
+            ],
+            "merged_member_count": 1,
+            "merged_member_ids": [
+              "HCs > PTSD"
+            ],
+            "merged_member_names": [
+              "HCs > PTSD"
+            ],
+            "representative_source": "nonptsdgtptsd_merged"
+          },
+          "study_id": "21710131"
+        }
+      ]
+    },
+    {
+      "id": "22453299",
+      "name": "22453299",
+      "authors": "",
+      "publication": "",
+      "metadata": {
+        "original_study_ids_by_source": {
+          "nonptsdgtptsd_merged": [
+            "22453299"
+          ]
+        },
+        "original_study_ids": [
+          "22453299"
+        ],
+        "study_match_key": "22453299"
+      },
+      "analyses": [
+        {
+          "id": "22453299_1",
+          "name": "TrauE > PTSD",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                50.0,
+                -46.0,
+                28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -17.0,
+                -78.0,
+                19.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -36.0,
+                8.0,
+                31.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              20
+            ],
+            "merged_sources": [
+              "nonptsdgtptsd_merged"
+            ],
+            "merged_member_count": 1,
+            "merged_member_ids": [
+              "TrauE > PTSD"
+            ],
+            "merged_member_names": [
+              "TrauE > PTSD"
+            ],
+            "representative_source": "nonptsdgtptsd_merged"
+          },
+          "study_id": "22453299"
+        }
+      ]
+    },
+    {
+      "id": "22952599",
+      "name": "22952599",
+      "authors": "",
+      "publication": "",
+      "metadata": {
+        "original_study_ids_by_source": {
+          "nonptsdgtptsd_merged": [
+            "22952599"
+          ]
+        },
+        "original_study_ids": [
+          "22952599"
+        ],
+        "study_match_key": "22952599"
+      },
+      "analyses": [
+        {
+          "id": "22952599_1",
+          "name": "TrauE > PTSD",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                31.0,
+                -76.0,
+                47.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                53.0,
+                -25.0,
+                -3.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                53.0,
+                -1.0,
+                35.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -12.0,
+                54.0,
+                10.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              16
+            ],
+            "merged_sources": [
+              "nonptsdgtptsd_merged"
+            ],
+            "merged_member_count": 1,
+            "merged_member_ids": [
+              "TrauE > PTSD"
+            ],
+            "merged_member_names": [
+              "TrauE > PTSD"
+            ],
+            "representative_source": "nonptsdgtptsd_merged"
+          },
+          "study_id": "22952599"
+        }
+      ]
+    },
+    {
+      "id": "23021615",
+      "name": "23021615",
+      "authors": "",
+      "publication": "",
+      "metadata": {
+        "original_study_ids_by_source": {
+          "nonptsdgtptsd_merged": [
+            "23021615"
+          ]
+        },
+        "original_study_ids": [
+          "23021615"
+        ],
+        "study_match_key": "23021615"
+      },
+      "analyses": [
+        {
+          "id": "23021615_1",
+          "name": "TrauE > PTSD",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                10.0,
+                8.0,
+                -14.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -32.0,
+                -12.0,
+                18.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                38.0,
+                42.0,
+                14.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -64.0,
+                -26.0,
+                -10.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              13
+            ],
+            "merged_sources": [
+              "nonptsdgtptsd_merged"
+            ],
+            "merged_member_count": 1,
+            "merged_member_ids": [
+              "TrauE > PTSD"
+            ],
+            "merged_member_names": [
+              "TrauE > PTSD"
+            ],
+            "representative_source": "nonptsdgtptsd_merged"
+          },
+          "study_id": "23021615"
+        }
+      ]
+    },
+    {
+      "id": "23155380",
+      "name": "23155380",
+      "authors": "",
+      "publication": "",
+      "metadata": {
+        "original_study_ids_by_source": {
+          "nonptsdgtptsd_merged": [
+            "23155380"
+          ]
+        },
+        "original_study_ids": [
+          "23155380"
+        ],
+        "study_match_key": "23155380"
+      },
+      "analyses": [
+        {
+          "id": "23155380_1",
+          "name": "HCs > PTSD",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.0,
+                26.0,
+                20.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              10
+            ],
+            "merged_sources": [
+              "nonptsdgtptsd_merged"
+            ],
+            "merged_member_count": 1,
+            "merged_member_ids": [
+              "HCs > PTSD"
+            ],
+            "merged_member_names": [
+              "HCs > PTSD"
+            ],
+            "representative_source": "nonptsdgtptsd_merged"
+          },
+          "study_id": "23155380"
+        }
+      ]
+    },
+    {
+      "id": "26347628",
+      "name": "26347628",
+      "authors": "",
+      "publication": "",
+      "metadata": {
+        "original_study_ids_by_source": {
+          "nonptsdgtptsd_merged": [
+            "26347628"
+          ]
+        },
+        "original_study_ids": [
+          "26347628"
+        ],
+        "study_match_key": "26347628"
+      },
+      "analyses": [
+        {
+          "id": "26347628_1",
+          "name": "HCs > PTSD",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                53.0,
+                -25.0,
+                -23.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -54.0,
+                -45.0,
+                40.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -5.0,
+                -4.0,
+                -9.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              30
+            ],
+            "merged_sources": [
+              "nonptsdgtptsd_merged"
+            ],
+            "merged_member_count": 1,
+            "merged_member_ids": [
+              "HCs > PTSD"
+            ],
+            "merged_member_names": [
+              "HCs > PTSD"
+            ],
+            "representative_source": "nonptsdgtptsd_merged"
+          },
+          "study_id": "26347628"
+        }
+      ]
+    },
+    {
+      "id": "26952803",
+      "name": "26952803",
+      "authors": "",
+      "publication": "",
+      "metadata": {
+        "original_study_ids_by_source": {
+          "nonptsdgtptsd_merged": [
+            "26952803"
+          ]
+        },
+        "original_study_ids": [
+          "26952803"
+        ],
+        "study_match_key": "26952803"
+      },
+      "analyses": [
+        {
+          "id": "26952803_1",
+          "name": "HCs > PTSD",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -9.0,
+                68.0,
+                11.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                4.0,
+                64.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -31.0,
+                54.0,
+                2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -51.0,
+                7.0,
+                -26.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -31.0,
+                -82.0,
+                -18.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              11
+            ],
+            "merged_sources": [
+              "nonptsdgtptsd_merged"
+            ],
+            "merged_member_count": 1,
+            "merged_member_ids": [
+              "HCs > PTSD"
+            ],
+            "merged_member_names": [
+              "HCs > PTSD"
+            ],
+            "representative_source": "nonptsdgtptsd_merged"
+          },
+          "study_id": "26952803"
+        },
+        {
+          "id": "26952803_2",
+          "name": "TrauE > PTSD",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -55.0,
+                -1.0,
+                -26.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -54.0,
+                -1.0,
+                -27.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                27.0,
+                -10.0,
+                -35.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              8
+            ],
+            "merged_sources": [
+              "nonptsdgtptsd_merged"
+            ],
+            "merged_member_count": 1,
+            "merged_member_ids": [
+              "TrauE > PTSD"
+            ],
+            "merged_member_names": [
+              "TrauE > PTSD"
+            ],
+            "representative_source": "nonptsdgtptsd_merged"
+          },
+          "study_id": "26952803"
+        }
+      ]
+    },
+    {
+      "id": "28287194",
+      "name": "28287194",
+      "authors": "",
+      "publication": "",
+      "metadata": {
+        "original_study_ids_by_source": {
+          "nonptsdgtptsd_merged": [
+            "28287194"
+          ]
+        },
+        "original_study_ids": [
+          "28287194"
+        ],
+        "study_match_key": "28287194"
+      },
+      "analyses": [
+        {
+          "id": "28287194_1",
+          "name": "HCs > PTSD",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -17.0,
+                -22.0,
+                -20.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                2.0,
+                23.0,
+                55.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                18.0,
+                24.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -21.0,
+                -57.0,
+                -11.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -12.0,
+                26.0,
+                55.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              19
+            ],
+            "merged_sources": [
+              "nonptsdgtptsd_merged"
+            ],
+            "merged_member_count": 1,
+            "merged_member_ids": [
+              "HCs > PTSD"
+            ],
+            "merged_member_names": [
+              "HCs > PTSD"
+            ],
+            "representative_source": "nonptsdgtptsd_merged"
+          },
+          "study_id": "28287194"
+        }
+      ]
+    },
+    {
+      "id": "28549317",
+      "name": "28549317",
+      "authors": "",
+      "publication": "",
+      "metadata": {
+        "original_study_ids_by_source": {
+          "nonptsdgtptsd_merged": [
+            "28549317"
+          ]
+        },
+        "original_study_ids": [
+          "28549317"
+        ],
+        "study_match_key": "28549317"
+      },
+      "analyses": [
+        {
+          "id": "28549317_1",
+          "name": "HCs > PTSD",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -2.0,
+                -4.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -2.0,
+                58.0,
+                4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                36.0,
+                28.0,
+                -22.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -36.0,
+                28.0,
+                -22.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.0,
+                44.0,
+                -22.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                2.0,
+                32.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -4.0,
+                -26.0,
+                38.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                16.0,
+                70.0,
+                2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                0.0,
+                34.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                28.0,
+                -2.0,
+                -28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                2.0,
+                -28.0,
+                40.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -22.0,
+                -8.0,
+                -28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.0,
+                6.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -40.0,
+                -4.0,
+                0.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                38.0,
+                -6.0,
+                -6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                48.0,
+                30.0,
+                22.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                0.0,
+                34.0,
+                -12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                2.0,
+                48.0,
+                6.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.0,
+                -76.0,
+                30.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.0,
+                -72.0,
+                34.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -16.0,
+                6.0,
+                -12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                20.0,
+                8.0,
+                -12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -4.0,
+                56.0,
+                22.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                4.0,
+                54.0,
+                24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                28.0,
+                -10.0,
+                -28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -22.0,
+                -2.0,
+                -28.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              25
+            ],
+            "merged_sources": [
+              "nonptsdgtptsd_merged"
+            ],
+            "merged_member_count": 1,
+            "merged_member_ids": [
+              "HCs > PTSD"
+            ],
+            "merged_member_names": [
+              "HCs > PTSD"
+            ],
+            "representative_source": "nonptsdgtptsd_merged"
+          },
+          "study_id": "28549317"
+        },
+        {
+          "id": "28549317_2",
+          "name": "TrauE > PTSD",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                -16.0,
+                6.0,
+                -12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                4.0,
+                54.0,
+                38.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -18.0,
+                -2.0,
+                -24.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                26.0,
+                -2.0,
+                -28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -4.0,
+                34.0,
+                2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -4.0,
+                -48.0,
+                18.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                -50.0,
+                12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                48.0,
+                -26.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -44.0,
+                26.0,
+                -16.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                46.0,
+                22.0,
+                -8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -2.0,
+                60.0,
+                -20.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                8.0,
+                56.0,
+                -26.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -24.0,
+                -12.0,
+                -28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                28.0,
+                -10.0,
+                -28.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -42.0,
+                14.0,
+                -10.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                38.0,
+                -4.0,
+                -2.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -44.0,
+                6.0,
+                52.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                36.0,
+                0.0,
+                56.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                6.0,
+                10.0,
+                48.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                0.0,
+                -76.0,
+                32.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                4.0,
+                -56.0,
+                8.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                16.0,
+                8.0,
+                -12.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -4.0,
+                48.0,
+                42.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                18.0,
+                -30.0,
+                -4.0
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -4.0,
+                56.0,
+                6.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              25
+            ],
+            "merged_sources": [
+              "nonptsdgtptsd_merged"
+            ],
+            "merged_member_count": 1,
+            "merged_member_ids": [
+              "TrauE > PTSD"
+            ],
+            "merged_member_names": [
+              "TrauE > PTSD"
+            ],
+            "representative_source": "nonptsdgtptsd_merged"
+          },
+          "study_id": "28549317"
+        }
+      ]
+    },
+    {
+      "id": "29740753",
+      "name": "29740753",
+      "authors": "",
+      "publication": "",
+      "metadata": {
+        "original_study_ids_by_source": {
+          "nonptsdgtptsd_merged": [
+            "29740753"
+          ]
+        },
+        "original_study_ids": [
+          "29740753"
+        ],
+        "study_match_key": "29740753"
+      },
+      "analyses": [
+        {
+          "id": "29740753_1",
+          "name": "TrauE > PTSD",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                48.0,
+                24.0,
+                -29.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              35
+            ],
+            "merged_sources": [
+              "nonptsdgtptsd_merged"
+            ],
+            "merged_member_count": 1,
+            "merged_member_ids": [
+              "TrauE > PTSD"
+            ],
+            "merged_member_names": [
+              "TrauE > PTSD"
+            ],
+            "representative_source": "nonptsdgtptsd_merged"
+          },
+          "study_id": "29740753"
+        }
+      ]
+    },
+    {
+      "id": "32490056",
+      "name": "32490056",
+      "authors": "",
+      "publication": "",
+      "metadata": {
+        "original_study_ids_by_source": {
+          "nonptsdgtptsd_merged": [
+            "32490056"
+          ]
+        },
+        "original_study_ids": [
+          "32490056"
+        ],
+        "study_match_key": "32490056"
+      },
+      "analyses": [
+        {
+          "id": "32490056_1",
+          "name": "TrauE > PTSD",
+          "conditions": [
+            {
+              "name": "default",
+              "description": ""
+            }
+          ],
+          "weights": [
+            1.0
+          ],
+          "images": [],
+          "points": [
+            {
+              "space": "MNI",
+              "coordinates": [
+                33.0,
+                49.5,
+                19.5
+              ]
+            },
+            {
+              "space": "MNI",
+              "coordinates": [
+                -6.0,
+                52.5,
+                0.0
+              ]
+            }
+          ],
+          "metadata": {
+            "sample_sizes": [
+              57
+            ],
+            "merged_sources": [
+              "nonptsdgtptsd_merged"
+            ],
+            "merged_member_count": 1,
+            "merged_member_ids": [
+              "TrauE > PTSD"
+            ],
+            "merged_member_names": [
+              "TrauE > PTSD"
+            ],
+            "representative_source": "nonptsdgtptsd_merged"
+          },
+          "study_id": "32490056"
+        }
+      ]
+    }
+  ]
+}
